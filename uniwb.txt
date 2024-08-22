@@ -4,14 +4,8 @@
 
 凤凰资讯,http://udnhls.skilldns.com:80/fhzx-cn.m3u8
 
-凤凰中文,http://146.56.153.245:20121/bysid/258
-凤凰资讯,http://146.56.153.245:20121/bysid/257
-
 凤凰中文,http://tv.sd.cn/sichuan?id=239.93.0.162:2192$stv
 凤凰资讯,http://tv.sd.cn/sichuan?id=239.93.1.4:2191$stv
-
-凤凰中文,http://wouu.net:9977/rtp/239.93.0.162:2192?Cf=cfss.cc
-凤凰资讯,http://wouu.net:9977/rtp/239.93.0.118:2191?Cf=cfss.cc
 凤凰中文,http://wg.lloydind.cn:9999/udp/233.50.200.42:5140
 凤凰中文,http://wg.lloydind.cn:9999/udp/233.50.200.191:5140
 凤凰资讯,http://wg.lloydind.cn:9999/udp/233.50.200.192:5140
@@ -33,6 +27,12 @@
 
 凤凰资讯,http://nas.jumping.wang:5555/rtp/239.93.0.118:2191$nas
 凤凰中文,http://nas.jumping.wang:5555/rtp/239.93.0.162:2192$nas
+
+凤凰中文,http://wouu.net:9977/rtp/239.93.0.162:2192?Cf=cfss.cc
+凤凰资讯,http://wouu.net:9977/rtp/239.93.0.118:2191?Cf=cfss.cc
+
+凤凰中文,http://146.56.153.245:20121/bysid/258
+凤凰资讯,http://146.56.153.245:20121/bysid/257
 
 凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8$南腾讯
 凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8$南腾讯
@@ -128,6 +128,8 @@ CCTV+1,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist
 CCTV+2,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 
 体育频道,#genre#
+
+CCTV5,https://qsxw.gov.cn/rtmp_export/video33.m3u8$qsxw
 CCTV5,http://111.225.49.176:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,http://222.134.245.16:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,http://113.218.189.23:8081/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -160,6 +162,10 @@ CCTV16,http://202.100.46.58:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&a
 CCTV16,http://123.189.36.7:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV16,http://123.189.36.86:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV16,http://gmxw.7766.org:808/hls/169/index.m3u8
+
+CCTV5,https://live.goodiptv.club/api/cqyx.php?id=cctv5HD$liv
+CCTV5+,https://live.goodiptv.club/api/cqyx.php?id=cctv5SportHD$liv
+CCTV16,https://live.goodiptv.club/api/cqyx.php?id=cctv16HD$liv
 
 广东体育,http://125.93.74.27:9002/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 
@@ -2612,6 +2618,8 @@ CEC-4,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 山东教育,http://111.225.113.186:808/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 
 中国交通,http://111.225.113.186:808/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authi
+
+中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 
 省市地方,#genre#
 
