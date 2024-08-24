@@ -2,8 +2,8 @@
 
 港澳U062,#genre#
 
-凤凰中文,http://171.212.170.32:8088/udp/239.93.1.9:2192
 凤凰中文,https://test.zapi.us.kg/?id=phtv-cn
+凤凰中文,http://171.212.170.32:8088/udp/239.93.1.9:2192凤凰中文,http://23.26.147.19:1258/proxy/Smartv.php?id=phoenixtv_hd$洛杉矶
 凤凰中文,http://119.129.172.208:8081/hls/19/index.m3u8
 凤凰中文,http://171.212.170.32:8088/udp/239.93.0.162:2192
 凤凰中文,http://118.112.148.228:4022/udp/239.93.1.9:2192
@@ -91,6 +91,9 @@ RTHK33,https://epg.pw/stream/00ea10452b568a8e587ebece8311785afe7f33c41437de0a688
 RTHK34,https://epg.pw/stream/16e85bed392dd123c9d057343c09e2310c6975d4866da8c92f7b0127fa865523.m3u8
 RTHK35,https://epg.pw/stream/cabd18457f278cda40ac160bccabf77a6b0ad341e50a00bd62620d78819dd220.m3u8
 
+RTHK32,http://23.26.147.19:1258/proxy/Smartv.php?id=rhk32_twn$洛杉矶
+RTHK31,http://23.26.147.19:1258/proxy/Smartv.php?id=rhk31_twn$洛杉矶
+
 澳亚卫视,http://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 澳亚卫视,https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8
@@ -174,6 +177,13 @@ CCTV16,https://live.goodiptv.club/api/cqyx.php?id=cctv16HD$liv
 纬来体育,rtmp://220.130.201.73/sat/tv721
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
+
+纬来体育,http://23.26.147.19:1258/proxy/Smartv.php?id=videolandsport$洛杉矶
+博斯运动II,http://23.26.147.19:1258/proxy/Smartv.php?id=bosisport2_twn$洛杉矶
+博斯高球II,http://23.26.147.19:1258/proxy/Smartv.php?id=bosigolf2_twn$洛杉矶
+博斯网球,http://23.26.147.19:1258/proxy/Smartv.php?id=bositennis_twn$洛杉矶
+纬来体育,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8585/.m3u8$tian 
+博斯运动1,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8587/.m3u8$tian
 
 ELEVEN1,http://60.248.77.83/sat/tv731.flv
 ELEVEN2,http://60.248.77.83/sat/tv741.flv
@@ -358,6 +368,96 @@ JJ斗地主冠军赛,http://43.138.170.29:35455/douyu/488743
 凤凰资讯,http://php.jdshipin.com:8880/jydx.php?id=36
 
 凤凰资讯,http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8
+凤凰中文,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8577/.m3u8$tian
+凤凰资讯,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8576/.m3u8$tian
+
+寰宇新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8547/.m3u8$tian
+东森新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8540/.m3u8$tian
+
+中天新闻,http://23.26.147.19:1258/proxy/Smartv.php?id=ctinews$洛杉矶
+中天新闻,http://211.72.65.236:8541/.m3u8
+東森新闻,http://23.26.147.19:1258/proxy/Smartv.php?id=ettvnews$洛杉矶
+TVBSHD,http://23.26.147.19:1258/proxy/Smartv.php?id=tvbs$洛杉矶
+年代新闻,http://23.26.147.19:1258/proxy/Smartv.php?id=niandainews_twn$洛杉矶
+TVBS新闻,http://23.26.147.19:1258/proxy/Smartv.php?id=tvbs_n$洛杉矶
+寰宇新闻,http://23.26.147.19:1258/proxy/Smartv.php?id=huanyuxinwen_twn$洛杉矶
+非凡新闻,http://23.26.147.19:1258/proxy/Smartv.php?id=feifannews_twn$洛杉矶
+民视新闻,http://23.26.147.19:1258/proxy/Smartv.php?id=ftvnew_taiwan$洛杉矶
+台视新闻,http://23.26.147.19:1258/proxy/Smartv.php?id=ttvnews_twn$洛杉矶
+东森超视,http://23.26.147.19:1258/proxy/Smartv.php?id=ettvsuper$洛杉矶
+
+三立新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8$tian 
+壹新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8539/.m3u8$tian
+中天新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8541/.m3u8$tian
+年代新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8529/.m3u8$tian 
+镜新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8578/.m3u8$tian 
+TVBS新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8574/.m3u8$tian
+壹新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8548/.m3u8$tian
+TVBSHD,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8575/.m3u8$tian
+
+东森财经,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8546/.m3u8$tian
+东森YOYO,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8515/.m3u8$tian 
+
+东森超视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8525/.m3u8$tian
+
+中天综合,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8526/.m3u8$tian
+MOMO综合台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8553/.m3u8$tian 
+纬来综合,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8518/.m3u8$tian
+海峡卫视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8570/.m3u8$tian
+卫视中文,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8523/.m3u8$tian
+韩国娱乐,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8542/.m3u8$tian
+三立台湾,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8521/.m3u8$tian
+东森戏剧,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8530/.m3u8$tian
+三立都会,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8522/.m3u8$tian
+纬来日本,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8537/.m3u8$tian
+TCL,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8511/.m3u8$tian
+TVBS欢乐,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8532/.m3u8$tian
+东森综合,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8524/.m3u8$tian
+纬来戏剧,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8533/.m3u8$tian
+非凡商业,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8545/.m3u8$tian
+八大戏剧,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8531/.m3u8$tian
+八大综合,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8520/.m3u8$tian
+八大第一,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8519/.m3u8$tian
+亚洲旅游,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8513/.m3u8$tian
+人间卫视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8506/.m3u8$tian
+中天娱乐,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8527/.m3u8$tian
+TRACESport,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8509/.m3u8$tian
+龙华卡通,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8517/.m3u8$tian
+龙华偶像,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8536/.m3u8$tian
+龙华日韩,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8535/.m3u8$tian
+龙华戏剧,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8534/.m3u8$tian
+纬来育乐,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8584/.m3u8$tian
+东方37台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8528/.m3u8$tian
+GOODTV好消息,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8508/.m3u8$tian
+STARWORD,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8561/.m3u8$tian
+CINEMAX,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8559/.m3u8$tian
+中视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8502/.m3u8$tian
+华视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8503/.m3u8$tian
+民视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8504/.m3u8$tian
+YAIWAN,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8538/.m3u8$tian
+公视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8505/.m3u8$tian
+大爱,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8507/.m3u8$tian 
+AXN,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8582/.m3u
+
+民视HD,http://23.26.147.19:1258/proxy/Smartv.php?id=ftvhd_taiwan$洛杉矶
+公视HD,http://23.26.147.19:1258/proxy/Smartv.php?id=ctv_taiwan$洛杉矶
+民视第一台,http://23.26.147.19:1258/proxy/Smartv.php?id=lunghuajingdian_twn$洛杉矶
+三立台湾,http://23.26.147.19:1258/proxy/Smartv.php?id=sanlitaiwan$洛杉矶
+中天综合,http://23.26.147.19:1258/proxy/Smartv.php?id=ctizhonghe$洛杉矶
+东森综合,http://23.26.147.19:1258/proxy/Smartv.php?id=ettvzhonghe$洛杉矶
+三立综合,http://23.26.147.19:1258/proxy/Smartv.php?id=sanlizhonghe$洛杉矶
+靖天国际,http://23.26.147.19:1258/proxy/Smartv.php?id=jingtianintl_twn$洛杉矶
+八大综合,http://23.26.147.19:1258/proxy/Smartv.php?id=badazhonghe$洛杉矶
+ELTA综合,http://23.26.147.19:1258/proxy/Smartv.php?id=eltazonghe$洛杉矶
+华艺moc,http://23.26.147.19:1258/proxy/Smartv.php?id=weishichinese_twn$洛杉矶
+TVN,http://23.26.147.19:1258/proxy/Smartv.php?id=TVN$洛杉矶
+WWE,http://23.26.147.19:1258/proxy/Smartv.php?id=Wwe$洛杉矶
+ELTA影剧,http://23.26.147.19:1258/proxy/Smartv.php?id=eltadrama_twn$洛杉矶
+EYE戏剧,http://23.26.147.19:1258/proxy/Smartv.php?id=eyetvxiju_twn$洛杉矶
+三立戏剧,http://23.26.147.19:1258/proxy/Smartv.php?id=sanlixiju_twn$洛杉矶
+八大戏剧,http://23.26.147.19:1258/proxy/Smartv.php?id=badadrama$洛杉矶
+東森戏剧,http://23.26.147.19:1258/proxy/Smartv.php?id=ettvdrama$洛杉矶
+TVB星河,http://23.26.147.19:1258/proxy/Smartv.php?id=Xinhe$洛杉矶
 
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 
@@ -419,11 +519,15 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8$61
 探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8$61
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8$61
 八大综合,http://61.221.215.25:8800/hls/56/index.m3u8$61
-动物星球,http://61.221.215.25:8800/hls/57/index.m3u8$61
 八大戏剧台HD,http://61.221.215.25:8800/hls/39/index.m3u8$61
 八大綜合台HD,http://61.221.215.25:8800/hls/56/index.m3u8$61
 八大第1台HD,http://61.221.215.25:8800/hls/55/index.m3u8$61
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8$61
+
+八大第一,http://23.26.147.19:1258/proxy/Smartv.php?id=badafirst$洛杉矶
+TVBS欢乐,http://23.26.147.19:1258/proxy/Smartv.php?id=tvbshuanle_twn$洛杉矶
+纬来日本,http://23.26.147.19:1258/proxy/Smartv.php?id=videolandjapan$洛杉矶
+大爱,http://23.26.147.19:1258/proxy/Smartv.php?id=daai_twn$洛杉矶
 
 大爱1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
@@ -625,7 +729,7 @@ ImpactWrestling,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 都市剧场,http://61.138.54.155:2233/hls/69/index.m3u8$绥化联
 
 時尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
-
+时尚台FTV,http://23.26.147.19:1258/proxy/Smartv.php?id=fashiontv_twn$洛杉矶
 苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8$4k
 
 央视音乐,#genre#
@@ -1200,6 +1304,27 @@ CHC动作电影,http://dms.yryyj.site:8188/udp/239.76.245.243:1234
 CHC影迷电影,http://fxgm.fxjf.work:19901/tsfile/live/1016_1.m3u8
 CHC动作电影,http://fxgm.fxjf.work:19901/tsfile/live/1015_1.m3u8
 CHC家庭影院,http://fxgm.fxjf.work:19901/tsfile/live/1014_1.m3u8
+爱奇艺,http://23.26.147.19:1258/proxy/Smartv.php?id=Qiyi$洛杉矶
+华纳TV,http://23.26.147.19:1258/proxy/Smartv.php?id=WarnerTV$洛杉矶
+好莱坞电影,http://23.26.147.19:1258/proxy/Smartv.php?id=hollywoodmovies_twn$洛杉矶
+東森电影,http://23.26.147.19:1258/proxy/Smartv.php?id=ettvmovie$洛杉矶
+东森洋片,http://23.26.147.19:1258/proxy/Smartv.php?id=ettvwestern$洛杉矶
+龙华洋片,http://23.26.147.19:1258/proxy/Smartv.php?id=lunghuawestern_twn$洛杉矶
+美亚电影,http://23.26.147.19:1258/proxy/Smartv.php?id=meiyamovie_twn$洛杉矶
+龙祥时代,http://23.26.147.19:1258/proxy/Smartv.php?id=lungxiangtime_twn$洛杉矶
+天映频道,http://23.26.147.19:1258/proxy/Smartv.php?id=Celestial$洛杉矶
+纬来电影,http://23.26.147.19:1258/proxy/Smartv.php?id=videolandmovie$洛杉矶
+龙祥时代,http://23.26.147.19:1258/proxy/Smartv.php?id=cb7a1fec69$洛杉矶
+
+好莱坞电影,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8554/.m3u8$tian 
+龙华电影,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8581/.m3u8$tian
+
+HBO,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8580/.m3u8$tian
+
+
+纬来电影,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8579/.m3u8$tian
+
+卫视西片,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8583/.m3u8$tian
 
 怀旧剧场,http://121.24.98.196:9901/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0
 
@@ -2631,6 +2756,17 @@ CF·手游,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAut
 埋堆堆19,http://43.128.40.42:198/虎牙直播/huya.php?id=23728674
 
 自然纪实,#genre#
+
+动物星球,http://23.26.147.19:1258/proxy/Smartv.php?id=animalplanet_twn$洛杉矶
+探索亚洲,http://23.26.147.19:1258/proxy/Smartv.php?id=discoverytwn_twn$洛杉矶
+探索频道,http://23.26.147.19:1258/proxy/Smartv.php?id=ba86fcd935$洛杉矶
+探索频道,http://23.26.147.19:1258/proxy/Smartv.php?id=discoverych_twn$洛杉矶
+美食星球,http://23.26.147.19:1258/proxy/Smartv.php?id=foodplanet_twn$洛杉矶
+EYE旅游,http://23.26.147.19:1258/proxy/Smartv.php?id=eyetvtravel_twn$洛杉矶
+
+动物星球,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8512/.m3u8$tian
+探索频道,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8510/.m3u8$tian
+动物星球,http://61.221.215.25:8800/hls/57/index.m3u8$61
 
 北京纪实科教,http://123.138.216.44:9902/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
 北京纪实科教,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8$8K
