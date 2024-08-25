@@ -7,8 +7,10 @@
 
 //---------------以下复制---------2uni--github-----------
 //"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0ucGhw"]}]}],
-  "lives": [{"name":"30", "type":0,"url":"https://mirror.ghproxy.com/https://raw.github.com/lzhmh/uniwb/main/uniwb.txt","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
-  "sites":[{"key":"csp_DouDou","name":"豆瓣U2H33","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
+  "lives": [{"name":"30", "type":0,"url":"https://mirror.ghproxy.com/https://raw.github.com/lzhmh/uniwb/main/uniwb.txt","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
+,{"name":"moves", "type":0,"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/lzhmh/pd/main/moves.php","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
+],
+  "sites":[{"key":"csp_DouDou","name":"豆瓣U2H34","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
 //--------以上复制-------20240817----------------------
     {"key":"lf_js_lf_live","name":"电视直播","type":3,"api":"https://gitee.com/hnkfmh/Mobtee/raw/master/if.js","style":{"type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/hnkfmh/Mobtee/raw/master/if.txt"},
     {"key": "csp_LocalFile","name": "💻本地视频","type": 3,"api": "csp_LocalFile","searchable": 0,"quickSearch": 0,"filterable": 0,"type_flag": 0,"jar": "https://gitee.com/hnkfmh/jsjar/raw/master/custom_spider.jar"},     
