@@ -1,6 +1,6 @@
 //粤联频道数据收集自网络上的分享240712开通IPV6
 
-港澳U062,#genre#
+港澳U063,#genre#
 
 凤凰中文,https://test.zapi.us.kg/?id=phtv-cn
 凤凰中文,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f$mitv
@@ -161,6 +161,11 @@ CCTV16,https://live.goodiptv.club/api/cqyx.php?id=cctv16HD$liv
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
 
+博斯高球I,http://37.27.111.214:8080/live/13/hls.m3u8$芬兰
+博斯运动I,http://37.27.111.214:8080/live/14/hls.m3u8$芬兰
+博斯无限,http://37.27.111.214:8080/live/15/hls.m3u8$芬兰
+博斯网球,http://37.27.111.214:8080/live/16/hls.m3u8$芬兰
+
 ELEVEN1,http://60.248.77.83/sat/tv731.flv
 ELEVEN2,http://60.248.77.83/sat/tv741.flv
 ELEVEN1,rtmp://f13h.mine.nu/sat/tv731
@@ -304,7 +309,16 @@ JJ斗地主冠军赛,http://43.138.170.29:35455/douyu/488743
 凤凰资讯,https://test.zapi.us.kg/?id=phtv-info
 凤凰资讯,http://udnhls.skilldns.com:80/fhzx-cn.m3u8
 
+东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8$芬兰
+TVBSHD,http://37.27.111.214:8080/live/23/hls.m3u8$芬兰
+镜新闻,http://37.27.111.214:8080/live/62/hls.m3u8$芬兰
+寰宇新闻,http://37.27.111.214:8080/live/63/hls.m3u8$芬兰
+全球财经,http://37.27.111.214:8080/live/64/hls.m3u8$芬兰
+寰宇财经,http://37.27.111.214:8080/live/65/hls.m3u8$芬兰
+
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+
+TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8$61
 
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
@@ -327,7 +341,6 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 东森美洲,http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8
 
-TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8$61
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581
 民视频道,rtmp://f13h.mine.nu/sat/tv051
 台视频道,rtmp://f13h.mine.nu/sat/tv071
@@ -344,6 +357,69 @@ TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8$61
 东森超视,rtmp://220.130.201.73/sat/tv331
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
+
+CMUSIC,http://37.27.111.214:8080/live/72/hls.m3u8$芬兰
+fesival音乐,http://37.27.111.214:8080/live/83/hls.m3u8$芬兰
+FTV旅游,http://37.27.111.214:8080/live/82/hls.m3u8$芬兰
+ROCK电影,http://37.27.111.214:8080/live/70/hls.m3u8$芬兰
+Lifetime,http://37.27.111.214:8080/live/71/hls.m3u8$芬兰
+智林体育,http://37.27.111.214:8080/live/77/hls.m3u8$芬兰
+V+体育,http://37.27.111.214:8080/live/78/hls.m3u8$芬兰
+LOVENATURE,http://37.27.111.214:8080/live/84/hls.m3u8$芬兰
+ELTA生活旅游,http://37.27.111.214:8080/live/85/hls.m3u8$芬兰
+LUXETV电影,http://37.27.111.214:8080/live/86/hls.m3u8$芬兰
+
+梅花电视剧,http://37.27.111.214:8080/live/108/hls.m3u8$芬兰
+梅花电影,http://37.27.111.214:8080/live/109/hls.m3u8$芬兰
+HISTORY,http://37.27.111.214:8080/live/27/hls.m3u8$芬兰
+CinemaWorld,http://37.27.111.214:8080/live/30/hls.m3u8$芬兰
+Bloomberg,http://37.27.111.214:8080/live/34/hls.m3u8$芬兰
+
+半岛新闻,http://37.27.111.214:8080/live/44/hls.m3u8$芬兰
+WFH新闻,http://37.27.111.214:8080/live/45/hls.m3u8$芬兰
+DW新闻,http://37.27.111.214:8080/live/46/hls.m3u8$芬兰
+
+HokkoTV,http://37.27.111.214:8080/live/1/hls.m3u8$芬兰
+TITY,http://37.27.111.214:8080/live/2/hls.m3u8$芬兰
+梅花老电影,http://37.27.111.214:8080/live/11/hls.m3u8$芬兰
+
+MOMO,http://37.27.111.214:8080/live/3/hls.m3u8$芬兰
+民视第一台,http://37.27.111.214:8080/live/4/hls.m3u8$芬兰
+民视台湾,http://37.27.111.214:8080/live/5/hls.m3u8$芬兰
+民视HD,http://37.27.111.214:8080/live/6/hls.m3u8$芬兰
+中视HD,http://37.27.111.214:8080/live/7/hls.m3u8$芬兰
+华视HD,http://37.27.111.214:8080/live/8/hls.m3u8$芬兰
+TVSmonde,http://37.27.111.214:8080/live/9/hls.m3u8$芬兰
+GlobalTrekker,http://37.27.111.214:8080/live/53/hls.m3u8$芬兰
+亚洲旅游,http://37.27.111.214:8080/live/10/hls.m3u8$芬兰
+龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8$芬兰
+
+TVBS欢乐,http://37.27.111.214:8080/live/24/hls.m3u8$芬兰
+NOWMTV,http://37.27.111.214:8080/live/25/hls.m3u8$芬兰
+居家,http://37.27.111.214:8080/live/26/hls.m3u8$芬兰
+CRIME+,http://37.27.111.214:8080/live/29/hls.m3u8$芬兰
+三立综合,http://37.27.111.214:8080/live/31/hls.m3u8$芬兰
+猪哥会社,http://37.27.111.214:8080/live/35/hls.m3u8$芬兰
+吉致生活,http://37.27.111.214:8080/live/40/hls.m3u8$芬兰
+龙华戏剧,http://37.27.111.214:8080/live/41/hls.m3u8$芬兰
+龙华日韩,http://37.27.111.214:8080/live/42/hls.m3u8$芬兰
+中视经典,http://37.27.111.214:8080/live/47/hls.m3u8$芬兰
+中视箐采,http://37.27.111.214:8080/live/48/hls.m3u8$芬兰
+DIPLOMATS,http://37.27.111.214:8080/live/52/hls.m3u8$芬兰
+FTV综艺,http://37.27.111.214:8080/live/67/hls.m3u8$芬兰
+公视戏剧,http://37.27.111.214:8080/live/87/hls.m3u8$芬兰
+FTV影剧,http://37.27.111.214:8080/live/88/hls.m3u8$芬兰
+影迷纪实,http://37.27.111.214:8080/live/92/hls.m3u8$芬兰
+木偶剧,http://37.27.111.214:8080/live/93/hls.m3u8$芬兰
+ROCKACTION电影,http://37.27.111.214:8080/live/94/hls.m3u8$芬兰
+MCE电影,http://37.27.111.214:8080/live/98/hls.m3u8$芬兰
+GOOD2,http://37.27.111.214:8080/live/99/hls.m3u8$芬兰
+人间卫视,http://37.27.111.214:8080/live/101/hls.m3u8$芬兰
+CNBC财经,http://37.27.111.214:8080/live/102/hls.m3u8$芬兰
+国会频道1,http://37.27.111.214:8080/live/103/hls.m3u8$芬兰
+国会频道2,http://37.27.111.214:8080/live/104/hls.m3u8$芬兰
+梅花日语,http://37.27.111.214:8080/live/110/hls.m3u8$芬兰
+梅花影剧,http://37.27.111.214:8080/live/111/hls.m3u8$芬兰
 
 华语电视,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 华语电视1,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
@@ -372,6 +448,18 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8$61
 ZooMoo,https://zoomoo-samsungau.amagi.tv:443/playlist1080p.m3u8
 ZooMoo,https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 ZooMoo,https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
+nickelodeon,http://37.27.111.214:8080/live/12/hls.m3u8$芬兰
+nickjr,http://37.27.111.214:8080/live/22/hls.m3u8$芬兰
+月亮少儿,http://37.27.111.214:8080/live/57/hls.m3u8$芬兰
+PetBites少儿,http://37.27.111.214:8080/live/81/hls.m3u8$芬兰
+TECHStorm科技,http://37.27.111.214:8080/live/80/hls.m3u8$芬兰
+
+ABC互动英语,http://37.27.111.214:8080/live/54/hls.m3u8$芬兰
+ELTV生活英语,http://37.27.111.214:8080/live/56/hls.m3u8$芬兰
+梅花猫和老鼠,http://37.27.111.214:8080/live/105/hls.m3u8$芬兰
+梅花少儿,http://37.27.111.214:8080/live/106/hls.m3u8$芬兰
+梅花哆啦少儿,http://37.27.111.214:8080/live/107/hls.m3u8$芬兰
 
 GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 
