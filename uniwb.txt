@@ -133,34 +133,26 @@ CCTV16,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 晴彩篮球,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8$哈移
 晴彩篮球,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8$哈移
 晴彩竞技,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8$哈移
+晴彩竞技,http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8$哈移
+咪咕直播,http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8$哈移
 
 CCTV5,http://61.138.54.155:2233/hls/15/index.m3u8$绥化联
 CCTV5+,http://61.138.54.155:2233/hls/70/index.m3u8$绥化联
 CCTV16,http://61.138.54.155:2233/hls/71/index.m3u8$绥化联
 
 CCTV5,https://qsxw.gov.cn/rtmp_export/video33.m3u8$qsxw
-CCTV5,http://58.37.132.119:8888/udp/239.45.1.69:5140
-CCTV5,http://fxgm.fxjf.work:19901/tsfile/live/0005_1.m3u8
 CCTV5,http://gmxw.7766.org:808/hls/93/index.m3u8
 
 CCTV5+,http://www.furymax.top:85/rtp/239.254.96.234:9484
-CCTV5+,http://www.yao87.com:4022/udp/239.76.246.168:1234
 CCTV5+,http://fxgm.fxjf.work:19901/tsfile/live/0016_1.m3u8
 
 CCTV16,http://124.205.11.205:91/live/CCTV16hd-8M/live.m3u8
 CCTV16,http://gmxw.7766.org:808/hls/169/index.m3u8
 
-CCTV5,https://live.goodiptv.club/api/cqyx.php?id=cctv5HD$liv
-CCTV5+,https://live.goodiptv.club/api/cqyx.php?id=cctv5SportHD$liv
-CCTV16,https://live.goodiptv.club/api/cqyx.php?id=cctv16HD$liv
-
 广东体育,http://jt.zorua.cn:8787/udp/239.77.0.112:5146
 广东体育,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
 广东体育,http://api2.52tb.xyz/info?id=414&token=20230326xflvzc
 广东体育,http://gmxw.7766.org:808/hls/2/index.m3u8
-
-超级体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8$哈移
-精品体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$哈移
 
 广州竞赛,http://php.jdshipin.com:8880/gztv.php?id=jingsai
 
@@ -184,6 +176,9 @@ MOMOTV,http://60.248.77.83/sat/tv761.flv
 MOMOTV,rtmp://f13h.mine.nu/sat/tv761
 
 足球频道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
+
+超级体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8$哈移
+精品体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$哈移
 
 武搏世界,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8$哈移
 中国功夫,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8$哈移
@@ -513,65 +508,6 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 
 中学生,http://183.11.239.36:808/hls/24/index.m3u8
 
-咪咕直播,#genre#
-
-咪咕篮球1,http://[2409:8087:1a01:df::4016]/PLTV/88888888/224/3221225647/index.m3u8$ip6
-咪咕篮球2,http://[2409:8087:1a01:df::4003]/PLTV/88888888/224/3221225649/index.m3u8$ip6
-咪咕篮球3,http://[2409:8087:1a01:df::4055]/PLTV/88888888/224/3221225910/index.m3u8$ip6
-咪咕足球1,http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8$ip6
-咪咕足球2,http://[2409:8087:1a01:df::4002]/PLTV/88888888/224/3221225895/index.m3u8$ip6
-咪咕足球3,http://[2409:8087:1a01:df::4009]/PLTV/88888888/224/3221225901/index.m3u8$ip6
-咪咕足球4,http://[2409:8087:1a01:df::4022]/PLTV/88888888/224/3221225648/index.m3u8$ip6
-咪咕足球5,http://[2409:8087:1a01:df::4019]/PLTV/88888888/224/3221225658/index.m3u8$ip6
-咪咕足球6,http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225611/index.m3u8$ip6
-咪咕足球7,http://[2409:8087:1a01:df::4005]/PLTV/88888888/224/3221225613/index.m3u8$ip6
-咪咕乒乓6,http://[2409:8087:1a01:df::4015]/PLTV/88888888/224/3221225639/index.m3u8$ip6
-咪咕CCTV5,http://[2409:8087:1a01:df::402a]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8$ip6
-咪咕1CCTV5,http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225737/index.m3u8$ip6
-咪咕2CCTV5,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225758/index.m3u8$ip6
-咪咕赛事,http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8$ip6
-咪咕电竞13,http://[2409:8087:1a01:df::4003]/PLTV/88888888/224/3221225650/index.m3u8$ip6
-咪咕电竞38,http://[2409:8087:1a01:df::4028]/PLTV/88888888/224/3221225897/index.m3u8$ip6
-咪咕健身51,http://[2409:8087:1a01:df::4041]/PLTV/88888888/224/3221226053/index.m3u8$ip6
-咪咕直播3,http://[2409:8087:1a01:df::4014]/PLTV/88888888/224/3221225617/index.m3u8$ip6
-咪咕直播4,http://[2409:8087:1a01:df::4017]/PLTV/88888888/224/3221225619/index.m3u8$ip6
-咪咕直播5,http://[2409:8087:1a01:df::4058]/PLTV/88888888/224/3221225620/index.m3u8$ip6
-咪咕直播7,http://[2409:8087:1a01:df::4015]/PLTV/88888888/224/3221225641/index.m3u8$ip6
-咪咕直播8,http://[2409:8087:1a01:df::4011]/PLTV/88888888/224/3221225643/index.m3u8$ip6
-咪咕直播9,http://[2409:8087:1a01:df::4002]/PLTV/88888888/224/3221225645/index.m3u8$ip6
-咪咕排球14,http://[2409:8087:1a01:df::4014]/PLTV/88888888/224/3221225652/index.m3u8$ip6
-咪咕直播15,http://[2409:8087:1a01:df::4013]/PLTV/88888888/224/3221225653/index.m3u8$ip6
-咪咕直播16,http://[2409:8087:1a01:df::4017]/PLTV/88888888/224/3221225654/index.m3u8$ip6
-咪咕直播18,http://[2409:8087:1a01:df::4012]/PLTV/88888888/224/3221225660/index.m3u8$ip6
-咪咕直播19,http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225662/index.m3u8$ip6
-咪咕直播20,http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221225733/index.m3u8$ip6
-咪咕直播21,http://[2409:8087:1a01:df::4048]/PLTV/88888888/224/3221225735/index.m3u8$ip6
-咪咕直播23,http://[2409:8087:1a01:df::4074]/PLTV/88888888/224/3221225739/index.m3u8$ip6
-咪咕直播24,http://[2409:8087:1a01:df::4070]/PLTV/88888888/224/3221225741/index.m3u8$ip6
-咪咕直播25,http://[2409:8087:1a01:df::4050]/PLTV/88888888/224/3221225745/index.m3u8$ip6
-咪咕直播26,http://[2409:8087:1a01:df::4050]/PLTV/88888888/224/3221225747/index.m3u8$ip6
-咪咕直播27,http://[2409:8087:1a01:df::4039]/PLTV/88888888/224/3221225749/index.m3u8$ip6
-咪咕直播28,http://[2409:8087:1a01:df::4030]/PLTV/88888888/224/3221225754/index.m3u8$ip6
-咪咕直播29,http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225756/index.m3u8$ip6
-咪咕直播31,http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225760/index.m3u8$ip6
-咪咕直播32,http://[2409:8087:1a01:df::4039]/PLTV/88888888/224/3221225762/index.m3u8$ip6
-咪咕直播33,http://[2409:8087:1a01:df::4050]/PLTV/88888888/224/3221225764/index.m3u8$ip6
-咪咕直播34,http://[2409:8087:1a01:df::4027]/PLTV/88888888/224/3221225766/index.m3u8$ip6
-咪咕直播35,http://[2409:8087:1a01:df::4050]/PLTV/88888888/224/3221225768/index.m3u8$ip6
-咪咕直播36,http://[2409:8087:1a01:df::4078]/PLTV/88888888/224/3221225782/index.m3u8$ip6
-咪咕直播39,http://[2409:8087:1a01:df::4061]/PLTV/88888888/224/3221225899/index.m3u8$ip6
-咪咕直播41,http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225903/index.m3u8$ip6
-咪咕直播42,http://[2409:8087:1a01:df::4079]/PLTV/88888888/224/3221225904/index.m3u8$ip6
-咪咕直播43,http://[2409:8087:1a01:df::4051]/PLTV/88888888/224/3221225905/index.m3u8$ip6
-咪咕直播44,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225906/index.m3u8$ip6
-咪咕直播46,http://[2409:8087:1a01:df::4076]/PLTV/88888888/224/3221225912/index.m3u8$ip6
-咪咕直播47,http://[2409:8087:1a01:df::4027]/PLTV/88888888/224/3221225914/index.m3u8$ip6
-咪咕直播49,http://[2409:8087:1a01:df::4068]/PLTV/88888888/224/3221226031/index.m3u8$ip6
-咪咕直播50,http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221226046/index.m3u8$ip6
-
-咪咕直播52,http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8$IP6
-咪咕直播53,http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8$IP6
-
 环球体育,#genre#
 
 皇马RMTV,https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
@@ -604,7 +540,6 @@ ImpactWrestling,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 财经综合,#genre#
 
 军事评论,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8$哈移
-兵器科技,http://dms.yryyj.site:8188/udp/239.76.254.59:9000
 
 点掌财经,https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
 
