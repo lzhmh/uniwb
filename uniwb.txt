@@ -1,8 +1,15 @@
 //粤联频道数据收集自网络上的分享240827开通IPV6
 
-港澳U063,#genre#
+港澳U064,#genre#
 
-凤凰中文,https://test.zapi.us.kg/?id=phtv-cn
+凤凰中文,https://test.zapi.us.kg/?id=phtv-cn$test
+凤凰资讯,https://test.zapi.us.kg/?id=phtv-info$test
+
+凤凰中文,http://php.jdshipin.com:8880/xsj.php?id=phtv-cn$php
+凤凰资讯,http://php.jdshipin.com:8880/xsj.php?id=phtv-info$php
+
+凤凰中文,http://wouu.net:9977/udp/239.93.0.162:2192
+
 凤凰中文,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f$mitv
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8$ip6
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/1.m3u8$ip6
@@ -15,7 +22,6 @@
 凤凰中文,http://120.84.121.142:808/hls/29/index.m3u8
 凤凰中文,http://ayolee.com:5253/udp/239.93.0.162:2192
 
-凤凰资讯,https://test.zapi.us.kg/?id=phtv-info
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8$ip6
 凤凰资讯,http://udnhls.skilldns.com:80/fhzx-cn.m3u8
 凤凰资讯,http://118.112.148.228:58888/udp/239.93.0.118:2191
@@ -50,6 +56,7 @@ CCTV13,http://61.138.54.155:2233/hls/23/index.m3u8$绥化联
 
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 
+香港卫视,https://test.zapi.us.kg/?id=hks$test
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv$720P
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -69,6 +76,9 @@ CCTV13,http://61.138.54.155:2233/hls/23/index.m3u8$绥化联
 
 无线财经,http://live.cooltv.top/tv/tvb.php?id=2&hq
 无线财经,http://live.cooltv.top/tv/tvb.php?id=2
+
+翡翠台,https://test.zapi.us.kg/?id=feicui
+HOY78,https://test.zapi.us.kg/?id=hoy-info
 
 明珠台,http://zsntlqj.xicp.net:8896/bysid/2$中山信
 TVB,http://zsntlqj.xicp.net:8896/bysid/82$中山信
@@ -135,6 +145,7 @@ CCTV16,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 晴彩竞技,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8$哈移
 晴彩竞技,http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8$哈移
 咪咕直播,http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8$哈移
+睛彩竞技,http://123.114.19.80:4000/rtp/239.3.1.125:8001
 
 CCTV5,http://61.138.54.155:2233/hls/15/index.m3u8$绥化联
 CCTV5+,http://61.138.54.155:2233/hls/70/index.m3u8$绥化联
@@ -154,6 +165,10 @@ CCTV16,http://gmxw.7766.org:808/hls/169/index.m3u8
 广东体育,http://api2.52tb.xyz/info?id=414&token=20230326xflvzc
 广东体育,http://gmxw.7766.org:808/hls/2/index.m3u8
 
+广州竞赛,http://113.86.204.120:9999/udp/239.11.0.142:1025
+广州竞赛,http://117.72.68.25:9930/gztv.php?id=gzjs
+广州竞赛,http://php.jdshipin.com:8880/gztv.php?id=jingsai
+广州竞赛,http://61.140.190.246:8887/udp/239.11.0.142:1025
 广州竞赛,http://php.jdshipin.com:8880/gztv.php?id=jingsai
 
 纬来体育,http://60.248.77.83/sat/tv721.flv
@@ -188,7 +203,6 @@ MOMOTV,rtmp://f13h.mine.nu/sat/tv761
 
 斗鱼体育,http://159.75.85.63:35455/douyu/9170147
 斗鱼体育,http://zzy789.xyz/douyu1.php?id=9170147
-斗鱼体育,http://maomao.kandiantv.cn/douyu1.php?id=9170147
 
 NBA直播不定时,https://ff.chgdst.com/live/xiaoling99.m3u8
 小七直播不定时,https://pull.lianggexinxi.xyz/live/stream-418311_lsd.m3u8?_=1698249099856
@@ -305,21 +319,21 @@ JJ斗地主冠军赛,http://43.138.170.29:35455/douyu/488743
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/1.m3u8$ip6
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8$ip6
 
-凤凰中文,https://test.zapi.us.kg/?id=phtv-cn
+凤凰中文,https://test.zapi.us.kg/?id=phtv-cn$test
 凤凰中文,http://171.212.170.32:8088/udp/239.93.1.9:2192
 凤凰中文,http://119.129.172.208:8081/hls/19/index.m3u8
 
-凤凰资讯,https://test.zapi.us.kg/?id=phtv-info
+凤凰资讯,https://test.zapi.us.kg/?id=phtv-info$test
 凤凰资讯,http://udnhls.skilldns.com:80/fhzx-cn.m3u8
 
+寰宇新闻,https://test.zapi.us.kg/?id=global-news$test
+非凡新闻,https://test.zapi.us.kg/?id=unique-business-news$test
+中天新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv009$test
+
+寰宇新闻,http://37.27.111.214:8080/live/63/hls.m3u8$芬兰
 东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8$芬兰
 TVBSHD,http://37.27.111.214:8080/live/23/hls.m3u8$芬兰
 镜新闻,http://37.27.111.214:8080/live/62/hls.m3u8$芬兰
-寰宇新闻,http://37.27.111.214:8080/live/63/hls.m3u8$芬兰
-全球财经,http://37.27.111.214:8080/live/64/hls.m3u8$芬兰
-寰宇财经,http://37.27.111.214:8080/live/65/hls.m3u8$芬兰
-
-东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8$61
 
@@ -328,6 +342,29 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+
+台视新闻,https://test.zapi.us.kg/?id=ttv-news$test
+三立台湾,https://test.zapi.us.kg/?id=settv-taiwan$test
+中视新闻,https://test.zapi.us.kg/?id=ctv-news$test
+中视菁采,https://test.zapi.us.kg/?id=bravo$test
+东森超视,https://test.zapi.us.kg/?id=ebc-super$test
+民视台湾,https://test.zapi.us.kg/?id=ftv-tw$test
+民视第一台,https://test.zapi.us.kg/?id=ftv-one$test
+中视经典,https://test.zapi.us.kg/?id=ctv-classic$test
+民视,https://test.zapi.us.kg/?id=ftv$test
+三立综合,https://test.zapi.us.kg/?id=settv-zonghe$test
+中天娱乐,https://test.zapi.us.kg/?id=cti-yule$test
+大爱二台,https://test.zapi.us.kg/?id=daai2$test
+
+台视新闻,p3p://108.181.20.159:32386/62caf1dc000525b3cbb4de6e3c0e2af8
+中天新闻,p3p://108.181.20.159:32386/613dba64000abeb1c801c02934bb45fc
+中天娱乐,p3p://108.181.20.159:32386/5ffae39100029825dafa1d03520571ac
+中天综合,p3p://108.181.20.159:32386/5fe293ee000b7cbd7c03ecad72ba76ec
+
+全球财经,http://37.27.111.214:8080/live/64/hls.m3u8$芬兰
+寰宇财经,http://37.27.111.214:8080/live/65/hls.m3u8$芬兰
+
+东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
@@ -603,6 +640,8 @@ CCTV14,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 CCTV15,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8$哈移
 CCTV17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$哈移
 
+CCTV1,http://xgj.83mi.cn:8865/migu.php?id=cctv1
+
 CCTV9,http://61.138.54.155:2233/hls/19/index.m3u8$绥化联
 CCTV10,http://61.138.54.155:2233/hls/20/index.m3u8$绥化联
 CCTV1,http://61.138.54.155:2233/hls/11/index.m3u8$绥化联
@@ -811,6 +850,8 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 广东少儿,http://gmxw.7766.org:808/hls/175/index.m3u8
 甘肃卫视,http://gmxw.7766.org:808/hls/119/index.m3u8
 
+上海新闻,http://58.41.27.144:18888/udp/239.45.3.209:5140
+
 北京新闻,http://live.funhillrm.com/5/sd/live.m3u8
 北京新闻,http://qnap.yjnhome.com:4000/udp/239.3.1.159:8000
 北京文艺,http://qnap.yjnhome.com:4000/udp/239.3.1.242:8000
@@ -861,6 +902,28 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 电视剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8$哈移
 
 斗鱼轮播,#genre#
+
+「B站」绝地求生,http://live.iill.top/bilibili.php?id=98
+「B站」英雄联盟,http://live.iill.top/bilibili.php?id=6
+「B站」英雄联盟•手游,http://live.iill.top/bilibili.php?id=23138275
+「斗鱼」DOTA2,http://live.iill.top/douyu.php?id=3811559
+「斗鱼」FIFA,http://live.iill.top/douyu.php?id=7692166
+「斗鱼」JJ斗地主,http://live.iill.top/douyu.php?id=488743
+
+斗鱼棋牌1,https://www.goodiptv.club/douyu/1227260
+
+「虎牙」和平精英,http://live.iill.top/huya.php?id=660006
+宝宝动画,http://171.213.133.86:4022/udp/239.93.42.89:5140
+李连杰,http://11.xmyxc.cn/api/php/yy.php?id=74613175
+李连杰,http://124.248.69.76:35455/huya/11342390
+李连杰,http://zby.xjqxz.top/lljdy/live.m3u8
+洪金宝,http://11.xmyxc.cn/api/php/yy.php?id=1354924839
+许冠英,http://cdn.jdshipin.com:8880/huya.php?id=11601972
+许冠英,http://124.248.69.76:35455/huya/11601972
+电影_英叔,http://cfss.cc/cdn/hy/11342421.m3u8
+电影_洪金宝,http://124.248.69.76:35455/huya/11279251
+电影_洪金宝,http://159.75.85.63:35455/huya/11279251?cdn=txcdn
+电影_洪金宝,http://cfss.cc/cdn/hy/11279251.flv
 
 //http://zzy789.xyz
 犯罪片,http://zzy789.xyz/douyu1.php?id=747764
@@ -1199,6 +1262,34 @@ CF·手游,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAut
 神乐影院-2,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
 
 自然纪实,#genre#
+
+求索科学,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281
+求索动物,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281
+求索生活,http://zmcy.gzcy020.cn:50000/udp/239.77.0.153:5146
+求索生活,http://mail.bfgpay.cn:2052/udp/239.77.0.153:5146
+求索生活,http://113.109.250.1:9999/udp/239.77.0.153:5146
+求索生活,http://61.140.190.246:8887/udp/239.10.0.86:1025
+求索生活,http://113.86.204.120:9999/udp/239.10.0.86:1025
+求索生活,http://218.18.4.146:8888/udp/239.77.0.153:5146
+求索生活,http://125.89.163.44:8888/udp/239.77.0.153:5146
+求索生活,http://113.94.31.25:4022/udp/239.77.0.153:5146
+求索生活,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281
+求索生活,http://113.100.72.213:8899/udp/239.77.0.153:5146
+求索纪录,http://60.7.56.50:4000/udp/239.253.93.236:6414
+求索纪录,http://www.dsmcloud.top:8888/rtp/239.81.0.153:4056
+求索纪录,http://zmcy.gzcy020.cn:50000/udp/239.77.0.21:5146
+求索纪录,http://mail.bfgpay.cn:2052/udp/239.77.0.21:5146
+求索纪录,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281
+求索纪录,http://s.cdhongyuan.cn:4022/udp/239.93.42.24:5140
+求索纪录,http://27.190.84.210:7000/rtp/239.254.201.176:7221
+求索纪录,http://218.18.4.146:8888/udp/239.77.0.21:5146
+求索纪录,http://113.100.72.213:8899/udp/239.77.0.21:5146
+求索纪录,http://113.94.31.25:4022/udp/239.77.0.21:5146
+求索纪录,http://113.109.250.1:9999/udp/239.77.0.21:5146
+求索纪录,http://60.10.135.181:555/udp/239.253.93.236:6414
+求索纪录,http://125.89.163.44:8888/udp/239.77.0.21:5146
+求索记录,http://113.86.204.120:9999/udp/239.11.0.128:1025
+求索记录,http://61.140.190.246:8887/udp/239.11.0.128:1025
 
 CGTNDOCU,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8$哈移
 精品纪录,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8$哈移
