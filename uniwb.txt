@@ -5,14 +5,39 @@
 凤凰中文,https://test.zapi.us.kg/?id=phtv-cn$test
 凤凰资讯,https://test.zapi.us.kg/?id=phtv-info$test
 
+凤凰中文,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8577/.m3u8
+凤凰资讯,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8576/.m3u8
+凤凰资讯,http://udnhls.skilldns.com:80/fhzx-cn.m3u8
+
+凤凰中文,http://s.cdhongyuan.cn:4022/udp/239.93.0.162:2192
+凤凰中文,http://s.cdhongyuan.cn:4022/udp/239.93.1.9:2192
+凤凰中文,http://122.224.232.226:8888/udp/233.50.200.191:5140
+凤凰中文,http://wouu.net:9977/udp/239.93.0.162:2192
+凤凰中文,http://wouu.net:9977/udp/239.93.1.9:2192
+凤凰中文,http://ayolee.com:5253/udp/239.93.1.9:2192
+凤凰中文,http://146.56.153.245:20121/bysid/258
+凤凰中文,http://www.erbao1981.top:8188/udp/239.76.246.135:1234
+凤凰中文,http://wouu.net:9977/rtp/239.93.0.162:2192
+凤凰中文,http://ayolee.com:5253/udp/239.93.0.162:2192
+凤凰中文,http://125.113.88.160:8888/rtp/233.50.200.191:5140
+凤凰中文,http://tv.sd.cn/sichuan?id=239.93.0.162:2192
+
+凤凰资讯,http://s.cdhongyuan.cn:4022/udp/239.93.0.118:2191
+凤凰资讯,http://s.cdhongyuan.cn:4022/udp/239.93.1.4:2191
+凤凰资讯,http://www.372583307.top:4022/udp/233.50.200.192:5140
+凤凰资讯,http://wouu.net:9977/udp/239.93.1.4:2191
+凤凰资讯,http://125.113.88.160:8888/rtp/233.50.200.192:5140
+凤凰资讯,http://ayolee.com:5253/udp/239.93.1.4:2191
+凤凰资讯,http://wouu.net:9977/rtp/239.93.0.118:2191
+凤凰资讯,http://www.erbao1981.top:8188/udp/239.76.246.134:1234
+凤凰资讯,http://122.224.232.226:8888/udp/233.50.200.192:5140
+凤凰资讯,http://146.56.153.245:20121/bysid/257
+凤凰资讯,http://dms.yryyj.site:8188/udp/239.76.246.134:1234
+
 凤凰中文,http://php.jdshipin.com:8880/xsj.php?id=phtv-cn$php
 凤凰资讯,http://php.jdshipin.com:8880/xsj.php?id=phtv-info$php
 
 凤凰中文,http://wouu.net:9977/udp/239.93.0.162:2192
-
-凤凰中文,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f$mitv
-凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8$ip6
-凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/1.m3u8$ip6
 
 凤凰中文,http://171.212.170.32:8088/udp/239.93.1.9:2192
 凤凰中文,http://119.129.172.208:8081/hls/19/index.m3u8
@@ -79,10 +104,21 @@ CCTV13,http://61.138.54.155:2233/hls/23/index.m3u8$绥化联
 
 翡翠台,https://test.zapi.us.kg/?id=feicui
 HOY78,https://test.zapi.us.kg/?id=hoy-info
+HOY78,http://php.jdshipin.com:8880/xsj.php?id=hoy-info
+
+翡翠台,http://php.jdshipin.com:8880/xsj.php?id=feicui
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+翡翠台,http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
+翡翠台,http://124.244.149.194:65530/bysid/1
 
 明珠台,http://zsntlqj.xicp.net:8896/bysid/2$中山信
 TVB,http://zsntlqj.xicp.net:8896/bysid/82$中山信
 无线新闻,http://zsntlqj.xicp.net:8896/bysid/83$中山信
+
+明珠台,http://124.244.149.194:65531/bysid/2
+明珠台,http://nz171l122.bb60246.ctm.net:8892/bysid/2.m3u8
+明珠台,http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8
 
 明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 VIUTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
@@ -145,7 +181,6 @@ CCTV16,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 晴彩竞技,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8$哈移
 晴彩竞技,http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8$哈移
 咪咕直播,http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8$哈移
-睛彩竞技,http://123.114.19.80:4000/rtp/239.3.1.125:8001
 
 CCTV5,http://61.138.54.155:2233/hls/15/index.m3u8$绥化联
 CCTV5+,http://61.138.54.155:2233/hls/70/index.m3u8$绥化联
@@ -175,11 +210,15 @@ CCTV16,http://gmxw.7766.org:808/hls/169/index.m3u8
 纬来体育,rtmp://220.130.201.73/sat/tv721
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
+纬来体育,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8585/.m3u8$tian
 
+博斯运动1,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8587/.m3u8$tian
 博斯高球I,http://37.27.111.214:8080/live/13/hls.m3u8$芬兰
 博斯运动I,http://37.27.111.214:8080/live/14/hls.m3u8$芬兰
 博斯无限,http://37.27.111.214:8080/live/15/hls.m3u8$芬兰
 博斯网球,http://37.27.111.214:8080/live/16/hls.m3u8$芬兰
+智林体育,http://37.27.111.214:8080/live/77/hls.m3u8$芬兰
+V+体育,http://37.27.111.214:8080/live/78/hls.m3u8$芬兰
 
 ELEVEN1,http://60.248.77.83/sat/tv731.flv
 ELEVEN2,http://60.248.77.83/sat/tv741.flv
@@ -314,11 +353,8 @@ JJ斗地主冠军赛,http://43.138.170.29:35455/douyu/488743
 
 粤联综合,#genre#
 
-凤凰中文,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f$mitv
-凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8$ip6
-凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/1.m3u8$ip6
-凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8$ip6
-
+凤凰中文,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8577/.m3u8$tian
+凤凰中文,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8576/.m3u8$tian
 凤凰中文,https://test.zapi.us.kg/?id=phtv-cn$test
 凤凰中文,http://171.212.170.32:8088/udp/239.93.1.9:2192
 凤凰中文,http://119.129.172.208:8081/hls/19/index.m3u8
@@ -326,44 +362,86 @@ JJ斗地主冠军赛,http://43.138.170.29:35455/douyu/488743
 凤凰资讯,https://test.zapi.us.kg/?id=phtv-info$test
 凤凰资讯,http://udnhls.skilldns.com:80/fhzx-cn.m3u8
 
-寰宇新闻,https://test.zapi.us.kg/?id=global-news$test
-非凡新闻,https://test.zapi.us.kg/?id=unique-business-news$test
-中天新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv009$test
+东森新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8540/.m3u8$tian
+寰宇新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8547/.m3u8$tian
+中天新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8541/.m3u8$tian
+年代新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8539/.m3u8$tian
+年代新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8529/.m3u8$tian
+民视新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8542/.m3u8$tian
+三立新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8$tian
+TVBS新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8574/.m3u8$tian
+壹新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8548/.m3u8$tian
+TVBSHD,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8575/.m3u8$tian
+东森超视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8525/.m3u8$tian
+
+好莱坞电影,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8554/.m3u8$tian
+MOMO综合台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8553/.m3u8$tian
+中天综合,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8526/.m3u8$tian
+东森财经,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8546/.m3u8$tian
+纬来日本,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8537/.m3u8$tian
+海峡卫视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8570/.m3u8$tian
+东森戏剧,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8530/.m3u8$tian
+动物星球,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8512/.m3u8$tian
+卫视电影,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8578/.m3u8$tian
+纬来电影,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8579/.m3u8$tian
+卫视中文,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8523/.m3u8$tian
+纬来综合,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8518/.m3u8$tian
+三立台湾,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8521/.m3u8$tian
+三立都会,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8522/.m3u8$tian
+卫视西片,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8583/.m3u8$tian
+CINEMAX,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8559/.m3u8$tian
+中视HD,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8502/.m3u8$tian
+华视HD,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8503/.m3u8$tian
+TCL,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8511/.m3u8$tian
+GOODTV好消息,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8508/.m3u8$tian
+TVBS欢乐台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8532/.m3u8$tian
+东森综合,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8524/.m3u8$tian
+纬来戏剧,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8533/.m3u8$tian
+非凡商业,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8545/.m3u8$tian
+八大戏剧,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8531/.m3u8$tian
+湖南卫视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8573/.m3u8$tian
+八大综合,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8520/.m3u8$tian
+八大第一,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8519/.m3u8$tian
+亚洲旅游,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8513/.m3u8$tian
+人间卫视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8506/.m3u8$tian
+中天娱乐,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8527/.m3u8$tian
+地理野生,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8509/.m3u8$tian
+龙华卡通,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8517/.m3u8$tian
+龙华偶像,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8536/.m3u8$tian
+龙华日韩,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8535/.m3u8$tian
+龙华戏剧,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8534/.m3u8$tian
+龙华电影,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8581/.m3u8$tian
+纬来育乐,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8584/.m3u8$tian
+东方37台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8528/.m3u8$tian
+STARWORD,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8561/.m3u8$tian
+民视Hd,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8504/.m3u8$tian
+YAIWAN,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8538/.m3u8$tian
+公视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8505/.m3u8$tian
+大爱,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8507/.m3u8$tian
+HBO,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8580/.m3u8$tian
+AXN,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8582/.m3u8$tian
 
 寰宇新闻,http://37.27.111.214:8080/live/63/hls.m3u8$芬兰
 东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8$芬兰
+
+寰宇新闻,https://test.zapi.us.kg/?id=global-news$test
+中天新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv009$test
+非凡新闻,https://test.zapi.us.kg/?id=unique-business-news$test
+
 TVBSHD,http://37.27.111.214:8080/live/23/hls.m3u8$芬兰
 镜新闻,http://37.27.111.214:8080/live/62/hls.m3u8$芬兰
 
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8$61
 
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 
 台视新闻,https://test.zapi.us.kg/?id=ttv-news$test
-三立台湾,https://test.zapi.us.kg/?id=settv-taiwan$test
 中视新闻,https://test.zapi.us.kg/?id=ctv-news$test
-中视菁采,https://test.zapi.us.kg/?id=bravo$test
-东森超视,https://test.zapi.us.kg/?id=ebc-super$test
-民视台湾,https://test.zapi.us.kg/?id=ftv-tw$test
-民视第一台,https://test.zapi.us.kg/?id=ftv-one$test
-中视经典,https://test.zapi.us.kg/?id=ctv-classic$test
-民视,https://test.zapi.us.kg/?id=ftv$test
-三立综合,https://test.zapi.us.kg/?id=settv-zonghe$test
-中天娱乐,https://test.zapi.us.kg/?id=cti-yule$test
-大爱二台,https://test.zapi.us.kg/?id=daai2$test
-
-台视新闻,p3p://108.181.20.159:32386/62caf1dc000525b3cbb4de6e3c0e2af8
-中天新闻,p3p://108.181.20.159:32386/613dba64000abeb1c801c02934bb45fc
-中天娱乐,p3p://108.181.20.159:32386/5ffae39100029825dafa1d03520571ac
-中天综合,p3p://108.181.20.159:32386/5fe293ee000b7cbd7c03ecad72ba76ec
-
-全球财经,http://37.27.111.214:8080/live/64/hls.m3u8$芬兰
-寰宇财经,http://37.27.111.214:8080/live/65/hls.m3u8$芬兰
-
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
@@ -380,6 +458,28 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 
 东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 东森美洲,http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8
+东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
+
+
+东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
+东森超视,https://test.zapi.us.kg/?id=ebc-super$test
+三立台湾,https://test.zapi.us.kg/?id=settv-taiwan$test
+中视菁采,https://test.zapi.us.kg/?id=bravo$test
+民视台湾,https://test.zapi.us.kg/?id=ftv-tw$test
+民视第一台,https://test.zapi.us.kg/?id=ftv-one$test
+中视经典,https://test.zapi.us.kg/?id=ctv-classic$test
+民视HD,https://test.zapi.us.kg/?id=ftv$test
+三立综合,https://test.zapi.us.kg/?id=settv-zonghe$test
+中天娱乐,https://test.zapi.us.kg/?id=cti-yule$test
+大爱二台,https://test.zapi.us.kg/?id=daai2$test
+
+台视新闻,p3p://108.181.20.159:32386/62caf1dc000525b3cbb4de6e3c0e2af8
+中天新闻,p3p://108.181.20.159:32386/613dba64000abeb1c801c02934bb45fc
+中天娱乐,p3p://108.181.20.159:32386/5ffae39100029825dafa1d03520571ac
+中天综合,p3p://108.181.20.159:32386/5fe293ee000b7cbd7c03ecad72ba76ec
+
+全球财经,http://37.27.111.214:8080/live/64/hls.m3u8$芬兰
+寰宇财经,http://37.27.111.214:8080/live/65/hls.m3u8$芬兰
 
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581
 民视频道,rtmp://f13h.mine.nu/sat/tv051
@@ -403,8 +503,6 @@ fesival音乐,http://37.27.111.214:8080/live/83/hls.m3u8$芬兰
 FTV旅游,http://37.27.111.214:8080/live/82/hls.m3u8$芬兰
 ROCK电影,http://37.27.111.214:8080/live/70/hls.m3u8$芬兰
 Lifetime,http://37.27.111.214:8080/live/71/hls.m3u8$芬兰
-智林体育,http://37.27.111.214:8080/live/77/hls.m3u8$芬兰
-V+体育,http://37.27.111.214:8080/live/78/hls.m3u8$芬兰
 LOVENATURE,http://37.27.111.214:8080/live/84/hls.m3u8$芬兰
 ELTA生活旅游,http://37.27.111.214:8080/live/85/hls.m3u8$芬兰
 LUXETV电影,http://37.27.111.214:8080/live/86/hls.m3u8$芬兰
@@ -480,6 +578,9 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8$61
 八大第1台HD,http://61.221.215.25:8800/hls/55/index.m3u8$61
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8$61
 
+华语电视2,http://38.64.72.148:80/hls/modn/list/4002/chunklist1.m3u8
+华语电视3,http://38.64.72.148:80/hls/modn/list/4003/chunklist1.m3u8
+
 大爱1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 
@@ -501,6 +602,7 @@ ELTV生活英语,http://37.27.111.214:8080/live/56/hls.m3u8$芬兰
 梅花少儿,http://37.27.111.214:8080/live/106/hls.m3u8$芬兰
 梅花哆啦少儿,http://37.27.111.214:8080/live/107/hls.m3u8$芬兰
 
+东森幼幼,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8515/.m3u8$tian
 GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 
 晴彩青少,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8$哈移
@@ -1262,6 +1364,27 @@ CF·手游,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAut
 神乐影院-2,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
 
 自然纪实,#genre#
+
+求索生活,http://zmcy.gzcy020.cn:50000/udp/239.77.0.153:5146
+求索生活,http://113.86.204.120:9999/udp/239.10.0.86:1025
+求索纪录,http://zmcy.gzcy020.cn:50000/udp/239.77.0.21:5146
+求索纪录,http://s.cdhongyuan.cn:4022/udp/239.93.42.24:5140
+求索记录,http://113.86.204.120:9999/udp/239.11.0.128:1025
+世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
+世界地理,http://110.178.52.75:8084/udp/239.1.1.99:8099
+世界地理,http://183.185.220.49:8084/rtp/226.0.2.222:9688
+世界地理,http://123.180.177.20:16000/udp/239.253.92.131:6113
+世界地理,http://60.10.135.181:555/udp/239.253.92.113:8066
+世界地理,http://119.98.175.25:85/udp/239.69.1.91:10186
+世界地理,http://www.akw323.com:9527/udp/238.255.2.26:5999
+世界地理,http://61.185.200.221:55555/udp/239.111.205.71:5140
+世界地理,http://60.7.56.50:4000/udp/239.253.92.113:8066
+世界地理,http://223.10.28.220:8084/udp/239.1.1.99:8099
+世界地理,http://60.7.56.50:4000/udp/239.253.92.131:6113
+世界地理,http://60.10.135.181:555/udp/239.253.92.131:6113
+世界地理,http://61.185.200.157:10000/rtp/239.111.205.71:5140
+
+国冡地理,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8510/.m3u8$tian
 
 求索科学,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281
 求索动物,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281
