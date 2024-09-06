@@ -40,7 +40,6 @@
 凤凰中文,http://120.84.121.142:808/hls/29/index.m3u8
 凤凰中文,http://ayolee.com:5253/udp/239.93.0.162:2192
 
-凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8$ip6
 凤凰资讯,http://udnhls.skilldns.com:80/fhzx-cn.m3u8
 凤凰资讯,http://118.112.148.228:58888/udp/239.93.0.118:2191
 凤凰资讯,http://118.112.148.228:4022/udp/239.93.0.118:2191
@@ -65,18 +64,18 @@
 凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8$南腾讯
 
 CCTV4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8$哈移
-CCTV13,http://125.80.153.209:8003/rtp/235.254.198.9:1312$重信
+CCTV4,http://61.138.54.155:2233/hls/14/index.m3u8$绥化联
 CCTV4,http://125.80.153.209:8003/rtp/235.254.198.183:7980$重信
 CCTV4,http://1.203.184.49:8888/udp/225.1.8.4:8092$北信
 CCTV4,http://125.80.153.209:8003/rtp/235.254.198.3:1288$重信
-CCTV4,http://61.138.54.155:2233/hls/14/index.m3u8$绥化联
 
 CCTV13,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8$哈移
 CCTV13,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226571/index.m3u8$哈移
+CCTV13,http://61.138.54.155:2233/hls/23/index.m3u8$绥化联
+CCTV13,http://125.80.153.209:8003/rtp/235.254.198.9:1312$重信
 CCTV13,http://1.203.184.49:8888/udp/225.1.8.168:8130$北信
 CCTV13,http://1.203.184.49:8888/udp/225.1.1.10:8128$北信
 CCTV13,http://live.dxms.top:80/dwy/news.php$live
-CCTV13,http://61.138.54.155:2233/hls/23/index.m3u8$绥化联
 
 CCTV4,http://1.203.184.49:8888/udp/225.1.8.104:8216$北信
 CCTV13,http://1.203.184.49:8888/udp/225.1.8.113:8264$北信
@@ -100,6 +99,9 @@ CCTV13,http://1.203.184.49:8888/udp/225.1.8.113:8264$北信
 澳门资讯,http://61.244.22.5/ch5/info_ch5.live/chunklist_w105010641.m3u8
 澳门资讯,http://61.244.22.5/ch5/info_ch5.live/index.m3u8
 
+无线新闻,http://cdn.iptv8k.top/dl/jspd.php?id=2
+翡翠台,http://cdn.iptv8k.top/dl/jspd.php?id=3
+
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=1&hq
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
@@ -116,6 +118,20 @@ HOY78,http://php.jdshipin.com:8880/xsj.php?id=hoy-info
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 翡翠台,http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
 翡翠台,http://124.244.149.194:65530/bysid/1
+
+华丽台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
+
+有线新闻台,p3p://173.208.176.178:19806/655bd22c000147307fdff68936807320
+无线新闻台,p3p://173.208.176.178:19806/653e4818000b73240c7d19181340415e
+now新闻台,p3p://173.208.176.178:19806/653e4f3d0003bdbf0c98ffaf583a6e3a
+无线翡翠台,p3p://173.208.176.178:19806/653e4c02000ea0440c8c63fd3e5d709d
+无线Plus台,p3p://173.208.176.178:19806/6649bce20008d56453eeebfc022701f1
+无线Plus台,p3p://173.208.176.178:19806/653e4d3e000b344f0c91357e73163f82
+无线Plus台,p3p://173.208.176.178:19806/5ffbee4900066c0ddf0b8b84423c06f3
+无线Plus台,p3p://173.208.176.178:19806/611d989d0005244a4a7f24d111282ffb
+无线明珠台,p3p://173.208.176.178:19806/611d99f3000116024a845bb9627404c9
+无线明珠台,p3p://173.208.176.178:19806/602f1ba9000814efa6f2970333d309d9
+无线赛马台,p3p://173.208.176.178:19806/6506d591000d6d7733e6bdfb4725689e
 
 明珠台,http://zsntlqj.xicp.net:8896/bysid/2$中山信
 TVB,http://zsntlqj.xicp.net:8896/bysid/82$中山信
@@ -179,6 +195,10 @@ CCTV5+,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 CCTV5,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8$哈移
 CCTV16,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$哈移
 
+CCTV5,http://61.138.54.155:2233/hls/15/index.m3u8$绥化联
+CCTV5+,http://61.138.54.155:2233/hls/70/index.m3u8$绥化联
+CCTV16,http://61.138.54.155:2233/hls/71/index.m3u8$绥化联
+
 CCTV5,http://125.80.153.209:8003/rtp/235.254.198.54:1492$重信
 CCTV5+,http://125.80.153.209:8003/rtp/235.254.198.122:1764$重信
 
@@ -196,7 +216,6 @@ CCTV5,http://125.80.153.209:8003/rtp/235.254.198.142:1846$重信
 晴彩竞技,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8$哈移
 晴彩竞技,http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8$哈移
 晴彩青少,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8$哈移
-咪咕直播,http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8$哈移
 
 晴彩竞技,http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.125:8001
 晴彩篮球,http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.126:8001
@@ -204,10 +223,6 @@ CCTV5,http://125.80.153.209:8003/rtp/235.254.198.142:1846$重信
 晴彩竞技,http://drive.mxmy.net:8888/rtp/239.3.1.125:8001
 晴彩篮球,http://drive.mxmy.net:8888/rtp/239.3.1.126:8001
 晴彩青少,http://drive.mxmy.net:8888/rtp/239.3.1.127:8001
-
-CCTV5,http://61.138.54.155:2233/hls/15/index.m3u8$绥化联
-CCTV5+,http://61.138.54.155:2233/hls/70/index.m3u8$绥化联
-CCTV16,http://61.138.54.155:2233/hls/71/index.m3u8$绥化联
 
 CCTV5,http://222.241.154.37:9901/tsfile/live/23005_1.m3u8
 CCTV5+,http://222.241.154.37:9901/tsfile/live/23018_1.m3u8
@@ -250,6 +265,8 @@ ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 MOMOTV,rtmp://f13h.mine.nu/sat/tv761.flv
 MOMOTV,http://60.248.77.83/sat/tv761.flv
 MOMOTV,rtmp://f13h.mine.nu/sat/tv761
+
+咪咕直播,http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8$哈移
 
 足球频道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
 
@@ -403,9 +420,15 @@ JJ斗地主冠军赛,http://43.138.170.29:35455/douyu/488743
 凤凰资讯,https://test.zapi.us.kg/?id=phtv-info$test
 凤凰资讯,http://udnhls.skilldns.com:80/fhzx-cn.m3u8
 
+中天新闻,http://cdn.iptv8k.top/dl/jspd.php?id=1
+寰宇新闻,http://cdn.iptv8k.top/dl/jspd.php?id=7
+中天亚洲,http://cdn.iptv8k.top/dl/jspd.php?id=12
+
+中天新闻,http://ali.hlspull.yximgs.com/live/3dbfc39fd2daf8230c32e1f1e8ee2365.flv
+中天新闻,p3p://173.208.176.178:19806/613dba64000abeb1c801c02934bb45fc
+
 寰宇新闻,http://37.27.111.214:8080/live/63/hls.m3u8$芬兰
 东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8$芬兰
-
 
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8$61
 
@@ -814,6 +837,19 @@ CCTV14,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 CCTV15,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8$哈移
 CCTV17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$哈移
 
+CCTV9,http://61.138.54.155:2233/hls/19/index.m3u8$绥化联
+CCTV10,http://61.138.54.155:2233/hls/20/index.m3u8$绥化联
+CCTV1,http://61.138.54.155:2233/hls/11/index.m3u8$绥化联
+CCTV2,http://61.138.54.155:2233/hls/12/index.m3u8$绥化联
+CCTV3,http://61.138.54.155:2233/hls/13/index.m3u8$绥化联
+CCTV6,http://61.138.54.155:2233/hls/16/index.m3u8$绥化联
+CCTV7,http://61.138.54.155:2233/hls/17/index.m3u8$绥化联
+CCTV8,http://61.138.54.155:2233/hls/18/index.m3u8$绥化联
+CCTV11,http://61.138.54.155:2233/hls/21/index.m3u8$绥化联
+CCTV12,http://61.138.54.155:2233/hls/22/index.m3u8$绥化联
+CCTV14,http://61.138.54.155:2233/hls/24/index.m3u8$绥化联
+CCTV15,http://61.138.54.155:2233/hls/25/index.m3u8$绥化联
+
 CCTV1,http://125.80.153.209:8003/rtp/235.254.198.51:1480$重信
 CCTV2,http://125.80.153.209:8003/rtp/235.254.198.52:1484$重信
 CCTV3,http://125.80.153.209:8003/rtp/235.254.198.53:1488$重信
@@ -864,19 +900,6 @@ CCTV17,http://1.203.184.49:8888/udp/225.1.8.117:8064$北信
 
 CCTV1,http://xgj.83mi.cn:8865/migu.php?id=cctv1
 
-CCTV9,http://61.138.54.155:2233/hls/19/index.m3u8$绥化联
-CCTV10,http://61.138.54.155:2233/hls/20/index.m3u8$绥化联
-CCTV1,http://61.138.54.155:2233/hls/11/index.m3u8$绥化联
-CCTV2,http://61.138.54.155:2233/hls/12/index.m3u8$绥化联
-CCTV3,http://61.138.54.155:2233/hls/13/index.m3u8$绥化联
-CCTV6,http://61.138.54.155:2233/hls/16/index.m3u8$绥化联
-CCTV7,http://61.138.54.155:2233/hls/17/index.m3u8$绥化联
-CCTV8,http://61.138.54.155:2233/hls/18/index.m3u8$绥化联
-CCTV11,http://61.138.54.155:2233/hls/21/index.m3u8$绥化联
-CCTV12,http://61.138.54.155:2233/hls/22/index.m3u8$绥化联
-CCTV14,http://61.138.54.155:2233/hls/24/index.m3u8$绥化联
-CCTV15,http://61.138.54.155:2233/hls/25/index.m3u8$绥化联
-
 CCTV2,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8$op
 CCTV6,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8$mob
 
@@ -924,6 +947,39 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 安徽卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8$哈移
 吉林卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8$哈移
 河北卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8$哈移
+
+广东卫视,http://61.138.54.155:2233/hls/62/index.m3u8$绥化联
+深圳卫视,http://61.138.54.155:2233/hls/63/index.m3u8$绥化联
+北京卫视,http://61.138.54.155:2233/hls/58/index.m3u8$绥化联
+东南卫视,http://61.138.54.155:2233/hls/43/index.m3u8$绥化联
+天津卫视,http://61.138.54.155:2233/hls/53/index.m3u8$绥化联
+湖南卫视,http://61.138.54.155:2233/hls/56/index.m3u8$绥化联
+浙江卫视,http://61.138.54.155:2233/hls/57/index.m3u8$绥化联
+海南卫视,http://61.138.54.155:2233/hls/59/index.m3u8$绥化联
+辽宁卫视,http://61.138.54.155:2233/hls/36/index.m3u8$绥化联
+江苏卫视,http://61.138.54.155:2233/hls/37/index.m3u8$绥化联
+湖北卫视,http://61.138.54.155:2233/hls/39/index.m3u8$绥化联
+重庆卫视,http://61.138.54.155:2233/hls/42/index.m3u8$绥化联
+云南卫视,http://61.138.54.155:2233/hls/60/index.m3u8$绥化联
+吉林卫视,http://61.138.54.155:2233/hls/27/index.m3u8$绥化联
+贵州卫视,http://61.138.54.155:2233/hls/32/index.m3u8$绥化联
+东方卫视,http://61.138.54.155:2233/hls/34/index.m3u8$绥化联
+广西卫视,http://61.138.54.155:2233/hls/35/index.m3u8$绥化联
+山东卫视,http://61.138.54.155:2233/hls/44/index.m3u8$绥化联
+山西卫视,http://61.138.54.155:2233/hls/45/index.m3u8$绥化联
+河南卫视,http://61.138.54.155:2233/hls/46/index.m3u8$绥化联
+宁夏卫视 ,http://61.138.54.155:2233/hls/47/index.m3u8$绥化联
+陕西卫视,http://61.138.54.155:2233/hls/48/index.m3u8$绥化联
+贵州卫视,http://61.138.54.155:2233/hls/54/index.m3u8$绥化联
+青海卫视,http://61.138.54.155:2233/hls/40/index.m3u8$绥化联
+内蒙古卫视,http://61.138.54.155:2233/hls/41/index.m3u8$绥化联
+西藏卫视,http://61.138.54.155:2233/hls/28/index.m3u8$绥化联
+兵团卫视,http://61.138.54.155:2233/hls/29/index.m3u8$绥化联
+新疆卫视,http://61.138.54.155:2233/hls/30/index.m3u8$绥化联
+延边卫视,http://61.138.54.155:2233/hls/61/index.m3u8$绥化联
+
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$索1
+重庆卫视,https://sjlivecdn9.cbg.cn/202506252322/app_2/_definst_/ls_2.stream/chunklist.m3u8$索1
 
 北京卫视,http://1.203.184.49:8888/udp/225.1.8.121:8002$北信
 北京卫视,http://1.203.184.49:8888/udp/225.1.8.21:8002$北信
@@ -1030,39 +1086,6 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 湖北卫视,http://125.80.153.209:8003/rtp/235.254.198.32:1404$重信
 河北卫视,http://125.80.153.209:8003/rtp/235.254.198.128:1788$重信
 东南卫视,http://125.80.153.209:8003/rtp/235.254.198.35:1416$重信
-
-广东卫视,http://61.138.54.155:2233/hls/62/index.m3u8$绥化联
-深圳卫视,http://61.138.54.155:2233/hls/63/index.m3u8$绥化联
-北京卫视,http://61.138.54.155:2233/hls/58/index.m3u8$绥化联
-东南卫视,http://61.138.54.155:2233/hls/43/index.m3u8$绥化联
-天津卫视,http://61.138.54.155:2233/hls/53/index.m3u8$绥化联
-湖南卫视,http://61.138.54.155:2233/hls/56/index.m3u8$绥化联
-浙江卫视,http://61.138.54.155:2233/hls/57/index.m3u8$绥化联
-海南卫视,http://61.138.54.155:2233/hls/59/index.m3u8$绥化联
-辽宁卫视,http://61.138.54.155:2233/hls/36/index.m3u8$绥化联
-江苏卫视,http://61.138.54.155:2233/hls/37/index.m3u8$绥化联
-湖北卫视,http://61.138.54.155:2233/hls/39/index.m3u8$绥化联
-重庆卫视,http://61.138.54.155:2233/hls/42/index.m3u8$绥化联
-云南卫视,http://61.138.54.155:2233/hls/60/index.m3u8$绥化联
-吉林卫视,http://61.138.54.155:2233/hls/27/index.m3u8$绥化联
-贵州卫视,http://61.138.54.155:2233/hls/32/index.m3u8$绥化联
-东方卫视,http://61.138.54.155:2233/hls/34/index.m3u8$绥化联
-广西卫视,http://61.138.54.155:2233/hls/35/index.m3u8$绥化联
-山东卫视,http://61.138.54.155:2233/hls/44/index.m3u8$绥化联
-山西卫视,http://61.138.54.155:2233/hls/45/index.m3u8$绥化联
-河南卫视,http://61.138.54.155:2233/hls/46/index.m3u8$绥化联
-宁夏卫视 ,http://61.138.54.155:2233/hls/47/index.m3u8$绥化联
-陕西卫视,http://61.138.54.155:2233/hls/48/index.m3u8$绥化联
-贵州卫视,http://61.138.54.155:2233/hls/54/index.m3u8$绥化联
-青海卫视,http://61.138.54.155:2233/hls/40/index.m3u8$绥化联
-内蒙古卫视,http://61.138.54.155:2233/hls/41/index.m3u8$绥化联
-西藏卫视,http://61.138.54.155:2233/hls/28/index.m3u8$绥化联
-兵团卫视,http://61.138.54.155:2233/hls/29/index.m3u8$绥化联
-新疆卫视,http://61.138.54.155:2233/hls/30/index.m3u8$绥化联
-延边卫视,http://61.138.54.155:2233/hls/61/index.m3u8$绥化联
-
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$索1
-重庆卫视,https://sjlivecdn9.cbg.cn/202506252322/app_2/_definst_/ls_2.stream/chunklist.m3u8$索1
 
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
 云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
