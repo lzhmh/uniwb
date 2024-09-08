@@ -97,6 +97,15 @@ CCTV13,http://125.80.153.209:8003/rtp/235.254.198.9:1312$重信
 凤凰香港,http://146.56.153.245:20121/bysid/259
 凤凰香港,http://222.186.57.133:22222/php/fhx.php?id=fhhk
 
+凤凰香港,http://free.xiptv.x10.bz/kudou.php?id=123$free
+无线新闻,http://free.xiptv.x10.bz/kudou.php?id=2$free
+翡翠台,http://free.xiptv.x10.bz/kudou.php?id=188$free
+HOY77,http://free.xiptv.x10.bz/kudou.php?id=125$free
+HOY78,http://free.xiptv.x10.bz/kudou.php?id=127$free
+now财经,http://free.xiptv.x10.bz/kudou.php?id=28$free
+18财经,http://free.xiptv.x10.bz/kudou.php?id=4$free
+ViuTv,http://free.xiptv.x10.bz/kudou.php?id=23$free
+
 澳门资讯,http://61.244.22.5/ch5/info_ch5.live/master.m3u8
 澳门资讯,http://61.244.22.5/ch5/info_ch5.live/chunklist_w105010641.m3u8
 澳门资讯,http://61.244.22.5/ch5/info_ch5.live/index.m3u8
@@ -145,10 +154,6 @@ RTHK34,http://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/str
 
 RTHK35,http://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
-
-RTHK33,https://epg.pw/stream/00ea10452b568a8e587ebece8311785afe7f33c41437de0a68839e6392d45dfc.m3u8
-RTHK34,https://epg.pw/stream/16e85bed392dd123c9d057343c09e2310c6975d4866da8c92f7b0127fa865523.m3u8
-RTHK35,https://epg.pw/stream/cabd18457f278cda40ac160bccabf77a6b0ad341e50a00bd62620d78819dd220.m3u8
 
 澳亚卫视,http://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
@@ -237,6 +242,8 @@ CCTV5+,http://www.furymax.top:85/rtp/239.254.96.234:9484
 博斯网球,http://37.27.111.214:8080/live/16/hls.m3u8$芬兰
 智林体育,http://37.27.111.214:8080/live/77/hls.m3u8$芬兰
 V+体育,http://37.27.111.214:8080/live/78/hls.m3u8$芬兰
+
+ELTA体育4台,http://free.xiptv.x10.bz/kudou.php?id=72$free
 
 ELEVEN1,http://60.248.77.83/sat/tv731.flv
 ELEVEN2,http://60.248.77.83/sat/tv741.flv
@@ -406,6 +413,22 @@ JJ斗地主冠军赛,http://43.138.170.29:35455/douyu/488743
 凤凰中文,http://222.186.57.133:22222/php/fhx.php?id=fhzw
 凤凰资讯,http://222.186.57.133:22222/php/fhx.php?id=fhzx
 
+凤凰中文,http://free.xiptv.x10.bz/kudou.php?id=121$free
+凤凰资讯,http://free.xiptv.x10.bz/kudou.php?id=122$free
+凤凰香港,http://free.xiptv.x10.bz/kudou.php?id=123$free
+
+中天亚洲,http://free.xiptv.x10.bz/kudou.php?id=60$free
+东森LIVE,http://free.xiptv.x10.bz/kudou.php?id=75$free
+寰宇新闻,http://free.xiptv.x10.bz/kudou.php?id=76$free
+TVBSHD,http://free.xiptv.x10.bz/kudou.php?id=77$free
+TVBS新闻,http://free.xiptv.x10.bz/kudou.php?id=78$free
+三立新闻+,http://free.xiptv.x10.bz/kudou.php?id=79$free
+中视新闻,http://free.xiptv.x10.bz/kudou.php?id=80$free
+台视新闻,http://free.xiptv.x10.bz/kudou.php?id=81$free
+民视新闻,http://free.xiptv.x10.bz/kudou.php?id=84$free
+新唐人亚太,http://free.xiptv.x10.bz/kudou.php?id=119$free
+新唐人亚太,http://free.xiptv.x10.bz/kudou.php?id=1297$free
+
 中天新闻,http://cdn.iptv8k.top/dl/jspd.php?id=1
 寰宇新闻,http://cdn.iptv8k.top/dl/jspd.php?id=7
 中天亚洲,http://cdn.iptv8k.top/dl/jspd.php?id=12
@@ -413,6 +436,8 @@ JJ斗地主冠军赛,http://43.138.170.29:35455/douyu/488743
 
 寰宇新闻,http://37.27.111.214:8080/live/63/hls.m3u8$芬兰
 东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8$芬兰
+镜新闻,http://37.27.111.214:8080/live/62/hls.m3u8$芬兰
+TVBSHD,http://37.27.111.214:8080/live/23/hls.m3u8$芬兰
 
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8$61
 
@@ -443,88 +468,6 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 东森美洲,http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8
 东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
 
-TVBSHD,http://37.27.111.214:8080/live/23/hls.m3u8$芬兰
-镜新闻,http://37.27.111.214:8080/live/62/hls.m3u8$芬兰
-凤凰中文,http://free.xiptv.x10.bz/kudou.php?id=121$free
-凤凰资讯,http://free.xiptv.x10.bz/kudou.php?id=122$free
-凤凰香港,http://free.xiptv.x10.bz/kudou.php?id=123$free
-无线新闻,http://free.xiptv.x10.bz/kudou.php?id=2$free
-翡翠台,http://free.xiptv.x10.bz/kudou.php?id=188$free
-中天亚洲,http://free.xiptv.x10.bz/kudou.php?id=60$free
-东森LIVE,http://free.xiptv.x10.bz/kudou.php?id=75$free
-寰宇新闻,http://free.xiptv.x10.bz/kudou.php?id=76$free
-TVBSHD,http://free.xiptv.x10.bz/kudou.php?id=77$free
-TVBS新闻,http://free.xiptv.x10.bz/kudou.php?id=78$free
-三立新闻+,http://free.xiptv.x10.bz/kudou.php?id=79$free
-中视新闻,http://free.xiptv.x10.bz/kudou.php?id=80$free
-台视新闻,http://free.xiptv.x10.bz/kudou.php?id=81$free
-民视新闻,http://free.xiptv.x10.bz/kudou.php?id=84$free
-新唐人亚太,http://free.xiptv.x10.bz/kudou.php?id=119$free
-新唐人亚太,http://free.xiptv.x10.bz/kudou.php?id=1297$free
-HOY77,http://free.xiptv.x10.bz/kudou.php?id=125$free
-HOY78,http://free.xiptv.x10.bz/kudou.php?id=127$free
-LoveNature,http://free.xiptv.x10.bz/kudou.php?id=40$free
-动物星球,http://free.xiptv.x10.bz/kudou.php?id=108$free
-WILD自然,http://free.xiptv.x10.bz/kudou.php?id=110$free
-BBCearth,http://free.xiptv.x10.bz/kudou.php?id=111$free
-BBClifestyle,http://free.xiptv.x10.bz/kudou.php?id=112$free
-美食星球,http://free.xiptv.x10.bz/kudou.php?id=69$free
-QFN美食,http://free.xiptv.x10.bz/kudou.php?id=70$free
-亚洲旅游,http://free.xiptv.x10.bz/kudou.php?id=71$free
-MYTV旅游,http://free.xiptv.x10.bz/kudou.php?id=15$free
-MYTV旅游,http://free.xiptv.x10.bz/kudou.php?id=16$free
-TVS旅游,http://free.xiptv.x10.bz/kudou.php?id=7$free
-MYTV旅游,http://free.xiptv.x10.bz/kudou.php?id=8$free
-18MYTV,http://free.xiptv.x10.bz/kudou.php?id=17$free
-EYETV旅游,http://free.xiptv.x10.bz/kudou.php?id=63$free
-fashion时尚,http://free.xiptv.x10.bz/kudou.php?id=36$free
-MTV,http://free.xiptv.x10.bz/kudou.php?id=113$free
-ROCKener,http://free.xiptv.x10.bz/kudou.php?id=32$free
-Animax动漫,http://free.xiptv.x10.bz/kudou.php?id=39$free
-CN动漫,http://free.xiptv.x10.bz/kudou.php?id=65$free
-东森电影,http://free.xiptv.x10.bz/kudou.php?id=86$free
-东森洋片,http://free.xiptv.x10.bz/kudou.php?id=87$free
-Hollywood,http://free.xiptv.x10.bz/kudou.php?id=88$free
-龙华洋片,http://free.xiptv.x10.bz/kudou.php?id=92$free
-龙华电影,http://free.xiptv.x10.bz/kudou.php?id=93$free
-美亚电影,http://free.xiptv.x10.bz/kudou.php?id=94$free
-HBOHD,http://free.xiptv.x10.bz/kudou.php?id=95$free
-HBOHits,http://free.xiptv.x10.bz/kudou.php?id=96$free
-HBOfamily,http://free.xiptv.x10.bz/kudou.php?id=97$free
-CINEMAX电影,http://free.xiptv.x10.bz/kudou.php?id=98$free
-AXN电影,http://free.xiptv.x10.bz/kudou.php?id=99$free
-纬来电影,http://free.xiptv.x10.bz/kudou.php?id=89$free
-FGMgold电影,http://free.xiptv.x10.bz/kudou.php?id=151$free
-极限电影,http://free.xiptv.x10.bz/kudou.php?id=136$free
-ROCKAction,http://free.xiptv.x10.bz/kudou.php?id=33$free
-KIX电影,http://free.xiptv.x10.bz/kudou.php?id=34$free
-美亚电影,http://free.xiptv.x10.bz/kudou.php?id=25$free
-Thrill电影,http://free.xiptv.x10.bz/kudou.php?id=37$free
-PopC电影,http://free.xiptv.x10.bz/kudou.php?id=38$free
-MYTV老电影,http://free.xiptv.x10.bz/kudou.php?id=14$free
-MYTV影视,http://free.xiptv.x10.bz/kudou.php?id=10$free
-MYTV电视剧,http://free.xiptv.x10.bz/kudou.php?id=11$free
-MYTV古装剧,http://free.xiptv.x10.bz/kudou.php?id=19$free
-ELTA影剧,http://free.xiptv.x10.bz/kudou.php?id=59$free
-龙祥时代,http://free.xiptv.x10.bz/kudou.php?id=85$free
-龙华偶像,http://free.xiptv.x10.bz/kudou.php?id=91$free
-龙华戏剧,http://free.xiptv.x10.bz/kudou.php?id=90$free
-天映频道,http://free.xiptv.x10.bz/kudou.php?id=104$free
-MYTV警匪剧,http://free.xiptv.x10.bz/kudou.php?id=22$free
-靖天映画,http://free.xiptv.x10.bz/kudou.php?id=150$free
-武电影,http://free.xiptv.x10.bz/kudou.php?id=12$free
-武电影,http://free.xiptv.x10.bz/kudou.php?id=126$free
-黄金华剧,http://free.xiptv.x10.bz/kudou.php?id=24$free
-靖洋戏剧,http://free.xiptv.x10.bz/kudou.php?id=53$free
-八大戏剧,http://free.xiptv.x10.bz/kudou.php?id=57$free
-EYETV戏剧,http://free.xiptv.x10.bz/kudou.php?id=64$free
-中天娱乐,http://free.xiptv.x10.bz/kudou.php?id=62$free
-东森戏剧,http://free.xiptv.x10.bz/kudou.php?id=67$free
-娱乐新闻,http://free.xiptv.x10.bz/kudou.php?id=20$free
-now财经,http://free.xiptv.x10.bz/kudou.php?id=28$free
-18财经,http://free.xiptv.x10.bz/kudou.php?id=4$free
-ViuTv,http://free.xiptv.x10.bz/kudou.php?id=23$free
-TVN韩语,http://free.xiptv.x10.bz/kudou.php?id=41$free
 民视HD,http://free.xiptv.x10.bz/kudou.php?id=43$free
 台视HD,http://free.xiptv.x10.bz/kudou.php?id=44$free
 中视HD,http://free.xiptv.x10.bz/kudou.php?id=45$free
@@ -539,12 +482,11 @@ TVN韩语,http://free.xiptv.x10.bz/kudou.php?id=41$free
 八大第1台,http://free.xiptv.x10.bz/kudou.php?id=56$free
 中天综合,http://free.xiptv.x10.bz/kudou.php?id=61$free
 东森综合,http://free.xiptv.x10.bz/kudou.php?id=66$free
-ELTA体育4台,http://free.xiptv.x10.bz/kudou.php?id=72$free
-自然发现,http://free.xiptv.x10.bz/kudou.php?id=73$free
-亚洲发现,http://free.xiptv.x10.bz/kudou.php?id=74$free
+
 ABC,http://free.xiptv.x10.bz/kudou.php?id=105$free
 CNN,http://free.xiptv.x10.bz/kudou.php?id=106$free
 BBCnews,http://free.xiptv.x10.bz/kudou.php?id=10$free
+TVN韩语,http://free.xiptv.x10.bz/kudou.php?id=41$free
 
 东森新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8540/.m3u8$tian
 寰宇新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8547/.m3u8$tian
@@ -748,6 +690,9 @@ nickjr,http://37.27.111.214:8080/live/22/hls.m3u8$芬兰
 东森幼幼,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8515/.m3u8$tian
 GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 
+Animax动漫,http://free.xiptv.x10.bz/kudou.php?id=39$free
+CN动漫,http://free.xiptv.x10.bz/kudou.php?id=65$free
+
 PetBites少儿,http://37.27.111.214:8080/live/81/hls.m3u8$芬兰
 TECHStorm科技,http://37.27.111.214:8080/live/80/hls.m3u8$芬兰
 
@@ -858,6 +803,26 @@ ImpactWrestling,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
 财富天下,http://1.203.184.49:8888/udp/225.1.8.165:9136$北信
 财富天下,http://125.80.153.209:8003/rtp/235.254.198.108:1708$重信
+
+LoveNature,http://free.xiptv.x10.bz/kudou.php?id=40$free
+动物星球,http://free.xiptv.x10.bz/kudou.php?id=108$free
+WILD自然,http://free.xiptv.x10.bz/kudou.php?id=110$free
+BBCearth,http://free.xiptv.x10.bz/kudou.php?id=111$free
+BBClifestyle,http://free.xiptv.x10.bz/kudou.php?id=112$free
+美食星球,http://free.xiptv.x10.bz/kudou.php?id=69$free
+QFN美食,http://free.xiptv.x10.bz/kudou.php?id=70$free
+亚洲旅游,http://free.xiptv.x10.bz/kudou.php?id=71$free
+MYTV旅游,http://free.xiptv.x10.bz/kudou.php?id=15$free
+MYTV旅游,http://free.xiptv.x10.bz/kudou.php?id=16$free
+TVS旅游,http://free.xiptv.x10.bz/kudou.php?id=7$free
+MYTV旅游,http://free.xiptv.x10.bz/kudou.php?id=8$free
+18MYTV,http://free.xiptv.x10.bz/kudou.php?id=17$free
+EYETV旅游,http://free.xiptv.x10.bz/kudou.php?id=63$free
+fashion时尚,http://free.xiptv.x10.bz/kudou.php?id=36$free
+MTV,http://free.xiptv.x10.bz/kudou.php?id=113$free
+ROCKener,http://free.xiptv.x10.bz/kudou.php?id=32$free
+自然发现,http://free.xiptv.x10.bz/kudou.php?id=73$free
+亚洲发现,http://free.xiptv.x10.bz/kudou.php?id=74$free
 
 金牌综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8$哈移
 怡伴健康,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8$哈移
@@ -1209,6 +1174,46 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 黑莓动画,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8$哈移
 华宇剧场,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8$哈移
 惊悚悬疑,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$哈移
+
+东森电影,http://free.xiptv.x10.bz/kudou.php?id=86$free
+东森洋片,http://free.xiptv.x10.bz/kudou.php?id=87$free
+Hollywood,http://free.xiptv.x10.bz/kudou.php?id=88$free
+龙华洋片,http://free.xiptv.x10.bz/kudou.php?id=92$free
+龙华电影,http://free.xiptv.x10.bz/kudou.php?id=93$free
+美亚电影,http://free.xiptv.x10.bz/kudou.php?id=94$free
+HBOHD,http://free.xiptv.x10.bz/kudou.php?id=95$free
+HBOHits,http://free.xiptv.x10.bz/kudou.php?id=96$free
+HBOfamily,http://free.xiptv.x10.bz/kudou.php?id=97$free
+CINEMAX电影,http://free.xiptv.x10.bz/kudou.php?id=98$free
+AXN电影,http://free.xiptv.x10.bz/kudou.php?id=99$free
+纬来电影,http://free.xiptv.x10.bz/kudou.php?id=89$free
+FGMgold电影,http://free.xiptv.x10.bz/kudou.php?id=151$free
+极限电影,http://free.xiptv.x10.bz/kudou.php?id=136$free
+ROCKAction,http://free.xiptv.x10.bz/kudou.php?id=33$free
+KIX电影,http://free.xiptv.x10.bz/kudou.php?id=34$free
+美亚电影,http://free.xiptv.x10.bz/kudou.php?id=25$free
+Thrill电影,http://free.xiptv.x10.bz/kudou.php?id=37$free
+PopC电影,http://free.xiptv.x10.bz/kudou.php?id=38$free
+MYTV老电影,http://free.xiptv.x10.bz/kudou.php?id=14$free
+MYTV影视,http://free.xiptv.x10.bz/kudou.php?id=10$free
+MYTV电视剧,http://free.xiptv.x10.bz/kudou.php?id=11$free
+MYTV古装剧,http://free.xiptv.x10.bz/kudou.php?id=19$free
+ELTA影剧,http://free.xiptv.x10.bz/kudou.php?id=59$free
+龙祥时代,http://free.xiptv.x10.bz/kudou.php?id=85$free
+龙华偶像,http://free.xiptv.x10.bz/kudou.php?id=91$free
+龙华戏剧,http://free.xiptv.x10.bz/kudou.php?id=90$free
+天映频道,http://free.xiptv.x10.bz/kudou.php?id=104$free
+MYTV警匪剧,http://free.xiptv.x10.bz/kudou.php?id=22$free
+靖天映画,http://free.xiptv.x10.bz/kudou.php?id=150$free
+武电影,http://free.xiptv.x10.bz/kudou.php?id=12$free
+武电影,http://free.xiptv.x10.bz/kudou.php?id=126$free
+黄金华剧,http://free.xiptv.x10.bz/kudou.php?id=24$free
+靖洋戏剧,http://free.xiptv.x10.bz/kudou.php?id=53$free
+八大戏剧,http://free.xiptv.x10.bz/kudou.php?id=57$free
+EYETV戏剧,http://free.xiptv.x10.bz/kudou.php?id=64$free
+中天娱乐,http://free.xiptv.x10.bz/kudou.php?id=62$free
+东森戏剧,http://free.xiptv.x10.bz/kudou.php?id=67$free
+娱乐新闻,http://free.xiptv.x10.bz/kudou.php?id=20$free
 
 喜剧影院,http://1.203.184.49:8888/udp/225.1.8.251:4120$北信
 动作影院,http://1.203.184.49:8888/udp/225.1.8.252:4120$北信
