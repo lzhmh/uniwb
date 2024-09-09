@@ -318,8 +318,6 @@ NBA直播不定时,https://ff.chgdst.com/live/xiaoling99.m3u8
 安徽体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv
 安徽体育,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829415240627.m3u8
 
-八卦大师,http://124.248.69.76:35455/douyu/851040
-
 八卦大师,http://diyp.zxxoo.work/douyu/851040
 帽子象棋,http://diyp.zxxoo.work/douyu/4487219
 笑笑象棋,http://diyp.zxxoo.work/douyu/9969
@@ -401,6 +399,8 @@ JJ斗地主冠军赛,http://159.75.85.63:35455/douyu/488743
 JJ斗地主冠军赛,http://43.138.170.29:35455/douyu/488743
 陶老师围棋,http://43.138.170.29:35455/douyu/6586073
 弈夫围棋,http://43.138.170.29:35455/douyu/6399350
+
+八卦大师,http://124.248.69.76:35455/douyu/851040
 
 北京体育,http://1.203.184.49:8888/udp/225.1.8.126:8002$北信
 北京体育,http://1.203.184.49:8888/udp/225.1.8.23:8002$北信
@@ -1212,7 +1212,6 @@ CINEMAX电影,http://free.xiptv.x10.bz/kudou.php?id=98$free
 AXN电影,http://free.xiptv.x10.bz/kudou.php?id=99$free
 纬来电影,http://free.xiptv.x10.bz/kudou.php?id=89$free
 FGMgold电影,http://free.xiptv.x10.bz/kudou.php?id=151$free
-极限电影,http://free.xiptv.x10.bz/kudou.php?id=136$free
 ROCKAction,http://free.xiptv.x10.bz/kudou.php?id=33$free
 KIX电影,http://free.xiptv.x10.bz/kudou.php?id=34$free
 美亚电影,http://free.xiptv.x10.bz/kudou.php?id=25$free
