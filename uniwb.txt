@@ -71,13 +71,17 @@
 
 CCTV4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8$哈移
 CCTV4,http://113.57.109.48:1111/tsfile/live/1003_1.m3u8$武联
+CCTV4,http://101.200.122.188/tv/migu085.php?id=cctv4$migu
 CCTV4,http://61.138.54.155:2233/hls/14/index.m3u8$绥化联
+CCTV4,http://58.19.38.162:9901/tsfile/live/1003_1.m3u8$湖联
 CCTV4,http://125.80.153.209:8003/rtp/235.254.198.183:7980$重信
 CCTV4,http://125.80.153.209:8003/rtp/235.254.198.3:1288$重信
 
 CCTV13,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8$哈移
 CCTV13,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226571/index.m3u8$哈移
 CCTV13,http://113.57.109.48:1111/tsfile/live/1012_1.m3u8$武联
+CCTV13,http://101.200.122.188/tv/migu085.php?id=cctv13$migu
+CCTV13,http://58.19.38.162:9901/tsfile/live/1012_1.m3u8$湖联
 CCTV13,http://61.138.54.155:2233/hls/23/index.m3u8$绥化联
 CCTV13,http://125.80.153.209:8003/rtp/235.254.198.9:1312$重信
 
@@ -184,9 +188,15 @@ CCTV5+,http://113.57.109.48:1111/tsfile/live/1016_1.m3u8$武联
 CCTV5,http://113.57.109.48:1111/tsfile/live/1004_1.m3u8$武联
 CCTV16,http://113.57.109.48:1111/tsfile/live/1014_1.m3u8$武联
 
+CCTV5,http://101.200.122.188/tv/migu085.php?id=cctv5$migu
+CCTV5+,http://101.200.122.188/tv/migu085.php?id=cctv5p$migu
+
 CCTV5,http://61.138.54.155:2233/hls/15/index.m3u8$绥化联
 CCTV5+,http://61.138.54.155:2233/hls/70/index.m3u8$绥化联
 CCTV16,http://61.138.54.155:2233/hls/71/index.m3u8$绥化联
+
+CCTV5,http://58.19.38.162:9901/tsfile/live/1004_1.m3u8$湖联
+CCTV5+,http://58.19.38.162:9901/tsfile/live/1014_1.m3u8$湖联
 
 CCTV5,http://125.80.153.209:8003/rtp/235.254.198.54:1492$重信
 CCTV5+,http://125.80.153.209:8003/rtp/235.254.198.122:1764$重信
@@ -246,9 +256,8 @@ MOMOTV,rtmp://f13h.mine.nu/sat/tv761.flv
 MOMOTV,http://60.248.77.83/sat/tv761.flv
 MOMOTV,rtmp://f13h.mine.nu/sat/tv761
 
-咪咕直播,http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8$哈移
-
 风云足球,http://113.57.109.48:1111/tsfile/live/1042_1.m3u8$武联
+风云足球,http://58.19.38.162:9901/tsfile/live/1034_1.m3u8$湖联
 
 足球频道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
 
@@ -272,6 +281,7 @@ MOMOTV,rtmp://f13h.mine.nu/sat/tv761
 中国功夫,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8$哈移
 
 快乐垂钓,http://113.57.109.48:1111/tsfile/live/1041_1.m3u8$武联
+快乐垂钓,http://58.19.38.162:9901/tsfile/live/1033_1.m3u8$湖联
 
 骑牛大赛,http://11.xmyxc.cn/api/php/yy.php?id=1355313481
 摩托挑战,http://11.xmyxc.cn/api/php/yy.php?id=1354946983
@@ -282,6 +292,8 @@ MOMOTV,rtmp://f13h.mine.nu/sat/tv761
 斗鱼体育,http://live.iill.top/douyu.php?id=9170147
 斗鱼体育,http://159.75.85.63:35455/douyu/9170147
 斗鱼体育,http://zzy789.xyz/douyu1.php?id=9170147
+
+咪咕直播,http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8$哈移
 
 NBA直播不定时,https://ff.chgdst.com/live/xiaoling99.m3u8
 小七直播不定时,https://pull.lianggexinxi.xyz/live/stream-418311_lsd.m3u8?_=1698249099856
@@ -700,10 +712,7 @@ ELTV生活英语,http://37.27.111.214:8080/live/56/hls.m3u8$芬兰
 动漫秀场,http://61.138.54.155:2233/hls/68/index.m3u8$绥化联
 黑龙江少儿,http://61.138.54.155:2233/hls/7/index.m3u8$绥化联
 金鹰卡通,http://61.138.54.155:2233/hls/9/index.m3u8$绥化联
-
-金鹰卡通,http://27.187.248.250:4300/rtp/239.254.200.92:9252
-金鹰卡通,http://171.124.48.100:8083/rtp/226.0.2.172:9288
-金鹰卡通,http://101.18.126.114:8888/rtp/239.253.92.163:8055
+金鹰卡通,http://58.19.38.162:9901/tsfile/live/1031_1.m3u8$湖联
 
 嘉佳卡通,http://183.11.239.36:808/hls/8/index.m3u8
 淘BABY,http://qnap.yjnhome.com:4000/udp/239.3.1.238:8001
@@ -866,6 +875,20 @@ CCTV14,http://113.57.109.48:1111/tsfile/live/1013_1.m3u8$武联
 CCTV15,http://113.57.109.48:1111/tsfile/live/0015_1.m3u8$武联
 CCTV17,http://113.57.109.48:1111/tsfile/live/1015_1.m3u8$武联
 
+CCTV1,http://101.200.122.188/tv/migu085.php?id=cctv1$migu
+CCTV2,http://101.200.122.188/tv/migu085.php?id=cctv2$migu
+CCTV3,http://101.200.122.188/tv/migu085.php?id=cctv3$migu
+CCTV6,http://101.200.122.188/tv/migu085.php?id=cctv6$migu
+CCTV7,http://101.200.122.188/tv/migu085.php?id=cctv7$migu
+CCTV8,http://101.200.122.188/tv/migu085.php?id=cctv8$migu
+CCTV9,http://101.200.122.188/tv/migu085.php?id=cctv9$migu
+CCTV10,http://101.200.122.188/tv/migu085.php?id=cctv10$migu
+CCTV11,http://101.200.122.188/tv/migu085.php?id=cctv11$migu
+CCTV12,http://101.200.122.188/tv/migu085.php?id=cctv12$migu
+CCTV14,http://101.200.122.188/tv/migu085.php?id=cctv14$migu
+CCTV15,http://101.200.122.188/tv/migu085.php?id=cctv15$migu
+CCTV17,http://101.200.122.188/tv/migu085.php?id=cctv17$migu
+
 CCTV9,http://61.138.54.155:2233/hls/19/index.m3u8$绥化联
 CCTV10,http://61.138.54.155:2233/hls/20/index.m3u8$绥化联
 CCTV1,http://61.138.54.155:2233/hls/11/index.m3u8$绥化联
@@ -878,6 +901,19 @@ CCTV11,http://61.138.54.155:2233/hls/21/index.m3u8$绥化联
 CCTV12,http://61.138.54.155:2233/hls/22/index.m3u8$绥化联
 CCTV14,http://61.138.54.155:2233/hls/24/index.m3u8$绥化联
 CCTV15,http://61.138.54.155:2233/hls/25/index.m3u8$绥化联
+
+CCTV1,http://58.19.38.162:9901/tsfile/live/1000_1.m3u8$湖联
+CCTV2,http://58.19.38.162:9901/tsfile/live/1001_1.m3u8$湖联
+CCTV3,http://58.19.38.162:9901/tsfile/live/1002_1.m3u8$湖联
+CCTV6,http://58.19.38.162:9901/tsfile/live/1005_1.m3u8$湖联
+CCTV7,http://58.19.38.162:9901/tsfile/live/1006_1.m3u8$湖联
+CCTV8,http://58.19.38.162:9901/tsfile/live/1007_1.m3u8$湖联
+CCTV9,http://58.19.38.162:9901/tsfile/live/1008_1.m3u8$湖联
+CCTV10,http://58.19.38.162:9901/tsfile/live/1009_1.m3u8$湖联
+CCTV11,http://58.19.38.162:9901/tsfile/live/1010_1.m3u8$湖联
+CCTV12,http://58.19.38.162:9901/tsfile/live/1011_1.m3u8$湖联
+CCTV14,http://58.19.38.162:9901/tsfile/live/1013_1.m3u8$湖联
+CCTV15,http://58.19.38.162:9901/tsfile/live/0015_1.m3u8$湖联
 
 CCTV1,http://125.80.153.209:8003/rtp/235.254.198.51:1480$重信
 CCTV2,http://125.80.153.209:8003/rtp/235.254.198.52:1484$重信
@@ -1004,6 +1040,23 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 新疆卫视,http://61.138.54.155:2233/hls/30/index.m3u8$绥化联
 延边卫视,http://61.138.54.155:2233/hls/61/index.m3u8$绥化联
 
+湖北卫视,http://58.19.38.162:9901/tsfile/live/1015_1.m3u8$湖联
+湖南卫视,http://58.19.38.162:9901/tsfile/live/1016_1.m3u8$湖联
+北京卫视,http://58.19.38.162:9901/tsfile/live/1017_1.m3u8$湖联
+东方卫视,http://58.19.38.162:9901/tsfile/live/1018_1.m3u8$湖联
+江苏卫视,http://58.19.38.162:9901/tsfile/live/1019_1.m3u8$湖联
+浙江卫视,http://58.19.38.162:9901/tsfile/live/1020_1.m3u8$湖联
+安徽卫视,http://58.19.38.162:9901/tsfile/live/1021_1.m3u8$湖联
+广东卫视,http://58.19.38.162:9901/tsfile/live/1022_1.m3u8$湖联
+深圳卫视,http://58.19.38.162:9901/tsfile/live/1023_1.m3u8$湖联
+天津卫视,http://58.19.38.162:9901/tsfile/live/1024_1.m3u8$湖联
+山东卫视,http://58.19.38.162:9901/tsfile/live/1025_1.m3u8$湖联
+海南卫视,http://58.19.38.162:9901/tsfile/live/1026_1.m3u8$湖联
+辽宁卫视,http://58.19.38.162:9901/tsfile/live/1027_1.m3u8$湖联
+东南卫视,http://58.19.38.162:9901/tsfile/live/1028_1.m3u8$湖联
+江西卫视,http://58.19.38.162:9901/tsfile/live/1029_1.m3u8$湖联
+贵州卫视,http://58.19.38.162:9901/tsfile/live/1030_1.m3u8$湖联
+
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$索1
 重庆卫视,https://sjlivecdn9.cbg.cn/202506252322/app_2/_definst_/ls_2.stream/chunklist.m3u8$索1
 
@@ -1092,6 +1145,10 @@ CHC动作电影,http://113.57.109.48:1111/tsfile/live/1045_1.m3u8$武联
 CHC家庭影院,http://113.57.109.48:1111/tsfile/live/1044_1.m3u8$武联
 CHC影迷电影,http://113.57.109.48:1111/tsfile/live/1046_1.m3u8$武联
 
+CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1036_1.m3u8$湖联
+CHC动作电影,http://58.19.38.162:9901/tsfile/live/1037_1.m3u8$湖联
+CHC影迷电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8$湖联
+
 邵氏影院,http://159.75.85.63:35455/douyu/4246519
 邵氏影院,http://zzy789.xyz/douyu1.php?id=4246519
 邵氏影院,http://maomao.kandiantv.cn/douyu1.php?id=4246519
@@ -1131,6 +1188,7 @@ CHC影迷电影,http://113.57.109.48:1111/tsfile/live/1046_1.m3u8$武联
 电视剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8$哈移
 
 第一剧场,http://113.57.109.48:1111/tsfile/live/1043_1.m3u8$武联
+第一剧场,http://58.19.38.162:9901/tsfile/live/1035_1.m3u8$湖联
 
 家庭影院,http://61.138.54.155:2233/hls/10/index.m3u8$绥化联
 
@@ -3274,6 +3332,7 @@ CGTNDOCU,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/8888
 世界地理,http://61.185.200.157:10000/rtp/239.111.205.71:5140
 
 金鹰纪实,http://113.57.109.48:1111/tsfile/live/1040_1.m3u8
+金鹰纪实,http://58.19.38.162:9901/tsfile/live/1032_1.m3u8$湖联
 金鹰纪实,http://116.128.242.83:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 
 CGTNDocumentary,http://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
