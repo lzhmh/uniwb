@@ -1,6 +1,6 @@
 //粤联频道数据收集自网络上的分享240827开通IPV6
 
-港澳U068,#genre#
+港澳U069,#genre#
 
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw$php
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx$php
@@ -76,6 +76,7 @@ CCTV13,http://58.19.38.162:9901/tsfile/live/1012_1.m3u8$湖联
 CCTV13,http://61.138.54.155:2233/hls/23/index.m3u8$绥化联
 CCTV13,http://125.80.153.209:8003/rtp/235.254.198.9:1312$重信
 
+先锋乒羽,http://42.48.17.204:808/hls/77/index.m3u8$长联
 先锋乒羽,http://60.7.56.50:4000/rtp/239.253.93.219:6397
 先锋乒羽,http://wouu.net:9977/udp/239.93.42.56:5140
 
@@ -209,6 +210,7 @@ CCTV5,http://125.80.153.209:8003/rtp/235.254.198.142:1846$重信
 CCTV5,https://qsxw.gov.cn/rtmp_export/video33.m3u8$qsxw
 CCTV5+,http://www.furymax.top:85/rtp/239.254.96.234:9484
 
+先锋乒羽,http://42.48.17.204:808/hls/77/index.m3u8$长联
 先锋乒羽,http://60.7.56.50:4000/rtp/239.253.93.219:6397
 先锋乒羽,http://wouu.net:9977/udp/239.93.42.56:5140
 
@@ -281,9 +283,16 @@ MOMOTV,rtmp://f13h.mine.nu/sat/tv761
 中国功夫,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8$哈移
 
 武术世界,http://php.jdshipin.com:8880/hntv.php?id=wspd$php
+武术世界,http://42.48.17.204:808/hls/119/index.m3u8$长联
 
 快乐垂钓,http://113.57.109.48:1111/tsfile/live/1041_1.m3u8$武联
 快乐垂钓,http://58.19.38.162:9901/tsfile/live/1033_1.m3u8$湖联
+
+快乐垂钓,http://42.48.17.204:808/hls/62/index.m3u8$长联
+四海钓鱼,http://42.48.17.204:808/hls/79/index.m3u8$长联
+茶频道,http://42.48.17.204:808/hls/76/index.m3u8$长联
+天下收藏,http://42.48.17.204:808/hls/82/index.m3u8$长联
+文物宝库,http://42.48.17.204:808/hls/120/index.m3u8$长联
 
 骑牛大赛,http://11.xmyxc.cn/api/php/yy.php?id=1355313481
 摩托挑战,http://11.xmyxc.cn/api/php/yy.php?id=1354946983
@@ -405,6 +414,10 @@ JJ斗地主冠军赛,http://43.138.170.29:35455/douyu/488743
 弈夫围棋,http://43.138.170.29:35455/douyu/6399350
 
 八卦大师,http://124.248.69.76:35455/douyu/851040
+
+天元围棋,http://42.48.17.204:808/hls/75/index.m3u8$长联
+央视台球,http://42.48.17.204:808/hls/108/index.m3u8$长联
+高尔夫网球,http://42.48.17.204:808/hls/111/index.m3u8$长联
 
 北京体育,http://218.241.192.50:8808/udp/239.3.1.243:8000
 
@@ -786,6 +799,10 @@ ImpactWrestling,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 军事评论,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8$哈移
 
 兵器科技,http://diyp.uk.to/zb/1725695663.php?id=bqkj
+兵器科技,http://42.48.17.204:808/hls/118/index.m3u8$长联
+证券服务,http://42.48.17.204:808/hls/124/index.m3u8$长联
+财富天下,http://42.48.17.204:808/hls/83/index.m3u8$长联
+家庭理财,http://42.48.17.204:808/hls/84/index.m3u8$长联
 
 点掌财经,https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
 
@@ -949,6 +966,9 @@ CCTV4K,http://113.96.179.241/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u
 
 CCTV4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e19038fa74514ab3f00febbcd6de0/1200.m3u8
+
+文化精品,http://42.48.17.204:808/hls/107/index.m3u8$长联
+女性时尚,http://42.48.17.204:808/hls/110/index.m3u8$长联
 
 省级频道,#genre#
 
@@ -1150,6 +1170,10 @@ CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1036_1.m3u8$湖联
 CHC动作电影,http://58.19.38.162:9901/tsfile/live/1037_1.m3u8$湖联
 CHC影迷电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8$湖联
 
+CHC家庭影院,http://42.48.17.204:808/hls/63/index.m3u8$长联
+CHC影迷电影,http://42.48.17.204:808/hls/64/index.m3u8$长联
+CHC动作电影,http://42.48.17.204:808/hls/65/index.m3u8$长联
+
 邵氏影院,http://159.75.85.63:35455/douyu/4246519
 邵氏影院,http://zzy789.xyz/douyu1.php?id=4246519
 邵氏影院,http://maomao.kandiantv.cn/douyu1.php?id=4246519
@@ -1194,6 +1218,9 @@ CHC影迷电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8$湖联
 
 第一剧场,http://113.57.109.48:1111/tsfile/live/1043_1.m3u8$武联
 第一剧场,http://58.19.38.162:9901/tsfile/live/1035_1.m3u8$湖联
+第一剧场,http://42.48.17.204:808/hls/117/index.m3u8$长联
+
+怀旧剧场,http://42.48.17.204:808/hls/112/index.m3u8$长联
 
 家庭影院,http://61.138.54.155:2233/hls/10/index.m3u8$绥化联
 
@@ -3322,6 +3349,7 @@ CGTNDOCU,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/8888
 
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8$61
 
+世界地理,http://42.48.17.204:808/hls/109/index.m3u8$长联
 世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
 世界地理,http://110.178.52.75:8084/udp/239.1.1.99:8099
 世界地理,http://183.185.220.49:8084/rtp/226.0.2.222:9688
@@ -3367,6 +3395,9 @@ CETV1,http://61.138.54.155:2233/hls/65/index.m3u8$绥化联
 CETV2,http://61.138.54.155:2233/hls/66/index.m3u8$绥化联
 CETV1,http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8
 CETV4,https://cntv.lat/tv?auth=202311030915&id=cetv4
+
+CETV1,http://42.48.17.204:808/hls/73/index.m3u8$长联
+CETV2,http://42.48.17.204:808/hls/74/index.m3u8$长联
 
 CEC-1,http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
 CEC-2,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
