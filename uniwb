@@ -46,6 +46,347 @@
 {"key":"美剧天堂","name":"磁力｜美剧天堂","type":3,"api":"csp_MeijuTT","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/hnkfmh/jsjar/raw/master/custom_spider.jar"},     
 //#磁力end
 
+        
+     {
+      "key": "ConfigCenter",
+      "name": "配置中心",
+      "type": 3,
+      "api": "csp_ConfigCenter",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "https://git.acwing.com/iduoduo/orange/-/raw/main/peizhi.json"
+      },"jar": "https://git.acwing.com/iduoduo/orange/-/raw/main/custom_spider.jar"},
+    {
+      "key": "哔哩FM",
+      "name": "哔哩哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://git.acwing.com/iduoduo/orange/-/raw/main/json/bilibili.json",
+        "cookie": ""
+      },"jar": "https://git.acwing.com/iduoduo/orange/-/raw/main/custom_spider.jar"},
+    {
+      "key": "多多玩偶",
+      "name": "多多影音",
+      "type": 3,
+      "api": "csp_kongbai",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "https://git.acwing.com/iduoduo/orange/-/raw/main/peizhi.json",
+        "siteUrl": "https://tv.yydsys.cc/",
+        "filter": "https://git.acwing.com/iduoduo/orange/-/raw/main/wogg.json"
+      },"jar": "https://git.acwing.com/iduoduo/orange/-/raw/main/custom_spider.jar"},
+
+    {
+      "key": "蜡笔玩偶",
+      "name": "蜡笔玩偶",
+      "type": 3,
+      "api": "csp_kongbai",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "https://git.acwing.com/iduoduo/orange/-/raw/main/peizhi.json",
+        "siteUrl": "https://duopan.fun/",
+        "filter": "https://git.acwing.com/iduoduo/orange/-/raw/main/wogg.json"
+      },"jar": "https://git.acwing.com/iduoduo/orange/-/raw/main/custom_spider.jar"},
+
+		{
+			"key": "js_Czsapp",
+			"name": "厂长影视",
+			"type": 3,
+			"api": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+	        "ext": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_js/厂长资源(可搜索).js"
+		},		
+        
+		{
+			"key": "hipy_js_4K-AV",
+			"name": "4K-AV",
+			"type": 3,
+			"api": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_js/4K-AV.js"
+		},		
+        	
+		{
+			"key": "js_电影先生",
+			"name": "电影先生",
+			"type": 3,
+			"api": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_js/电影先生.js"
+		},		
+    	
+		{
+			"key": "js_毒蛇",
+			"name": "毒蛇影视",
+			"type": 3,
+			"api": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_js/毒蛇电影[优].js"
+		},		
+		{
+			"key": "cjzy_360资源",
+			"name": "卫士影视",
+			"type": 1,
+			"api": "https://360zy.com/api.php/provide/vod",
+			"playurl": "json:https://jx.behds.cn/qcb.php?url=",
+			"categories": [
+				"国产剧",
+				"国产动漫",
+				"香港剧",
+				"台湾剧",
+				"欧美剧",
+				"日韩动漫",
+				"NBA",
+				"短片",
+				"西部片",
+				"综艺片",
+				"动漫片",
+				"动作片",
+				"喜剧片",
+				"爱情片",
+				"科幻片",
+				"恐怖片",
+				"惊悚片",
+				"悬疑片",
+				"犯罪片",
+				"剧情片",
+				"战争片",
+				"家庭篇",
+				"记录片",
+				"历史片",
+				"动漫片",
+				"大陆综艺",
+				"港台综艺"
+			]
+		},	
+		{
+			"key": "csp_XBPQ_奇侠",
+			"name": "奇侠影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://git.acwing.com/iduoduo/orange/-/raw/main/json/奇侠.json",
+			"jar":"https://git.acwing.com/iduoduo/orange/-/raw/main/jar/fine.jar;md5;70235CDCA3C95116FFC00BEA3A99C2C6"
+		},
+        
+		{
+			"key": "csp_XBPQ_茶杯狐",
+			"name": "茶杯聚合",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://git.acwing.com/iduoduo/orange/-/raw/main/json/茶杯.json",
+			"jar":"https://git.acwing.com/iduoduo/orange/-/raw/main/jar/fine.jar;md5;70235CDCA3C95116FFC00BEA3A99C2C6"
+		},
+		{
+			"key": "js_subaibai",
+			"name": "白白影视",
+			"type": 3,
+			"api": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_libs/drpy2.min.js",
+			"playerType": 1,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_js/素白白[优].js"
+		},
+		{
+			"key": "hipy_js_央视大全",
+			"name": "央视大全",
+			"type": 3,
+			"api": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_js/大全央视[央].js"
+		},		
+
+		{
+			"key": "js_ddys",
+			"name": "低端影视",
+			"type": 3,
+			"api": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_js/低端.js"
+		},
+		{
+			"key": "js_烧火电影",
+			"name": "烧火影视",
+			"type": 3,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"api": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_libs/drpy2.min.js",
+			"ext": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_js/烧火影视[优].js"
+		},	
+		{
+			"key": "csp_非凡资源",
+			"name": "非凡资源",
+			"type": 1,
+			"api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+			"playurl": "json:https://jx.behds.cn/qcb.php?url=",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"categories": [
+				"动作片",
+				"喜剧片",
+				"科幻片",
+				"恐怖片",
+				"爱情片",
+				"剧情片",
+				"战争片",
+				"记录片",
+				"国产剧",
+				"欧美剧",
+				"香港剧",
+				"韩国剧",
+				"台湾剧",
+				"日本剧",
+				"海外剧",
+				"泰国剧",
+				"国产动漫",
+				"日韩动漫",
+				"欧美动漫",
+				"港台动漫",
+				"海外动漫",
+				"大陆综艺",
+				"港台综艺",
+				"日韩综艺",
+				"欧美综艺"
+			]
+		},
+		{
+			"key": "量子资源",
+			"name": "量子资源",
+			"type": 1,
+			"api": "http://cj.lziapi.com/api.php/provide/vod/",
+			"playurl": "json:https://jx.behds.cn/qcb.php?url=",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": [
+				"国产剧",
+				"国产动漫",
+				"泰国剧",
+				"台湾剧",
+				"香港剧",
+				"欧美剧",
+				"韩国剧",
+				"日本剧",
+				"动漫",
+				"体育",
+				"剧情片",
+				"动作片",
+				"爱情片",
+				"喜剧片"
+			]
+		},		    
+        
+		{
+			"key": "csp_XBPQ_侠客",
+			"name": "侠客影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://git.acwing.com/iduoduo/orange/-/raw/main/json/侠客.json",
+			"jar":"https://git.acwing.com/iduoduo/orange/-/raw/main/jar/fine.jar;md5;70235CDCA3C95116FFC00BEA3A99C2C6"
+		},		
+	{
+			"key": "baipiaoys",
+			"name": "白嫖影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"changeable": 1,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://git.acwing.com/iduoduo/orange/-/raw/main/json/白嫖.json",
+			"jar":"https://git.acwing.com/iduoduo/orange/-/raw/main/jar/fine.jar;md5;70235CDCA3C95116FFC00BEA3A99C2C6"
+		},
+		{
+			"key": "js_changmeng",
+			"name": "畅梦影视",
+			"type": 3,
+			"api": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_js/畅梦影视[优].js"
+		},	
+        
+		{
+			"key": "csp_奇优",
+			"name": "奇优影院",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://git.acwing.com/iduoduo/orange/-/raw/main/json/奇优影院.json",
+			"jar":"https://git.acwing.com/iduoduo/orange/-/raw/main/jar/fine.jar;md5;70235CDCA3C95116FFC00BEA3A99C2C6"			
+		},
+		{
+			"key": "XBPQ_石榴",
+			"name": "石榴影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://git.acwing.com/iduoduo/orange/-/raw/main/json/shiliu.json",
+			"jar":"https://git.acwing.com/iduoduo/orange/-/raw/main/jar/fine.jar;md5;70235CDCA3C95116FFC00BEA3A99C2C6"			
+		},	
+
+      {
+			"key": "hipy_js_黑木耳资源[资]",
+			"name": "木耳资源",
+			"type": 3,
+			"api": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_js/黑木耳资源[资].js"
+		},
+        
+		{
+			"key": "js_Lib",
+			"name": "利奥影视",
+			"type": 3,
+			"api": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_js/LIBVIO[优].js","jar": "https://gitee.com/hnkfmh/jsjar/raw/master/custom_spider.jar"},
+
     {"key":"Xinsj","name":"👓视觉┃直连","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"changeable":1},
     {"key":"鑫鑫影院","name":"🐰鑫鑫","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1},
     {"key": "畅梦","name": "畅梦秒播","type": 3,"ua": "okhttp/3.15","api": "https://gitee.com/tv888/tv/raw/master/lib/drpy2.min.js","ext": "https://gitee.com/tv888/tv/raw/master/lib/畅梦.js"},
