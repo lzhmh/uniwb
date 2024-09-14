@@ -12,7 +12,7 @@
 ,{"name":"Move", "type":0,"url":"https://mirror.ghproxy.com/https://raw.github.com/lzhmh/pd/main/moves.php","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ,{"name":"Mtv", "type":0,"url":"https://mirror.ghproxy.com/https://raw.github.com/lzhmh/pd/main/Mtv.php","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
   "sites":[{"key":"csp_DouDou","name":"豆瓣U2H36","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
-//--------以上复制-------20240913----------------------
+//--------以上复制-------20240914---------------------
     {"key":"hipy_js_央视大全","name":"央视节目","type": 3,"api":"https://gitee.com/hnkfmh/jsjar/blob/master/tv888/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext":"https://gitee.com/hnkfmh/jsjar/blob/master/tv888/大全央视[央].js"},		
     {"key":"cctv","name":"🐾央视频道","type":3,"api":"csp_CCTV","jar":"https://gitee.com/hnkfmh/jsjar/blob/master/tv888/HeChengChaXiu7.jar","searchable":0,"filterable":0,"ext":"https://gitee.com/hnkfmh/jsjar/blob/master/tv888/央视大全.json"},
     {"key":"py_cctv","name":"央视大全","ua":"okhttp/3.15","type": 3,"api":"py_cctv","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://gitee.com/hnkfmh/jsjar/blob/master/tv888/cctv.py"},
@@ -27,7 +27,7 @@
 //{"key":"贱贱","name":"🐓┃贱贱┃4K","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js"},
 
 
-//#磁力
+//#磁力资源区
 {"key":"荐片","name":"磁力｜荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ownjpykxttjzuhy.jiesiwa.com","jar": "https://gitee.com/hnkfmh/jsjar/raw/master/custom_spider.jar"},     
 {"key":"New6v","name":"磁力｜New6V","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.xb6v.com","jar": "https://gitee.com/hnkfmh/jsjar/raw/master/custom_spider.jar"},     
 {"key": "meowtv_6Vcl","name": "新6v┃磁力","type": 3,"api": "csp_SixV","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "http://www.xb6v.com/"},
@@ -42,7 +42,15 @@
 {"key":"哔嘀影视","name":"磁力｜哔嘀影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://szyyds.cn/tv/XYQHiker/哔嘀影视.json","jar": "https://gitee.com/hnkfmh/jsjar/raw/master/custom_spider.jar"},     
 {"key":"酷吧电影","name":"磁力｜酷吧电影","type":3,"api":"csp_KubaCL","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/hnkfmh/jsjar/raw/master/custom_spider.jar"},     
 {"key":"美剧天堂","name":"磁力｜美剧天堂","type":3,"api":"csp_MeijuTT","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/hnkfmh/jsjar/raw/master/custom_spider.jar"},     
+{"key":"csp_BLSGod","name":"📀80S影视","type":3,"api":"csp_BLSGod","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/hnkfmh/jsjar/raw/master/XYQ.jar"},
 //#磁力end
+//jar内置爬虫规则区
+    {"key":"csp_Kuaikan","name":"💡快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/hnkfmh/jsjar/raw/master/XYQ.jar"},
+    {"key":"csp_Czsapp","name":"🐞厂长资源","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czys.top","jar": "https://gitee.com/hnkfmh/jsjar/raw/master/XYQ.jar"},
+    {"key":"csp_Bdys","name":"🐞哔嘀影视","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.yjys02.com","jar": "https://gitee.com/hnkfmh/jsjar/raw/master/XYQ.jar"},
+    {"key":"csp_Ddys","name":"🐞低端影视","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/hnkfmh/jsjar/raw/master/XYQ.jar"},
+    {"key":"csp_Ikanbot","name": "👾Ikanbot","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://v.aikanbot.com","jar": "https://gitee.com/hnkfmh/jsjar/raw/master/XYQ.jar"},
+
     {"key":"影视仓","name":"影视仓","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/hnkfmh/jsjar/raw/master/0819.jar"},
     {"key":"Xinsj","name":"👓视觉┃直连","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"changeable":1},
     {"key":"鑫鑫影院","name":"🐰鑫鑫","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1},
@@ -201,9 +209,12 @@
     {"key":"csp_BTPiaoHua","name":"💕新飘花电影网(磁力)","type":3,"api":"csp_BTPiaoHua","searchable":1,"jar":"https://gitee.com/hnkfmh/jsjar/raw/master/candymuj.jar"},
     {"key":"csp_IQIYI","name":"💕IQIYI","type":3,"api":"csp_IQIYI","searchable":1,"ext":"综合","jar":"https://gitee.com/hnkfmh/jsjar/raw/master/candymuj.jar"},
     {"key":"csp_MGTV","name":"💕MGTV","type":3,"api":"csp_MGTV","searchable":1,"ext":"playerjy","jar":"https://gitee.com/hnkfmh/jsjar/raw/master/candymuj.jar"},
-    {"key":"csp_SP360","name":"💕360","type":3,"api":"csp_SP360","searchable":1,"ext":"playerjy","jar":"https://gitee.com/hnkfmh/jsjar/raw/master/candymuj.jar"},
+    {"key":"csp_SP360","name":"🐞360","type":3,"api":"csp_SP360","searchable":1,"ext":"playerjy","jar":"https://gitee.com/hnkfmh/jsjar/raw/master/candymuj.jar"},
     {"key": "最大资源","name": "🔴最大┃采集","type": 1,"api": "http://zuidazy.me/api.php/provide/vod/","searchable": 1},
-     {"key": "360","name": "🔴360┃采集","type": 1,"api": "https://360zy.com/api.php/provide/vod/","searchable": 1},
+    {"key": "360","name": "🔴360┃采集","type": 1,"api": "https://360zy.com/api.php/provide/vod/","searchable": 1},
+    {"key": "玩偶哥哥","name": "玩偶┃影视","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0},
+    {"key":"厂长","name":"📔厂长┃不卡","type":3,"api":"csp_NewCz","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://czzy.top/","jar": "https://gitee.com/hnkfmh/jsjar/raw/master/fan.txt"},
+    {"key":"索尼","name":"🐝┃索尼4K┃","type":1,"api":"https://suoniapi.com/api.php/provide/vod/?ac=list","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","欧美剧","韩剧","日剧","港剧","台剧",	"泰剧","记录片","海外剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","足球","影视解说","国产动漫"]},
 
 {"key":"88js","name":"⚽88┃看球","type":3,"api":"csp_Kanqiu","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0},
 {"key":"Jrsjs","name":"⚽Jrs┃球迷","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/jrk.js","style":{"type":"list"},
