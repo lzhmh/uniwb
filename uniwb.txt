@@ -706,6 +706,12 @@ ELTV生活英语,http://37.27.111.214:8080/live/56/hls.m3u8$芬兰
 
 环球体育,#genre#
 
+ELEVEN1,rtmp://59.124.75.138/sat/tv731$59
+ELEVEN2,rtmp://59.124.75.138/sat/tv741$59
+纬来体育,rtmp://59.124.75.138/sat/tv721$59
+MOMOTV,rtmp://59.124.75.138/sat/tv761$59
+
+ELTA1足球,rtmp://59.124.75.138/sat/md011$59
 ELTA1足球,P2p://generationnexxxt.com:19806/db1725953e1d4256bcfab79f1873a727$p2p
 ELTA1足球,P2p://generationnexxxt.com:19806/a45037ddc0734fe58e4ab3e053d811dc$p2p
 ELTA2美足,P2p://generationnexxxt.com:19806/dc194c3738dd40448246b92172399ccd$p2p
@@ -721,6 +727,7 @@ AstroSuperSport2,P2p://generationnexxxt.com:19806/e9358d09c276404f91d27dca79e42b
 AstroSuper3足球,P2p://generationnexxxt.com:19806/3dd6cd51d294486f85d3bfdfe787a431$p2p
 纬来体育,P2p://generationnexxxt.com:19806/76e607f5f18c4561b7d5b5915897cc99$p2p
 智林体育,P2p://generationnexxxt.com:19806/2eb49b88b20146879f4c2af756b30118$p2p
+博斯运动I棒球,rtmp://59.124.75.138/sat/md021$59
 博斯运动I棒球,P2p://generationnexxxt.com:19806/1939cbb0de3449739f1dd5738bfa99e4$p2p
 博斯运动I棒球,P2p://generationnexxxt.com:19806/9ab4db0c2a6444f5bca41b8dca371a70$p2p
 博斯无限台球,P2p://generationnexxxt.com:19806/0df5cdddf4b94ff09c04dfc4f11bcfcf$p2p
@@ -728,6 +735,7 @@ AstroSuper3足球,P2p://generationnexxxt.com:19806/3dd6cd51d294486f85d3bfdfe787a
 博斯高球I,P2p://generationnexxxt.com:19806/10e28a2c31fe4fe8b3975961dec3503e$p2p
 博斯高球I,P2p://generationnexxxt.com:19806/a0b205fa58d04238b5a166760468f88a$p2p
 MOMOTV,P2p://generationnexxxt.com:19806/bc7a77f2d1a54242a2b845916fcb726c$p2p
+
 ELEVEN1,P2p://generationnexxxt.com:19806/686833968d4b45319a5942827b997e59$p2p
 ELEVEN1,rtmp://f13h.mine.nu/sat/tv731$f13
 ELEVEN2,rtmp://f13h.mine.nu/sat/tv741$f13
