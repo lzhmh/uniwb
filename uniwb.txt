@@ -1,4 +1,4 @@
-//粤联频道数据收集自网络上的分享240916开通IPV6
+//粤联频道数据收集自网络上的分享240922开通IPV6
 
 港澳U071,#genre#
 
@@ -717,6 +717,9 @@ MOMOTV,rtmp://f13h.mine.nu/sat/tv761
 智林体育,http://37.27.111.214:8080/live/77/hls.m3u8$芬兰
 V+体育,http://37.27.111.214:8080/live/78/hls.m3u8$芬兰
 博斯运动I棒球,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8587/.m3u8$tian
+
+liveORF1,https://s6.hopslan.com/orfx1/tracks-v1a1/mono.m3u8$s6
+live红牛,https://s6.hopslan.com/servus2/tracks-v1a1/mono.m3u8$s6
 
 SPOTV赛车,P2p://generationnexxxt.com:19806/4644a6bafc344250b5feee6805553d42$p2p
 GolfChannel,P2p://generationnexxxt.com:19806/d6d3302276514a79a289a45ec22d88f0$p2p
