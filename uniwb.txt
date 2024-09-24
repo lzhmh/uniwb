@@ -234,6 +234,7 @@ beIN2网球,P2p://generationnexxxt.com:19806/dbf33217b02d466ebaf2776c2b6ba300$p2
 晴彩青少,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8$哈移
 
 广东体育,http://58.250.155.2:8180/TV00000000000000000030@HHZT$深联
+广东体育,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
 广东体育,http://l2tp.yeedah.xyz:8000/udp/239.77.0.112:5146
 广东体育,http://l2tp.yeedah.xyz:8000/udp/239.77.0.168:5146
 广东体育,http://116.22.147.124:6868/udp/239.77.0.112:5146
