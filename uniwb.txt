@@ -1465,8 +1465,13 @@ HBO纪录片,http://nv1connect.com:80/tamtam/tjfYkCbP3s/3800
 HBOTV,http://nv1connect.com:80/tamtam/tjfYkCbP3s/3799
 ThrillTV,http://nv1connect.com:80/tamtam/tjfYkCbP3s/94482
 
+
+HollyWood,http://8.137.59.151:3009/TV2/gat.php?id=79$gat
+HBOHD,http://8.137.59.151:3009/TV2/gat.php?id=80$gat
+thrill,http://8.137.59.151:3009/TV2/gat.php?id=33$gat 
+CATCHPLAY电影,http://8.137.59.151:3009/TV2/gat.php?id=84$gat 
 HollyWood,P2p://generationnexxxt.com:19806/c4810d15af404015859a5fc5059e4716$p2p
-HBO电影,P2p://generationnexxxt.com:19806/ccabaebf243e4385a8f39a6abf31f8bb$p2p
+HBOHD,P2p://generationnexxxt.com:19806/ccabaebf243e4385a8f39a6abf31f8bb$p2p
 HBOFamily,P2p://generationnexxxt.com:19806/a478d349433544c894aef4e3dc167d64$p2p
 HBOFamily,P2p://generationnexxxt.com:19806/e8c4b36eccf04b64aee2e9ef6b12a980$p2p
 HBOHits,http://37.27.111.214:8080/live/28/hls.m3u8$芬兰
@@ -1478,15 +1483,31 @@ WARNERTV,P2p://generationnexxxt.com:19806/fcf665244a5740ebb61fcba5ef2f6cee$p2p
 WARNERTV,P2p://generationnexxxt.com:19806/3565510269ca47e2b0183ec1cdeca375$p2p
 AXN电影,P2p://generationnexxxt.com:19806/6c01776274094a4191d223378054782b$p2p
 CINEMAX,P2p://generationnexxxt.com:19806/a7ef892dc3d54789b8a29e5b8b06882e$p2p
-amc电影,https://litv.zapi.us.kg/?id=4gtv-4gtv017$litv
+AMC电影,https://litv.zapi.us.kg/?id=4gtv-4gtv017$litv
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8$61
 AMC电影,P2p://generationnexxxt.com:19806/951cecbe3fd745498d5216c042600ccf$p2p
 CinemaWorld,http://37.27.111.214:8080/live/30/hls.m3u8$芬兰
+美亚电影,http://8.137.59.151:3009/TV2/gat.php?id=78$gat
+美亚电影,http://8.137.59.151:3009/TV2/gat.php?id=18$gat
 美亚电影,P2p://generationnexxxt.com:19806/6c34f21c2c634e5db469a2971a6e4ed0$p2p
 美亚电影,P2p://generationnexxxt.com:19806/81ea49b841454e1c901ac507f231a581$p2p
 爱奇艺,P2p://generationnexxxt.com:19806/57550dfdc5e44996894431f0f14fb42f$p2p
 纬来电影,P2p://generationnexxxt.com:19806/73fb2db46b6c4ec885e3709d9b7a4983$p2p
 龙祥电影,P2p://generationnexxxt.com:19806/1c325d3c69ec458c852b173bf2e397a9$p2p
+
+RockE电影,http://8.137.59.151:3009/TV2/gat.php?id=29$gat
+RockA电影,http://8.137.59.151:3009/TV2/gat.php?id=30$gat
+东森电影,http://8.137.59.151:3009/TV2/gat.php?id=62$gat
+东森洋片,http://8.137.59.151:3009/TV2/gat.php?id=63$gat
+龙华洋片,http://8.137.59.151:3009/TV2/gat.php?id=65$gat
+ELTA影剧,http://8.137.59.151:3009/TV2/gat.php?id=76$gat
+龙祥时代,http://8.137.59.151:3009/TV2/gat.php?id=77$gat
+FGMGOLD,http://8.137.59.151:3009/TV2/gat.php?id=81$gat
+FGMGOLD,http://8.137.59.151:3009/TV2/gat.php?id=82$gat
+PopC,http://8.137.59.151:3009/TV2/gat.php?id=17$gat
+龙华电影,http://8.137.59.151:3009/TV2/gat.php?id=68$gat
+靖天电影,http://8.137.59.151:3009/TV2/gat.php?id=70$gat
+采昌电影,http://8.137.59.151:3009/TV2/gat.php?id=88$gat
 
 龙华电影,https://litv.zapi.us.kg/?id=litv-longturn03$litv
 CATCHPLAY电影,https://litv.zapi.us.kg/?id=4gtv-4gtv076$litv
@@ -1496,7 +1517,7 @@ CATCHPLAY电影,https://litv.zapi.us.kg/?id=4gtv-4gtv076$litv
 龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8$芬兰
 
 
-壹电视电影,P2p://generationnexxxt.com:19806/8ce448f9cbae4feb805286d5b11bcf4d$p2p
+壹电影,P2p://generationnexxxt.com:19806/8ce448f9cbae4feb805286d5b11bcf4d$p2p
 PopC,P2p://generationnexxxt.com:19806/3ae0f859370b4f17baec42495be6f043$p2p
 CatchPlay电影,P2p://generationnexxxt.com:19806/6c90e32dd9b14d1f9eebb3c57a351d15$p2p
 
@@ -1510,8 +1531,8 @@ Mediacorp5,P2p://generationnexxxt.com:19806/e701bea921da476497494dffe17fa18f$p2p
 MediacorpU,P2p://generationnexxxt.com:19806/56d9f8daf4584cc5af47c72f471ae9d7$p2p
 BOO电影,P2p://generationnexxxt.com:19806/b98310cd5c794352bca4cffc500b0cc6$p2p
 
-ROCKAction,http://37.27.111.214:8080/live/94/hls.m3u8$芬兰
-ROCK电影,http://37.27.111.214:8080/live/70/hls.m3u8$芬兰
+RockA电影,http://37.27.111.214:8080/live/94/hls.m3u8$芬兰
+RockE电影,http://37.27.111.214:8080/live/70/hls.m3u8$芬兰
 MCE电影,http://37.27.111.214:8080/live/98/hls.m3u8$芬兰
 LUXETV电影,http://37.27.111.214:8080/live/86/hls.m3u8$芬兰
 
