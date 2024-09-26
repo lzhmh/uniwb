@@ -73,19 +73,10 @@
 
 CCTV4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8$哈移
 CCTV4,http://113.57.109.48:1111/tsfile/live/1003_1.m3u8$武联
-CCTV4,http://101.200.122.188/tv/migu085.php?id=cctv4$migu
-CCTV4,http://61.138.54.155:2233/hls/14/index.m3u8$绥化联
-CCTV4,http://58.19.38.162:9901/tsfile/live/1003_1.m3u8$湖联
-CCTV4,http://125.80.153.209:8003/rtp/235.254.198.183:7980$重信
-CCTV4,http://125.80.153.209:8003/rtp/235.254.198.3:1288$重信
 
 CCTV13,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8$哈移
 CCTV13,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226571/index.m3u8$哈移
 CCTV13,http://113.57.109.48:1111/tsfile/live/1012_1.m3u8$武联
-CCTV13,http://101.200.122.188/tv/migu085.php?id=cctv13$migu
-CCTV13,http://58.19.38.162:9901/tsfile/live/1012_1.m3u8$湖联
-CCTV13,http://61.138.54.155:2233/hls/23/index.m3u8$绥化联
-CCTV13,http://125.80.153.209:8003/rtp/235.254.198.9:1312$重信
 
 先锋乒羽,http://42.48.17.204:808/hls/77/index.m3u8$长联
 先锋乒羽,http://60.7.56.50:4000/rtp/239.253.93.219:6397
@@ -110,13 +101,7 @@ CCTV13,http://125.80.153.209:8003/rtp/235.254.198.9:1312$重信
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4$php4
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3$php3
 翡翠台Jade,http://php.jdshipin.com:8880/smt.php?id=Tvbjade$php
-
-凤凰香港,http://8.137.59.151:3009/TV2/gat.php?id=3$gat
-翡翠台,http://8.137.59.151:3009/TV2/gat.php?id=4$gat 
-明珠台,http://8.137.59.151:3009/TV2/gat.php?id=10$gat 
-无线新闻,http://8.137.59.151:3009/TV2/gat.php?id=5$gat 
-now新闻,http://8.137.59.151:3009/TV2/gat.php?id=19$gat
-now财经,http://8.137.59.151:3009/TV2/gat.php?id=20$gat
+翡翠台Jade,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 
 凤凰中文,P2p://generationnexxxt.com:19806/d897c583969747fc8a362653e01faf4f$p2p
 凤凰资讯,P2p://generationnexxxt.com:19806/d207c4a98e784d1299a9aa63268f21c6$p2p
@@ -140,19 +125,18 @@ ViuTV,P2p://generationnexxxt.com:19806/956aa1340cd5439689da84cff7a5eaae$p2p
 澳门MACAU,P2p://generationnexxxt.com:19806/b08e564af8cf49e2a0fadaf4978a04cf$p2p
 澳门MACAU,P2p://generationnexxxt.com:19806/a2bbc4a4feec4168804624c67fdea801$p2p
 
-CLASSICA古典,https://litv.zapi.us.kg/?id=4gtv-4gtv059$litv
 CLASSICA古典,P2p://generationnexxxt.com:19806/2671749a00774d36bd1afb569bd1edeb$p2p
-mezzoLIVE,https://litv.zapi.us.kg/?id=4gtv-4gtv083$litv
 mezzoLIVE,P2p://generationnexxxt.com:19806/c87ec7818611487095699a6f5d65e9c4$p2p
 CMUSIC,http://37.27.111.214:8080/live/72/hls.m3u8$芬兰
 fesival音乐,http://37.27.111.214:8080/live/83/hls.m3u8$芬兰
+CLASSICA古典,https://litv.zapi.us.kg/?id=4gtv-4gtv059$litv
+mezzoLIVE,https://litv.zapi.us.kg/?id=4gtv-4gtv083$litv
 
 翡翠台,http://php.jdshipin.com:8880/xsj.php?id=feicui
 翡翠台,http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
 翡翠台,http://124.244.149.194:65530/bysid/1
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 
-TVB,http://8.137.59.151:3009/TV2/gat.php?id=6$gat
 TVB,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2$php
 TVB,http://zsntlqj.xicp.net:8896/bysid/82$中山信
 明珠台,http://zsntlqj.xicp.net:8896/bysid/2$中山信
@@ -194,6 +178,14 @@ RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/st
 CCTV+1,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 CCTV+2,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 
+凤凰香港,http://8.137.59.151:3009/TV2/gat.php?id=3$gat
+翡翠台,http://8.137.59.151:3009/TV2/gat.php?id=4$gat 
+明珠台,http://8.137.59.151:3009/TV2/gat.php?id=10$gat 
+无线新闻,http://8.137.59.151:3009/TV2/gat.php?id=5$gat 
+现在新闻,http://8.137.59.151:3009/TV2/gat.php?id=19$gat
+现在财经,http://8.137.59.151:3009/TV2/gat.php?id=20$gat
+TVB,http://8.137.59.151:3009/TV2/gat.php?id=6$gat
+
 体育频道,#genre#
 
 CCTV5+,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$哈移
@@ -211,20 +203,9 @@ CCTV16,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000233002/1.m3
 CCTV16,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010142/1.m3u8$ip6
 CCTV16,http://php.jdshipin.com:8880/bestv.php?id=cctv16hd4k/15000000$php4K
 
-CCTV5,http://101.200.122.188/tv/migu085.php?id=cctv5$migu
-CCTV5+,http://101.200.122.188/tv/migu085.php?id=cctv5p$migu
-
-CCTV5,http://61.138.54.155:2233/hls/15/index.m3u8$绥化联
-CCTV5+,http://61.138.54.155:2233/hls/70/index.m3u8$绥化联
-CCTV16,http://61.138.54.155:2233/hls/71/index.m3u8$绥化联
-
 CCTV5,http://58.19.38.162:9901/tsfile/live/1004_1.m3u8$湖联
 CCTV5+,http://58.19.38.162:9901/tsfile/live/1014_1.m3u8$湖联
 
-CCTV5,http://125.80.153.209:8003/rtp/235.254.198.54:1492$重信
-CCTV5+,http://125.80.153.209:8003/rtp/235.254.198.122:1764$重信
-
-CCTV5,http://125.80.153.209:8003/rtp/235.254.198.142:1846$重信
 CCTV5,https://qsxw.gov.cn/rtmp_export/video33.m3u8$qsxw
 CCTV5+,http://www.furymax.top:85/rtp/239.254.96.234:9484
 
@@ -232,15 +213,15 @@ CCTV5+,http://www.furymax.top:85/rtp/239.254.96.234:9484
 先锋乒羽,http://60.7.56.50:4000/rtp/239.253.93.219:6397
 先锋乒羽,http://wouu.net:9977/udp/239.93.42.56:5140
 
-ELTA3羽球,http://8.137.59.151:3009/TV2/gat.php?id=97$gat
 ELTA3羽球,P2p://generationnexxxt.com:19806/45f846eb465245d2aae9e7c34609f960$p2p
 ELTA3羽球,P2p://generationnexxxt.com:19806/90ea1d1ed6654b5d863053cfceb050e0$p2p
+ELTA3羽球,http://8.137.59.151:3009/TV2/gat.php?id=97$gat
 
-博斯网球,http://8.137.59.151:3009/TV2/gat.php?id=103$gat
-博斯网球,https://litv.zapi.us.kg/?id=litv-longturn09$litv
 博斯网球,P2p://generationnexxxt.com:19806/2d4ebc7a69904ad795df8adc5906d3a4$p2p
 博斯网球,P2p://generationnexxxt.com:19806/3ffce834097d40fa9036d0c469bafefd$p2p
 博斯网球,http://37.27.111.214:8080/live/16/hls.m3u8$芬兰
+博斯网球,http://8.137.59.151:3009/TV2/gat.php?id=103$gat
+博斯网球,https://litv.zapi.us.kg/?id=litv-longturn09$litv
 
 beIN2网球,P2p://generationnexxxt.com:19806/23d14199213c426092f9e1002f0f143f$p2p
 beIN2网球,P2p://generationnexxxt.com:19806/dbf33217b02d466ebaf2776c2b6ba300$p2p
@@ -423,7 +404,6 @@ JJ斗地主冠军赛,http://43.138.170.29:35455/douyu/488743
 高尔夫网球,http://42.48.17.204:808/hls/111/index.m3u8$长联
 
 黑龙江文体,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8$哈移
-黑龙江文体,http://61.138.54.155:2233/hls/3/index.m3u8$绥化联
 黑龙江文体,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226424/index.m3u8$哈移
 
 武汉文体,http://stream.appwuhan.com/5tzb/sd/live.m3u8
@@ -454,40 +434,7 @@ JJ斗地主冠军赛,http://43.138.170.29:35455/douyu/488743
 凤凰中文,http://222.186.57.133:22222/php/fhx.php?id=fhzw
 凤凰资讯,http://222.186.57.133:22222/php/fhx.php?id=fhzx
 
-TVBSHD,http://8.137.59.151:3009/TV2/gat.php?id=45$gat
-TVBS新闻,http://8.137.59.151:3009/TV2/gat.php?id=110$gat
-TVBSHD,https://litv.zapi.us.kg/?id=4gtv-4gtv073$litv
-TVBS新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv072$litv
-
-东森新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv152$litv
 东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8$芬兰
-
-寰宇新闻,http://8.137.59.151:3009/TV2/gat.php?id=47$gat
-寰宇台湾,http://8.137.59.151:3009/TV2/gat.php?id=48$gat
-中视新闻,http://8.137.59.151:3009/TV2/gat.php?id=50$gat
-中视新闻,http://8.137.59.151:3009/TV2/gat.php?id=51$gat
-华视新闻,http://8.137.59.151:3009/TV2/gat.php?id=109$gat
-民视新闻,http://8.137.59.151:3009/TV2/gat.php?id=52$gat
-民视新闻,http://8.137.59.151:3009/TV2/gat.php?id=94$gat
-
-寰宇新闻,https://litv.zapi.us.kg/?id=litv-longturn14$litv
-寰宇台湾,https://litv.zapi.us.kg/?id=litv-longturn15$litv
-非凡新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv010$litv
-中天新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv009$litv
-华视新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv041$litv
-中天亚洲,https://litv.zapi.us.kg/?id=4gtv-4gtv109$litv
-中视新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv040$litv
-华视新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv052$litv
-//华视新闻,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv052$litv
-台视新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv051$litv
-中视新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv074$litv
-镜新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv075$litv
-民视新闻,https://litv.zapi.us.kg/?id=litv-ftv13$litv
-三立iNews,http://8.137.59.151:3009/TV2/gat.php?id=49$gat
-靖天国际,https://litv.zapi.us.kg/?id=4gtv-4gtv063$litv
-靖天资讯,https://litv.zapi.us.kg/?id=4gtv-4gtv065$litv
-美国之音,https://litv.zapi.us.kg/?id=litv-ftv03$litv
-
 寰宇台湾,http://37.27.111.214:8080/live/63/hls.m3u8$芬兰
 镜新闻,http://37.27.111.214:8080/live/62/hls.m3u8$芬兰
 TVBSHD,http://37.27.111.214:8080/live/23/hls.m3u8$芬兰
@@ -523,7 +470,26 @@ TVBS亚洲,P2p://generationnexxxt.com:19806/7e8e3f90c0434b8d8c0e423e5cb9fbfb$p2p
 寰宇新闻,http://cdn.iptv8k.top/dl/jspd.php?id=7$cdn
 中天亚洲,http://cdn.iptv8k.top/dl/jspd.php?id=12$cdn
 中天新闻,http://ali.hlspull.yximgs.com/live/3dbfc39fd2daf8230c32e1f1e8ee2365.flv$ali
-中天新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv009
+
+TVBSHD,https://litv.zapi.us.kg/?id=4gtv-4gtv073$litv
+TVBS新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv072$litv
+东森新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv152$litv
+寰宇新闻,https://litv.zapi.us.kg/?id=litv-longturn14$litv
+寰宇台湾,https://litv.zapi.us.kg/?id=litv-longturn15$litv
+非凡新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv010$litv
+中天新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv009$litv
+华视新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv041$litv
+中天亚洲,https://litv.zapi.us.kg/?id=4gtv-4gtv109$litv
+中视新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv040$litv
+华视新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv052$litv
+华视新闻,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv052$free
+台视新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv051$litv
+中视新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv074$litv
+镜新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv075$litv
+民视新闻,https://litv.zapi.us.kg/?id=litv-ftv13$litv
+靖天国际,https://litv.zapi.us.kg/?id=4gtv-4gtv063$litv
+靖天资讯,https://litv.zapi.us.kg/?id=4gtv-4gtv065$litv
+美国之音,https://litv.zapi.us.kg/?id=litv-ftv03$litv
 
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8$61
 
@@ -573,14 +539,19 @@ TVBS新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8574/.m3u8$tia
 TVBSHD,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8575/.m3u8$tian
 东森超视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8525/.m3u8$tian
 
-寰宇新闻,https://test.zapi.us.kg/?id=global-news$test
-中天新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv009$test
-非凡新闻,https://test.zapi.us.kg/?id=unique-business-news$test
+TVBSHD,http://8.137.59.151:3009/TV2/gat.php?id=45$gat
+TVBS新闻,http://8.137.59.151:3009/TV2/gat.php?id=110$gat
+寰宇新闻,http://8.137.59.151:3009/TV2/gat.php?id=47$gat
+寰宇台湾,http://8.137.59.151:3009/TV2/gat.php?id=48$gat
+中视新闻,http://8.137.59.151:3009/TV2/gat.php?id=50$gat
+中视新闻,http://8.137.59.151:3009/TV2/gat.php?id=51$gat
+华视新闻,http://8.137.59.151:3009/TV2/gat.php?id=109$gat
+民视新闻,http://8.137.59.151:3009/TV2/gat.php?id=52$gat
+民视新闻,http://8.137.59.151:3009/TV2/gat.php?id=94$gat
+三立iNews,http://8.137.59.151:3009/TV2/gat.php?id=49$gat
 
 FTV旅游,http://37.27.111.214:8080/live/82/hls.m3u8$芬兰
 ELTA生活旅游,http://37.27.111.214:8080/live/85/hls.m3u8$芬兰
-民视旅游,https://litv.zapi.us.kg/?id=litv-ftv07$litv
-亚洲旅游,https://litv.zapi.us.kg/?id=litv-longturn17$litv
 
 HISTORY,http://37.27.111.214:8080/live/27/hls.m3u8$芬兰
 CinemaWorld,http://37.27.111.214:8080/live/30/hls.m3u8$芬兰
@@ -618,18 +589,6 @@ DW,http://61.221.215.25:8800/hls/1/index.m3u8$61
 大爱2,http://37.27.111.214:8080/live/99/hls.m3u8$芬兰
 人间卫视,http://37.27.111.214:8080/live/101/hls.m3u8$芬兰
 
-中天亚洲,http://free.xiptv.x10.bz/kudou.php?id=60$free
-东森LIVE,http://free.xiptv.x10.bz/kudou.php?id=75$free
-寰宇新闻,http://free.xiptv.x10.bz/kudou.php?id=76$free
-TVBSHD,http://free.xiptv.x10.bz/kudou.php?id=77$free
-TVBS新闻,http://free.xiptv.x10.bz/kudou.php?id=78$free
-三立新闻+,http://free.xiptv.x10.bz/kudou.php?id=79$free
-中视新闻,http://free.xiptv.x10.bz/kudou.php?id=80$free
-台视新闻,http://free.xiptv.x10.bz/kudou.php?id=81$free
-民视新闻,http://free.xiptv.x10.bz/kudou.php?id=84$free
-新唐人亚太,http://free.xiptv.x10.bz/kudou.php?id=119$free
-新唐人亚太,http://free.xiptv.x10.bz/kudou.php?id=1297$free
-
 少儿动漫,#genre#
 
 ZooMoo,https://zoomoo-samsungau.amagi.tv:443/playlist1080p.m3u8
@@ -643,12 +602,6 @@ nickjr,http://37.27.111.214:8080/live/22/hls.m3u8$芬兰
 梅花少儿,http://37.27.111.214:8080/live/106/hls.m3u8$芬兰
 梅花哆啦少儿,http://37.27.111.214:8080/live/107/hls.m3u8$芬兰
 HokkoTV,http://37.27.111.214:8080/live/1/hls.m3u8$芬兰
-
-MOMO亲子,http://8.137.59.151:3009/TV2/gat.php?id=90$gat
-
-HokkoTV,,https://litv.zapi.us.kg/?id=4gtv-4gtv043$litv
-DaVinci少儿,https://litv.zapi.us.kg/?id=4gtv-4gtv018$litv
-爱放动漫,https://litv.zapi.us.kg/?id=litv-ftv15$litv
 
 尼克儿童,P2p://generationnexxxt.com:19806/1d8cc2412f824c3c888a5d91d241910c$p2p
 东森幼幼,P2p://generationnexxxt.com:19806/f426ffd2f2744109aedcfaa04fed3a6e$p2p
@@ -670,30 +623,21 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 PetBites少儿,http://37.27.111.214:8080/live/81/hls.m3u8$芬兰
 TECHStorm科技,http://37.27.111.214:8080/live/80/hls.m3u8$芬兰
 
-ELTV英语,https://litv.zapi.us.kg/?id=litv-longturn20$litv
 ELTV英语,http://37.27.111.214:8080/live/56/hls.m3u8$芬兰
 ELTV英语,P2p://generationnexxxt.com:19806/1a430b38978a4a0698ede6f842b3a265$p2p
 ABC互动英语,http://37.27.111.214:8080/live/54/hls.m3u8$芬兰
+
+MOMO亲子,http://8.137.59.151:3009/TV2/gat.php?id=90$gat
+
+ELTV英语,https://litv.zapi.us.kg/?id=litv-longturn20$litv
+HokkoTV,,https://litv.zapi.us.kg/?id=4gtv-4gtv043$litv
+DaVinci少儿,https://litv.zapi.us.kg/?id=4gtv-4gtv018$litv
+爱放动漫,https://litv.zapi.us.kg/?id=litv-ftv15$litv
 
 金鹰卡通,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8$哈移
 北京少儿,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8$哈移
 优漫卡通,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8$哈移
 哈哈炫动,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8$
-
-少儿动画,http://125.80.153.209:8003/rtp/235.254.198.116:1740$重信
-北京少儿,http://125.80.153.209:8003/rtp/235.254.198.49:1472$重信
-金鹰卡通,http://125.80.153.209:8003/rtp/235.254.198.50:1476$重信
-嘉佳卡通,http://125.80.153.209:8003/rtp/235.254.198.110:1716$重信
-
-北京少儿,http://61.138.54.155:2233/hls/55/index.m3u8$绥化联
-金鹰卡通,http://61.138.54.155:2233/hls/31/index.m3u8$绥化联
-嘉佳卡通,http://61.138.54.155:2233/hls/26/index.m3u8$绥化联
-哈哈炫动,http://61.138.54.155:2233/hls/33/index.m3u8$绥化联
-优漫卡通,http://61.138.54.155:2233/hls/38/index.m3u8$绥化联
-动漫秀场,http://61.138.54.155:2233/hls/68/index.m3u8$绥化联
-黑龙江少儿,http://61.138.54.155:2233/hls/7/index.m3u8$绥化联
-金鹰卡通,http://61.138.54.155:2233/hls/9/index.m3u8$绥化联
-金鹰卡通,http://58.19.38.162:9901/tsfile/live/1031_1.m3u8$湖联
 
 嘉佳卡通,http://183.11.239.36:808/hls/8/index.m3u8
 淘BABY,http://qnap.yjnhome.com:4000/udp/239.3.1.238:8001
@@ -757,31 +701,13 @@ AstroArena2,P2p://generationnexxxt.com:19806/3f9efc73e52f4cca99985de38ba0f28a$p2
 AstroSuper2,P2p://generationnexxxt.com:19806/e9358d09c276404f91d27dca79e42b73$p2p
 AstroSuper3足球,P2p://generationnexxxt.com:19806/3dd6cd51d294486f85d3bfdfe787a431$p2p
 纬来体育,P2p://generationnexxxt.com:19806/76e607f5f18c4561b7d5b5915897cc99$p2p
-智林体育,https://litv.zapi.us.kg/?id=4gtv-4gtv101$litv
 智林体育,P2p://generationnexxxt.com:19806/2eb49b88b20146879f4c2af756b30118$p2p
 
-博斯高球I,http://8.137.59.151:3009/TV2/gat.php?id=99$gat
-博斯高球II,http://8.137.59.151:3009/TV2/gat.php?id=100$gat
-博斯运动I,http://8.137.59.151:3009/TV2/gat.php?id=101$gat
-博斯运动II,http://8.137.59.151:3009/TV2/gat.php?id=102$gat
-博斯无限,http://8.137.59.151:3009/TV2/gat.php?id=104$gat
-博斯无限II,http://8.137.59.151:3009/TV2/gat.php?id=105$gat
-18台赛马,http://8.137.59.151:3009/TV2/gat.php?id=9$gat
-18台赛马,http://8.137.59.151:3009/TV2/gat.php?id=25$gat
-
-博斯魅力,https://litv.zapi.us.kg/?id=litv-longturn04$litv
-
-博斯运动I,https://litv.zapi.us.kg/?id=litv-longturn07$litv
 博斯运动I,rtmp://59.124.75.138/sat/md021$59
 博斯运动I,P2p://generationnexxxt.com:19806/1939cbb0de3449739f1dd5738bfa99e4$p2p
 博斯运动I,P2p://generationnexxxt.com:19806/9ab4db0c2a6444f5bca41b8dca371a70$p2p
-博斯运动II,https://litv.zapi.us.kg/?id=litv-longturn08$litv
-
-博斯无限,https://litv.zapi.us.kg/?id=litv-longturn10$litv
 博斯无限,P2p://generationnexxxt.com:19806/0df5cdddf4b94ff09c04dfc4f11bcfcf$p2p
 博斯无限,P2p://generationnexxxt.com:19806/3f6a91a25f724acb9bc245c2eda7b04c$p2p
-
-博斯无限II,https://litv.zapi.us.kg/?id=litv-longturn13$litv
 
 MOMOTV,P2p://generationnexxxt.com:19806/bc7a77f2d1a54242a2b845916fcb726c$p2p
 
@@ -802,8 +728,6 @@ MOMOTV,http://60.248.77.83/sat/tv761.flv
 MOMOTV,rtmp://f13h.mine.nu/sat/tv761
 
 博斯运动I棒球,http://37.27.111.214:8080/live/14/hls.m3u8$芬兰
-博斯高球I,https://litv.zapi.us.kg/?id=litv-longturn05$litv
-博斯高球II,https://litv.zapi.us.kg/?id=litv-longturn06$litv
 博斯高球I,P2p://generationnexxxt.com:19806/10e28a2c31fe4fe8b3975961dec3503e$p2p
 博斯高球I,P2p://generationnexxxt.com:19806/a0b205fa58d04238b5a166760468f88a$p2p
 博斯高球I,http://37.27.111.214:8080/live/13/hls.m3u8$芬兰
@@ -812,8 +736,27 @@ MOMOTV,rtmp://f13h.mine.nu/sat/tv761
 V+体育,http://37.27.111.214:8080/live/78/hls.m3u8$芬兰
 博斯运动I棒球,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8587/.m3u8$tian
 
-TRACESport,https://litv.zapi.us.kg/?id=4gtv-4gtv077$litv
+TRACESport,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 TRACESport,https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+
+博斯高球I,http://8.137.59.151:3009/TV2/gat.php?id=99$gat
+博斯高球II,http://8.137.59.151:3009/TV2/gat.php?id=100$gat
+博斯运动I,http://8.137.59.151:3009/TV2/gat.php?id=101$gat
+博斯运动II,http://8.137.59.151:3009/TV2/gat.php?id=102$gat
+博斯无限,http://8.137.59.151:3009/TV2/gat.php?id=104$gat
+博斯无限II,http://8.137.59.151:3009/TV2/gat.php?id=105$gat
+18台赛马,http://8.137.59.151:3009/TV2/gat.php?id=9$gat
+18台赛马,http://8.137.59.151:3009/TV2/gat.php?id=25$gat
+
+智林体育,https://litv.zapi.us.kg/?id=4gtv-4gtv101$litv
+博斯魅力,https://litv.zapi.us.kg/?id=litv-longturn04$litv
+博斯运动I,https://litv.zapi.us.kg/?id=litv-longturn07$litv
+博斯运动II,https://litv.zapi.us.kg/?id=litv-longturn08$litv
+博斯无限,https://litv.zapi.us.kg/?id=litv-longturn10$litv
+博斯无限II,https://litv.zapi.us.kg/?id=litv-longturn13$litv
+博斯高球I,https://litv.zapi.us.kg/?id=litv-longturn05$litv
+博斯高球II,https://litv.zapi.us.kg/?id=litv-longturn06$litv
+TRACESport,https://litv.zapi.us.kg/?id=4gtv-4gtv077$litv
 
 liveORF1,https://s6.hopslan.com/orfx1/tracks-v1a1/mono.m3u8$s6
 live红牛,https://s6.hopslan.com/servus2/tracks-v1a1/mono.m3u8$s6
@@ -865,10 +808,6 @@ ImpactWrestling,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
 财富天下,http://125.80.153.209:8003/rtp/235.254.198.108:1708$重信
 
-国际财经,https://litv.zapi.us.kg/?id=4gtv-4gtv104$litv
-东森财经,https://litv.zapi.us.kg/?id=4gtv-4gtv153$litv
-台视财经,https://litv.zapi.us.kg/?id=4gtv-4gtv056$litv
-
 全球财经,http://37.27.111.214:8080/live/64/hls.m3u8$芬兰
 寰宇财经,http://37.27.111.214:8080/live/65/hls.m3u8$芬兰
 CNBC财经,http://37.27.111.214:8080/live/102/hls.m3u8$芬兰
@@ -904,6 +843,9 @@ Discovery科学,P2p://generationnexxxt.com:19806/5eb5ac6d3cf243b69bce16ad8e84166
 亚洲旅游,http://8.137.59.151:3009/TV2/gat.php?id=91$gat
 国家地理,http://8.137.59.151:3009/TV2/gat.php?id=92$gat
 野生地理,http://8.137.59.151:3009/TV2/gat.php?id=93$gat
+
+民视旅游,https://litv.zapi.us.kg/?id=litv-ftv07$litv
+亚洲旅游,https://litv.zapi.us.kg/?id=litv-longturn17$litv
 
 GlobalTrekker,http://37.27.111.214:8080/live/53/hls.m3u8$芬兰
 罪案侦缉,http://37.27.111.214:8080/live/29/hls.m3u8$芬兰
@@ -1090,20 +1032,6 @@ Astro AEC,P2p://generationnexxxt.com:19806/c1cd28c52536406f902f6cbab7cded05$p2p
 斗鱼历史2,http://maomao.kandiantv.cn/douyu1.php?id=10102281$mao
 老高闲聊,http://maomao.kandiantv.cn/douyu1.php?id=838632$mao
 
-生活时尚,http://61.138.54.155:2233/hls/64/index.m3u8$绥化联
-欢笑剧场,http://61.138.54.155:2233/hls/67/index.m3u8$绥化联
-都市剧场,http://61.138.54.155:2233/hls/69/index.m3u8$绥化联
-
-IPTV3,http://125.80.153.209:8003/rtp/235.254.198.13:1328$重信
-IPTV5,http://125.80.153.209:8003/rtp/235.254.198.14:1332$重信
-IPTV6,http://125.80.153.209:8003/rtp/235.254.198.15:1336$重信
-IPTV8,http://125.80.153.209:8003/rtp/235.254.198.16:1340$重信
-收视指南,http://125.80.153.209:8003/rtp/235.254.198.112:1724$重信
-IPTV谍战剧场,http://125.80.153.209:8003/rtp/235.254.198.117:1744$重信
-IPTV相声小品,http://125.80.153.209:8003/rtp/235.254.198.118:1748$重信
-IPTV野外,http://125.80.153.209:8003/rtp/235.254.198.119:1752$重信
-IPTV法治,http://125.80.153.209:8003/rtp/235.254.198.120:1756$重信
-
 fashionBOX,http://8.137.59.151:3009/TV2/gat.php?id=32$gat
 fashionBOX,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8$4k
@@ -1147,69 +1075,6 @@ CCTV12,http://113.57.109.48:1111/tsfile/live/1011_1.m3u8$武联
 CCTV14,http://113.57.109.48:1111/tsfile/live/1013_1.m3u8$武联
 CCTV15,http://113.57.109.48:1111/tsfile/live/0015_1.m3u8$武联
 CCTV17,http://113.57.109.48:1111/tsfile/live/1015_1.m3u8$武联
-
-CCTV1,http://101.200.122.188/tv/migu085.php?id=cctv1$migu
-CCTV2,http://101.200.122.188/tv/migu085.php?id=cctv2$migu
-CCTV3,http://101.200.122.188/tv/migu085.php?id=cctv3$migu
-CCTV6,http://101.200.122.188/tv/migu085.php?id=cctv6$migu
-CCTV7,http://101.200.122.188/tv/migu085.php?id=cctv7$migu
-CCTV8,http://101.200.122.188/tv/migu085.php?id=cctv8$migu
-CCTV9,http://101.200.122.188/tv/migu085.php?id=cctv9$migu
-CCTV10,http://101.200.122.188/tv/migu085.php?id=cctv10$migu
-CCTV11,http://101.200.122.188/tv/migu085.php?id=cctv11$migu
-CCTV12,http://101.200.122.188/tv/migu085.php?id=cctv12$migu
-CCTV14,http://101.200.122.188/tv/migu085.php?id=cctv14$migu
-CCTV15,http://101.200.122.188/tv/migu085.php?id=cctv15$migu
-CCTV17,http://101.200.122.188/tv/migu085.php?id=cctv17$migu
-
-CCTV9,http://61.138.54.155:2233/hls/19/index.m3u8$绥化联
-CCTV10,http://61.138.54.155:2233/hls/20/index.m3u8$绥化联
-CCTV1,http://61.138.54.155:2233/hls/11/index.m3u8$绥化联
-CCTV2,http://61.138.54.155:2233/hls/12/index.m3u8$绥化联
-CCTV3,http://61.138.54.155:2233/hls/13/index.m3u8$绥化联
-CCTV6,http://61.138.54.155:2233/hls/16/index.m3u8$绥化联
-CCTV7,http://61.138.54.155:2233/hls/17/index.m3u8$绥化联
-CCTV8,http://61.138.54.155:2233/hls/18/index.m3u8$绥化联
-CCTV11,http://61.138.54.155:2233/hls/21/index.m3u8$绥化联
-CCTV12,http://61.138.54.155:2233/hls/22/index.m3u8$绥化联
-CCTV14,http://61.138.54.155:2233/hls/24/index.m3u8$绥化联
-CCTV15,http://61.138.54.155:2233/hls/25/index.m3u8$绥化联
-
-CCTV1,http://58.19.38.162:9901/tsfile/live/1000_1.m3u8$湖联
-CCTV2,http://58.19.38.162:9901/tsfile/live/1001_1.m3u8$湖联
-CCTV3,http://58.19.38.162:9901/tsfile/live/1002_1.m3u8$湖联
-CCTV6,http://58.19.38.162:9901/tsfile/live/1005_1.m3u8$湖联
-CCTV7,http://58.19.38.162:9901/tsfile/live/1006_1.m3u8$湖联
-CCTV8,http://58.19.38.162:9901/tsfile/live/1007_1.m3u8$湖联
-CCTV9,http://58.19.38.162:9901/tsfile/live/1008_1.m3u8$湖联
-CCTV10,http://58.19.38.162:9901/tsfile/live/1009_1.m3u8$湖联
-CCTV11,http://58.19.38.162:9901/tsfile/live/1010_1.m3u8$湖联
-CCTV12,http://58.19.38.162:9901/tsfile/live/1011_1.m3u8$湖联
-CCTV14,http://58.19.38.162:9901/tsfile/live/1013_1.m3u8$湖联
-CCTV15,http://58.19.38.162:9901/tsfile/live/0015_1.m3u8$湖联
-
-CCTV1,http://125.80.153.209:8003/rtp/235.254.198.51:1480$重信
-CCTV2,http://125.80.153.209:8003/rtp/235.254.198.52:1484$重信
-CCTV3,http://125.80.153.209:8003/rtp/235.254.198.53:1488$重信
-CCTV6,http://125.80.153.209:8003/rtp/235.254.198.55:1496$重信
-CCTV7,http://125.80.153.209:8003/rtp/235.254.198.56:1500$重信
-CCTV8,http://125.80.153.209:8003/rtp/235.254.198.57:1504$重信
-CCTV9,http://125.80.153.209:8003/rtp/235.254.198.58:1508$重信
-CCTV10,http://125.80.153.209:8003/rtp/235.254.198.59:1512$重信
-CCTV11,http://125.80.153.209:8003/rtp/235.254.198.7:1304$重信
-CCTV12,http://125.80.153.209:8003/rtp/235.254.198.60:1516$重信
-CCTV15,http://125.80.153.209:8003/rtp/235.254.198.11:1320$重信
-CCTV14,http://125.80.153.209:8003/rtp/235.254.198.61:1520$重信
-CCTV1,http://125.80.153.209:8003/rtp/235.254.198.1:1280$重信
-CCTV2,http://125.80.153.209:8003/rtp/235.254.198.2:1284$重信
-CCTV3,http://125.80.153.209:8003/rtp/235.254.198.141:1842$重信
-CCTV6,http://125.80.153.209:8003/rtp/235.254.198.143:1852$重信
-CCTV7,http://125.80.153.209:8003/rtp/235.254.198.4:1292$重信
-CCTV8,http://125.80.153.209:8003/rtp/235.254.198.144:1856$重信
-CCTV9,http://125.80.153.209:8003/rtp/235.254.198.5:1296$重信
-CCTV10,http://125.80.153.209:8003/rtp/235.254.198.6:1300$重信
-CCTV12,http://125.80.153.209:8003/rtp/235.254.198.8:1308$重信
-CCTV14,http://125.80.153.209:8003/rtp/235.254.198.10:1316$重信
 
 CCTV1,http://xgj.83mi.cn:8865/migu.php?id=cctv1
 
@@ -1303,104 +1168,8 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 贵州卫视,http://113.57.109.48:1111/tsfile/live/1038_1.m3u8$武联
 黑龙江卫视,http://113.57.109.48:1111/tsfile/live/1033_1.m3u8$武联
 
-广东卫视,http://61.138.54.155:2233/hls/62/index.m3u8$绥化联
-深圳卫视,http://61.138.54.155:2233/hls/63/index.m3u8$绥化联
-北京卫视,http://61.138.54.155:2233/hls/58/index.m3u8$绥化联
-东南卫视,http://61.138.54.155:2233/hls/43/index.m3u8$绥化联
-天津卫视,http://61.138.54.155:2233/hls/53/index.m3u8$绥化联
-湖南卫视,http://61.138.54.155:2233/hls/56/index.m3u8$绥化联
-浙江卫视,http://61.138.54.155:2233/hls/57/index.m3u8$绥化联
-海南卫视,http://61.138.54.155:2233/hls/59/index.m3u8$绥化联
-辽宁卫视,http://61.138.54.155:2233/hls/36/index.m3u8$绥化联
-江苏卫视,http://61.138.54.155:2233/hls/37/index.m3u8$绥化联
-湖北卫视,http://61.138.54.155:2233/hls/39/index.m3u8$绥化联
-重庆卫视,http://61.138.54.155:2233/hls/42/index.m3u8$绥化联
-云南卫视,http://61.138.54.155:2233/hls/60/index.m3u8$绥化联
-吉林卫视,http://61.138.54.155:2233/hls/27/index.m3u8$绥化联
-贵州卫视,http://61.138.54.155:2233/hls/32/index.m3u8$绥化联
-东方卫视,http://61.138.54.155:2233/hls/34/index.m3u8$绥化联
-广西卫视,http://61.138.54.155:2233/hls/35/index.m3u8$绥化联
-山东卫视,http://61.138.54.155:2233/hls/44/index.m3u8$绥化联
-山西卫视,http://61.138.54.155:2233/hls/45/index.m3u8$绥化联
-河南卫视,http://61.138.54.155:2233/hls/46/index.m3u8$绥化联
-宁夏卫视 ,http://61.138.54.155:2233/hls/47/index.m3u8$绥化联
-陕西卫视,http://61.138.54.155:2233/hls/48/index.m3u8$绥化联
-贵州卫视,http://61.138.54.155:2233/hls/54/index.m3u8$绥化联
-青海卫视,http://61.138.54.155:2233/hls/40/index.m3u8$绥化联
-内蒙古卫视,http://61.138.54.155:2233/hls/41/index.m3u8$绥化联
-西藏卫视,http://61.138.54.155:2233/hls/28/index.m3u8$绥化联
-兵团卫视,http://61.138.54.155:2233/hls/29/index.m3u8$绥化联
-新疆卫视,http://61.138.54.155:2233/hls/30/index.m3u8$绥化联
-延边卫视,http://61.138.54.155:2233/hls/61/index.m3u8$绥化联
-
-湖北卫视,http://58.19.38.162:9901/tsfile/live/1015_1.m3u8$湖联
-湖南卫视,http://58.19.38.162:9901/tsfile/live/1016_1.m3u8$湖联
-北京卫视,http://58.19.38.162:9901/tsfile/live/1017_1.m3u8$湖联
-东方卫视,http://58.19.38.162:9901/tsfile/live/1018_1.m3u8$湖联
-江苏卫视,http://58.19.38.162:9901/tsfile/live/1019_1.m3u8$湖联
-浙江卫视,http://58.19.38.162:9901/tsfile/live/1020_1.m3u8$湖联
-安徽卫视,http://58.19.38.162:9901/tsfile/live/1021_1.m3u8$湖联
-广东卫视,http://58.19.38.162:9901/tsfile/live/1022_1.m3u8$湖联
-深圳卫视,http://58.19.38.162:9901/tsfile/live/1023_1.m3u8$湖联
-天津卫视,http://58.19.38.162:9901/tsfile/live/1024_1.m3u8$湖联
-山东卫视,http://58.19.38.162:9901/tsfile/live/1025_1.m3u8$湖联
-海南卫视,http://58.19.38.162:9901/tsfile/live/1026_1.m3u8$湖联
-辽宁卫视,http://58.19.38.162:9901/tsfile/live/1027_1.m3u8$湖联
-东南卫视,http://58.19.38.162:9901/tsfile/live/1028_1.m3u8$湖联
-江西卫视,http://58.19.38.162:9901/tsfile/live/1029_1.m3u8$湖联
-贵州卫视,http://58.19.38.162:9901/tsfile/live/1030_1.m3u8$湖联
-
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$索1
 重庆卫视,https://sjlivecdn9.cbg.cn/202506252322/app_2/_definst_/ls_2.stream/chunklist.m3u8$索1
-
-江苏卫视,http://125.80.153.209:8003/rtp/235.254.198.64:1532$重信
-浙江卫视,http://125.80.153.209:8003/rtp/235.254.198.63:1528$重信
-东方卫视,http://125.80.153.209:8003/rtp/235.254.198.73:1568$重信
-深圳卫视,http://125.80.153.209:8003/rtp/235.254.198.71:1560$重信
-北京卫视,http://125.80.153.209:8003/rtp/235.254.198.66:1540$重信
-山东卫视,http://125.80.153.209:8003/rtp/235.254.198.69:1552$重信
-天津卫视,http://125.80.153.209:8003/rtp/235.254.198.67:1544$重信
-贵州卫视,http://125.80.153.209:8003/rtp/235.254.198.185:7980$重信
-四川卫视,http://125.80.153.209:8003/rtp/235.254.198.175:7980$重信
-云南卫视,http://125.80.153.209:8003/rtp/235.254.198.25:1376$重信
-广西卫视,http://125.80.153.209:8003/rtp/235.254.198.38:1428$重信
-黑龙江卫视,http://125.80.153.209:8003/rtp/235.254.198.70:1556$重信
-安徽卫视,http://125.80.153.209:8003/rtp/235.254.198.65:1536$重信
-山西卫视,http://125.80.153.209:8003/rtp/235.254.198.41:1440$重信
-江西卫视,http://125.80.153.209:8003/rtp/235.254.198.29:1392$重信
-湖北卫视,http://125.80.153.209:8003/rtp/235.254.198.72:1564$重信
-陕西卫视,http://125.80.153.209:8003/rtp/235.254.198.40:1436$重信
-东南卫视,http://125.80.153.209:8003/rtp/235.254.198.129:7980$重信
-吉林卫视,http://125.80.153.209:8003/rtp/235.254.198.39:1432$重信
-辽宁卫视,http://125.80.153.209:8003/rtp/235.254.198.68:1548$重信
-内蒙古卫视,http://125.80.153.209:8003/rtp/235.254.198.42:1444$重信
-湖南卫视,http://125.80.153.209:8003/rtp/235.254.198.62:1524$重信
-广东卫视,http://125.80.153.209:8003/rtp/235.254.196.204:1088$重信
-河南卫视,http://125.80.153.209:8003/rtp/235.254.198.26:1380$重信
-河北卫视,http://125.80.153.209:8003/rtp/235.254.198.184:7980$重信
-宁夏卫视,http://125.80.153.209:8003/rtp/235.254.198.45:1456$重信
-甘肃卫视,http://125.80.153.209:8003/rtp/235.254.198.48:1468$重信
-青海卫视,http://125.80.153.209:8003/rtp/235.254.198.43:1448$重信
-新疆卫视,http://125.80.153.209:8003/rtp/235.254.198.47:1464$重信
-西藏卫视,http://125.80.153.209:8003/rtp/235.254.198.46:1460$重信
-
-江苏卫视,http://125.80.153.209:8003/rtp/235.254.198.19:1352$重信
-湖南卫视,http://125.80.153.209:8003/rtp/235.254.198.17:1344$重信
-东方卫视,http://125.80.153.209:8003/rtp/235.254.198.33:1408$重信
-北京卫视,http://125.80.153.209:8003/rtp/235.254.198.21:1360$重信
-浙江卫视,http://125.80.153.209:8003/rtp/235.254.198.18:1348$重信
-深圳卫视,http://125.80.153.209:8003/rtp/235.254.198.31:1400$重信
-安徽卫视,http://125.80.153.209:8003/rtp/235.254.198.20:1356$重信
-山东卫视,http://125.80.153.209:8003/rtp/235.254.198.24:1372$重信
-广东卫视,http://125.80.153.209:8003/rtp/235.254.198.37:1424$重信
-天津卫视,http://125.80.153.209:8003/rtp/235.254.198.22:1364$重信
-四川卫视,http://125.80.153.209:8003/rtp/235.254.198.28:1388$重信
-辽宁卫视,http://125.80.153.209:8003/rtp/235.254.198.23:1368$重信
-黑龙江卫视,http://125.80.153.209:8003/rtp/235.254.198.27:1384$重信
-贵州卫视,http://125.80.153.209:8003/rtp/235.254.198.30:1396$重信
-湖北卫视,http://125.80.153.209:8003/rtp/235.254.198.32:1404$重信
-河北卫视,http://125.80.153.209:8003/rtp/235.254.198.128:1788$重信
-东南卫视,http://125.80.153.209:8003/rtp/235.254.198.35:1416$重信
 
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
 云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
@@ -1580,8 +1349,6 @@ LUXETV电影,http://37.27.111.214:8080/live/86/hls.m3u8$芬兰
 第一剧场,http://42.48.17.204:808/hls/117/index.m3u8$长联
 
 怀旧剧场,http://42.48.17.204:808/hls/112/index.m3u8$长联
-
-家庭影院,http://61.138.54.155:2233/hls/10/index.m3u8$绥化联
 
 虎牙轮播,#genre#
 
@@ -3727,7 +3494,6 @@ CGTNDOCU,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/8888
 世界地理,http://61.185.200.157:10000/rtp/239.111.205.71:5140
 
 金鹰纪实,http://113.57.109.48:1111/tsfile/live/1040_1.m3u8
-金鹰纪实,http://58.19.38.162:9901/tsfile/live/1032_1.m3u8$湖联
 金鹰纪实,http://116.128.242.83:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 
 CGTNDocumentary,http://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
@@ -3757,8 +3523,6 @@ CETV4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/8888888
 CETV1,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000027253/1.m3u8$ip6
 CETV4,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031126/1.m3u8$ip6
 
-CETV1,http://61.138.54.155:2233/hls/65/index.m3u8$绥化联
-CETV2,http://61.138.54.155:2233/hls/66/index.m3u8$绥化联
 CETV1,http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8
 CETV4,https://cntv.lat/tv?auth=202311030915&id=cetv4
 
@@ -3783,30 +3547,6 @@ CEC-4,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 山东教育,http://183.11.239.36:808/hls/72/index.m3u8
 
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-
-魅力时尚,http://125.80.153.209:8003/rtp/235.254.198.115:1736$重信
-旅游卫视,http://125.80.153.209:8003/rtp/235.254.198.44:1452$重信
-纪实,http://125.80.153.209:8003/rtp/235.254.198.121:1760$重信
-地理,http://125.80.153.209:8003/rtp/235.254.198.78:1588$重信
-美妆,http://125.80.153.209:8003/rtp/235.254.198.79:1592$重信
-美人,http://125.80.153.209:8003/rtp/235.254.198.80:1596$重信
-精选,http://125.80.153.209:8003/rtp/235.254.198.81:1600$重信
-解密,http://125.80.153.209:8003/rtp/235.254.198.82:1604$重信
-军事,http://125.80.153.209:8003/rtp/235.254.198.83:1608$重信
-国学,http://125.80.153.209:8003/rtp/235.254.198.84:1612$重信
-戏曲,http://125.80.153.209:8003/rtp/235.254.198.85:1616$重信
-早教,http://125.80.153.209:8003/rtp/235.254.198.86:1620$重信
-动画,http://125.80.153.209:8003/rtp/235.254.198.87:1624$重信
-精彩导视,http://125.80.153.209:8003/rtp/235.254.196.101:1162$重信
-好学生,http://125.80.153.209:8003/rtp/235.254.198.88:1628$重信
-鉴赏,http://125.80.153.209:8003/rtp/235.254.198.89:1632$重信
-墨宝,http://125.80.153.209:8003/rtp/235.254.198.90:1636$重信
-光影,http://125.80.153.209:8003/rtp/235.254.198.91:1640$重信
-台球,http://125.80.153.209:8003/rtp/235.254.198.92:1644$重信
-爱生活,http://125.80.153.209:8003/rtp/235.254.198.93:1648$重信
-武术,http://125.80.153.209:8003/rtp/235.254.198.94:1652$重信
-高网,http://125.80.153.209:8003/rtp/235.254.198.95:1656$重信
-足球,http://125.80.153.209:8003/rtp/235.254.198.96:1660$重信
 
 省市地方,#genre#
 
