@@ -8,7 +8,7 @@
 //---------------以下复制---------2uni--github-----------
 //"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0ucGhw"]}]}],
   "lives": [{"name":"📺", "type":0,"url":"https://mirror.ghproxy.com/https://raw.github.com/lzhmh/uniwb/main/uniwb.txt","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
-,{"name":"✈", "type":0,"url":"https://ghp.ci/https://raw.githubusercontent.com/5peak2me/tvbox/main/tv/txt/ipv6.txt","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
+,{"name":"✈", "type":0,"url":"https://mirror.ghproxy.com/https://raw.github.com/5peak2me/tvbox/main/tv/txt/ipv6.txt","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ,{"name":"🎥", "type":0,"url":"https://mirror.ghproxy.com/https://raw.github.com/lzhmh/pd/main/moves.php","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ,{"name":"🎤", "type":0,"url":"https://mirror.ghproxy.com/https://raw.github.com/lzhmh/pd/main/Mtv.php","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
   "sites":[{"key":"csp_DouDou","name":"豆瓣U2H36","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
