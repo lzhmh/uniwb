@@ -727,6 +727,13 @@ MOMOTV,rtmp://f13h.mine.nu/sat/tv761.flv
 MOMOTV,http://60.248.77.83/sat/tv761.flv
 MOMOTV,rtmp://f13h.mine.nu/sat/tv761
 
+俄体育2,http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
+EUROSPORTS1,http://iptv-hls.idc.md:8200/hls/78/live1.m3u8
+EUROSPORTS1,http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
+EUROSPORTS1,http://iptv-hls.idc.md:8200/hls/261/live1.m3u8
+TRACESport,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+TRACESport,https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+
 博斯运动I棒球,http://37.27.111.214:8080/live/14/hls.m3u8$芬兰
 博斯高球I,P2p://generationnexxxt.com:19806/10e28a2c31fe4fe8b3975961dec3503e$p2p
 博斯高球I,P2p://generationnexxxt.com:19806/a0b205fa58d04238b5a166760468f88a$p2p
@@ -735,9 +742,6 @@ MOMOTV,rtmp://f13h.mine.nu/sat/tv761
 智林体育,http://37.27.111.214:8080/live/77/hls.m3u8$芬兰
 V+体育,http://37.27.111.214:8080/live/78/hls.m3u8$芬兰
 博斯运动I棒球,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8587/.m3u8$tian
-
-TRACESport,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-TRACESport,https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 
 博斯高球I,http://8.137.59.151:3009/TV2/gat.php?id=99$gat
 博斯高球II,http://8.137.59.151:3009/TV2/gat.php?id=100$gat
@@ -776,12 +780,14 @@ FIFA 足球,https://d2anxt9uu5yxtz.cloudfront.net/v1/master/3722c60a815c199d9c0e
 曼联官方MUTV,https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 Dubaisport,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
 
+红牛运动,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 红牛运动,http://rbmn-live.akamaized.net:80/hls/live/590964/BoRB-AT/master_1660.m3u8
 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?zshijd
 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8?zshijd
 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
+SonySports4,http://176.119.29.52/live.ts?channelId=105349&uid=15834&deviceMac=00:1A:79:40:26:09
 
 F1赛车,https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 
@@ -1233,7 +1239,7 @@ CHC动作电影,http://42.48.17.204:808/hls/65/index.m3u8$长联
 HBO纪录片,http://nv1connect.com:80/tamtam/tjfYkCbP3s/3800
 HBOTV,http://nv1connect.com:80/tamtam/tjfYkCbP3s/3799
 ThrillTV,http://nv1connect.com:80/tamtam/tjfYkCbP3s/94482
-
+ActionHollywood,https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
 HollyWood,http://8.137.59.151:3009/TV2/gat.php?id=79$gat
 HBOHD,http://8.137.59.151:3009/TV2/gat.php?id=80$gat
@@ -1263,6 +1269,8 @@ CinemaWorld,http://37.27.111.214:8080/live/30/hls.m3u8$芬兰
 爱奇艺,P2p://generationnexxxt.com:19806/57550dfdc5e44996894431f0f14fb42f$p2p
 纬来电影,P2p://generationnexxxt.com:19806/73fb2db46b6c4ec885e3709d9b7a4983$p2p
 龙祥电影,P2p://generationnexxxt.com:19806/1c325d3c69ec458c852b173bf2e397a9$p2p
+
+TCB,http://iptv-hls.idc.md:8200/hls/2/live1.m3u8
 
 RockE电影,http://8.137.59.151:3009/TV2/gat.php?id=29$gat
 RockA电影,http://8.137.59.151:3009/TV2/gat.php?id=30$gat
@@ -3466,16 +3474,18 @@ TVB经典—九江十二坊,https://lunbo.freetv.top/yy/1382735566
 
 自然纪实,#genre#
 
-CGTNDOCU,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8$哈移
+CGTNDocumentary,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8$哈移
 精品纪录,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8$哈移
 上海纪实人文,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8$哈移
 北京纪实科教,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8$哈移
-
 北京纪实科教,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8$8K
 北京纪实科教,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8$8K
 
+CGTNDocumentary,https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cgtndoc.stream/playlist.m3u8
+
 国冡地理,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8510/.m3u8$tian
 
+WildEarth,https://wildearth-roku.amagi.tv/masterR720P.m3u8
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8$61
 
 世界地理,http://42.48.17.204:808/hls/109/index.m3u8$长联
@@ -3594,6 +3604,7 @@ CEC-4,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 
 外语新闻,#genre#
 
+中国国际CGTN,https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cgtn.stream/playlist.m3u8
 中国国际CGTN,http://live.cgtn.com/1000/prog_index.m3u8
 中国国际CGTN,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8$哈移
 中国国际CGTN,http://live.cgtn.com/500/prog_index.m3u8
