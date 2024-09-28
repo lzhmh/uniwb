@@ -11,8 +11,8 @@
 ,{"name":"✈", "type":0,"url":"https://mirror.ghproxy.com/https://raw.github.com/5peak2me/tvbox/main/tv/txt/ipv6.txt","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ,{"name":"🎥", "type":0,"url":"https://mirror.ghproxy.com/https://raw.github.com/lzhmh/pd/main/moves.php","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ,{"name":"🎤", "type":0,"url":"https://mirror.ghproxy.com/https://raw.github.com/lzhmh/pd/main/Mtv.php","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
-  "sites":[{"key":"csp_DouDou","name":"豆瓣U2H36","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
-//--------以上复制-------20240921---------------------
+  "sites":[{"key":"csp_DouDou","name":"豆瓣U2H37","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
+//--------以上复制-------20240928---------------------
  {"key":"lf_js_lf_live","name":"电视直播","type":3,"api":"https://gitee.com/hnkfmh/Mobtee/raw/master/if.js","style":{"type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/hnkfmh/Mobtee/raw/master/if.txt"},
  {"key": "csp_LocalFile","name": "💻本地视频","type": 3,"api": "csp_LocalFile","searchable": 0,"quickSearch": 0,"filterable": 0,"type_flag": 0,"jar": "https://gitee.com/hnkfmh/jsjar/raw/master/custom_spider.jar"},     
  {"key": "Aid","name": "🚑急救┃教学","type": 3,"api": "csp_FirstAid","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8}},
@@ -33,6 +33,8 @@
 {"key":"酷吧电影","name":"磁力｜酷吧电影","type":3,"api":"csp_KubaCL","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/hnkfmh/jsjar/raw/master/custom_spider.jar"},     
 {"key":"美剧天堂","name":"磁力｜美剧天堂","type":3,"api":"csp_MeijuTT","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/hnkfmh/jsjar/raw/master/custom_spider.jar"},     
 //#磁力end
+{"key": "量子资源","name": "️量子","type": 1,"api": "http://cj.lziapi.com/api.php/provide/vod/","playUrl": "json:https://www.itvbox.cc/fflz.php?url=","m3u8ads": "hd.youyhn.com","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","日剧","欧美剧","台湾剧","泰剧","韩剧","纪录片","动漫电影"]},
+{"key": "zy_lziapi","name": "速优","type": 1,"api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list","searchable": 1,"playUrl": "","quickSearch": 1,"categories": ["国产剧","韩国剧","香港剧","台湾剧","欧美剧","电影","连续剧","综艺","动漫","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片"]},
 //jar内置爬虫规则区
  {"key":"csp_CandyMuj_haokongbu","name":"💖好恐怖","type":3,"api":"csp_CandyMuj_haokongbu","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gh.three2all.com/raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.jar;md5;ec8ab1bcb078290e4f5a0d1449393a69"},
  {"key":"火狐资源","name":"火狐","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/","categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","灾难片","犯罪片","悬疑片","惊悚片","奇幻片","冒险片","武侠片","其它片","国产剧","港台剧","日韩剧","欧美剧","香港剧","台湾剧","美国剧","韩国剧","日本剧","泰国剧","港澳剧","日剧","韩剧","泰剧","海外剧","马泰剧","中漫","日漫","动漫","纪录片","动画片","动漫片","国产动漫","港台动漫","日本动漫","海外动漫","日韩动漫","欧美动漫","动漫电影","国内综艺","港台综艺","大陆综艺","日韩综艺","欧美综艺","海外综艺","电影解说"],"searchable":1,"quickSearch":1}, 
@@ -607,7 +609,7 @@
 {"name":"抖音嗅探","hosts":["douyin.com"],"regex":["is_play_url="]}],
 
 "ijk":[
-		{"group":"软解码","options":[
+	{"group":"软解码","options":[
 			{"category":4,"name":"opensles","value":"0"},
 			{"category":4,"name":"overlay-format","value":"842225234"},
 			{"category":4,"name":"framedrop","value":"1"},
