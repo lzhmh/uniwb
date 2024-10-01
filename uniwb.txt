@@ -2,11 +2,11 @@
 
 港澳U073,#genre#
 
-凤凰中文,https://dl.zhoujie218.top/new/fhx.php?id=fhzw$上阿里
-凤凰资讯,https://dl.zhoujie218.top/new/fhx.php?id=fhzx$上阿里
-
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw$php
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx$php
+
+凤凰中文,https://dl.zhoujie218.top/new/fhx.php?id=fhzw$上阿里
+凤凰资讯,https://dl.zhoujie218.top/new/fhx.php?id=fhzx$上阿里
 
 凤凰中文,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu001-golive.flv$ali
 凤凰资讯,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu002-golive.flv$ali
@@ -76,16 +76,15 @@ CCTV4,http://ygbh666.cn/aikmigu.php?id=cctv4$ygb
 CCTV13,http://ygbh666.cn/aikmigu.php?id=cctv13$ygb
 
 CCTV4,http://124.230.56.162:55555/udp/239.76.245.195:1234$邵信
-CCTV4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8$哈移
 CCTV4,http://113.57.109.48:1111/tsfile/live/1003_1.m3u8$武联
+CCTV4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8$哈移
 
+CCTV13,http://113.57.109.48:1111/tsfile/live/1012_1.m3u8$武联
 CCTV13,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8$哈移
 CCTV13,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226571/index.m3u8$哈移
-CCTV13,http://113.57.109.48:1111/tsfile/live/1012_1.m3u8$武联
 
 先锋乒羽,http://wouu.net:9977/udp/239.93.42.56:5140$四川
 先锋乒羽,http://60.7.56.50:4000/rtp/239.253.93.219:6397
-先锋乒羽,http://118.249.20.125:9999/udp/239.76.246.51:1234$芙信
 先锋乒羽,http://42.48.17.204:808/hls/77/index.m3u8$长联
 
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk$php
@@ -139,6 +138,7 @@ fesival音乐,http://37.27.111.214:8080/live/83/hls.m3u8$芬兰
 CLASSICA古典,https://litv.zapi.us.kg/?id=4gtv-4gtv059$litv
 mezzoLIVE,https://litv.zapi.us.kg/?id=4gtv-4gtv083$litv
 DisneyChannel,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24$cdn
+NICK_MUSIC,http://fl5.moveonjoy.com/NICK_MUSIC/index.m3u8
 
 翡翠台,http://php.jdshipin.com:8880/xsj.php?id=feicui
 翡翠台,http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
@@ -199,11 +199,6 @@ TVB,http://8.137.59.151:3009/TV2/gat.php?id=6$gat
 CCTV5,http://ygbh666.cn/aikmigu.php?id=cctv5$ygb
 CCTV5+,http://ygbh666.cn/aikmigu.php?id=cctv5p$ygb
 
-CCTV5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8$哈移
-CCTV5+,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$哈移
-CCTV5,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8$哈移
-CCTV16,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$哈移
-
 CCTV5+,http://58.250.155.2:8180/TV00000000000000000004@HHZT$深联
 CCTV5,http://58.250.155.2:8180/TV00000000000000000005@HHZT$深联
 
@@ -211,9 +206,11 @@ CCTV5+,http://113.57.109.48:1111/tsfile/live/1016_1.m3u8$武联
 CCTV5,http://113.57.109.48:1111/tsfile/live/1004_1.m3u8$武联
 CCTV16,http://113.57.109.48:1111/tsfile/live/1014_1.m3u8$武联
 
-CCTV16,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000233002/1.m3u8$ip6
-CCTV16,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010142/1.m3u8$ip6
 CCTV16,http://php.jdshipin.com:8880/bestv.php?id=cctv16hd4k/15000000$php4K
+CCTV5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8$哈移
+CCTV5+,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$哈移
+CCTV5,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8$哈移
+CCTV16,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$哈移
 
 CCTV5,http://58.19.38.162:9901/tsfile/live/1004_1.m3u8$湖联
 CCTV5+,http://58.19.38.162:9901/tsfile/live/1014_1.m3u8$湖联
@@ -221,32 +218,22 @@ CCTV5+,http://58.19.38.162:9901/tsfile/live/1014_1.m3u8$湖联
 CCTV5,https://qsxw.gov.cn/rtmp_export/video33.m3u8$qsxw
 CCTV5+,http://www.furymax.top:85/rtp/239.254.96.234:9484
 
-CCTV5,http://118.249.20.125:9999/udp/239.76.246.155:1234$芙信
-CCTV5+,http://118.249.20.125:9999/udp/239.76.246.168:1234$芙信
-CCTV16,http://118.249.20.125:9999/udp/239.76.246.98:1234$芙信
-
 先锋乒羽,http://wouu.net:9977/udp/239.93.42.56:5140$四川
 先锋乒羽,http://60.7.56.50:4000/rtp/239.253.93.219:6397
-先锋乒羽,http://118.249.20.125:9999/udp/239.76.246.51:1234$芙信
 先锋乒羽,http://42.48.17.204:808/hls/77/index.m3u8$长联
 
-ELTA3羽球,http://8.137.59.151:3009/TV2/gat.php?id=97$gat
 ELTA3羽球,P2p://generationnexxxt.com:19806/45f846eb465245d2aae9e7c34609f960$p2p
 ELTA3羽球,P2p://generationnexxxt.com:19806/90ea1d1ed6654b5d863053cfceb050e0$p2p
+ELTA3羽球,http://8.137.59.151:3009/TV2/gat.php?id=97$gat
 
-博斯网球,http://8.137.59.151:3009/TV2/gat.php?id=103$gat
 博斯网球,P2p://generationnexxxt.com:19806/2d4ebc7a69904ad795df8adc5906d3a4$p2p
 博斯网球,P2p://generationnexxxt.com:19806/3ffce834097d40fa9036d0c469bafefd$p2p
 博斯网球,http://37.27.111.214:8080/live/16/hls.m3u8$芬兰
 博斯网球,https://litv.zapi.us.kg/?id=litv-longturn09$litv
+博斯网球,http://8.137.59.151:3009/TV2/gat.php?id=103$gat
 
 beIN2网球,P2p://generationnexxxt.com:19806/23d14199213c426092f9e1002f0f143f$p2p
 beIN2网球,P2p://generationnexxxt.com:19806/dbf33217b02d466ebaf2776c2b6ba300$p2p
-
-晴彩篮球,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8$哈移
-晴彩篮球,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8$哈移
-晴彩竞技,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8$哈移
-晴彩青少,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8$哈移
 
 广东体育,http://58.250.155.2:8180/TV00000000000000000030@HHZT$深联
 广东体育,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
@@ -267,13 +254,6 @@ beIN2网球,P2p://generationnexxxt.com:19806/dbf33217b02d466ebaf2776c2b6ba300$p2
 
 足球频道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
 
-超级体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8$哈移
-精品体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$哈移
-
-超级体育,http://[2409:8087:1a01:df::4013]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-超级体育,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-超级体育,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010063/1.m3u8
-
 劲爆体育,http://117.161.12.124/live/program/live/jbtyhd/4000000/mnf.m3u8
 劲爆体育,http://117.161.12.124/live/program/live/jbtyhd8m/8000000/mnf.m3u8
 劲爆体育,http://tvbox6.icu/tv/migu.php?id=jbty
@@ -282,9 +262,6 @@ beIN2网球,P2p://generationnexxxt.com:19806/dbf33217b02d466ebaf2776c2b6ba300$p2
 
 五星体育,http://117.161.12.124/live/program/live/ssty/4000000/mnf.m3u8
 五星体育,http://117.161.12.124/live/program/live/wxtyhd8m/8000000/mnf.m3u8
-
-武搏世界,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8$哈移
-中国功夫,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8$哈移
 
 武术世界,http://124.230.56.162:55555/udp/239.76.245.181:1234$邵信
 武术世界,http://php.jdshipin.com:8880/hntv.php?id=wspd$php
@@ -308,6 +285,21 @@ beIN2网球,P2p://generationnexxxt.com:19806/dbf33217b02d466ebaf2776c2b6ba300$p2
 斗鱼体育,http://live.iill.top/douyu.php?id=9170147
 斗鱼体育,http://159.75.85.63:35455/douyu/9170147
 斗鱼体育,http://zzy789.xyz/douyu1.php?id=9170147
+
+晴彩篮球,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8$哈移
+晴彩篮球,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8$哈移
+晴彩竞技,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8$哈移
+晴彩青少,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8$哈移
+
+超级体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8$哈移
+精品体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$哈移
+
+超级体育,http://[2409:8087:1a01:df::4013]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+超级体育,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+超级体育,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010063/1.m3u8
+
+武搏世界,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8$哈移
+中国功夫,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8$哈移
 
 晴彩广场舞,http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8$哈移
 咪咕直播,http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8$哈移
@@ -337,20 +329,6 @@ NBA直播不定时,https://ff.chgdst.com/live/xiaoling99.m3u8
 安徽体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv
 安徽体育,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829415240627.m3u8
 
-八卦大师,http://diyp.zxxoo.work/douyu/851040
-帽子象棋,http://diyp.zxxoo.work/douyu/4487219
-笑笑象棋,http://diyp.zxxoo.work/douyu/9969
-大神象棋,http://diyp.zxxoo.work/douyu/1227260
-飞刀陷阱,http://diyp.zxxoo.work/douyu/11576846
-飞刀讲解,http://diyp.zxxoo.work/douyu/10237088
-飞刀谱,http://diyp.zxxoo.work/douyu/11765935
-小鹤求败,http://diyp.zxxoo.work/douyu/3830820
-旭宝斗地主,http://diyp.zxxoo.work/douyu/9804176
-欢乐斗地主,http://diyp.zxxoo.work/douyu/8324074
-JJ斗地主冠军赛,http://diyp.zxxoo.work/douyu/488743
-陶老师围棋,http://diyp.zxxoo.work/douyu/6586073
-弈夫围棋,http://diyp.zxxoo.work/douyu/6399350
-
 八卦大师,http://maomao.kandiantv.cn/douyu1.php?id=851040
 帽子象棋,http://maomao.kandiantv.cn/douyu1.php?id=4487219
 笑笑象棋,http://maomao.kandiantv.cn/douyu1.php?id=9969
@@ -378,6 +356,20 @@ JJ斗地主冠军赛,http://maomao.kandiantv.cn/douyu1.php?id=488743
 JJ斗地主冠军赛,http://zzy789.xyz/douyu1.php?id=488743
 陶老师围棋,http://zzy789.xyz/douyu1.php?id=6586073
 弈夫围棋,http://zzy789.xyz/douyu1.php?id=6399350
+
+八卦大师,http://diyp.zxxoo.work/douyu/851040
+帽子象棋,http://diyp.zxxoo.work/douyu/4487219
+笑笑象棋,http://diyp.zxxoo.work/douyu/9969
+大神象棋,http://diyp.zxxoo.work/douyu/1227260
+飞刀陷阱,http://diyp.zxxoo.work/douyu/11576846
+飞刀讲解,http://diyp.zxxoo.work/douyu/10237088
+飞刀谱,http://diyp.zxxoo.work/douyu/11765935
+小鹤求败,http://diyp.zxxoo.work/douyu/3830820
+旭宝斗地主,http://diyp.zxxoo.work/douyu/9804176
+欢乐斗地主,http://diyp.zxxoo.work/douyu/8324074
+JJ斗地主冠军赛,http://diyp.zxxoo.work/douyu/488743
+陶老师围棋,http://diyp.zxxoo.work/douyu/6586073
+弈夫围棋,http://diyp.zxxoo.work/douyu/6399350
 
 八卦大师,http://live.iill.top/douyu.php?id=9851040$liv
 帽子象棋,http://live.iill.top/douyu.php?id=94487219$liv
@@ -463,17 +455,6 @@ JJ斗地主冠军赛,http://43.138.170.29:35455/douyu/488743
 寰宇台湾,http://37.27.111.214:8080/live/63/hls.m3u8$芬兰
 镜新闻,http://37.27.111.214:8080/live/62/hls.m3u8$芬兰
 TVBSHD,http://37.27.111.214:8080/live/23/hls.m3u8$芬兰
-
-TVBSHD,http://8.137.59.151:3009/TV2/gat.php?id=45$gat
-TVBS新闻,http://8.137.59.151:3009/TV2/gat.php?id=110$gat
-寰宇新闻,http://8.137.59.151:3009/TV2/gat.php?id=47$gat
-寰宇台湾,http://8.137.59.151:3009/TV2/gat.php?id=48$gat
-中视新闻,http://8.137.59.151:3009/TV2/gat.php?id=50$gat
-中视新闻,http://8.137.59.151:3009/TV2/gat.php?id=51$gat
-华视新闻,http://8.137.59.151:3009/TV2/gat.php?id=109$gat
-民视新闻,http://8.137.59.151:3009/TV2/gat.php?id=52$gat
-民视新闻,http://8.137.59.151:3009/TV2/gat.php?id=94$gat
-三立iNews,http://8.137.59.151:3009/TV2/gat.php?id=49$gat
 
 TVBSHD,P2p://generationnexxxt.com:19806/5fe15c41a5ed4d5f9262ee28464c45c0$p2p
 TVBSHD,P2p://generationnexxxt.com:19806/9e185dd6c7dd46edb5a7d675e4fca701$p2p
@@ -575,6 +556,17 @@ TVBS新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8574/.m3u8$tia
 TVBSHD,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8575/.m3u8$tian
 东森超视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8525/.m3u8$tian
 
+TVBSHD,http://8.137.59.151:3009/TV2/gat.php?id=45$gat
+TVBS新闻,http://8.137.59.151:3009/TV2/gat.php?id=110$gat
+寰宇新闻,http://8.137.59.151:3009/TV2/gat.php?id=47$gat
+寰宇台湾,http://8.137.59.151:3009/TV2/gat.php?id=48$gat
+中视新闻,http://8.137.59.151:3009/TV2/gat.php?id=50$gat
+中视新闻,http://8.137.59.151:3009/TV2/gat.php?id=51$gat
+华视新闻,http://8.137.59.151:3009/TV2/gat.php?id=109$gat
+民视新闻,http://8.137.59.151:3009/TV2/gat.php?id=52$gat
+民视新闻,http://8.137.59.151:3009/TV2/gat.php?id=94$gat
+三立iNews,http://8.137.59.151:3009/TV2/gat.php?id=49$gat
+
 FTV旅游,http://37.27.111.214:8080/live/82/hls.m3u8$芬兰
 ELTA生活旅游,http://37.27.111.214:8080/live/85/hls.m3u8$芬兰
 
@@ -621,12 +613,15 @@ ZooMoo,https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playli
 ZooMoo,https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 尼克儿童,http://37.27.111.214:8080/live/12/hls.m3u8$芬兰
-nickjr,http://37.27.111.214:8080/live/22/hls.m3u8$芬兰
+NICK_JR,http://37.27.111.214:8080/live/22/hls.m3u8$芬兰
 梦工厂少儿,http://37.27.111.214:8080/live/57/hls.m3u8$芬兰
 梅花动画,http://37.27.111.214:8080/live/105/hls.m3u8$芬兰
 梅花少儿,http://37.27.111.214:8080/live/106/hls.m3u8$芬兰
 梅花哆啦少儿,http://37.27.111.214:8080/live/107/hls.m3u8$芬兰
 HokkoTV,http://37.27.111.214:8080/live/1/hls.m3u8$芬兰
+
+NICKTOONS,http://143.244.60.30/NICKTOONS/index.m3u8
+NICK_JR,https://fl5.moveonjoy.com/NICK_JR/index.m3u8
 
 尼克儿童,P2p://generationnexxxt.com:19806/1d8cc2412f824c3c888a5d91d241910c$p2p
 东森幼幼,P2p://generationnexxxt.com:19806/f426ffd2f2744109aedcfaa04fed3a6e$p2p
@@ -719,9 +714,6 @@ ELTA1足球,rtmp://59.124.75.138/sat/md011$59
 ELTA1足球,P2p://generationnexxxt.com:19806/db1725953e1d4256bcfab79f1873a727$p2p
 ELTA1足球,P2p://generationnexxxt.com:19806/a45037ddc0734fe58e4ab3e053d811dc$p2p
 
-ELTA2美足,http://8.137.59.151:3009/TV2/gat.php?id=111$gat
-ELTA4棒球,http://8.137.59.151:3009/TV2/gat.php?id=98$gat
-
 ELTA2美足,P2p://generationnexxxt.com:19806/dc194c3738dd40448246b92172399ccd$p2p
 ELTA2美足,P2p://generationnexxxt.com:19806/1ba2c7d7725f46a595dcb7df1741b5fb$p2p
 ELTA4棒球,P2p://generationnexxxt.com:19806/4c4be1e474784fdbbfb565b5046238f4$p2p
@@ -776,15 +768,6 @@ TRACESport,https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8?checkedby:i
 V+体育,http://37.27.111.214:8080/live/78/hls.m3u8$芬兰
 博斯运动I棒球,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8587/.m3u8$tian
 
-博斯运动I,http://8.137.59.151:3009/TV2/gat.php?id=101$gat
-博斯运动II,http://8.137.59.151:3009/TV2/gat.php?id=102$gat
-博斯无限,http://8.137.59.151:3009/TV2/gat.php?id=104$gat
-博斯无限II,http://8.137.59.151:3009/TV2/gat.php?id=105$gat
-博斯高球I,http://8.137.59.151:3009/TV2/gat.php?id=99$gat
-博斯高球II,http://8.137.59.151:3009/TV2/gat.php?id=100$gat
-HKC18赛马,http://8.137.59.151:3009/TV2/gat.php?id=9$gat
-HKC18赛马,http://8.137.59.151:3009/TV2/gat.php?id=25$gat
-
 智林体育,https://litv.zapi.us.kg/?id=4gtv-4gtv101$litv
 博斯魅力,https://litv.zapi.us.kg/?id=litv-longturn04$litv
 博斯运动I,https://litv.zapi.us.kg/?id=litv-longturn07$litv
@@ -826,6 +809,18 @@ Dubaisport,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.
 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
 SonySports4,http://176.119.29.52/live.ts?channelId=105349&uid=15834&deviceMac=00:1A:79:40:26:09
+
+ELTA2美足,http://8.137.59.151:3009/TV2/gat.php?id=111$gat
+ELTA4棒球,http://8.137.59.151:3009/TV2/gat.php?id=98$gat
+
+博斯运动I,http://8.137.59.151:3009/TV2/gat.php?id=101$gat
+博斯运动II,http://8.137.59.151:3009/TV2/gat.php?id=102$gat
+博斯无限,http://8.137.59.151:3009/TV2/gat.php?id=104$gat
+博斯无限II,http://8.137.59.151:3009/TV2/gat.php?id=105$gat
+博斯高球I,http://8.137.59.151:3009/TV2/gat.php?id=99$gat
+博斯高球II,http://8.137.59.151:3009/TV2/gat.php?id=100$gat
+HKC18赛马,http://8.137.59.151:3009/TV2/gat.php?id=9$gat
+HKC18赛马,http://8.137.59.151:3009/TV2/gat.php?id=25$gat
 
 F1赛车,https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 
@@ -883,10 +878,6 @@ DiscoveryAsia,P2p://generationnexxxt.com:19806/6d031b7fba864255a10992d86da402ca$
 BBCLifestyle,P2p://generationnexxxt.com:19806/213ee36f11ba4b9896c8440290ebca3b$p2p
 BBCEarth,P2p://generationnexxxt.com:19806/bfb6de1d865a44c7a78477c6a0eb0b4a$p2p
 Discovery科学,P2p://generationnexxxt.com:19806/5eb5ac6d3cf243b69bce16ad8e841668$p2p
-
-亚洲旅游,http://8.137.59.151:3009/TV2/gat.php?id=91$gat
-国家地理,http://8.137.59.151:3009/TV2/gat.php?id=92$gat
-野生地理,http://8.137.59.151:3009/TV2/gat.php?id=93$gat
 
 民视旅游,https://litv.zapi.us.kg/?id=litv-ftv07$litv
 亚洲旅游,https://litv.zapi.us.kg/?id=litv-longturn17$litv
@@ -1076,8 +1067,12 @@ Astro AEC,P2p://generationnexxxt.com:19806/c1cd28c52536406f902f6cbab7cded05$p2p
 斗鱼历史2,http://maomao.kandiantv.cn/douyu1.php?id=10102281$mao
 老高闲聊,http://maomao.kandiantv.cn/douyu1.php?id=838632$mao
 
-fashionBOX,http://8.137.59.151:3009/TV2/gat.php?id=32$gat
+亚洲旅游,http://8.137.59.151:3009/TV2/gat.php?id=91$gat
+国家地理,http://8.137.59.151:3009/TV2/gat.php?id=92$gat
+野生地理,http://8.137.59.151:3009/TV2/gat.php?id=93$gat
+
 fashionBOX,http://80.94.54.42/fashiontv/stream/playlist.m3u8
+fashionBOX,http://8.137.59.151:3009/TV2/gat.php?id=32$gat
 苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8$4k
 
 央视音乐,#genre#
@@ -1452,10 +1447,6 @@ HBOTV,http://nv1connect.com:80/tamtam/tjfYkCbP3s/3799
 ThrillTV,http://nv1connect.com:80/tamtam/tjfYkCbP3s/94482
 ActionHollywood,https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
-HollyWood,http://8.137.59.151:3009/TV2/gat.php?id=79$gat
-HBOHD,http://8.137.59.151:3009/TV2/gat.php?id=80$gat
-thrill,http://8.137.59.151:3009/TV2/gat.php?id=33$gat 
-CATCHPLAY电影,http://8.137.59.151:3009/TV2/gat.php?id=84$gat 
 HollyWood,P2p://generationnexxxt.com:19806/c4810d15af404015859a5fc5059e4716$p2p
 HBOHD,P2p://generationnexxxt.com:19806/ccabaebf243e4385a8f39a6abf31f8bb$p2p
 HBOFamily,P2p://generationnexxxt.com:19806/a478d349433544c894aef4e3dc167d64$p2p
@@ -1473,8 +1464,6 @@ AMC电影,https://litv.zapi.us.kg/?id=4gtv-4gtv017$litv
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8$61
 AMC电影,P2p://generationnexxxt.com:19806/951cecbe3fd745498d5216c042600ccf$p2p
 CinemaWorld,http://37.27.111.214:8080/live/30/hls.m3u8$芬兰
-美亚电影,http://8.137.59.151:3009/TV2/gat.php?id=78$gat
-美亚电影,http://8.137.59.151:3009/TV2/gat.php?id=18$gat
 美亚电影,P2p://generationnexxxt.com:19806/6c34f21c2c634e5db469a2971a6e4ed0$p2p
 美亚电影,P2p://generationnexxxt.com:19806/81ea49b841454e1c901ac507f231a581$p2p
 爱奇艺,P2p://generationnexxxt.com:19806/57550dfdc5e44996894431f0f14fb42f$p2p
@@ -1482,20 +1471,6 @@ CinemaWorld,http://37.27.111.214:8080/live/30/hls.m3u8$芬兰
 龙祥电影,P2p://generationnexxxt.com:19806/1c325d3c69ec458c852b173bf2e397a9$p2p
 
 TCB,http://iptv-hls.idc.md:8200/hls/2/live1.m3u8
-
-RockE电影,http://8.137.59.151:3009/TV2/gat.php?id=29$gat
-RockA电影,http://8.137.59.151:3009/TV2/gat.php?id=30$gat
-东森电影,http://8.137.59.151:3009/TV2/gat.php?id=62$gat
-东森洋片,http://8.137.59.151:3009/TV2/gat.php?id=63$gat
-龙华洋片,http://8.137.59.151:3009/TV2/gat.php?id=65$gat
-ELTA影剧,http://8.137.59.151:3009/TV2/gat.php?id=76$gat
-龙祥时代,http://8.137.59.151:3009/TV2/gat.php?id=77$gat
-FGMGOLD,http://8.137.59.151:3009/TV2/gat.php?id=81$gat
-FGMGOLD,http://8.137.59.151:3009/TV2/gat.php?id=82$gat
-PopC,http://8.137.59.151:3009/TV2/gat.php?id=17$gat
-龙华电影,http://8.137.59.151:3009/TV2/gat.php?id=68$gat
-靖天电影,http://8.137.59.151:3009/TV2/gat.php?id=70$gat
-采昌电影,http://8.137.59.151:3009/TV2/gat.php?id=88$gat
 
 龙华电影,https://litv.zapi.us.kg/?id=litv-longturn03$litv
 CATCHPLAY电影,https://litv.zapi.us.kg/?id=4gtv-4gtv076$litv
@@ -1523,6 +1498,26 @@ RockA电影,http://37.27.111.214:8080/live/94/hls.m3u8$芬兰
 RockE电影,http://37.27.111.214:8080/live/70/hls.m3u8$芬兰
 MCE电影,http://37.27.111.214:8080/live/98/hls.m3u8$芬兰
 LUXETV电影,http://37.27.111.214:8080/live/86/hls.m3u8$芬兰
+
+HollyWood,http://8.137.59.151:3009/TV2/gat.php?id=79$gat
+HBOHD,http://8.137.59.151:3009/TV2/gat.php?id=80$gat
+thrill,http://8.137.59.151:3009/TV2/gat.php?id=33$gat 
+CATCHPLAY电影,http://8.137.59.151:3009/TV2/gat.php?id=84$gat 
+美亚电影,http://8.137.59.151:3009/TV2/gat.php?id=78$gat
+美亚电影,http://8.137.59.151:3009/TV2/gat.php?id=18$gat
+RockE电影,http://8.137.59.151:3009/TV2/gat.php?id=29$gat
+RockA电影,http://8.137.59.151:3009/TV2/gat.php?id=30$gat
+东森电影,http://8.137.59.151:3009/TV2/gat.php?id=62$gat
+东森洋片,http://8.137.59.151:3009/TV2/gat.php?id=63$gat
+龙华洋片,http://8.137.59.151:3009/TV2/gat.php?id=65$gat
+ELTA影剧,http://8.137.59.151:3009/TV2/gat.php?id=76$gat
+龙祥时代,http://8.137.59.151:3009/TV2/gat.php?id=77$gat
+FGMGOLD,http://8.137.59.151:3009/TV2/gat.php?id=81$gat
+FGMGOLD,http://8.137.59.151:3009/TV2/gat.php?id=82$gat
+PopC,http://8.137.59.151:3009/TV2/gat.php?id=17$gat
+龙华电影,http://8.137.59.151:3009/TV2/gat.php?id=68$gat
+靖天电影,http://8.137.59.151:3009/TV2/gat.php?id=70$gat
+采昌电影,http://8.137.59.151:3009/TV2/gat.php?id=88$gat
 
 梅花电视剧,http://37.27.111.214:8080/live/108/hls.m3u8$芬兰
 梅花电影,http://37.27.111.214:8080/live/109/hls.m3u8$芬兰
@@ -3857,9 +3852,6 @@ FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 俄IGITV,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 France24,http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 France24,mitv://generationnexxxt.com:19806/72d5e1665d3e4b729ff9dbd4325e8694$mitv
-
-BBCWorldNews,http://8.137.59.151:3009/TV2/gat.php?id=95$gat
-半岛新闻,http://8.137.59.151:3009/TV2/gat.php?id=96$gat
 
 FoxNews,P2p://generationnexxxt.com:19806/a6e8a65e41004e1dbc0ee1c762a5d30e$p2p
 Euronews,P2p://generationnexxxt.com:19806/43dedaf8037e43ceb06f46baa4391692$p2p
