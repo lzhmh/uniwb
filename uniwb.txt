@@ -195,12 +195,17 @@ CCTV+2,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist
 TVB,http://8.137.59.151:3009/TV2/gat.php?id=6$gat
 
 体育频道,#genre#
-
+CCTV5,http://119.98.133.99:4022/rtp/239.69.1.13:9718$武信单
 CCTV5,http://ygbh666.cn/aikmigu.php?id=cctv5$ygb
 CCTV5+,http://ygbh666.cn/aikmigu.php?id=cctv5p$ygb
 
 CCTV5+,http://58.250.155.2:8180/TV00000000000000000004@HHZT$深联
 CCTV5,http://58.250.155.2:8180/TV00000000000000000005@HHZT$深联
+
+CCTV16,https://epg.pw/stream/9eeb49b6d1048ea7c05421a7409300f43ed5695e937a78feb1cc9eb1cb4de5b4.m3u8
+CCTV16,http://home.isvvv.com:5050/itv/ystenlive/1000000006000233002$广信
+CCTV16,http://home.isvvv.com:5050/itv/bestzb/5000000008000023254
+CCTV16,http://php.jdshipin.com:8880/bestv.php?id=cctv16hd4k/15000000
 
 CCTV5+,http://113.57.109.48:1111/tsfile/live/1016_1.m3u8$武联
 CCTV5,http://113.57.109.48:1111/tsfile/live/1004_1.m3u8$武联
