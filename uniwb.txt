@@ -208,6 +208,10 @@ CCTV+2,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist
 
 体育频道,#genre#
 
+CCTV5,http://180.102.253.95:8000/rtp/239.49.8.75:8000$南电信
+CCTV5+,http://180.102.253.95:8000/rtp/239.49.8.18:9610$南电信
+CCTV16,http://180.102.253.95:8000/rtp/239.49.8.31:8000$南电信
+
 CCTV5,http://58.250.155.2:8180/TV00000000000000000005@HHZT$深联
 CCTV5+,http://58.250.155.2:8180/TV00000000000000000004@HHZT$深联
 CCTV5,http://183.141.216.122:9999/rtp/233.50.201.197:5140$嘉兴信
@@ -223,7 +227,6 @@ CCTV5,http://180.103.165.77:8888/rtp/239.49.8.75:8000$苏州信
 CCTV5,http://115.230.188.146:9999/rtp/233.50.201.197:5140$嘉电信
 CCTV5,http://114.225.190.118:8800/rtp/239.49.8.75:8000$无锡信
 CCTV5,http://58.212.40.72:6500/rtp/239.49.8.75:8000$南京信
-CCTV5,http://180.102.253.95:8000/rtp/239.49.8.75:8000$南电信
 
 CCTV5+,http://125.109.62.72:9999/rtp/233.50.201.220:5140$温州信
 CCTV5+,http://180.103.165.67:8888/rtp/239.49.8.18:9610$苏州信
@@ -233,7 +236,6 @@ CCTV5+,http://180.103.165.77:8888/rtp/239.49.8.18:9610$苏州信
 CCTV5+,http://115.230.188.146:9999/rtp/233.50.201.220:5140$嘉电信
 CCTV5+,http://114.225.190.118:8800/rtp/239.49.8.18:9610$无锡信
 CCTV5+,http://58.212.40.72:6500/rtp/239.49.8.18:9610$南京信
-CCTV5+,http://180.102.253.95:8000/rtp/239.49.8.18:9610$南电信
 
 CCTV16,http://183.141.216.122:9999/rtp/233.50.200.112:5140$嘉兴信#http://183.141.216.122:9999/rtp/233.50.201.192:5140
 CCTV16,http://180.103.165.67:8888/rtp/239.49.8.31:8000$苏州信
@@ -247,7 +249,6 @@ CCTV16,http://115.230.188.146:9999/rtp/233.50.200.112:5140$嘉电信
 CCTV16,http://114.225.190.118:8800/rtp/239.49.8.31:8000$无锡信
 CCTV16,http://58.212.40.72:6500/rtp/239.49.8.31:8000$南京信
 CCTV16,http://php.jdshipin.com:8880/bestv.php?id=cctv16hd4k/15000000
-CCTV16,http://180.102.253.95:8000/rtp/239.49.8.31:8000$南电信
 
 CCTV5,http://58.19.38.162:9901/tsfile/live/1004_1.m3u8$武汉联
 CCTV5+,http://58.19.38.162:9901/tsfile/live/1014_1.m3u8$武汉联
@@ -339,6 +340,13 @@ EUROSPORTS1网球,http://iptv-hls.idc.md:8200/hls/261/live1.m3u8
 
 深圳体育,http://l2tp.yeedah.xyz:8000/udp/239.77.1.128:5146
 深圳体育,http://l2tp.yeedah.xyz:8000/udp/239.77.1.140:5146
+
+纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
+纬来体育,http://60.248.77.83/sat/tv721.flv
+纬来体育,rtmp://twcdn.top/sat/tv721
+纬来体育,rtmp://220.130.201.73/sat/tv721
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
+纬来体育,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8585/.m3u8$tian
 
 浙江体育,http://125.109.62.72:9999/rtp/233.50.201.136:5140$温州信
 
@@ -576,14 +584,14 @@ TVBS新闻,P2p://generationnexxxt.com:19806/bb6082c57bae466b9e6c64ba43f2c1e1$p2p
 TVBS新闻,P2p://generationnexxxt.com:19806/53f80a10fb054d5ab0649a59980025a9$p2p
 寰宇新闻,P2p://generationnexxxt.com:19806/33c00ed7adda475f9afe8adbd600bd9a$p2p
 东森新闻,P2p://generationnexxxt.com:19806/e9f96143b31a4e869309a60c27c66bc4$p2p
-中天新闻,P2p://generationnexxxt.com:19806/1180a44e6cef425e826c3e798f7f3ea9$p2p
-中视新闻,P2p://generationnexxxt.com:19806/75f4ea0339f14b62b1df49ede1723daa$p2p
-中天亚洲,P2p://generationnexxxt.com:19806/1279f4aaa3ea4f958ed26b14f1ffeb7e$p2p
-中天亚洲,P2p://generationnexxxt.com:19806/6f522fd08aed4ee19dfb8485917faa66$p2p
 年代新闻,P2p://generationnexxxt.com:19806/00b0fb08552945cbbaf718f9d815ca73$p2p
 年代新闻,P2p://generationnexxxt.com:19806/cd32e0feca2244288f8a878d7aacf0fc$p2p
 非凡新闻,P2p://generationnexxxt.com:19806/3d7f2e1d0e04407ba29c656092041b09$p2p
 非凡新闻,P2p://generationnexxxt.com:19806/a404066e65af4566931c773a385ed1e3$p2p
+中天新闻,P2p://generationnexxxt.com:19806/1180a44e6cef425e826c3e798f7f3ea9$p2p
+中视新闻,P2p://generationnexxxt.com:19806/75f4ea0339f14b62b1df49ede1723daa$p2p
+中天亚洲,P2p://generationnexxxt.com:19806/1279f4aaa3ea4f958ed26b14f1ffeb7e$p2p
+中天亚洲,P2p://generationnexxxt.com:19806/6f522fd08aed4ee19dfb8485917faa66$p2p
 三立新闻,P2p://generationnexxxt.com:19806/27c4d09b970a447dae2ef153650b7ac1$p2p
 三立新闻,P2p://generationnexxxt.com:19806/69427a93f58247d1a31f424cbadc6c4d$p2p
 三立iNEWS,P2p://generationnexxxt.com:19806/1d4ae63a90fa4f77b866e6f907a2c82c$p2p
@@ -656,6 +664,10 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8$chunk
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8$chunk
 东森超视,https://test.zapi.us.kg/?id=ebc-super$test
 
+非凡新闻,rtmp://twcdn.top/sat/tv581$rtm
+非凡新闻,http://60.248.77.83/sat/tv581.flv$rtm
+非凡新闻,rtmp://twcdn.top/sat/tv581$rtm
+非凡新闻,rtmp://220.130.201.73/sat/tv581$rtm
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581$rtm
 东森超视,rtmp://f13h.mine.nu/sat/tv331$rtm
 中天新闻,rtmp://f13h.mine.nu/sat/tv521$rtm
@@ -903,12 +915,6 @@ ELEVEN1,rtmp://f13h.mine.nu/sat/tv731$f13
 ELEVEN2,rtmp://f13h.mine.nu/sat/tv741$f13
 ELEVEN1,http://60.248.77.83/sat/tv731.flv$f13
 ELEVEN2,http://60.248.77.83/sat/tv741.flv$f13
-
-纬来体育,http://60.248.77.83/sat/tv721.flv
-纬来体育,rtmp://220.130.201.73/sat/tv721
-纬来体育,rtmp://f13h.mine.nu/sat/tv721
-纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
-纬来体育,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8585/.m3u8$tian
 
 MOMOTV,rtmp://f13h.mine.nu/sat/tv761.flv
 MOMOTV,http://60.248.77.83/sat/tv761.flv
