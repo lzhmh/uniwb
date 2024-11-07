@@ -641,8 +641,8 @@ JJ斗地主冠军赛,http://43.138.170.29:35455/douyu/488743
 
 粤联综合,#genre#
 
-凤凰中文,https://dl.zhoujie218.top/new/fhx.php?id=fhzw$上阿里
-凤凰资讯,https://dl.zhoujie218.top/new/fhx.php?id=fhzx$上阿里
+凤凰中文,http://211.72.65.236:8577/.m3u8#https://dl.zhoujie218.top/new/fhx.php?id=fhzw$上阿里
+凤凰资讯,http://211.72.65.236:8576/.m3u8#https://dl.zhoujie218.top/new/fhx.php?id=fhzx$上阿里
 
 凤凰中文,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu001-golive.flv$ali
 凤凰资讯,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu002-golive.flv$ali
@@ -664,6 +664,14 @@ TVBS新闻,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8$aktv
 中天新闻,https://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8$aktv
 中天亚洲,https://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8$aktv
 华视HD,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8$aktv
+
+TVBS新闻,http://211.72.65.236:8574/.m3u8$211
+东森新闻,http://211.72.65.236:8540/.m3u8$211
+寰宇新闻,http://211.72.65.236:8547/.m3u8$211
+中天新闻,http://211.72.65.236:8541/.m3u8$211
+年代新闻,http://211.72.65.236:8539/.m3u8$211
+三立新闻,http://211.72.65.236:8543/.m3u8$211
+民视新闻,http://211.72.65.236:8542/.m3u8$211
 
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8$61
 TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8$chunk0
@@ -1061,12 +1069,12 @@ CETV早教,http://123.145.6.241:8003/rtp/225.0.4.227:7980$重联
 
 环球体育,#genre#
 
-ELEVEN1,rtmp://59.124.75.138/sat/tv731$59
-ELEVEN2,rtmp://59.124.75.138/sat/tv741$59
+ELEVEN1,rtmp://59.124.75.138/sat/tv731$59#http://211.72.65.236:8566/.m3u8$211
+ELEVEN2,rtmp://59.124.75.138/sat/tv741$59#http://211.72.65.236:8567/.m3u8$211
 ELEVEN2,rtmp://59.124.75.138/sat/md011$59
 ELEVEN3,rtmp://59.124.75.138/sat/md021$59
 
-MOMOTV,rtmp://59.124.75.138/sat/tv761$59
+MOMOTV,rtmp://59.124.75.138/sat/tv761$59#http://211.72.65.236:8553/.m3u8$211
 
 爱尔达2美足,P2p://generationnexxxt.com:19806/dc194c3738dd40448246b92172399ccd$p2p
 爱尔达2美足,P2p://generationnexxxt.com:19806/1ba2c7d7725f46a595dcb7df1741b5fb$p2p
