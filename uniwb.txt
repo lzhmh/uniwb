@@ -73,11 +73,11 @@ CCTV4,http://www.baopiqi.top:4022/rtp/239.45.0.2:5140$上海信
 CCTV13,http://www.baopiqi.top:4022/rtp/239.45.0.19:5140$上海信
 
 CCTV4,http://101.68.81.44:9999/rtp/233.50.200.101:5140$杭州联
-CCTV4,http://http://www.baopiqi.top:4022rtp/239.45.0.2:5140$上海信#http://nas.jc-hqp.cn:9999/rtp/233.50.200.101:5140$杭州信#http://183.133.105.27:8899/rtp/233.50.200.42:5140$宁波信#http://180.103.165.68:8888/rtp/239.49.8.51:9806$苏州信
+CCTV4,http://www.baopiqi.top:4022/rtp/239.45.0.2:5140$上海信#http://nas.jc-hqp.cn:9999/rtp/233.50.200.101:5140$杭州信#http://183.133.105.27:8899/rtp/233.50.200.42:5140$宁波信#http://180.103.165.68:8888/rtp/239.49.8.51:9806$苏州信
 CCTV4,http://180.103.165.67:8888/rtp/239.49.8.51:9806$苏信#http://180.103.165.76:8888/rtp/239.49.8.51:9806$苏电信#http://180.103.165.77:8888/rtp/239.49.8.51:9806$苏电信#http://114.232.146.116:7777/rtp/239.49.8.51:9806$江苏新
 CCTV4,http://prettyalan.vicp.cc:8888/rtp/239.61.2.206:9224$厦门信
 
-CCTV13,http://101.68.81.44:9999/rtp/233.50.201.246:5140$杭州联#http://http://www.baopiqi.top:4022rtp/239.45.0.19:5140$上海信#http://nas.jc-hqp.cn:9999/rtp/233.50.200.97:5140$杭州信#http://183.133.105.27:8899/rtp/233.50.200.97:5140$宁波信#http://180.103.165.68:8888/rtp/239.49.8.109:8000$苏信#http://180.103.165.67:8888/rtp/239.49.8.109:8000$苏州信#http://180.103.165.76:8888/rtp/239.49.8.109:8000$苏州信#http://180.103.165.77:8888/rtp/239.49.8.109:8000$苏州信
+CCTV13,http://101.68.81.44:9999/rtp/233.50.201.246:5140$杭州联#http://www.baopiqi.top:4022/rtp/239.45.0.19:5140$上海信#http://nas.jc-hqp.cn:9999/rtp/233.50.200.97:5140$杭州信#http://183.133.105.27:8899/rtp/233.50.200.97:5140$宁波信#http://180.103.165.68:8888/rtp/239.49.8.109:8000$苏信#http://180.103.165.67:8888/rtp/239.49.8.109:8000$苏州信#http://180.103.165.76:8888/rtp/239.49.8.109:8000$苏州信#http://180.103.165.77:8888/rtp/239.49.8.109:8000$苏州信
 CCTV13,http://prettyalan.vicp.cc:8888/rtp/239.61.2.23:8132$厦门信
 CCTV13,http://nas.jc-hqp.cn:9999/rtp/233.50.200.111:5140$杭州信
 
@@ -211,11 +211,11 @@ CCTV5+,http://www.baopiqi.top:4022/rtp/239.45.0.34:5140$上海信
 CCTV16,http://www.baopiqi.top:4022/rtp/239.45.0.10:5140$上海信
 CCTV16,http://www.baopiqi.top:4022/rtp/239.45.0.12:5140$上海信4K
 
-CCTV5,http://majian.ixiaobai.net:5540/rtp/239.37.0.232:5540$长春信#http://101.68.81.44:9999/rtp/233.50.200.108:5140$杭州联#http://http://www.baopiqi.top:4022rtp/239.45.1.69:5140$上海信#http://nas.jc-hqp.cn:9999/rtp/233.50.200.108:5140$杭州信#http://183.133.105.27:8899/rtp/233.50.200.108:5140$宁波信
+CCTV5,http://majian.ixiaobai.net:5540/rtp/239.37.0.232:5540$长春信#http://101.68.81.44:9999/rtp/233.50.200.108:5140$杭州联#http://www.baopiqi.top:4022/rtp/239.45.1.69:5140$上海信#http://nas.jc-hqp.cn:9999/rtp/233.50.200.108:5140$杭州信#http://183.133.105.27:8899/rtp/233.50.200.108:5140$宁波信
 
-CCTV5+,http://majian.ixiaobai.net:5540/rtp/239.37.0.121:5540$长春信#http://101.68.81.44:9999/rtp/233.50.201.220:5140$杭州联#http://http://www.baopiqi.top:4022rtp/239.45.0.34:5140$上海信#http://nas.jc-hqp.cn:9999/rtp/233.50.201.220:5140$杭州信#http://183.133.105.27:8899/rtp/233.50.201.220:5140$宁波信
+CCTV5+,http://majian.ixiaobai.net:5540/rtp/239.37.0.121:5540$长春信#http://101.68.81.44:9999/rtp/233.50.201.220:5140$杭州联#http://www.baopiqi.top:4022/rtp/239.45.0.34:5140$上海信#http://nas.jc-hqp.cn:9999/rtp/233.50.201.220:5140$杭州信#http://183.133.105.27:8899/rtp/233.50.201.220:5140$宁波信
 
-CCTV16,http://101.68.81.44:9999/rtp/233.50.200.112:5140$杭州联#http://nas.jc-hqp.cn:9999/rtp/233.50.200.112:5140$杭州信#http://http://www.baopiqi.top:4022rtp/239.45.0.10:5140$上海信#http://http://www.baopiqi.top:4022rtp/239.45.0.12:5140$上海信4K#http://183.133.105.27:8899/rtp/233.50.200.112:5140$宁波信
+CCTV16,http://101.68.81.44:9999/rtp/233.50.200.112:5140$杭州联#http://nas.jc-hqp.cn:9999/rtp/233.50.200.112:5140$杭州信#http://www.baopiqi.top:4022/rtp/239.45.0.10:5140$上海信#http://www.baopiqi.top:4022/rtp/239.45.0.12:5140$上海信4K#http://183.133.105.27:8899/rtp/233.50.200.112:5140$宁波信
 
 CCTV5,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226019/index.m3u8$ip6
 CCTV5+,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225603/index.m3u8$ip6
@@ -272,7 +272,7 @@ CCTV16,http://enlen.vip:4022/rtp/239.200.200.194:8780$楚雄信4K
 爱尔达3,P2p://generationnexxxt.com:19806/90ea1d1ed6654b5d863053cfceb050e0$p2p
 
 百事体育,http://101.68.81.44:9999/rtp/233.50.200.236:5140$杭州联
-百事体育,http://www.baopiqi.top:4022/rtp/239.45.3.139:5140$上海信#http://nas.jc-hqp.cn:9999/rtp/233.50.200.236:5140$杭州信#http://101.68.81.44:9999/rtp/233.50.201.204:5140$杭州联#http://http://www.baopiqi.top:4022rtp/239.45.3.139:5140$上海信
+百事体育,http://www.baopiqi.top:4022/rtp/239.45.3.139:5140$上海信#http://nas.jc-hqp.cn:9999/rtp/233.50.200.236:5140$杭州信#http://101.68.81.44:9999/rtp/233.50.201.204:5140$杭州联#http://www.baopiqi.top:4022/rtp/239.45.3.139:5140$上海信
 百事体育,http://113.13.172.34:4022/rtp/239.81.0.181:4056$柳州信#http://171.107.72.105:4000/rtp/239.81.0.181:4056$桂林信#http://202.103.213.239:8888/rtp/239.81.0.181:4056$梧州信
 百事体育,http://www.lebaobei.top:6868/rtp/239.255.30.170:8231$酒泉信
 百事体育,http://118.183.212.29:6868/rtp/239.255.30.170:8231$酒泉信
@@ -433,12 +433,12 @@ EURO1网球,http://iptv-hls.idc.md:8200/hls/261/live1.m3u8
 百事,http://www.baopiqi.top:4022/rtp/239.45.3.53:5140$上海信1
 
 百事,http://majian.ixiaobai.net:5540/rtp/239.37.0.88:5540$长春信1
-百事,http://http://www.baopiqi.top:4022rtp/239.45.3.54:5140$上海信2
-百事,http://http://www.baopiqi.top:4022rtp/239.45.3.55:5140$上海信3
-百事,http://http://www.baopiqi.top:4022rtp/239.45.3.137:5140$上海信4
-百事,http://http://www.baopiqi.top:4022rtp/239.45.3.215:5140$上海信5
-百事,http://http://www.baopiqi.top:4022rtp/239.45.3.140:5140$上海信6
-百事,http://http://www.baopiqi.top:4022rtp/239.45.3.157:5140$上海信7
+百事,http://www.baopiqi.top:4022/rtp/239.45.3.54:5140$上海信2
+百事,http://www.baopiqi.top:4022/rtp/239.45.3.55:5140$上海信3
+百事,http://www.baopiqi.top:4022/rtp/239.45.3.137:5140$上海信4
+百事,http://www.baopiqi.top:4022/rtp/239.45.3.215:5140$上海信5
+百事,http://www.baopiqi.top:4022/rtp/239.45.3.140:5140$上海信6
+百事,http://www.baopiqi.top:4022/rtp/239.45.3.157:5140$上海信7
 百事,http://majian.ixiaobai.net:5540/rtp/239.37.0.142:5540$长春信8
 百事,http://majian.ixiaobai.net:5540/rtp/239.37.0.211:5540$长春信9
 百事,http://majian.ixiaobai.net:5540/rtp/239.37.0.213:5540$长春信1
@@ -450,7 +450,7 @@ EURO1网球,http://iptv-hls.idc.md:8200/hls/261/live1.m3u8
 百事手游,http://majian.ixiaobai.net:5540/rtp/239.37.0.162:5540$长春信
 百事手游,http://www.baopiqi.top:4022/rtp/239.45.3.138:5140$上海信
 百事手游,http://majian.ixiaobai.net:5540/rtp/239.37.0.222:5540$长春信
-百事手游,http://http://www.baopiqi.top:4022rtp/239.45.3.138:5140$上海信
+百事手游,http://www.baopiqi.top:4022/rtp/239.45.3.138:5140$上海信
 百事手游,http://101.68.81.44:9999/rtp/233.50.200.235:5140$杭州联
 百事,http://101.68.81.44:9999/rtp/233.50.200.233:5140$杭州联1
 百事,http://101.68.81.44:9999/rtp/233.50.200.234:5140$杭州联2
@@ -825,7 +825,7 @@ Bloomberg,http://37.27.111.214:8080/live/34/hls.m3u8$芬兰
 嘉佳卡通,http://[2409:8087:74d9:21::6]/270000001128/9900000061/index.m3u8$ipv6
 优漫卡通,http://[2409:8087:74d9:21::6]/270000001128/9900000070/index.m3u8$ipv6
 哈哈炫动,http://[2409:8087:74d9:21::6]/270000001128/9900000069/index.m3u8$ipv6#http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226618/index.m3u8$ipv6
-黑莓动画,http://[2409:8087:74d9:21::6]/270000001128/9900000096/index.m3u8$ipv6
+黑莓动画,http://[2409:8087:74d9:21::6]/270000001128/9900000096/index.m3u8$ipv6#http://[2409:8087:74d9:21::6]:80/270000001128/9900000096/index.m3u8$ipv6
 
 中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8$61
 
@@ -839,14 +839,14 @@ CETV早教,http://www.baopiqi.top:4022/rtp/239.45.0.54:5140$上海信
 北京少儿,http://www.baopiqi.top:4022/rtp/239.45.1.49:5140$上海信
 哈哈炫动,http://www.baopiqi.top:4022/rtp/239.45.1.55:5140$上海信
 
-百事少儿,http://http://www.baopiqi.top:4022rtp/239.45.1.1:5140$上海信4k#http://http://www.baopiqi.top:4022rtp/239.45.1.11:5140$上海信4k#,http://101.68.81.44:9999/rtp/233.50.200.183:5140$杭州联#http://nas.jc-hqp.cn:9999/rtp/233.50.200.183:5140$杭州信
-北京少儿,http://http://www.baopiqi.top:4022rtp/239.45.0.8:5140$上海信
-金鹰卡通,http://http://www.baopiqi.top:4022rtp/239.45.3.233:5140$上海信
-金鹰卡通,http://http://www.baopiqi.top:4022rtp/239.45.0.38:5140$上海信
-CETV早教,http://http://www.baopiqi.top:4022rtp/239.45.0.54:5140$上海信
-嘉佳卡通,http://http://www.baopiqi.top:4022rtp/239.45.1.48:5140$上海信
-北京少儿,http://http://www.baopiqi.top:4022rtp/239.45.1.49:5140$上海信
-哈哈炫动,http://http://www.baopiqi.top:4022rtp/239.45.1.55:5140$上海信
+百事少儿,http://www.baopiqi.top:4022/rtp/239.45.1.1:5140$上海信4k#http://www.baopiqi.top:4022/rtp/239.45.1.11:5140$上海信4k#,http://101.68.81.44:9999/rtp/233.50.200.183:5140$杭州联#http://nas.jc-hqp.cn:9999/rtp/233.50.200.183:5140$杭州信
+北京少儿,http://www.baopiqi.top:4022/rtp/239.45.0.8:5140$上海信
+金鹰卡通,http://www.baopiqi.top:4022/rtp/239.45.3.233:5140$上海信
+金鹰卡通,http://www.baopiqi.top:4022/rtp/239.45.0.38:5140$上海信
+CETV早教,http://www.baopiqi.top:4022/rtp/239.45.0.54:5140$上海信
+嘉佳卡通,http://www.baopiqi.top:4022/rtp/239.45.1.48:5140$上海信
+北京少儿,http://www.baopiqi.top:4022/rtp/239.45.1.49:5140$上海信
+哈哈炫动,http://www.baopiqi.top:4022/rtp/239.45.1.55:5140$上海信
 
 金鹰卡通,http://www.akw323.com:9527/udp/238.255.2.55:5999$贵阳信
 哈哈炫动,http://www.akw323.com:9527/udp/238.255.2.56:5999$贵阳信
@@ -1072,17 +1072,17 @@ CETV早教,http://27.10.214.5:8001/rtp/225.0.4.227:7980$重联
 
 环球体育,#genre#
 
-ELEVEN1,rtmp://59.124.75.138/sat/tv731$59#http://211.72.65.236:8566/.m3u8$211
-ELEVEN2,rtmp://59.124.75.138/sat/tv741$59#http://211.72.65.236:8567/.m3u8$211
-ELEVEN2,rtmp://59.124.75.138/sat/md011$59
-ELEVEN3,rtmp://59.124.75.138/sat/md021$59
+DAZN1,https://stream1.freetv.fun/dazn-sport-1-1.ctv$fun#rtmp://59.124.75.138/sat/tv731$59#http://211.72.65.236:8566/.m3u8$211
+DAZN2,https://stream1.freetv.fun/dazn-sport-2-1.ctv$fun#rtmp://59.124.75.138/sat/tv741$59#http://211.72.65.236:8567/.m3u8$211
+DAZN2,rtmp://59.124.75.138/sat/md011$59
+DAZN3,rtmp://59.124.75.138/sat/md021$59
 
 MOMOTV,rtmp://59.124.75.138/sat/tv761$59#http://211.72.65.236:8553/.m3u8$211
 
 WINSPORT+,http://streamsy.online:2999/happy2024/newyear/1417
 WINSPORT+,http://novared.pro:8080/live/12mPremiumMar37/x7bszzpyy3az/1383.ts
 
-爱尔达2美足,P2p://generationnexxxt.com:19806/dc194c3738dd40448246b92172399ccd$p2p
+爱尔达2美足,http://50.7.234.10:8278/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct=19249&tsum=20bdbd3a22909e8d89aabe7a923c8c5b#P2p://generationnexxxt.com:19806/dc194c3738dd40448246b92172399ccd$p2p
 爱尔达2美足,P2p://generationnexxxt.com:19806/1ba2c7d7725f46a595dcb7df1741b5fb$p2p
 爱尔达4棒球,P2p://generationnexxxt.com:19806/4c4be1e474784fdbbfb565b5046238f4$p2p
 爱尔达4棒球,P2p://generationnexxxt.com:19806/4e215dc71da5483bae1a0316a8c4673e$p2p
@@ -1100,16 +1100,31 @@ AstroSuper3足球,P2p://generationnexxxt.com:19806/3dd6cd51d294486f85d3bfdfe787a
 
 MOMOTV,P2p://generationnexxxt.com:19806/bc7a77f2d1a54242a2b845916fcb726c$p2p
 
-ELEVEN1,http://60.248.77.83/sat/tv731.flv$f13
-ELEVEN2,http://60.248.77.83/sat/tv741.flv$f13
-ELEVEN1,rtmp://f13h.mine.nu/sat/tv731$f13
-ELEVEN2,rtmp://f13h.mine.nu/sat/tv741$f13
-ELEVEN1,P2p://generationnexxxt.com:19806/686833968d4b45319a5942827b997e59$p2p
+DAZN1,http://60.248.77.83/sat/tv731.flv$f13
+DAZN2,http://60.248.77.83/sat/tv741.flv$f13
+DAZN1,rtmp://f13h.mine.nu/sat/tv731$f13
+DAZN2,rtmp://f13h.mine.nu/sat/tv741$f13
+DAZN1,P2p://generationnexxxt.com:19806/686833968d4b45319a5942827b997e59$p2p
 
 MOMOTV,http://60.248.77.83/sat/tv761.flv
 MOMOTV,rtmp://f13h.mine.nu/sat/tv761.flv
 MOMOTV,rtmp://f13h.mine.nu/sat/tv761
 
+skysports,https://stream1.freetv.fun/skysports-3.ctv
+skysports,https://stream1.freetv.fun/skysports-2.ctv
+skysports plus,https://stream1.freetv.fun/skysports-plus-1.ctv
+NBATV,http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
+nbaTV,https://stream1.freetv.fun/nba-tv-1.ctv
+nbaTV,https://stream1.freetv.fun/nba-tv-4.ctv
+usa nba,https://stream1.freetv.fun/usa-nba-1.ctv
+nowsports,https://stream1.freetv.fun/nowsports-2.ctv
+nowsports,https://stream1.freetv.fun/nowsports-1.ctv
+swerve sports,https://stream1.freetv.fun/swerve-sports-2.m3u8
+swerve sports,https://stream1.freetv.fun/swerve-sports-1.m3u8
+jsports 1,https://stream1.freetv.fun/jsports-1-1.m3u8
+jsports 2,https://stream1.freetv.fun/jsports-2-2.m3u8
+band sports,https://stream1.freetv.fun/band-sports-3.m3u8
+fox sports 2,https://stream1.freetv.fun/fox-sports-2-5.ctv
 skySport,http://iptv-hls.idc.md:8200/hls/77/live2.m3u8
 skySport,http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
 
@@ -1204,8 +1219,8 @@ NBCSports,http://41.205.93.154:80/NBA/index.m3u8
 财富天下,http://www.baopiqi.top:4022/rtp/239.45.0.7:5140$上海信
 东方财经,http://www.baopiqi.top:4022/rtp/239.45.0.17:5140$上海信
 家庭财富,http://www.baopiqi.top:4022/rtp/239.45.0.14:5140$上海信
-东方财经,http://http://www.baopiqi.top:4022rtp/239.45.0.17:5140$上海信
-家庭财富,http://http://www.baopiqi.top:4022rtp/239.45.0.14:5140$上海信
+东方财经,http://www.baopiqi.top:4022/rtp/239.45.0.17:5140$上海信
+家庭财富,http://www.baopiqi.top:4022/rtp/239.45.0.14:5140$上海信
 
 东方财经,http://125.71.157.243:6666/rtp/239.93.1.165:5140$成都信
 东方财经,http://101.68.81.44:9999/rtp/233.50.200.177:5140$杭州联#http://nas.jc-hqp.cn:9999/rtp/233.50.200.177:5140$杭州信#http://183.133.105.27:8899/rtp/233.50.200.177:5140$宁波信
@@ -1222,9 +1237,9 @@ NBCSports,http://41.205.93.154:80/NBA/index.m3u8
 第一财经,http://115.239.104.127:9999/rtp/233.50.200.125:5140$嘉兴信
 第一财经,http://183.130.6.35:8889/rtp/233.50.200.125:5140$温信
 
-兵器科技,http://http://www.baopiqi.top:4022rtp/239.45.0.45:5140$上海信#http://http://www.baopiqi.top:4022rtp/239.45.1.74:5140$上海信
-第一财经,http://http://www.baopiqi.top:4022rtp/239.45.3.111:5140$上海信#http://http://www.baopiqi.top:4022rtp/239.45.3.211:5140$上海信
-财富天下,http://http://www.baopiqi.top:4022rtp/239.45.0.7:5140$上海信
+兵器科技,http://www.baopiqi.top:4022/rtp/239.45.0.45:5140$上海信#http://www.baopiqi.top:4022/rtp/239.45.1.74:5140$上海信
+第一财经,http://www.baopiqi.top:4022/rtp/239.45.3.111:5140$上海信#http://www.baopiqi.top:4022/rtp/239.45.3.211:5140$上海信
+财富天下,http://www.baopiqi.top:4022/rtp/239.45.0.7:5140$上海信
 
 北京财经,http://ry.soff.cn:4022/rtp/239.3.1.116:8000$北京联#http://buffaloft.ignorelist.com:8888/rtp/239.3.1.116:8000$北京联#http://123.113.106.229:4022/rtp/239.3.1.116:8000$北京联#http://114.243.100.237:8822/rtp/239.3.1.116:8000$北京联#http://114.243.103.165:8822/rtp/239.3.1.116:8000$北京联#http://114.243.104.64:8822/rtp/239.3.1.116:8000$北京联#http://114.243.105.66:8822/rtp/239.3.1.116:8000$北京联#http://114.243.109.253:8822/rtp/239.3.1.116:8000$北京联#http://114.243.111.3:8822/rtp/239.3.1.116:8000$北京联#http://114.252.229.100:8000/rtp/239.3.1.116:8000$北京联#http://114.243.156.93:8888/rtp/239.3.1.116:8000$北京联#http://114.254.80.240:2222/rtp/239.3.1.116:8000$北京联#http://114.254.93.135:2222/rtp/239.3.1.116:8000$北京联#http://114.254.94.118:2222/rtp/239.3.1.116:8000$北京联#http://123.113.237.160:8888/rtp/239.3.1.116:8000$北京联#http://123.117.36.74:4001/rtp/239.3.1.116:8000$北京联#http://123.122.160.88:19999/rtp/239.3.1.116:8000$北京联#http://123.122.162.7:19999/rtp/239.3.1.116:8000$北京联#http://123.122.163.183:19999/rtp/239.3.1.116:8000$北京联#http://222.129.33.14:8888/rtp/239.3.1.116:8000
 
@@ -1448,30 +1463,30 @@ CCTV6,http://58.250.155.2:8180/TV00000000000000000006@HHZT$深联
 CCTV7,http://58.250.155.2:8180/TV00000000000000000007@HHZT$深联
 CCTV8,http://58.250.155.2:8180/TV00000000000000000008@HHZT$深联
 
-CCTV9,http://http://www.baopiqi.top:4022rtp/239.45.3.4:5140$上海信
-CCTV10,http://http://www.baopiqi.top:4022rtp/239.45.3.8:5140$上海信
-CCTV1,http://http://www.baopiqi.top:4022rtp/239.45.3.51:5140$上海信
-CCTV1,http://http://www.baopiqi.top:4022rtp/239.45.3.88:5140$上海信
-CCTV2,http://http://www.baopiqi.top:4022rtp/239.45.3.208:5140$上海信
-CCTV2,http://http://www.baopiqi.top:4022rtp/239.45.0.1:5140$上海信
-CCTV3,http://http://www.baopiqi.top:4022rtp/239.45.1.68:5140$上海信
-CCTV6,http://http://www.baopiqi.top:4022rtp/239.45.1.70:5140$上海信
-CCTV7,http://http://www.baopiqi.top:4022rtp/239.45.3.56:5140$上海信
-CCTV8,http://http://www.baopiqi.top:4022rtp/239.45.1.71:5140$上海信
-CCTV11,http://http://www.baopiqi.top:4022rtp/239.45.0.18:5140$上海信
-CCTV12,http://http://www.baopiqi.top:4022rtp/239.45.3.10:5140$上海信
-CCTV14,http://http://www.baopiqi.top:4022rtp/239.45.3.23:5140$上海信
-CCTV15,http://http://www.baopiqi.top:4022rtp/239.45.0.20:5140$上海信
-CCTV17,http://http://www.baopiqi.top:4022rtp/239.45.3.52:5140$上海信
-CCTV17,http://http://www.baopiqi.top:4022rtp/239.45.3.251:5140$上海信
-CCTV12,http://http://www.baopiqi.top:4022rtp/239.45.3.124:5140$上海信
-CCTV14,http://http://www.baopiqi.top:4022rtp/239.45.3.125:5140$上海信
-CCTV15,http://http://www.baopiqi.top:4022rtp/239.45.3.126:5140$上海信
-风云音乐,http://http://www.baopiqi.top:4022rtp/239.45.0.52:5140$上海信
-文化精品,http://http://www.baopiqi.top:4022rtp/239.45.0.53:5140$上海信#http://http://www.baopiqi.top:4022rtp/239.45.1.17:5140$上海信
-电视指南,http://http://www.baopiqi.top:4022rtp/239.45.1.73:5140$上海信
-CCTV4K,http://http://www.baopiqi.top:4022rtp/239.45.0.55:5140$上海信
-女性时尚,http://http://www.baopiqi.top:4022rtp/239.45.0.47:5140$上海信
+CCTV9,http://www.baopiqi.top:4022/rtp/239.45.3.4:5140$上海信
+CCTV10,http://www.baopiqi.top:4022/rtp/239.45.3.8:5140$上海信
+CCTV1,http://www.baopiqi.top:4022/rtp/239.45.3.51:5140$上海信
+CCTV1,http://www.baopiqi.top:4022/rtp/239.45.3.88:5140$上海信
+CCTV2,http://www.baopiqi.top:4022/rtp/239.45.3.208:5140$上海信
+CCTV2,http://www.baopiqi.top:4022/rtp/239.45.0.1:5140$上海信
+CCTV3,http://www.baopiqi.top:4022/rtp/239.45.1.68:5140$上海信
+CCTV6,http://www.baopiqi.top:4022/rtp/239.45.1.70:5140$上海信
+CCTV7,http://www.baopiqi.top:4022/rtp/239.45.3.56:5140$上海信
+CCTV8,http://www.baopiqi.top:4022/rtp/239.45.1.71:5140$上海信
+CCTV11,http://www.baopiqi.top:4022/rtp/239.45.0.18:5140$上海信
+CCTV12,http://www.baopiqi.top:4022/rtp/239.45.3.10:5140$上海信
+CCTV14,http://www.baopiqi.top:4022/rtp/239.45.3.23:5140$上海信
+CCTV15,http://www.baopiqi.top:4022/rtp/239.45.0.20:5140$上海信
+CCTV17,http://www.baopiqi.top:4022/rtp/239.45.3.52:5140$上海信
+CCTV17,http://www.baopiqi.top:4022/rtp/239.45.3.251:5140$上海信
+CCTV12,http://www.baopiqi.top:4022/rtp/239.45.3.124:5140$上海信
+CCTV14,http://www.baopiqi.top:4022/rtp/239.45.3.125:5140$上海信
+CCTV15,http://www.baopiqi.top:4022/rtp/239.45.3.126:5140$上海信
+风云音乐,http://www.baopiqi.top:4022/rtp/239.45.0.52:5140$上海信
+文化精品,http://www.baopiqi.top:4022/rtp/239.45.0.53:5140$上海信#http://www.baopiqi.top:4022/rtp/239.45.1.17:5140$上海信
+电视指南,http://www.baopiqi.top:4022/rtp/239.45.1.73:5140$上海信
+CCTV4K,http://www.baopiqi.top:4022/rtp/239.45.0.55:5140$上海信
+女性时尚,http://www.baopiqi.top:4022/rtp/239.45.0.47:5140$上海信
 
 风云音乐,http://27.10.214.5:8001/rtp/225.0.4.206:7980$重联 
 女性时尚,http://27.10.214.5:8001/rtp/225.0.4.208:7980$重联 
@@ -1741,34 +1756,34 @@ https://test5.btzx.com.cn/live/2023bt.stream/playlist.m3u8#http://xubo0712.asusc
 郑铁有线,http://39.162.27.11:8081/newlive/live/hls/1/live.m3u8
 人民铁道,http://39.162.27.11:8081/newlive/live/hls/2/live.m3u8
 
-北京卫视,http://http://www.baopiqi.top:4022rtp/239.45.3.229:5140$上海信
-广东卫视,http://http://www.baopiqi.top:4022rtp/239.45.3.230:5140$上海信
-深圳卫视,http://http://www.baopiqi.top:4022rtp/239.45.3.231:5140$上海信
-天津卫视,http://http://www.baopiqi.top:4022rtp/239.45.1.124:5140$上海信
-东方卫视,http://http://www.baopiqi.top:4022rtp/239.45.3.61:5140$上海信
-湖北卫视,http://http://www.baopiqi.top:4022rtp/239.45.3.239:5140$上海信
-吉林卫视,http://http://www.baopiqi.top:4022rtp/239.45.3.248:5140$上海信
-黑龙江卫视,http://http://www.baopiqi.top:4022rtp/239.45.3.232:5140$上海信
-安徽卫视,http://http://www.baopiqi.top:4022rtp/239.45.3.143:5140$上海信
-东方卫视,http://http://www.baopiqi.top:4022rtp/239.45.3.146:5140$上海信
-河北卫视,http://http://www.baopiqi.top:4022rtp/239.45.1.44:5140$上海信
-四川卫视,http://http://www.baopiqi.top:4022rtp/239.45.1.23:5140$上海信
-海南卫视,http://http://www.baopiqi.top:4022rtp/239.45.1.81:5140$上海信
-四川卫视,http://http://www.baopiqi.top:4022rtp/239.45.1.83:5140$上海信
-重庆卫视,http://http://www.baopiqi.top:4022rtp/239.45.1.84:5140$上海信
-东南卫视,http://http://www.baopiqi.top:4022rtp/239.45.1.121:5140$上海信
-辽宁卫视,http://http://www.baopiqi.top:4022rtp/239.45.1.123:5140$上海信
-河南卫视,http://http://www.baopiqi.top:4022rtp/239.45.0.3:5140$上海信
-云南卫视,http://http://www.baopiqi.top:4022rtp/239.45.0.4:5140$上海信
-广西卫视,http://http://www.baopiqi.top:4022rtp/239.45.0.5:5140$上海信
-贵州卫视,http://http://www.baopiqi.top:4022rtp/239.45.1.80:5140$上海信
-吉林卫视,http://http://www.baopiqi.top:4022rtp/239.45.0.6:5140$上海信
-甘肃卫视,http://http://www.baopiqi.top:4022rtp/239.45.0.15:5140$上海信
-青海卫视,http://http://www.baopiqi.top:4022rtp/239.45.0.37:5140$上海信
-三沙卫视,http://http://www.baopiqi.top:4022rtp/239.45.0.56:5140$上海信
-江苏卫视,http://http://www.baopiqi.top:4022rtp/239.45.3.177:5140$上海信
-浙江卫视,http://http://www.baopiqi.top:4022rtp/239.45.3.178:5140$上海信
-云南卫视,http://http://www.baopiqi.top:4022rtp/239.45.3.206:5140$上海信
+北京卫视,http://www.baopiqi.top:4022/rtp/239.45.3.229:5140$上海信
+广东卫视,http://www.baopiqi.top:4022/rtp/239.45.3.230:5140$上海信
+深圳卫视,http://www.baopiqi.top:4022/rtp/239.45.3.231:5140$上海信
+天津卫视,http://www.baopiqi.top:4022/rtp/239.45.1.124:5140$上海信
+东方卫视,http://www.baopiqi.top:4022/rtp/239.45.3.61:5140$上海信
+湖北卫视,http://www.baopiqi.top:4022/rtp/239.45.3.239:5140$上海信
+吉林卫视,http://www.baopiqi.top:4022/rtp/239.45.3.248:5140$上海信
+黑龙江卫视,http://www.baopiqi.top:4022/rtp/239.45.3.232:5140$上海信
+安徽卫视,http://www.baopiqi.top:4022/rtp/239.45.3.143:5140$上海信
+东方卫视,http://www.baopiqi.top:4022/rtp/239.45.3.146:5140$上海信
+河北卫视,http://www.baopiqi.top:4022/rtp/239.45.1.44:5140$上海信
+四川卫视,http://www.baopiqi.top:4022/rtp/239.45.1.23:5140$上海信
+海南卫视,http://www.baopiqi.top:4022/rtp/239.45.1.81:5140$上海信
+四川卫视,http://www.baopiqi.top:4022/rtp/239.45.1.83:5140$上海信
+重庆卫视,http://www.baopiqi.top:4022/rtp/239.45.1.84:5140$上海信
+东南卫视,http://www.baopiqi.top:4022/rtp/239.45.1.121:5140$上海信
+辽宁卫视,http://www.baopiqi.top:4022/rtp/239.45.1.123:5140$上海信
+河南卫视,http://www.baopiqi.top:4022/rtp/239.45.0.3:5140$上海信
+云南卫视,http://www.baopiqi.top:4022/rtp/239.45.0.4:5140$上海信
+广西卫视,http://www.baopiqi.top:4022/rtp/239.45.0.5:5140$上海信
+贵州卫视,http://www.baopiqi.top:4022/rtp/239.45.1.80:5140$上海信
+吉林卫视,http://www.baopiqi.top:4022/rtp/239.45.0.6:5140$上海信
+甘肃卫视,http://www.baopiqi.top:4022/rtp/239.45.0.15:5140$上海信
+青海卫视,http://www.baopiqi.top:4022/rtp/239.45.0.37:5140$上海信
+三沙卫视,http://www.baopiqi.top:4022/rtp/239.45.0.56:5140$上海信
+江苏卫视,http://www.baopiqi.top:4022/rtp/239.45.3.177:5140$上海信
+浙江卫视,http://www.baopiqi.top:4022/rtp/239.45.3.178:5140$上海信
+云南卫视,http://www.baopiqi.top:4022/rtp/239.45.3.206:5140$上海信
 
 电影频道,#genre#
 
@@ -1812,7 +1827,20 @@ CHC影迷电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8$
 CHC家庭影院,http://www.baopiqi.top:4022/rtp/239.45.0.40:5140$上海信
 CHC动作电影,http://www.baopiqi.top:4022/rtp/239.45.0.41:5140$上海信
 CHC影迷电影,http://www.baopiqi.top:4022/rtp/239.45.0.42:5140$上海信
-欢笑剧场,http://www.baopiqi.top:4022/rtp/239.45.1.22:5140$上海信
+
+黑莓电影,http://[2409:8087:74d9:21::6]/270000001128/9900000095/index.m3u8$ipv6 
+超级电影,http://[2409:8087:74d9:21::6]/270000001128/9900000021/index.m3u8$ipv6
+超级电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000003000012426/1.m3u8
+动作电影,http://[2409:8087:74d9:21::6]/270000001128/9900000106/index.m3u8$ipv6
+惊悚悬疑,http://[2409:8087:74d9:21::6]/270000001128/9900000113/index.m3u8$ipv6
+古装剧场,http://[2409:8087:74d9:21::6]/270000001128/9900000105/index.m3u8$ipv6
+军旅剧场,http://[2409:8087:74d9:21::6]/270000001128/9900000107/index.m3u8$ipv6
+家庭剧场,http://[2409:8087:74d9:21::6]/270000001128/9900000108/index.m3u8$ipv6
+超级电视剧,http://[2409:8087:74d9:21::6]/270000001128/9900000022/index.m3u8$ipv6 
+
+电影1,http://[2409:8087:74d9:21::6]/270000001128/9900000115/index.m3u8$ipv6 
+电影2,http://[2409:8087:74d9:21::6]/270000001128/9900000116/index.m3u8$ipv6
+
 怀旧剧场,http://www.baopiqi.top:4022/rtp/239.45.0.49:5140$上海信
 风云剧场,http://www.baopiqi.top:4022/rtp/239.45.0.50:5140$上海信
 第一剧场,http://www.baopiqi.top:4022/rtp/239.45.0.51:5140$上海信
@@ -1831,16 +1859,16 @@ CGTN,http://www.akw323.com:9527/udp/238.255.2.178:5999$贵阳信
 百事谍战,http://www.baopiqi.top:4022/rtp/239.45.1.42:5140$上海信
 百事考古4K,http://www.baopiqi.top:4022/rtp/239.45.1.10:5140$上海信
 
-CHC家庭影院,http://http://www.baopiqi.top:4022rtp/239.45.0.40:5140$上海信
-CHC动作电影,http://http://www.baopiqi.top:4022rtp/239.45.0.41:5140$上海信
-CHC影迷电影,http://http://www.baopiqi.top:4022rtp/239.45.0.42:5140$上海信
-怀旧剧场,http://http://www.baopiqi.top:4022rtp/239.45.0.49:5140$上海信
-风云剧场,http://http://www.baopiqi.top:4022rtp/239.45.0.50:5140$上海信
-第一剧场,http://http://www.baopiqi.top:4022rtp/239.45.0.51:5140$上海信
-百事谍战,http://http://www.baopiqi.top:4022rtp/239.45.1.9:5140$上海信4K#http://http://www.baopiqi.top:4022rtp/239.45.1.42:5140$上海信
-百事外影,http://http://www.baopiqi.top:4022rtp/239.45.3.107:5140$上海信
-百事自然,http://http://www.baopiqi.top:4022rtp/239.45.1.29:5140$上海信
-百事考古4K,http://http://www.baopiqi.top:4022rtp/239.45.1.10:5140$上海信
+CHC家庭影院,http://www.baopiqi.top:4022/rtp/239.45.0.40:5140$上海信
+CHC动作电影,http://www.baopiqi.top:4022/rtp/239.45.0.41:5140$上海信
+CHC影迷电影,http://www.baopiqi.top:4022/rtp/239.45.0.42:5140$上海信
+怀旧剧场,http://www.baopiqi.top:4022/rtp/239.45.0.49:5140$上海信
+风云剧场,http://www.baopiqi.top:4022/rtp/239.45.0.50:5140$上海信
+第一剧场,http://www.baopiqi.top:4022/rtp/239.45.0.51:5140$上海信
+百事谍战,http://www.baopiqi.top:4022/rtp/239.45.1.9:5140$上海信4K#http://www.baopiqi.top:4022/rtp/239.45.1.42:5140$上海信
+百事外影,http://www.baopiqi.top:4022/rtp/239.45.3.107:5140$上海信
+百事自然,http://www.baopiqi.top:4022/rtp/239.45.1.29:5140$上海信
+百事考古4K,http://www.baopiqi.top:4022/rtp/239.45.1.10:5140$上海信
 
 邵氏影院,http://159.75.85.63:35455/douyu/4246519
 邵氏影院,http://zzy789.xyz/douyu1.php?id=4246519
@@ -1929,20 +1957,6 @@ LUXETV电影,http://37.27.111.214:8080/live/86/hls.m3u8$芬兰
 
 星空卫视,http://125.71.157.243:6666/rtp/239.93.1.10:2193$成都信#http://xubo0712.asuscomm.cn:9999/rtp/239.93.0.156:2193$四川cmc1+#http://171.212.208.185:8008/rtp/239.93.0.156:2193$四川cmc#http://171.212.208.186:8008/rtp/239.93.0.156:2193$四川cmc#http://171.213.204.254:8000/rtp/239.93.0.156:2193$四川cmc#http://171.213.204.84:8888/rtp/239.93.0.156:2193$四川cmc#http://171.213.205.169:8088/rtp/239.93.0.156:2193$四川
 
-黑莓电影,http://[2409:8087:74d9:21::6]/270000001128/9900000095/index.m3u8$ipv6 
-超级电影,http://[2409:8087:74d9:21::6]/270000001128/9900000021/index.m3u8$ipv6
-超级电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000003000012426/1.m3u8
-动作电影,http://[2409:8087:74d9:21::6]/270000001128/9900000106/index.m3u8$ipv6
-惊悚悬疑,http://[2409:8087:74d9:21::6]/270000001128/9900000113/index.m3u8$ipv6
-古装剧场,http://[2409:8087:74d9:21::6]/270000001128/9900000105/index.m3u8$ipv6
-军旅剧场,http://[2409:8087:74d9:21::6]/270000001128/9900000107/index.m3u8$ipv6
-家庭剧场,http://[2409:8087:74d9:21::6]/270000001128/9900000108/index.m3u8$ipv6
-超级电视剧,http://[2409:8087:74d9:21::6]/270000001128/9900000022/index.m3u8$ipv6 
-
-电影1,http://[2409:8087:74d9:21::6]/270000001128/9900000115/index.m3u8$ipv6 
-电影2,http://[2409:8087:74d9:21::6]/270000001128/9900000116/index.m3u8$ipv6
-
-
 1905国外电影,http://php.jdshipin.com:8880/1905.php?id=1905dy2
 1905国内电影,http://php.jdshipin.com:8880/1905.php?id=1905dy
 
@@ -1964,7 +1978,8 @@ LUXETV电影,http://37.27.111.214:8080/live/86/hls.m3u8$芬兰
 长影频道,http://36.49.50.29:8800/rtp/239.37.0.125:5540$长春信
 长影频道,http://nas.tuyuannet.cn:8800/rtp/239.37.0.125:5540$长春信
 
-欢笑剧场,http://http://www.baopiqi.top:4022rtp/239.45.1.22:5140$上海信
+欢笑剧场,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226203/index.m3u8$ipv6#http://www.baopiqi.top:4022/rtp/239.45.1.22:5140$上海信
+欢笑剧场,http://www.baopiqi.top:4022/rtp/239.45.1.22:5140$上海信
 欢笑剧场,http://101.68.81.44:9999/rtp/233.50.200.229:5140$杭州联
 欢笑剧场,http://101.68.81.44:9999/rtp/233.50.200.248:5140$杭州联#http://101.68.81.44:9999/rtp/233.50.200.52:5140$杭州联4k
 欢笑剧场,http://101.68.81.44:9999/rtp/233.50.201.189:5140$杭州联
@@ -1976,7 +1991,7 @@ LUXETV电影,http://37.27.111.214:8080/live/86/hls.m3u8$芬兰
 欢笑剧场4K,http://101.31.59.131:4022/rtp/239.253.93.223:6401$唐山联
 欢笑剧场4K,http://60.4.3.178:8888/rtp/239.253.93.223:6401$保定联
 
-都市剧场,http://101.68.81.44:9999/rtp/233.50.200.11:5140$杭州联
+都市剧场,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226176/index.m3u8$ipv6#http://101.68.81.44:9999/rtp/233.50.200.11:5140$杭州联
 都市剧场,http://101.68.81.44:9999/rtp/233.50.201.190:5140$杭州联
 都市剧场,http://125.71.157.243:6666/udp/239.93.42.30:5140
 都市剧场,http://218.68.55.35:8888/udp/225.1.1.146:5002
@@ -4085,10 +4100,10 @@ CGTNDocumentary,http://www.akw323.com:9527/udp/238.255.2.212:5999$贵阳信
 金鹰纪实,http://www.baopiqi.top:4022/rtp/239.45.1.45:5140$上海信
 世界地理,http://www.baopiqi.top:4022/rtp/239.45.0.46:5140$上海信
 北京纪实科教,http://majian.ixiaobai.net:5540/rtp/239.37.0.101:5540$长春信
-北京纪实科教,http://http://www.baopiqi.top:4022rtp/239.45.1.14:5140$上海信
-上海纪实人文,http://http://www.baopiqi.top:4022rtp/239.45.3.212:5140$上海信
-世界地理,http://http://www.baopiqi.top:4022rtp/239.45.0.46:5140$上海信
-金鹰纪实,http://http://www.baopiqi.top:4022rtp/239.45.1.45:5140$上海信
+北京纪实科教,http://www.baopiqi.top:4022/rtp/239.45.1.14:5140$上海信
+上海纪实人文,http://www.baopiqi.top:4022/rtp/239.45.3.212:5140$上海信
+世界地理,http://www.baopiqi.top:4022/rtp/239.45.0.46:5140$上海信
+金鹰纪实,http://www.baopiqi.top:4022/rtp/239.45.1.45:5140$上海信
 
 北京纪实科教,http://ry.soff.cn:4022/rtp/239.3.1.115:8000$北京联#http://buffaloft.ignorelist.com:8888/rtp/239.3.1.115:8000$北京联#http://123.113.106.229:4022/rtp/239.3.1.115:8000$北京联#http://114.243.100.237:8822/rtp/239.3.1.115:8000$北京联#http://114.243.103.165:8822/rtp/239.3.1.115:8000$北京联#http://114.243.104.64:8822/rtp/239.3.1.115:8000$北京联#http://114.243.105.66:8822/rtp/239.3.1.115:8000$北京联#http://114.243.109.253:8822/rtp/239.3.1.115:8000$北京联#http://114.243.111.3:8822/rtp/239.3.1.115:8000$北京联#http://114.252.229.100:8000/rtp/239.3.1.115:8000$北京联#http://114.243.156.93:8888/rtp/239.3.1.115:8000$北京联#http://114.254.80.240:2222/rtp/239.3.1.115:8000$北京联#http://114.254.93.135:2222/rtp/239.3.1.115:8000$北京联#http://114.254.94.118:2222/rtp/239.3.1.115:8000$北京联#http://123.113.237.160:8888/rtp/239.3.1.115:8000$北京联#http://123.117.36.74:4001/rtp/239.3.1.115:8000$北京联#http://123.122.160.88:19999/rtp/239.3.1.115:8000$北京联#http://123.122.162.7:19999/rtp/239.3.1.115:8000$北京联#http://123.122.163.183:19999/rtp/239.3.1.115:8000$北京联#http://222.129.33.14:8888/rtp/239.3.1.115:8000
 北京纪实科教,http://125.71.157.243:6666/rtp/239.93.0.141:5140$成都信
@@ -4223,15 +4238,15 @@ CETV1,http://www.akw323.com:9527/udp/238.255.2.105:5999$贵阳信
 CETV2,http://www.akw323.com:9527/udp/238.255.2.221:5999$贵阳信
 CETV4,http://www.akw323.com:9527/udp/238.255.2.222:5999$贵阳信
 CETV1,http://www.akw323.com:9527/udp/238.255.2.163:5999$贵阳信
-CETV1,http://majian.ixiaobai.net:5540/rtp/239.37.0.193:5540$长春信#http://http://www.baopiqi.top:4022rtp/239.45.1.125:5140$上海信
+CETV1,http://majian.ixiaobai.net:5540/rtp/239.37.0.193:5540$长春信#http://www.baopiqi.top:4022/rtp/239.45.1.125:5140$上海信
 CETV1,http://101.68.81.44:9999/rtp/233.50.200.169:5140$杭州联#http://113.13.172.34:4022/rtp/239.81.0.92:4056$柳州信#http://171.107.72.105:4000/rtp/239.81.0.92:4056$桂林信#http://202.103.213.239:8888/rtp/239.81.0.92:4056$梧州信#http://183.130.6.35:8889/rtp/233.50.200.169:5140$温信#http://180.103.165.67:8888/rtp/239.49.8.115:8000$江新cmc#http://180.103.165.68:8888/rtp/239.49.8.115:8000$江新cmc#http://180.103.165.76:8888/rtp/239.49.8.115:8000$江新cmc#http://180.103.165.77:8888/rtp/239.49.8.115:8000$江新cmc
 
 CETV2,http://xubo0712.asuscomm.cn:9999/rtp/239.93.0.113:5140$四川#http://171.213.204.84:8888/rtp/239.93.0.113:5140$四川cmc#http://171.213.205.169:8088/rtp/239.93.0.113:5140
 
-CETV4,http://http://www.baopiqi.top:4022rtp/239.45.0.21:5140$上海信#http://http://www.baopiqi.top:4022rtp/239.45.1.243:5140$上海信
+CETV4,http://www.baopiqi.top:4022/rtp/239.45.0.21:5140$上海信#http://www.baopiqi.top:4022/rtp/239.45.1.243:5140$上海信
 
 
-中国天气,http://http://www.baopiqi.top:4022rtp/239.45.1.21:5140$上海信#http://http://www.baopiqi.top:4022rtp/239.45.3.141:5140$上海信
+中国天气,http://www.baopiqi.top:4022/rtp/239.45.1.21:5140$上海信#http://www.baopiqi.top:4022/rtp/239.45.3.141:5140$上海信
 CETV4,http://101.68.81.44:9999/rtp/233.50.200.174:5140$杭州联#http://101.68.81.44:9999/rtp/233.50.200.162:5140$杭州联
 CETV4,http://113.13.172.34:4022/rtp/239.81.0.188:4056$柳州信#http://171.107.72.105:4000/rtp/239.81.0.188:4056$桂林信#http://202.103.213.239:8888/rtp/239.81.0.188:4056$梧州信
 CETV4,http://171.213.204.84:8888/rtp/239.93.0.133:5140$四川cmc#http://171.213.205.169:8088/rtp/239.93.0.133:5140
@@ -4244,10 +4259,10 @@ CETV4,http://183.130.6.35:8889/rtp/233.50.200.174:5140$温信#http://180.103.165
 
 名家书屋,http://www.ly123.fun:10000/rtp/235.254.198.118:1748$重庆信
 
-名医养生,http://http://www.baopiqi.top:4022rtp/239.45.1.28:5140$上海信
-法治天地,http://http://www.baopiqi.top:4022rtp/239.45.1.46:5140$上海信
-金色学堂,http://http://www.baopiqi.top:4022rtp/239.45.0.9:5140$上海信
-七彩戏剧,http://http://www.baopiqi.top:4022rtp/239.45.0.16:5140$上海信
+名医养生,http://www.baopiqi.top:4022/rtp/239.45.1.28:5140$上海信
+法治天地,http://www.baopiqi.top:4022/rtp/239.45.1.46:5140$上海信
+金色学堂,http://www.baopiqi.top:4022/rtp/239.45.0.9:5140$上海信
+七彩戏剧,http://www.baopiqi.top:4022/rtp/239.45.0.16:5140$上海信
 
 国学频道,http://majian.ixiaobai.net:5540/rtp/239.37.0.93:5540$长春信
 国学频道,http://120.76.248.139/live/bfgd/4200000169.m3u8$深圳
@@ -4303,7 +4318,7 @@ CETV4,http://183.130.6.35:8889/rtp/233.50.200.174:5140$温信#http://180.103.165
 fashionBOX,http://80.94.54.42/fashiontv/stream/playlist.m3u8#http://91.247.68.229:8000/play/Fashion/index.m3u8
 苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8$4k
 
-中国天气,http://http://www.baopiqi.top:4022rtp/239.45.1.21:5140$上海信#http://http://www.baopiqi.top:4022rtp/239.45.3.141:5140$上海信
+中国天气,http://www.baopiqi.top:4022/rtp/239.45.1.21:5140$上海信#http://www.baopiqi.top:4022/rtp/239.45.3.141:5140$上海信
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 
 地市频道,#genre#
@@ -4401,7 +4416,7 @@ BBCWorldNews,P2p://generationnexxxt.com:19806/68b66fcb526a469c95968a8a62c27f01$p
 SkyNews,P2p://generationnexxxt.com:19806/82241dd85d9e4dad885f1c12b11e3d2e$p2p
 KBSWorld,P2p://generationnexxxt.com:19806/d84c7baef30f41cf81e16569afec7d2a$p2p
 CGTN,P2p://generationnexxxt.com:19806/1b5e656dd2604b7e9af1133db1f40955$p2p
-Awesome TV,P2p://generationnexxxt.com:19806/963a192209f6402e840b937485174c73$p2p
+AwesomeTV,P2p://generationnexxxt.com:19806/963a192209f6402e840b937485174c73$p2p
 TVOkey,P2p://generationnexxxt.com:19806/5640c9c6b85e458a813d2b44d8f65ece$p2p
 Mediacorp8,P2p://generationnexxxt.com:19806/916b5919192c43d7afa4496e9ba6090b$p2p
 CNA,P2p://generationnexxxt.com:19806/061076408ecc4e4c97af6cbe74f897d9$p2p
@@ -5001,7 +5016,7 @@ Hands Up,P2p://generationnexxxt.com:19806/7c21e515d5264c9fa21035456fd5024a$p2p
 功夫台,P2p://generationnexxxt.com:19806/85398bbb5112406b95c5780d36d3a173$p2p
 Thrill,P2p://generationnexxxt.com:19806/d20fff7aa7d64ab19d2a39da2970734a$p2p
 HKC 18,P2p://generationnexxxt.com:19806/e38b0ea6a9174a92bf7f30a36d4e0fe9$p2p
-HOY TV,P2p://generationnexxxt.com:19806/532d47eca340456a814ba21cc5e68a52$p2p
+HOYTV,P2p://generationnexxxt.com:19806/532d47eca340456a814ba21cc5e68a52$p2p
 HISTORY(B),P2p://generationnexxxt.com:19806/cf774dbea20b492db00ab609f1c43d47$p2p
 i-Fun动漫台(B),P2p://generationnexxxt.com:19806/6cb1867e9aa543d7938ecb9ac3605564$p2p
 八大优频道(B),P2p://generationnexxxt.com:19806/18013a59708946259a859b90d07b8aac$p2p
@@ -5023,7 +5038,7 @@ CinemaWorld(B),P2p://generationnexxxt.com:19806/023f59ea320a4c6e92921cefdbaa56fa
 CINEMAX(B),P2p://generationnexxxt.com:19806/d559fe6e91584b87bff1eaeb0660c6ef$p2p
 亚洲美食频道(B),P2p://generationnexxxt.com:19806/081793e8697647e5af4c70b9265cab70$p2p
 美食星球(B),P2p://generationnexxxt.com:19806/603ff2b4a3b34834bbe7bbc04b6b8d78$p2p
-EYE TV旅游台(B),P2p://generationnexxxt.com:19806/5b302f252b45400888768bf7dce6cf94$p2p
+EYETV旅游台(B),P2p://generationnexxxt.com:19806/5b302f252b45400888768bf7dce6cf94$p2p
 东森购物1台,P2p://generationnexxxt.com:19806/21dbc6f9b1e141f4bbda7573d9af70a9$p2p
 东森购物2台,P2p://generationnexxxt.com:19806/50299f66ecb24fe1964c5c7818118527$p2p
 中视HD,P2p://generationnexxxt.com:19806/185127a48ab34a0dad54ab6e003ddeb3$p2p
@@ -5035,7 +5050,7 @@ EYE TV旅游台(B),P2p://generationnexxxt.com:19806/5b302f252b45400888768bf7dce6
 罪案侦缉,http://37.27.111.214:8080/live/29/hls.m3u8$芬兰
 罪案侦缉,P2p://generationnexxxt.com:19806/33eb3b21b71b469f9a9e0b780c615230$p2p
 博斯运动二台,P2p://generationnexxxt.com:19806/9b8a1167e7484391ab3945d2dcb29170$p2p
-ELEVEN体育2台,P2p://generationnexxxt.com:19806/3efe7901f6354886b0c9fde9e22ebe44$p2p
+DAZN体育2台,P2p://generationnexxxt.com:19806/3efe7901f6354886b0c9fde9e22ebe44$p2p
 博斯无限二台,P2p://generationnexxxt.com:19806/6826c724c9c846d1bd63a204a39f106f$p2p
 博斯魅力网,P2p://generationnexxxt.com:19806/e8db82c6084a4ae2b114ea7c5403b7a2$p2p
 博斯高球二台,P2p://generationnexxxt.com:19806/65e1b654000ce227c9f3778a2b254b95$p2p
@@ -5063,7 +5078,7 @@ Smart知识台,P2p://generationnexxxt.com:19806/b90dd56d139b4ef9af62cfa2a07478f8
 靖天戏剧台,P2p://generationnexxxt.com:19806/08786346511f4fbbbbfe0c4e72ad9409$p2p
 靖洋戏剧台,P2p://generationnexxxt.com:19806/0089fb08f1b448b99c18ce438a9f7fc5$p2p
 靖天日本台,P2p://generationnexxxt.com:19806/a3d3573d8c2543bd81a38c0cf885f56d$p2p
-Nice TV靖天欢乐台,P2p://generationnexxxt.com:19806/292ac060fb694ab6bab52a705abd0444$p2p
+NiceTV靖天欢乐台,P2p://generationnexxxt.com:19806/292ac060fb694ab6bab52a705abd0444$p2p
 民视台湾台,P2p://generationnexxxt.com:19806/38f827cbd65f4fd8af9c173dc13f6cc7$p2p
 纬来精采台,P2p://generationnexxxt.com:19806/28427e22e6804e4a8ebd65671e789376$p2p
 TVBS精采台,P2p://generationnexxxt.com:19806/0af9c12ec2a347b9b626002b0d10f37c$p2p
