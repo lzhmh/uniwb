@@ -19,10 +19,9 @@ CCTV13,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 
 CCTV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8$哈移
 CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226571/index.m3u8$哈移
-CCTV4,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226652/index.m3u8$PLTV6
 CCTV4,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226539/index.m3u8$PLTV6
-CCTV4,http://111.8.242.107:9999/tsfile/live/1007_1.m3u8$怀化移
-CCTV13,http://111.8.242.107:9999/tsfile/live/1045_1.m3u8$怀化移
+CCTV4,http://58.19.43.46:9901/tsfile/live/1023_1.m3u8$武汉联
+CCTV13,http://58.19.43.46:9901/tsfile/live/1032_1.m3u8$武汉联
 CCTV13,http://a15c1d.tv.netsite.cc/proxy/1942371728/1942371728.m3u8
 CCTV4,http://iptv.8t.cx:8180/rtp/239.3.1.105:8092$北京联#http://www.baopiqi.top:4022/rtp/239.45.0.2:5140$上海信#http://nas.jc-hqp.cn:9999/rtp/233.50.200.101:5140$浙江信#http://sss918.synology.me:8000/rtp/233.50.200.101:5140$浙江信#http://dsm.52nantong.net:8800/rtp/239.49.8.131:6000$江苏信#http://222.95.92.12:4000/rtp/239.49.8.131:6000$江苏信#http://prettyalan.vicp.cc:8888/rtp/239.61.2.206:9224$厦门信#http://118.79.7.193:6001/rtp/226.0.2.21:8080$山西联s
 CCTV4,http://[2409:8087:74d9:21::4]:80/270000001128/9900000503/index.m3u8$ipv6
@@ -36,10 +35,8 @@ CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8$
 
 CCTV13,http://iptv.8t.cx:8180/rtp/239.3.1.124:8128$北京联#http://www.baopiqi.top:4022/rtp/239.45.0.19:5140$上海信#http://nas.jc-hqp.cn:9999/rtp/233.50.200.97:5140$浙江信#http://sss918.synology.me:8000/rtp/233.50.200.97:5140$浙江信#http://prettyalan.vicp.cc:8888/rtp/239.61.2.23:8132$厦门信#http://nas.jc-hqp.cn:9999/rtp/233.50.200.111:5140$浙江信#http://118.79.7.193:6001/rtp/226.0.2.30:8152$山西联s
 
-CCTV4,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010017/$ip1e
-CCTV13,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010093/$ip1e
-CCTV4,http://222.217.230.192:8181/tsfile/live/0004_1.m3u8$玉林信s
-CCTV13,http://222.217.230.192:8181/tsfile/live/0013_1.m3u8$玉林信s
+CCTV4,http://112.234.21.109:9901/tsfile/live/0004_1.m3u8$鲁联s
+CCTV13,http://112.234.21.109:9901/tsfile/live/0013_1.m3u8$鲁联s
 
 凤凰香港,http://114.105.187.147:9901/tsfile/live/1034_1.m3u8$亳州信
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk$php
@@ -137,8 +134,12 @@ CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8$�
 CCTV5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$哈移
 CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$哈移
 
-CCTV5,http://222.217.230.192:8181/tsfile/live/0005_1.m3u8$玉林信
-CCTV5+,http://222.217.230.192:8181/tsfile/live/0016_1.m3u8$玉林信
+CCTV5,http://220.170.241.204:9901/tsfile/live/0005_1.m3u8$娄底联
+CCTV5+,http://220.170.241.204:9901/tsfile/live/0016_1.m3u8$娄底联
+
+CCTV5,http://58.19.43.46:9901/tsfile/live/1024_1.m3u8$武汉联
+CCTV5,http://119.36.148.115:59901/tsfile/live/1001_1.m3u8$荆州联
+CCTV5+,http://119.36.148.115:59901/tsfile/live/1003_1.m3u8$荆州联
 
 CCTV5,http://[2409:8087:74d9:21::6]:80/270000001128/9900000005/index.m3u8$ipv6
 CCTV5+,http://[2409:8087:74d9:21::6]:80/270000001128/9900000507/index.m3u8$ipv6
@@ -185,9 +186,9 @@ CCTV5+,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com/
 
 爱羽客,http://221.196.136.66:1/rtp/225.1.2.1:5002$天津联#http://ha.xushining.com:50000/rtp/225.1.2.1:5002$天津联#http://60.3.96.55:4022/rtp/239.253.93.202:6380$河北联#http://60.164.128.167:8029/rtp/239.255.29.31:8231$甘肃信#http://60.7.56.33:4000/rtp/239.253.93.202:6380$河北联#http://www.lebaobei.top:6868/rtp/239.255.29.31:8231$甘肃信#http://nas.hssvm.com:8888/rtp/225.1.2.1:5002$天津联
 
+CETV4,http://58.19.43.46:9901/tsfile/live/1018_1.m3u8$武汉联
 CETV4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8$哈6s
 CETV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8$哈移s
-CETV4,http://119.125.134.176:9901/tsfile/live/1034_1.m3u8$梅州信
 CETV4,http://114.105.187.147:9901/tsfile/live/1002_1.m3u8$亳州信
 CETV4,http://[2409:8087:74d9:21::6]:80/270000001128/9900000072/index.m3u8$ipv6
 CETV4,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000666/index.m3u8?IASHttpSessionId=$山东V6
@@ -221,7 +222,7 @@ EURO1网球,http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
 EURO1网球,http://iptv-hls.idc.md:8200/hls/261/live1.m3u8
 
 高尔夫网球,http://[2409:8087:74d9:21::6]:80/270000001128/9900000094/index.m3u8$ipv6
-高尔夫网球,http://119.125.134.176:9901/tsfile/live/1011_1.m3u8$梅州信
+高尔夫网球,http://112.234.21.109:9901/tsfile/live/1036_1.m3u8$鲁联
 高尔夫网球,http://www.baopiqi.top:4022/rtp/239.45.0.48:5140$上海信#http://60.3.96.55:4022/rtp/239.253.93.122:6465$河北联#http://www.akw323.com:9527/rtp/238.255.2.223:5999$贵阳信#http://www.baopiqi.top:4022/rtp/239.45.1.72:5140$上海信#http://majian.ixiaobai.net:5540/rtp/239.37.0.230:5540$辽宁信#http://enlen.vip:4022/rtp/239.200.200.89:8024$云南信#http://www.lizhinas.top:8688/rtp/239.252.219.95:5140$江西信
 
 咪咕体育,http://majian.ixiaobai.net:5540/rtp/239.37.0.195:5540$辽宁信
@@ -260,12 +261,6 @@ EURO1网球,http://iptv-hls.idc.md:8200/hls/261/live1.m3u8
 纬来体育,P2p://generationnexxxt.com:19806/76e607f5f18c4561b7d5b5915897cc99$p2p
 纬来体育,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8585/.m3u8$错时
 
-风云足球,http://110.179.80.171:8083/udp/239.1.1.101:8101
-风云足球,http://171.124.48.100:8083/rtp/226.0.2.225:9712
-风云足球,http://171.118.209.251:8082/rtp/226.0.2.225:9712
-风云足球,http://dms.yryyj.site:8188/udp/239.76.254.52:9000
-风云足球,http://183.11.239.36:808/hls/133/index.m3u8
-
 精品体育,http://[2409:8087:74d9:21::6]:80/270000001128/9900000102/index.m3u8$ipv6
 精品体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$哈移
 精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$哈移
@@ -277,6 +272,12 @@ EURO1网球,http://iptv-hls.idc.md:8200/hls/261/live1.m3u8
 超级体育,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010063/$ip1e
 超级体育,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000009204/1.m3u8
 
+风云足球,http://58.19.43.46:9901/tsfile/live/1019_1.m3u8$武汉联
+风云足球,http://112.234.21.109:9901/tsfile/live/1031_1.m3u8$鲁联
+风云足球,http://110.179.80.171:8083/udp/239.1.1.101:8101
+风云足球,http://171.124.48.100:8083/rtp/226.0.2.225:9712$山西联
+风云足球,http://dms.yryyj.site:8188/udp/239.76.254.52:9000
+风云足球,http://183.11.239.36:808/hls/133/index.m3u8
 风云足球,http://www.baopiqi.top:4022/rtp/239.45.0.43:5140$上海信#http://60.3.96.55:4022/rtp/239.253.93.254:6432$河北联#http://www.akw323.com:9527/rtp/238.255.2.29:5999$贵阳信#http://majian.ixiaobai.net:5540/rtp/239.37.0.80:5540$辽宁信#http://enlen.vip:4022/rtp/239.200.200.88:8020$云南信#http://www.lizhinas.top:8688/rtp/239.252.219.96:5140$江西信#http://ds920.dsmynas.net:5555/rtp/226.0.2.225:9712$山西联#http://118.79.7.193:6001/rtp/226.0.2.225:9712$山西联
 
 央视台球,http://www.baopiqi.top:4022/rtp/239.45.0.44:5140$上海信#http://60.3.96.55:4022/rtp/239.253.93.231:6409$河北联#http://enlen.vip:4022/rtp/239.200.200.135:8076$云南信#http://118.79.7.193:6001/rtp/226.0.2.216:9640$山西联
@@ -297,6 +298,7 @@ EURO1网球,http://iptv-hls.idc.md:8200/hls/261/live1.m3u8
 
 北京体育,http://tnvcn.com:8012/rtp/239.3.1.243:8000$北京联#http://iptv.8t.cx:8180/rtp/239.3.1.243:8000$北京联#http://ry.soff.cn:4022/rtp/239.3.1.243:8000$北京联#http://123.113.237.160:8888/rtp/239.3.1.243:8000$北京联#http://123.122.162.7:19999/rtp/239.3.1.243:8000$北京联#http://221.221.164.86:8182/rtp/239.3.1.243:8000$北京联
 
+五星体育,http://61.173.144.157:9901/tsfile/live/1010_1.m3u8
 五星体育,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281$6hnb
 五星体育,http://www.baopiqi.top:4022/rtp/239.45.3.112:5140$上海信
 五星体育,http://117.161.12.124/live/program/live/ssty/4000000/mnf.m3u8
@@ -481,9 +483,7 @@ EURO1网球,http://iptv-hls.idc.md:8200/hls/261/live1.m3u8
 斗鱼体育,http://159.75.85.63:35455/douyu/9170147
 斗鱼体育,http://zzy789.xyz/douyu1.php?id=9170147
 
-山东体育,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000400/index.m3u8?IASHttpSessionId=$山东V6
-山东体育,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000315/index.m3u8?IASHttpSessionId=$山东V6
-山东体育,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000373/index.m3u8?IASHttpSessionId=$山东V6
+山东体育,http://112.234.21.109:9901/tsfile/live/0001_2.m3u8
 
 黑龙江文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8$哈移
 黑龙江文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226424/index.m3u8$哈移s
@@ -672,107 +672,6 @@ Bloomberg,http://37.27.111.214:8080/live/34/hls.m3u8$芬兰
 咪咕直播,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226401/index.m3u8$PLTV6
 咪咕直播,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226403/index.m3u8$PLTV6
 咪咕直播,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226352/index.m3u8$PLTV6
-
-咪咕CBA1,http://111.13.111.242/000000001000/3000000001000005308/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕CBA2,http://111.13.111.242/000000001000/3000000001000007218/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕CBA3,http://111.13.111.242/000000001000/3000000001000010129/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕足球1,http://111.13.111.242/000000001000/3000000010000004193/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕足球2,http://111.13.111.242/000000001000/3000000010000019839/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播4,http://111.13.111.242/000000001000/3000000001000005969/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播5,http://111.13.111.242/000000001000/3000000001000008001/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播6,http://111.13.111.242/000000001000/3000000001000008176/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播7,http://111.13.111.242/000000001000/3000000001000008379/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播8,http://111.13.111.242/000000001000/3000000001000010948/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播10,http://111.13.111.242/000000001000/3000000001000028638/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播11,http://111.13.111.242/000000001000/3000000001000031494/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播12,http://111.13.111.242/000000001000/3000000010000000097/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播13,http://111.13.111.242/000000001000/3000000010000002019/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播15,http://111.13.111.242/000000001000/3000000010000002809/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播16,http://111.13.111.242/000000001000/3000000010000003915/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播19,http://111.13.111.242/000000001000/3000000010000005837/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播20,http://111.13.111.242/000000001000/3000000010000006077/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播21,http://111.13.111.242/000000001000/3000000010000006658/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播24,http://111.13.111.242/000000001000/3000000010000009788/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播25,http://111.13.111.242/000000001000/3000000010000010833/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播27,http://111.13.111.242/000000001000/3000000010000011297/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播28,http://111.13.111.242/000000001000/3000000010000011518/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播33,http://111.13.111.242/000000001000/3000000010000012558/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播34,http://111.13.111.242/000000001000/3000000010000012616/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播35,http://111.13.111.242/000000001000/3000000010000015470/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播36,http://111.13.111.242/000000001000/3000000010000015560/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播38,http://111.13.111.242/000000001000/3000000010000017678/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播43,http://111.13.111.242/000000001000/3000000010000021904/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播44,http://111.13.111.242/000000001000/3000000010000023434/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-
-咪咕直播9,http://111.13.111.242/000000001000/3000000001000026778/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播14,http://111.13.111.242/000000001000/3000000010000002032/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播18,http://111.13.111.242/000000001000/3000000010000004464/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播22,http://111.13.111.242/000000001000/3000000010000006944/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播23,http://111.13.111.242/000000001000/3000000010000007692/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播26,http://111.13.111.242/000000001000/3000000010000011112/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播29,http://111.13.111.242/000000001000/3000000010000011763/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播30,http://111.13.111.242/000000001000/3000000010000011873/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播31,http://111.13.111.242/000000001000/3000000010000012398/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播32,http://111.13.111.242/000000001000/3000000010000012450/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播37,http://111.13.111.242/000000001000/3000000010000017389/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播39,http://111.13.111.242/000000001000/3000000010000017997/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播40,http://111.13.111.242/000000001000/3000000010000019380/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播42,http://111.13.111.242/000000001000/3000000010000020168/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播45,http://111.13.111.242/000000001000/3000000010000024205/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-
-咪咕CBA1,http://111.13.111.242/000000001000/3000000001000005308/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕CBA2,http://111.13.111.242/000000001000/3000000001000007218/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕CBA3,http://111.13.111.242/000000001000/3000000001000010129/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕足球1,http://111.13.111.242/000000001000/3000000010000004193/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕足球2,http://111.13.111.242/000000001000/3000000010000019839/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播4,http://111.13.111.242/000000001000/3000000001000005969/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播5,http://111.13.111.242/000000001000/3000000001000008001/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播6,http://111.13.111.242/000000001000/3000000001000008176/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播7,http://111.13.111.242/000000001000/3000000001000008379/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播8,http://111.13.111.242/000000001000/3000000001000010948/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播9,http://111.13.111.242/000000001000/3000000001000026778/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播10,http://111.13.111.242/000000001000/3000000001000028638/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播11,http://111.13.111.242/000000001000/3000000001000031494/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播12,http://111.13.111.242/000000001000/3000000010000000097/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播13,http://111.13.111.242/000000001000/3000000010000002019/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播14,http://111.13.111.242/000000001000/3000000010000002032/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播15,http://111.13.111.242/000000001000/3000000010000002809/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播16,http://111.13.111.242/000000001000/3000000010000003915/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播18,http://111.13.111.242/000000001000/3000000010000004464/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播19,http://111.13.111.242/000000001000/3000000010000005837/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播20,http://111.13.111.242/000000001000/3000000010000006077/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播21,http://111.13.111.242/000000001000/3000000010000006658/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播22,http://111.13.111.242/000000001000/3000000010000006944/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播23,http://111.13.111.242/000000001000/3000000010000007692/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播24,http://111.13.111.242/000000001000/3000000010000009788/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播25,http://111.13.111.242/000000001000/3000000010000010833/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播26,http://111.13.111.242/000000001000/3000000010000011112/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播27,http://111.13.111.242/000000001000/3000000010000011297/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播28,http://111.13.111.242/000000001000/3000000010000011518/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播29,http://111.13.111.242/000000001000/3000000010000011763/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播30,http://111.13.111.242/000000001000/3000000010000011873/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播31,http://111.13.111.242/000000001000/3000000010000012398/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播32,http://111.13.111.242/000000001000/3000000010000012450/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播33,http://111.13.111.242/000000001000/3000000010000012558/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播34,http://111.13.111.242/000000001000/3000000010000012616/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播35,http://111.13.111.242/000000001000/3000000010000015470/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播36,http://111.13.111.242/000000001000/3000000010000015560/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播37,http://111.13.111.242/000000001000/3000000010000017389/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播38,http://111.13.111.242/000000001000/3000000010000017678/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播39,http://111.13.111.242/000000001000/3000000010000017997/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播40,http://111.13.111.242/000000001000/3000000010000019380/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播42,http://111.13.111.242/000000001000/3000000010000020168/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播43,http://111.13.111.242/000000001000/3000000010000021904/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播44,http://111.13.111.242/000000001000/3000000010000023434/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播45,http://111.13.111.242/000000001000/3000000010000024205/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播46,http://111.13.111.242/000000001000/3000000010000024691/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播47,http://111.13.111.242/000000001000/3000000010000025380/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播48,http://111.13.111.242/000000001000/3000000010000025943/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播49,http://111.13.111.242/000000001000/3000000010000027318/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播50,http://111.13.111.242/000000001000/3000000010000027638/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播51,http://111.13.111.242/000000001000/3000000010000027691/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播52,http://111.13.111.242/000000001000/3000000010000031669/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播53,http://111.13.111.242/000000001000/3000000010000032106/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
 
 少儿动漫,#genre#
 
@@ -1159,6 +1058,7 @@ NBCSports,http://41.205.93.154:80/NBA/index.m3u8
 
 世界军事,http://iptv.8t.cx:8180/rtp/239.3.1.76:4120$北京联#http://119.41.169.132:4000/rtp/239.253.64.229:5140$海南信#http://222.210.153.89:8888/rtp/239.93.0.204:9076$四川信#http://omnix.cn:4000/rtp/225.1.8.236:4120$北京信#http://1.203.77.72:7788/rtp/225.1.8.236:4120$北京信#http://xeace.cn:8888/rtp/239.93.0.204:9076$四川信#http://ry.soff.cn:4022/rtp/239.3.1.76:4120$北京联#http://123.117.36.74:4001/rtp/239.3.1.76:4120$北京联#http://60.164.128.167:8029/rtp/239.255.30.244:8231$甘肃信#http://14.135.72.70:8888/rtp/239.121.4.196:9160$宁夏信
 
+兵器科技,http://112.234.21.109:9901/tsfile/live/1033_1.m3u8$鲁联
 兵器科技,http://www.baopiqi.top:4022/rtp/239.45.1.74:5140$上海信#http://www.baopiqi.top:4022/rtp/239.45.0.45:5140$上海信#http://118.79.112.27:6001/rtp/226.0.2.223:9696$山西联#http://118.79.7.193:6001/rtp/226.0.2.223:9696$山西联#http://113.251.180.215:4022/rtp/235.254.196.98:7980$重庆信#http://majian.ixiaobai.net:5540/rtp/239.37.0.84:5540$辽宁信#http://enlen.vip:4022/rtp/239.200.200.91:8036$云南信#http://www.ly123.fun:10000/rtp/235.254.196.98:7980$重庆信#http://183.66.51.205:4022/rtp/235.254.196.98:7980$重庆信#http://221.196.136.66:1/rtp/225.1.2.166:5002$天津联#http://www.lizhinas.top:8688/rtp/239.252.219.98:5140$江西信#http://www.akw323.com:9527/rtp/238.255.2.34:5999$贵阳信#http://xeace.cn:8888/rtp/239.93.1.235:5140$四川信#http://60.3.96.55:4022/rtp/239.253.93.47:6435$河北联#http://222.210.153.89:8888/rtp/239.93.1.235:5140$四川信
 
 东方财经,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226602/index.m3u8$PLTV6
@@ -1179,7 +1079,7 @@ NBCSports,http://41.205.93.154:80/NBA/index.m3u8
 财富天下,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000607/index.m3u8?IASHttpSessionId=$山东V6
 财富天下,http://iptv.8t.cx:8180/rtp/239.3.1.53:9136$北京联#http://www.baopiqi.top:4022/rtp/239.45.0.7:5140$上海信#http://60.3.96.55:4022/rtp/239.253.93.247:6425$河北联#http://101.31.59.131:4022/rtp/239.253.93.247:6425$河北联#http://221.196.136.66:1/rtp/225.1.2.198:5002$天津联#http://118.79.112.27:6001/rtp/226.0.2.139:9024$山西联#http://118.79.7.193:6001/rtp/226.0.2.139:9024$山西联#http://14.135.72.70:8888/rtp/239.121.4.181:9070$宁夏信#http://xeace.cn:8888/rtp/239.93.0.116:9136$四川信#http://www.ly123.fun:10000/rtp/235.254.198.108:1708$重庆信#http://www.akw323.com:9527/rtp/238.255.2.186:5999$贵阳信#http://113.251.180.215:4022/rtp/235.254.198.108:1708$重庆信
 
-家庭理财,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000064/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000064&IASHttpSessionId=OTT19019320240419154124000281$6hnb
+家庭理财,http://112.234.21.109:9901/tsfile/live/1035_1.m3u8$鲁联
 家庭理财,http://www.baopiqi.top:4022/rtp/239.45.0.14:5140$上海信#http://60.3.96.55:4022/rtp/239.253.93.246:6424$河北联#http://118.79.112.27:6001/rtp/226.0.2.129:8944$山西联#http://118.79.7.193:6001/rtp/226.0.2.129:8944$山西联
 
 点掌财经,https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
@@ -1192,47 +1092,18 @@ NBCSports,http://41.205.93.154:80/NBA/index.m3u8
 全球财经,http://37.27.111.214:8080/live/64/hls.m3u8$芬兰
 寰宇财经,http://37.27.111.214:8080/live/65/hls.m3u8$芬兰
 CNBC财经,http://37.27.111.214:8080/live/102/hls.m3u8$芬兰
-HOY76财经,P2p://generationnexxxt.com:19806/bddf0c6b88474142a2cab7219a93af54$p2p
-HOY76财经,P2p://generationnexxxt.com:19806/b6594fa379204fc5b11ba4bc3fe7d932$p2p
-东森财经,P2p://generationnexxxt.com:19806/5634f613b7f84f81a5c56a6af4311d57$p2p
-台视财经,P2p://generationnexxxt.com:19806/adf452cad7a246ca8ccc8301f8184c6e$p2p
-now财经,P2p://generationnexxxt.com:19806/f0dd1f92af2845c2abd2ff29aff2b8ca$p2p
-now财经,P2p://generationnexxxt.com:19806/415e15f33f8b4b5b95a400a406abd534$p2p
-非凡商业,P2p://generationnexxxt.com:19806/75d635caf96142a3807ed6c5f7e6240d$p2p
-BloombergTV,P2p://generationnexxxt.com:19806/b7a11fd04a2f4a44acdab32693edee1e$p2p
 rollor家设,http://37.27.111.214:8080/live/40/hls.m3u8$芬兰
 居家乐活,http://37.27.111.214:8080/live/26/hls.m3u8$芬兰
-居家乐活,P2p://generationnexxxt.com:19806/695f8cb90c384faaa0a6253d92e35176$p2p
-居家乐活,P2p://generationnexxxt.com:19806/695f8cb90c384faaa0a6253d92e35176$p2p
 Lifetime,http://37.27.111.214:8080/live/71/hls.m3u8$芬兰
-ROCKExtreme,P2p://generationnexxxt.com:19806/337165af094e40b48fb6db958ffd1cdc$p2p
 
 影迷纪实,http://37.27.111.214:8080/live/92/hls.m3u8$芬兰
-影迷纪实,P2p://generationnexxxt.com:19806/68111c16e7bc42d3bc27791997d39a4b$p2p
-探索频道,P2p://generationnexxxt.com:19806/c7afe2fe39a04c1dada51462430dce8a$p2p
-探索频道,P2p://generationnexxxt.com:19806/03803dbb35eb4e78a332b2b421b770c8$p2p
-DiscoveryAsia,P2p://generationnexxxt.com:19806/6d031b7fba864255a10992d86da402ca$p2p
-达文西频道,P2p://generationnexxxt.com:19806/170c28c8132b4ce183b4fbf61537dcff$p2p
-BBCLifestyle,P2p://generationnexxxt.com:19806/213ee36f11ba4b9896c8440290ebca3b$p2p
-BBCEarth,P2p://generationnexxxt.com:19806/bfb6de1d865a44c7a78477c6a0eb0b4a$p2p
-Discovery科学,P2p://generationnexxxt.com:19806/5eb5ac6d3cf243b69bce16ad8e841668$p2p
 
 民视旅游,https://litv.zapi.us.kg/?id=litv-ftv07$litv
 亚洲旅游,https://litv.zapi.us.kg/?id=litv-longturn17$litv
 
 GlobalTrekker,http://37.27.111.214:8080/live/53/hls.m3u8$芬兰
 罪案侦缉,http://37.27.111.214:8080/live/29/hls.m3u8$芬兰
-罪案侦缉,P2p://generationnexxxt.com:19806/33eb3b21b71b469f9a9e0b780c615230$p2p
-美食星球,P2p://generationnexxxt.com:19806/02a89e372e1344d0b74c5b288d4d1cea$p2p
-亚洲美食,P2p://generationnexxxt.com:19806/ac7e749ef27c4f2c8775ecaae5cd2206$p2p
 亚洲旅游,http://37.27.111.214:8080/live/10/hls.m3u8$芬兰
-亚洲旅游,P2p://generationnexxxt.com:19806/409459f958a04a5fa3609250df421445$p2p
-EYETV旅游,P2p://generationnexxxt.com:19806/49931b62c0b34671af7cce9d0842ede8$p2p
-TLC旅游生活,P2p://generationnexxxt.com:19806/32000d7eec2049c6b1de2eb8cd3c9348$p2p
-TechStorm,P2p://generationnexxxt.com:19806/9e84e7f44550435a91e4d0d92cc0147f$p2p
-TechStorm,P2p://generationnexxxt.com:19806/9e84e7f44550435a91e4d0d92cc0147f$p2p
-JET综合,P2p://generationnexxxt.com:19806/834c314a8ff844b0a9c3ea729ad8516b$p2p
-公视3台,P2p://generationnexxxt.com:19806/facf020d07f54fa8aef38a5c8b127758$p2p
 
 国会频道1,https://litv.zapi.us.kg/?id=4gtv-4gtv084$litv
 国会频道2,https://litv.zapi.us.kg/?id=4gtv-4gtv085$litv
@@ -1412,7 +1283,8 @@ CCTV4K,http://www.baopiqi.top:4022/rtp/239.45.0.55:5140$上海信
 女性时尚,http://www.baopiqi.top:4022/rtp/239.45.0.47:5140$上海信
 电视指南,http://www.baopiqi.top:4022/rtp/239.45.1.73:5140$上海信
 
-文化精品,http://119.125.134.176:9901/tsfile/live/1041_1.m3u8$梅州信
+文化精品,http://112.234.21.109:9901/tsfile/live/1028_1.m3u8$鲁联
+风云音乐,http://112.234.21.109:9901/tsfile/live/1030_1.m3u8$鲁联
 CCTV卫生健康,http://119.125.134.176:9901/tsfile/live/1055_1.m3u8$梅州信
 CCTV卫生健康,http://www.akw323.com:9527/rtp/238.255.2.144:5999$贵阳信
 风云音乐,http://www.akw323.com:9527/rtp/238.255.2.24:5999$贵阳信
@@ -1726,11 +1598,11 @@ https://test5.btzx.com.cn/live/2023bt.stream/playlist.m3u8#http://xubo0712.asusc
 
 电影频道,#genre#
 
-CHC家庭影院,http://114.105.187.147:9901/tsfile/live/1072_1.m3u8$亳州信
+CHC家庭影院,http://112.234.21.109:9901/tsfile/live/1014_1.m3u8$鲁联
 CHC家庭影院,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId=$山东V6
 CHC家庭影院,http://www.baopiqi.top:4022/rtp/239.45.0.40:5140$上海信#http://221.196.136.66:1/rtp/225.1.1.213:5002$天津联#http://majian.ixiaobai.net:5540/rtp/239.37.0.188:5540$辽宁信#http://113.251.180.215:4022/rtp/235.254.198.246:7980$重庆信#http://www.ly123.fun:10000/rtp/235.254.198.246:7980$重庆信#http://183.66.51.205:4022/rtp/235.254.198.246:7980$重庆信#http://27.10.9.110:8003/rtp/225.0.4.228:7980$重庆联#http://www.lnlee.top:10000/rtp/239.81.0.238:4056$广西信#http://221.198.77.117:8888/rtp/225.1.1.213:5002$天津联#http://27.22.14.115:18888/rtp/239.69.1.243:11100$湖北信
 
-CHC动作电影,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=$山东V6
+CHC动作电影,http://112.234.21.109:9901/tsfile/live/1013_1.m3u8$鲁联
 CHC动作电影,http://majian.ixiaobai.net:5540/rtp/239.37.0.186:5540$辽宁信#http://113.251.180.215:4022/rtp/235.254.198.247:7980$重庆信#http://www.ly123.fun:10000/rtp/235.254.198.247:7980$重庆信#http://183.66.51.205:4022/rtp/235.254.198.247:7980$重庆信 #http://www.baopiqi.top:4022/rtp/239.45.0.41:5140$上海信#http://221.196.136.66:1/rtp/225.1.1.215:5002$天津联#http://27.10.9.110:8003/rtp/225.0.4.229:7980$重庆联#http://www.lnlee.top:10000/rtp/239.81.0.239:4056$广西信#http://www.lnlee.top:10000/rtp/239.81.0.240:4056$广西信
 
 CHC影迷电影,http://119.125.134.176:9901/tsfile/live/1024_1.m3u8$梅州信
@@ -1778,10 +1650,11 @@ CHC影迷电影,http://111.8.242.107:9999/tsfile/live/1072_1.m3u8$怀化移
 老故事,http://119.125.134.176:9901/tsfile/live/1025_1.m3u8$梅州信
 老故事,http://114.105.187.147:9901/tsfile/live/1001_1.m3u8$亳州信
 
-怀旧剧场,http://119.125.134.176:9901/tsfile/live/1006_1.m3u8$梅州信
+第一剧场,http://58.19.43.46:9901/tsfile/live/1012_1.m3u8$武汉联
+怀旧剧场,http://112.234.21.109:9901/tsfile/live/1027_1.m3u8$鲁联
+第一剧场,http://112.234.21.109:9901/tsfile/live/1034_1.m3u8$鲁联
+风云剧场,http://112.234.21.109:9901/tsfile/live/1029_1.m3u8$鲁联
 怀旧剧场,http://221.196.136.66:1/rtp/225.1.2.173:5002$天津联
-第一剧场,http://119.125.134.176:9901/tsfile/live/1040_1.m3u8$梅州信
-风云剧场,http://119.125.134.176:9901/tsfile/live/1042_1.m3u8$梅州信
 风云剧场,http://221.196.136.66:1/rtp/225.1.2.174:5002$天津联
 第一剧场,http://221.196.136.66:1/rtp/225.1.2.175:5002$天津联
 老故事,http://221.196.136.66:1/rtp/225.1.1.188:5002$天津联#http://223.12.13.231:8082/rtp/239.1.1.87:8087$山西信
@@ -4166,12 +4039,9 @@ TVB经典—九江十二坊,https://lunbo.freetv.top/yy/1382735566
 北京纪实科教,http://[2409:8087:74d9:21::6]:80/270000001128/9900000515/index.m3u8$ipv6
 北京纪实科教,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8$8K
 北京纪实科教,http://www.baopiqi.top:4022/rtp/239.45.1.14:5140$上海信#http://www.akw323.com:9527/rtp/238.255.2.107:5999$贵阳信#http://majian.ixiaobai.net:5540/rtp/239.37.0.101:5540$辽宁信#http://iptv.8t.cx:8180/rtp/239.3.1.115:8000$北京联#http://tnvcn.com:8012/rtp/239.3.1.115:8000$北京联#http://xeace.cn:8888/rtp/239.93.0.141:5140$四川信#http://enlen.vip:4022/rtp/239.200.200.147:8728$云南信
-北京纪实科教,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000332/index.m3u8?IASHttpSessionId=$山东V6
 
-
+上海纪实人文,http://61.173.144.157:9901/tsfile/live/1005_1.m3u8$沪信
 上海纪实人文,http://[2409:8087:74d9:21::6]:80/270000001128/9900000528/index.m3u8$ipv6 
-上海纪实人文,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226174/index.m3u8$PLTV6
-上海纪实人文,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000333/index.m3u8?IASHttpSessionId=$山东V6
 上海纪实人文,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8$哈移
 上海纪实人文,http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002199/index.m3u8$ipv6
 上海纪实人文,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010067/$ip1e
@@ -4194,7 +4064,7 @@ CGTNDocumentary,http://eyfs.vicp.net:8888/rtp/239.76.245.67:1234$湖南信#http:
 精品纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8$哈移
 精品纪录,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010076/$ip1e
 
-世界地理,http://119.125.134.176:9901/tsfile/live/1008_1.m3u8$梅州信
+世界地理,http://112.234.21.109:9901/tsfile/live/1032_1.m3u8$鲁联
 世界地理,http://120.76.248.139/live/bfgd/4200000177.m3u8$深圳
 世界地理,http://www.baopiqi.top:4022/rtp/239.45.0.46:5140$上海信#http://60.3.96.55:4022/rtp/239.253.92.131:6113$河北联#http://60.3.96.55:4022/rtp/239.253.92.113:8066$河北联#http://221.196.136.66:1/rtp/225.1.2.171:5002$天津联#http://www.akw323.com:9527/rtp/238.255.2.26:5999$贵阳信#http://majian.ixiaobai.net:5540/rtp/239.37.0.79:5540$辽宁信#http://enlen.vip:4022/rtp/239.200.200.130:8012$云南信#http://www.lizhinas.top:8688/rtp/239.252.219.93:5140$江西信#http://110.178.52.75:8084/rtp/239.1.1.99:8099$山西信#http://123.180.177.20:16000/rtp/239.253.92.131:6113$河北信#http://60.7.56.50:4000/rtp/239.253.92.131:6113$河北联
 世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
@@ -4308,9 +4178,9 @@ CETV2,http://119.125.134.176:9901/tsfile/live/1033_1.m3u8$梅州信
 汽摩频道,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000711/index.m3u8?IASHttpSessionId=$山东V6
 汽摩频道,http://221.196.136.66:1/rtp/225.1.1.205:5002$天津联#http://113.251.180.215:4022/rtp/235.254.196.221:1156$重庆信#http://www.akw323.com:9527/rtp/238.255.2.148:5999$贵阳信#http://www.ly123.fun:10000/rtp/235.254.196.221:1156$重庆信
 
+法治天地,http://61.173.144.157:9901/tsfile/live/1006_1.m3u8$沪信
 法治天地,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221225627/index.m3u8$PLTV6
 法治天地,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014&IASHttpSessionId=OTT19019320240419154124000281$6hnb
-法治天地,http://111.8.242.107:9999/tsfile/live/1050_1.m3u8$怀化移
 法治天地,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002010/index.m3u8?IASHttpSessionId=$山东V6
 法治天地,http://www.baopiqi.top:4022/rtp/239.45.1.46:5140$上海信#http://14.135.72.70:8888/rtp/239.121.4.70:8394$宁夏信#http://60.3.96.55:4022/rtp/239.253.93.241:6419$河北联#http://60.4.3.178:8888/rtp/239.253.93.241:6419$河北联#http://115.239.104.127:9999/rtp/233.50.200.120:5140$浙江信#http://sss918.synology.me:8000/rtp/233.50.200.120:5140$浙江信#http://218.72.152.76:9999/rtp/233.50.201.191:5140$浙江信#http://120.76.248.139/live/bfgd/4200000162.m3u8$深圳#http://60.164.128.167:8029/rtp/239.255.29.24:8231$甘肃信
 
