@@ -1,18 +1,17 @@
 //粤联频道数据收集自网络上的分享241012开通IPV6
 港澳U086,#genre#
 凤凰中文,http://58.250.155.2:8180/TV00000000000000000031@HHZT$深联
-凤凰中文,http://114.105.187.147:9901/tsfile/live/1063_1.m3u8$亳州信#http://114.105.187.147:9901/tsfile/live/1054_1.m3u8$亳州信s
-凤凰中文,http://119.125.134.176:9901/tsfile/live/1037_1.m3u8$梅州信
-凤凰资讯,http://114.105.187.147:9901/tsfile/live/1064_1.m3u8$亳州信#http://114.105.187.147:9901/tsfile/live/1071_1.m3u8$亳州信s
-凤凰中文,http://222.217.230.192:8181/tsfile/live/1069_1.m3u8$玉林信
-凤凰资讯,http://222.217.230.192:8181/tsfile/live/1011_1.m3u8$玉林信
-
 凤凰中文,http://eyfs.vicp.net:8888/rtp/239.76.246.134:1234$湖南信#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw$php#http://prettyalan.vicp.cc:8888/rtp/239.61.2.184:9092$厦门信#http://xeace.cn:8888/rtp/239.93.0.162:2192$四川信#http://www.372583307.top:4022/rtp/233.50.200.191:5140$浙江信#http://www.erbao1981.top:8188/rtp/239.76.246.135:1234$湖南信#http://nas.jc-hqp.cn:9999/rtp/233.50.200.42:5140$浙江信#http://xeace.cn:8888/rtp/239.93.1.9:2192$四川信#http://115.230.191.3:9999/rtp/233.50.200.191:5140$浙江信#http://sss918.synology.me:8000/rtp/233.50.200.42:5140$浙江信
 
 凤凰资讯,http://eyfs.vicp.net:8888/rtp/239.76.246.135:1234$湖南信#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx$php#http://prettyalan.vicp.cc:8888/rtp/239.61.2.183:9086$厦门信#http://xeace.cn:8888/rtp/239.93.0.118:2191$四川信#http://www.372583307.top:4022/rtp/233.50.200.192:5140$浙江信#http://www.erbao1981.top:8188/rtp/239.76.246.134:1234$湖南信#http://xeace.cn:8888/rtp/239.93.1.4:2191$四川信#http://115.230.191.3:9999/rtp/233.50.200.192:5140$浙江信#http://sss918.synology.me:8000/rtp/233.50.200.192:5140$浙江信
 
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$php
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx$php
+凤凰中文,http://114.105.187.147:9901/tsfile/live/1063_1.m3u8$亳州信#http://114.105.187.147:9901/tsfile/live/1054_1.m3u8$亳州信s
+凤凰中文,http://119.125.134.176:9901/tsfile/live/1037_1.m3u8$梅州信
+凤凰资讯,http://114.105.187.147:9901/tsfile/live/1064_1.m3u8$亳州信#http://114.105.187.147:9901/tsfile/live/1071_1.m3u8$亳州信s
+凤凰中文,http://222.217.230.192:8181/tsfile/live/1069_1.m3u8$玉林信
+凤凰资讯,http://222.217.230.192:8181/tsfile/live/1011_1.m3u8$玉林信
 
 CCTV4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8$哈6
 CCTV13,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226571/index.m3u8$哈6
@@ -22,7 +21,7 @@ CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226571/index.m3u8$
 CCTV4,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226539/index.m3u8$PLTV6
 CCTV4,http://58.19.43.46:9901/tsfile/live/1023_1.m3u8$武汉联
 CCTV13,http://58.19.43.46:9901/tsfile/live/1032_1.m3u8$武汉联
-CCTV13,http://a15c1d.tv.netsite.cc/proxy/1942371728/1942371728.m3u8
+CCTV13,http://a15c1d.tv.netsite.cc/proxy/1942371728/1942371728.m3u8$proxy
 CCTV4,http://iptv.8t.cx:8180/rtp/239.3.1.105:8092$北京联#http://www.baopiqi.top:4022/rtp/239.45.0.2:5140$上海信#http://nas.jc-hqp.cn:9999/rtp/233.50.200.101:5140$浙江信#http://sss918.synology.me:8000/rtp/233.50.200.101:5140$浙江信#http://dsm.52nantong.net:8800/rtp/239.49.8.131:6000$江苏信#http://222.95.92.12:4000/rtp/239.49.8.131:6000$江苏信#http://prettyalan.vicp.cc:8888/rtp/239.61.2.206:9224$厦门信#http://118.79.7.193:6001/rtp/226.0.2.21:8080$山西联s
 CCTV4,http://[2409:8087:74d9:21::4]:80/270000001128/9900000503/index.m3u8$ipv6
 CCTV4,http://[2409:8087:74d9:21::6]:80/270000001128/9900000503/index.m3u8$ipv6
@@ -34,7 +33,6 @@ CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8$
 CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8$哈移
 
 CCTV13,http://iptv.8t.cx:8180/rtp/239.3.1.124:8128$北京联#http://www.baopiqi.top:4022/rtp/239.45.0.19:5140$上海信#http://nas.jc-hqp.cn:9999/rtp/233.50.200.97:5140$浙江信#http://sss918.synology.me:8000/rtp/233.50.200.97:5140$浙江信#http://prettyalan.vicp.cc:8888/rtp/239.61.2.23:8132$厦门信#http://nas.jc-hqp.cn:9999/rtp/233.50.200.111:5140$浙江信#http://118.79.7.193:6001/rtp/226.0.2.30:8152$山西联s
-
 CCTV4,http://112.234.21.109:9901/tsfile/live/0004_1.m3u8$鲁联s
 CCTV13,http://112.234.21.109:9901/tsfile/live/0013_1.m3u8$鲁联s
 
@@ -126,9 +124,9 @@ mezzoLIVE,P2p://generationnexxxt.com:19806/c87ec7818611487095699a6f5d65e9c4$p2p
 
 体育频道,#genre#
 
-CCTV5,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8$ipo6
-CCTV5+,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$ipo6
-CCTV16,http://[2409:8087:1a0a:df::4038]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$ipo6
+CCTV5,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8$哈6
+CCTV5+,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$哈6
+CCTV16,http://[2409:8087:1a0a:df::4038]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$哈6
 
 CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8$哈移
 CCTV5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$哈移
@@ -136,6 +134,9 @@ CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$
 
 CCTV5,http://220.170.241.204:9901/tsfile/live/0005_1.m3u8$娄底联
 CCTV5+,http://220.170.241.204:9901/tsfile/live/0016_1.m3u8$娄底联
+
+CCTV5,http://144.52.160.109:9901/tsfile/live/1004_1.m3u8$临沂信
+CCTV5+,http://144.52.160.109:9901/tsfile/live/1005_1.m3u8$临沂信
 
 CCTV5,http://58.19.43.46:9901/tsfile/live/1024_1.m3u8$武汉联
 CCTV5,http://119.36.148.115:59901/tsfile/live/1001_1.m3u8$荆州联
@@ -157,9 +158,12 @@ CCTV16,http://www.baopiqi.top:4022/rtp/239.45.0.10:5140$上海信#http://www.bao
 CCTV5,http://58.250.155.2:8180/TV00000000000000000005@HHZT$深联
 CCTV5+,http://58.250.155.2:8180/TV00000000000000000004@HHZT$深联
 CCTV16,http://php.jdshipin.com:8880/bestv.php?id=cctv16hd4k/15000000
+
 CCTV5,https://qsxw.gov.cn/rtmp_export/video33.m3u8$徽信
 CCTV5,http://58.19.38.162:9901/tsfile/live/1004_1.m3u8$鄂联
 CCTV5+,http://58.19.38.162:9901/tsfile/live/1014_1.m3u8$鄂联
+CCTV5,http://60.208.61.2:352/tsfile/live/0005_1.m3u8$济南联
+CCTV5+,http://60.208.61.2:352/tsfile/live/0016_1.m3u8$济南联
 
 CCTV5,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010139/$ip1e
 CCTV5,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010145/$ip1e
@@ -167,15 +171,12 @@ CCTV5+,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010202/$ip1e
 CCTV16,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010142/$ip1e
 
 CCTV5,http://[2409:8087:1a0a:df::4031]:80/wh7f454c46tw705163907_345094122/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8$ipw6
-CCTV5+,http://[2409:8087:1a0b:df::4019]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8$ipo6
-CCTV16,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226100/2.m3u8$ipo6
-CCTV16,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$ipo6
-CCTV16,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$ipo6
-CCTV5,http://[2409:8087:1a0a:df::4017]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8$ipo6
+CCTV5+,http://[2409:8087:1a0b:df::4019]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8$哈6
+CCTV16,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226100/2.m3u8$哈6
+CCTV16,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$哈6
+CCTV16,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$哈6
+CCTV5,http://[2409:8087:1a0a:df::4017]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8$哈6
 CCTV16,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226413/index.m3u8$ipv6
-CCTV5,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000360/index.m3u8?IASHttpSessionId=$山东V6
-CCTV5,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000372/index.m3u8?IASHttpSessionId=$山东V6
-CCTV5+,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000316/index.m3u8?IASHttpSessionId=$山东V6
 
 先锋乒羽,http://eyfs.vicp.net:8888/rtp/239.76.253.51:9000$湖南信#http://www.baopiqi.top:4022/rtp/239.45.3.43:5140$上海信#http://113.251.180.215:4022/rtp/235.254.198.106:7980$重庆信#http://60.2.190.206:4000/rtp/239.253.93.219:6397$河北联#http://nas.hssvm.com:8888/rtp/225.1.1.219:5002$天津联#http://www.745612.xyz:7788/rtp/235.254.198.106:7980$重庆信#http://221.196.136.66:1/rtp/225.1.1.219:5002$天津联#http://ds920.dsmynas.net:5555/rtp/226.0.2.121:8880$山西联#http://60.223.72.217:8005/rtp/226.0.2.121:8880$山西联#http://219.156.48.111:9999/rtp/225.1.4.210:1263$河南联#http://www.erbao1981.top:8188/rtp/239.76.253.51:9000$湖南信#http://222.95.92.12:4000/rtp/239.49.0.145:8000$江苏信#http://61.55.46.35:4022/rtp/239.253.93.219:6397$沧州联#http://60.7.56.33:4000/rtp/239.253.93.219:6397$秦皇岛联#http://prettyalan.vicp.cc:8888/rtp/239.61.3.17:9622$厦门信#http://61.55.13.136:4000/rtp/239.253.93.219:6397$沧州联#http://101.31.59.131:4022/rtp/239.253.93.219:6397$河北联#http://www.ly123.fun:10000/rtp/235.254.198.106:7980$重庆信#http://183.66.51.205:4022/rtp/235.254.198.106:7980$重庆信#http://xeace.cn:8888/rtp/239.93.42.56:5140$四川信#http://115.60.241.249:2000/rtp/225.1.4.210:1263$河南联#http://enlen.vip:4022/rtp/239.200.201.33:4120$云南信#http://180.102.250.10:8118/rtp/239.49.0.145:8000$江苏信#http://222.210.153.89:8888/rtp/239.93.42.56:5140$四川信#http://ik6.iptv8.net:8888/rtp/225.1.4.210:1263$河南联#http://171.105.201.164:4022/rtp/239.81.0.236:4056$桂林信#http://118.79.112.27:6001/rtp/226.0.2.121:8880$山西联#http://118.79.7.193:6001/rtp/226.0.2.121:8880$山西联#http://58.215.3.254:8686/rtp/239.49.0.145:8000$江苏信#http://116.226.15.172:9999/rtp/239.45.3.43:5140$上海信#http://111.167.176.61:4022/rtp/225.1.1.219:5002$天津联
 先锋乒羽,http://111.8.242.107:9999/tsfile/live/1042_1.m3u8$怀化移
@@ -1658,8 +1659,12 @@ CHC影迷电影,http://111.8.242.107:9999/tsfile/live/1072_1.m3u8$怀化移
 风云剧场,http://221.196.136.66:1/rtp/225.1.2.174:5002$天津联
 第一剧场,http://221.196.136.66:1/rtp/225.1.2.175:5002$天津联
 老故事,http://221.196.136.66:1/rtp/225.1.1.188:5002$天津联#http://223.12.13.231:8082/rtp/239.1.1.87:8087$山西信
-华数每日,http://221.196.136.66:1/rtp/225.1.2.57:5002$天津联
 欢笑剧场,http://221.196.136.66:1/rtp/225.1.1.139:5002$天津联
+华数每日,http://221.196.136.66:1/rtp/225.1.2.57:5002$天津联
+
+华数经典,http://144.52.160.109:9901/tsfile/live/1075_1.m3u8$临沂信
+华数喜剧,http://144.52.160.109:9901/tsfile/live/1076_1.m3u8$临沂信
+华数动作,http://144.52.160.109:9901/tsfile/live/1077_1.m3u8$临沂信
 
 怀旧剧场,http://60.3.96.55:4022/rtp/239.253.93.252:6430$河北联
 怀旧剧场,http://60.3.96.55:4022/rtp/239.253.92.98:6120$河北联
@@ -1766,9 +1771,6 @@ CHC影迷电影,http://111.8.242.107:9999/tsfile/live/1072_1.m3u8$怀化移
 华数动作,http://14.135.72.70:8888/rtp/239.121.4.177:9046$宁夏信
 华数星影,http://14.135.72.70:8888/rtp/239.121.4.168:8992$宁夏信
 
-淘电影,http://iptv.8t.cx:8180/rtp/239.3.1.250:8001$北京联
-淘剧场,http://iptv.8t.cx:8180/rtp/239.3.1.95:8001$北京联
-爱上4K,http://iptv.8t.cx:8180/rtp/239.3.1.236:2000$北京联
 华数精选,http://iptv.8t.cx:8180/rtp/239.3.1.74:4120$北京联
 华数经典,http://iptv.8t.cx:8180/rtp/239.3.1.195:9024$北京联
 华数古装,http://iptv.8t.cx:8180/rtp/239.3.1.69:4120$北京联
@@ -1781,6 +1783,9 @@ CHC影迷电影,http://111.8.242.107:9999/tsfile/live/1072_1.m3u8$怀化移
 华数每日,http://iptv.8t.cx:8180/rtp/239.3.1.111:8001$北京联
 华数家庭,http://iptv.8t.cx:8180/rtp/239.3.1.93:4120$北京联
 华数热播,http://iptv.8t.cx:8180/rtp/239.3.1.194:9020$北京联
+淘电影,http://iptv.8t.cx:8180/rtp/239.3.1.250:8001$北京联
+淘剧场,http://iptv.8t.cx:8180/rtp/239.3.1.95:8001$北京联
+爱上4K,http://iptv.8t.cx:8180/rtp/239.3.1.236:2000$北京联
   
 华数动画,http://omnix.cn:4000/rtp/225.1.8.240:4120$北京信
 华数光影,http://omnix.cn:4000/rtp/225.1.8.244:4120$北京信
