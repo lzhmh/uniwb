@@ -119,14 +119,12 @@ CCTV5+,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 CCTV16,http://[2409:8087:1a0a:df::4038]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$哈6
 
 CCTV5,http://223.105.252.8/PLTV/4/224/3221228082/index.m3u8$江移
-CCTV5,http://223.105.252.8/PLTV/4/224/3221228173/index.m3u8$江移
 CCTV5+,http://223.105.252.8/PLTV/4/224/3221228076/index.m3u8$江移
-CCTV5+,http://223.105.252.8/PLTV/4/224/3221228114/index.m3u8$江移
 CCTV16,http://223.105.252.8/PLTV/4/224/3221228625/index.m3u8$江移
 
 CCTV5,http://202.168.187.208:9089/tsfile/live/0005_1.m3u8$广州电
-CCTV5,http://222.134.245.16:9901/tsfile/live/0005_1.m3u8$东营联
-CCTV5+,http://222.134.245.16:9901/tsfile/live/0016_1.m3u8$东营联
+CCTV5,http://221.226.4.10:9901/tsfile/live/1000_1.m3u8$南京信s
+CCTV5+,http://221.226.4.10:9901/tsfile/live/0005_1.m3u8$南京信
 
 CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8$哈移
 CCTV5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$哈移
@@ -144,6 +142,8 @@ CCTV5+,http://119.36.148.115:59901/tsfile/live/1003_1.m3u8$荆州联
 
 CCTV16,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226413/index.m3u8$PLTV6
 CCTV16,http://a15c1d.tv.netsite.cc/proxy/2055404079/2055404079.m3u8
+CCTV5,http://223.105.252.8/PLTV/4/224/3221228173/index.m3u8$江移
+CCTV5+,http://223.105.252.8/PLTV/4/224/3221228114/index.m3u8$江移
 
 CCTV5,http://www.baopiqi.top:4022/udp/239.45.1.69:5140$上海信#http://majian.ixiaobai.net:5540/udp/239.37.0.232:5540$辽宁信#http://114.252.236.205:8000/udp/239.3.1.173:8001$北京联#http://nas.jc-hqp.cn:9999/udp/233.50.200.108:5140$浙江信#http://sss918.synology.me:8000/udp/233.50.200.108:5140$浙江信#http://prettyalan.vicp.cc:8888/udp/239.61.3.35:9728$厦门信#http://dsm.52nantong.net:8800/udp/239.49.8.75:8000$江苏信#http://222.95.92.12:4000/udp/239.49.8.75:8000$江苏信#http://27.10.9.110:8003/udp/225.0.4.139:7980$重庆联
 
@@ -154,8 +154,6 @@ CCTV16,http://www.baopiqi.top:4022/udp/239.45.0.10:5140$上海信#http://www.bao
 CCTV16,http://php.jdshipin.com:8880/bestv.php?id=cctv16hd4k/15000000
 
 CCTV5,https://qsxw.gov.cn/rtmp_export/video33.m3u8$徽信
-CCTV5,http://58.19.38.162:9901/tsfile/live/1004_1.m3u8$鄂联
-CCTV5+,http://58.19.38.162:9901/tsfile/live/1014_1.m3u8$鄂联
 CCTV5,http://60.208.61.2:352/tsfile/live/0005_1.m3u8$济南联
 CCTV5+,http://60.208.61.2:352/tsfile/live/0016_1.m3u8$济南联
 
@@ -1086,15 +1084,9 @@ CCTV12,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8$
 CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8$哈移
 CCTV15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8$哈移
 CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8$哈移
-CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$哈移
-
-CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8$哈移
-CCTV10,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8$哈移
-CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226525/index.m3u8$哈移
-CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226531/index.m3u8$哈移
-CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226532/index.m3u8$哈移 
+CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$哈移 
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8$哈移
-CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226585/index.m3u8$哈移
+CCTV10,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8$哈移
 
 CCTV9,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010052/$ip1e
 CCTV9,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010217/$ip1e
@@ -1214,6 +1206,11 @@ CCTV8,http://58.250.155.2:8180/TV00000000000000000008@HHZT$深联
 东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8$哈移
 新疆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8$哈移
 河南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8$哈移
+黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8$哈移
+黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226525/index.m3u8$哈移
+黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226531/index.m3u8$哈移
+黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226532/index.m3u8$哈移
+黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226585/index.m3u8$哈移
 
 北京卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010143/$ip1e
 广东卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010055/$ip1e
@@ -1304,6 +1301,7 @@ CHC家庭影院,http://www.baopiqi.top:4022/udp/239.45.0.40:5140$上海信#http:
 CHC动作电影,http://112.234.21.109:9901/tsfile/live/1013_1.m3u8$鲁联
 CHC动作电影,http://majian.ixiaobai.net:5540/udp/239.37.0.186:5540$辽宁信#http://113.251.180.215:4022/udp/235.254.198.247:7980$重庆信#http://www.ly123.fun:10000/udp/235.254.198.247:7980$重庆信#http://183.66.51.205:4022/udp/235.254.198.247:7980$重庆信 #http://www.baopiqi.top:4022/udp/239.45.0.41:5140$上海信#http://218.67.175.63:8888/udp/225.1.1.215:5002$天津联#http://27.10.9.110:8003/udp/225.0.4.229:7980$重庆联#http://www.lnlee.top:10000/udp/239.81.0.239:4056$广西信#http://www.lnlee.top:10000/udp/239.81.0.240:4056$广西信
 
+CHC影迷电影,http://58.19.38.162:9901/tsfile/live/1004_1.m3u8$鄂联
 CHC影迷电影,http://majian.ixiaobai.net:5540/udp/239.37.0.187:5540$辽宁信#http://113.251.180.215:4022/udp/235.254.198.250:7980$重庆信#http://www.ly123.fun:10000/udp/235.254.198.250:7980$重庆信#http://183.66.51.205:4022/udp/235.254.198.250:7980$重庆信#http://www.baopiqi.top:4022/udp/239.45.0.42:5140$上海信#http://218.67.175.63:8888/udp/225.1.1.214:5002$天津联#http://27.10.9.110:8003/udp/225.0.4.230:7980$重庆联
 
 华数喜剧,http://183.66.13.82:60033/tsfile/live/0109_2.m3u8$重信
