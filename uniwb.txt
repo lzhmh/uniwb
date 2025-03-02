@@ -26,7 +26,6 @@
 凤凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8
 凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
 
-
 凤凰中文,http://1.70.32.27:8084/udp/239.1.1.126:8126$山西信#http://171.213.140.54:8123/udp/239.93.0.162:2192$四川信#http://prettyalan.vicp.cc:8888/udp/239.61.2.184:9092$厦门信#http://xeace.cn:8888/udp/239.93.0.162:2192$四川信#http://www.372583307.top:4022/udp/233.50.200.191:5140$浙江信#http://www.erbao1981.top:8188/udp/239.76.246.135:1234$湖南信#http://nas.jc-hqp.cn:9999/udp/233.50.200.42:5140$浙江信#http://xeace.cn:8888/udp/239.93.1.9:2192$四川信#http://122.239.244.172:8044/udp/233.50.200.191:5140$浙江信#http://122.239.244.172:8044/udp/233.50.200.42:5140$浙江信#http://eyfs.vicp.net:8888/udp/239.76.246.134:1234$湖南信
 凤凰中文,http://58.250.155.2:8180/TV00000000000000000031@HHZT$深联
 凤凰中文,http://119.32.12.32:2901/udp/224.1.100.3:11111$广电
@@ -438,13 +437,30 @@ EURO1网球,http://iptv-hls.idc.md:8200/hls/261/live1.m3u8
 
 联通电信,#genre#
 
-凤凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8
-凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
+凤凰中文,http://www.jxnklgb.cloudns.org/php/fhx.php?id=2$凤凰秀
+凤凰资讯,http://www.jxnklgb.cloudns.org/php/fhx.php?id=1$凤凰秀
+凤凰香港,http://www.jxnklgb.cloudns.org/php/fhx.php?id=3$凤凰秀
 
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+
+凤凰中文,http://43.129.81.169/qctv.fengshows.cn/live/0701pcc72.flv$701
+凤凰资讯,http://43.129.81.169/qctv.fengshows.cn/live/0701pin72.flv$701
+凤凰香港,http://43.129.81.169/qctv.fengshows.cn/live/0701phk72.flv$701
+
+凤凰资讯,http://cdn5.1678520.xyz/live/live2.1.php?id=fhzx
+凤凰中文,http://cdn5.1678520.xyz/live/live2.1.php?id=fhzw
+
+凤凰中文,http://qjrhc.jydjd.top:2911/udp/224.1.100.3:11111$广电
 凤凰中文,http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/index.m3u8$西安6
 凤凰资讯,http://[2409:8087:7008:20::2]/dbiptv.sn.chinamobile.com/PLTV/88888888/223/3221226546/index.m3u8$西安6
 
 凤凰中文,http://202.168.187.208:9089/tsfile/live/1009_1.m3u8$广州电
+凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8$cdn3
+
+凤凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8
+凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
 
 TVBSNEWS,http://61.221.215.25:8800/hls/9/index.m3u8$61
 中天新闻,http://222.128.55.152:9080/live/fc.m3u8
@@ -2272,6 +2288,25 @@ YY轮播,#genre#
 古惑仔,http://1.94.31.214:35455/yy/1458015189
 黑衣人,http://1.94.31.214:35455/yy/1354930936
 国外动作片,http://1.94.31.214:35455/yy/1382735570
+
+// http://jiaojirentv.top/2020/yy.php?id=
+火线追凶,http://jiaojirentv.top/2020/yy.php?id=1382745090
+速度与激情,http://jiaojirentv.top/2020/yy.php?id=1382749892
+敢死队,http://jiaojirentv.top/2020/yy.php?id=1382735573
+国外战争,http://jiaojirentv.top/2020/yy.php?id=1382736857
+行动与枪战,http://jiaojirentv.top/2020/yy.php?id=29170933
+顶级动作,http://jiaojirentv.top/2020/yy.php?id=24923327
+暮光之城,http://jiaojirentv.top/2020/yy.php?id=1354930181
+变形金刚,http://jiaojirentv.top/2020/yy.php?id=1382736803
+金三角大营救,http://jiaojirentv.top/2020/yy.php?id=1354930924
+致命守护者,http://jiaojirentv.top/2020/yy.php?id=1382745095
+速度与激情,http://jiaojirentv.top/2020/yy.php?id=1382736911
+哈利波特全集,http://jiaojirentv.top/2020/yy.php?id=1382745105
+哥斯拉1,http://jiaojirentv.top/2020/yy.php?id=1382736833
+机械战警1-3,http://jiaojirentv.top/2020/yy.php?id=1382736854
+古惑仔,http://jiaojirentv.top/2020/yy.php?id=1458015189
+黑衣人,http://jiaojirentv.top/2020/yy.php?id=1354930936
+国外动作片,http://jiaojirentv.top/2020/yy.php?id=1382735570
 
 // http://www.douzhicloud.site:35455/yy/
 火线追凶,http://www.douzhicloud.site:35455/yy/1382745090
