@@ -5,16 +5,24 @@
 凤凰资讯,http://43.129.81.169/qctv.fengshows.cn/live/0701pin72.flv$701
 凤凰香港,http://43.129.81.169/qctv.fengshows.cn/live/0701phk72.flv$701
 
+凤凰中文,http://122.117.71.103:8574/http/61.222.53.250:8078/hls/21/80/phoenixch.m3u8$122
+凤凰资讯,http://122.117.71.103:8573/http/61.222.53.250:8078/hls/20/80/phoenixif.m3u8$122
+凤凰中文,http://ttkx.cc:1380/653哈哈/fh.php?id=fhzw$哈哈
+凤凰资讯,http://ttkx.cc:1380/653哈哈/fh.php?id=fhzx$哈哈
+凤凰香港,http://ttkx.cc:1380/653哈哈/fh.php?id=fhhk$哈哈
+凤凰资讯,http://221.7.175.154:8445/tsfile/live/1021_1.m3u8$北海联
+凤凰中文,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8$北海联
+
 凤凰中文,http://www.jxnklgb.cloudns.org/php/fhx.php?id=2$凤凰秀
 凤凰资讯,http://www.jxnklgb.cloudns.org/php/fhx.php?id=1$凤凰秀
 凤凰香港,http://www.jxnklgb.cloudns.org/php/fhx.php?id=3$凤凰秀
 
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$php
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx$php
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk$php
 
-凤凰资讯,http://cdn5.1678520.xyz/live/live2.1.php?id=fhzx
-凤凰中文,http://cdn5.1678520.xyz/live/live2.1.php?id=fhzw
+凤凰资讯,http://cdn5.1678520.xyz/live/live2.1.php?id=fhzx$cdn5
+凤凰中文,http://cdn5.1678520.xyz/live/live2.1.php?id=fhzw$cdn5
 
 凤凰中文,http://qjrhc.jydjd.top:2911/udp/224.1.100.3:11111$广电
 凤凰中文,http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/index.m3u8$西安6
@@ -23,8 +31,8 @@
 凤凰中文,http://202.168.187.208:9089/tsfile/live/1009_1.m3u8$广州电
 凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8$cdn3
 
-凤凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8
-凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
+凤凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8$cdn
+凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8$cdn39
 
 凤凰中文,http://1.70.32.27:8084/udp/239.1.1.126:8126$山西信#http://171.213.140.54:8123/udp/239.93.0.162:2192$四川信#http://prettyalan.vicp.cc:8888/udp/239.61.2.184:9092$厦门信#http://xeace.cn:8888/udp/239.93.0.162:2192$四川信#http://www.372583307.top:4022/udp/233.50.200.191:5140$浙江信#http://www.erbao1981.top:8188/udp/239.76.246.135:1234$湖南信#http://nas.jc-hqp.cn:9999/udp/233.50.200.42:5140$浙江信#http://xeace.cn:8888/udp/239.93.1.9:2192$四川信#http://122.239.244.172:8044/udp/233.50.200.191:5140$浙江信#http://122.239.244.172:8044/udp/233.50.200.42:5140$浙江信#http://eyfs.vicp.net:8888/udp/239.76.246.134:1234$湖南信
 凤凰中文,http://58.250.155.2:8180/TV00000000000000000031@HHZT$深联
@@ -463,10 +471,7 @@ EURO1网球,http://iptv-hls.idc.md:8200/hls/261/live1.m3u8
 凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
 
 TVBSNEWS,http://61.221.215.25:8800/hls/9/index.m3u8$61
-中天新闻,http://222.128.55.152:9080/live/fc.m3u8
-台视新闻,http://222.128.55.152:9080/live/ts.m3u8
-寰宇新闻,http://222.128.55.152:9080/live/hy.m3u8
-
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 中天新闻,http://122.117.109.23:8595/http/61.67.128.137:8081/hls/78/80/ch63max.m3u8$122
 寰宇新闻,http://122.117.109.23:8570/http/61.67.128.137:8088/hls/76/818/ch62.m3u8$122
 
@@ -479,14 +484,15 @@ TVBSHD,http://live4play.uk/livehttpplay?channel_id=20085$live
 非凡新闻,http://live4play.uk/livehttpplay?channel_id=20034$live
 闽壹新闻,http://live4play.uk/livehttpplay?channel_id=20028$live
 今日新闻,http://live4play.uk/livehttpplay?channel_id=20043$live
-TVBPLUS,http://cdn.163189.xyz/live/tvbp/stream.m3u8
 
 中天新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=ctinews$斯特
 东森新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=ettvnews$斯特
-TVBSHD,https://haoyunlai.serv00.net/Smartv-1.php?id=tvbs_n$斯特
+TVBS新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=tvbs_n$斯特
 寰宇新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=huanyuxinwen_twn$斯特
 非凡新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=feifannews_twn$斯特
 民视新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=ftvnew_taiwan$斯特
+
+TVBPLUS,http://cdn.163189.xyz/live/tvbp/stream.m3u8
 
 台视闽南,http://live4play.uk/livehttpplay?channel_id=20076$live
 东森财经,http://live4play.uk/livehttpplay?channel_id=20078$live
@@ -501,6 +507,10 @@ BBC地球,http://live4play.uk/livehttpplay?channel_id=20044$live
 新加坡-8,http://live4play.uk/livehttpplay?channel_id=10132$live
 东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8$芬兰
 TVBSHD,http://37.27.111.214:8080/live/23/hls.m3u8$芬兰
+
+中天新闻,http://222.128.55.152:9080/live/fc.m3u8$222
+台视新闻,http://222.128.55.152:9080/live/ts.m3u8$222
+寰宇新闻,http://222.128.55.152:9080/live/hy.m3u8$222
 
 龙华电影,http://122.117.71.103:8555/http/61.222.53.250:8068/hls/10/80/cstv10.m3u8$122
 
@@ -3886,6 +3896,7 @@ CETV2,http://www.akw323.com:9527/udp/238.255.2.221:5999$贵阳信#http://xubo071
 金色学堂,http://www.baopiqi.top:4022/udp/239.45.0.9:5140$上海信#http://218.67.175.63:8888/udp/225.1.1.236:5002$天津联#http://60.3.96.55:4022/udp/239.253.93.240:6418$河北联#http://majian.ixiaobai.net:5540/udp/239.37.0.239:5540$辽宁信#http://122.239.244.172:8044/udp/233.50.200.122:5140$浙江信#http://60.164.128.167:8029/udp/239.255.30.64:8231$甘肃信#http://60.164.128.167:8029/udp/239.255.29.23:8231$甘肃信
 金色学堂,http://php.jdshipin.com:8880/bestv.php?id=jingsepd8m/8000000
 
+文物宝库,http://221.7.175.154:8445/tsfile/live/1019_1.m3u8$北海联
 文物宝库,http://218.67.175.63:8888/udp/225.1.2.105:5002$天津联#http://60.3.96.55:4022/udp/239.253.93.180:6437$河北联#http://majian.ixiaobai.net:5540/udp/239.37.0.87:5540$辽宁信
 文物宝库,http://php.jdshipin.com:8880/hntv.php?id=wwbk
 
