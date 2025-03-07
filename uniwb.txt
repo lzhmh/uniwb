@@ -191,10 +191,7 @@ EURO1网球,http://iptv-hls.idc.md:8200/hls/261/live1.m3u8
 
 纬来体育,rtmp://f13h.mine.nu/sat/tv721$f13
 纬来体育,http://60.248.77.83/sat/tv721.flv$60
-纬来体育,rtmp://59.124.75.138/sat/tv721$59
-纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8$cloud
-纬来体育,rtmp://twcdn.top/sat/tv721$tw
-纬来体育,rtmp://220.130.201.73/sat/tv721$220
+纬来体育,http://122.117.71.103:8562/http/220.130.87.218:8081/hls/67/809/ch028.m3u8$122
 
 精品体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$哈移
 精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$哈移
@@ -399,6 +396,14 @@ EURO1网球,http://iptv-hls.idc.md:8200/hls/261/live1.m3u8
 TVBSNEWS,http://61.221.215.25:8800/hls/9/index.m3u8$61
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 
+TVBSHD,http://122.117.71.103:8544/http/220.130.87.218:8081/hls/75/817/ch058.m3u8$122
+中天新闻,http://122.117.71.103:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8$122
+寰宇新闻,http://122.117.71.103:8548/http/220.130.87.218:8081/hls/76/818/ch062.m3u8$122
+年代新闻,http://122.117.71.103:8538/http/220.130.87.218:8081/hls/67/809/ch027.m3u8$122
+年代新闻,http://108.181.21.27:27347/livehttpplay?channel_id=20033$108
+三立新聞,http://122.117.71.103:8542/http/220.130.87.218:8081/hls/65/807/ch018.m3u8$122
+民视新闻,http://122.117.71.103:8541/http/220.130.87.218:8081/hls/85/80/FtvNews4max.m3u8$122
+
 中天亚洲,http://extraott.com:80/live/6772191932/1654508883/29615.m3u8$ex
 中天亚洲,http://extraott.com:80/live/6772191932/1654508883/191911.m3u8$ex
 东森美洲,http://extraott.com:80/live/6772191932/1654508883/473538.m3u8$ex
@@ -415,8 +420,6 @@ TVBS新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=tvbs_n$斯特
 寰宇新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=huanyuxinwen_twn$斯特
 非凡新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=feifannews_twn$斯特
 民视新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=ftvnew_taiwan$斯特
-
-中天新闻,http://122.117.71.103:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8$122
 
 TVBPLUS,http://cdn.163189.xyz/live/tvbp/stream.m3u8$cdn
 
@@ -1595,6 +1598,7 @@ IPTV6+,http://www.lnlee.top:10000/udp/239.81.0.65:4056$广西信
 
 amc电影,http://61.221.215.25:8800/hls/43/index.m3u8$61
 天映电影,http://live4play.uk/livehttpplay?channel_id=10130
+HBOTV,http://122.117.71.103:8556/http/220.130.87.218:8081/hls/71/813/ch041.m3u8$122
 
 天映经典CCM,http://live4play.uk/livehttpplay?channel_id=20063
 天映经典CCM,http://114.105.187.147:9901/tsfile/live/0001_2.m3u8$亳州信
