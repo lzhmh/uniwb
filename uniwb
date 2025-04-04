@@ -11,7 +11,7 @@
 ,{"name":"✈", "type":0,"url":"https://raw.kkgithub.com/xiongjian83/TvBox/main/gt.txt","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ,{"name":"🎥电影", "type":0,"url":"https://raw.kkgithub.com/lzhmh/pd/main/moves.php","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ,{"name":"🎤MTV", "type":0,"url":"https://raw.kkgithub.com/lzhmh/pd/main/Mtv.php","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
-  "sites":[{"key":"csp_DouDou","name":"豆瓣U2H41","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
+  "sites":[{"key":"csp_DouDou","name":"豆瓣U2H42","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
 //--------以上复制-------20241224---------------------
  {"key":"lf_js_lf_live","name":"电视直播","type":3,"api":"https://gitee.com/hnkfmh/Mobtee/raw/master/if.js","style":{"type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/hnkfmh/Mobtee/raw/master/if.txt"},
  {"key": "csp_LocalFile","name": "💻本地视频","type": 3,"api": "csp_LocalFile","searchable": 0,"quickSearch": 0,"filterable": 0,"type_flag": 0,"jar": "https://gitee.com/hnkfmh/jsjar/raw/master/custom_spider.jar"},
@@ -31,6 +31,12 @@
  {"key":"卧龙资源","name":"🐼时光┃卧龙","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","香港剧","恐怖片","动作片"]},
  {"key":"木耳","name":"木耳采集","type":1,"api":"https://json02.heimuer.xyz/api.php/provide/vod","searchable":1,"filterable":1,"changeable":1,"timeout":20,"categories":["剧情片","动作片","冒险片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","灾难片","爱情片","犯罪片","科幻片","歌舞片","战争片","经典片","动画电影","网络电影","其他片","国产剧","港剧","韩剧","日剧","泰剧","台剧","欧美剧","新马剧","其他剧","国产综艺","港台综艺","韩国综艺","日本综艺","欧美综艺","新马泰综艺","其他综艺","古装短剧","虐恋短剧","逆袭短剧","神豪短剧","重生短剧","复仇短剧","穿越短剧","甜宠短剧","强者短剧","欧美动漫","日本动漫","韩国动漫","国产动漫","港台动漫"],"header":{"user-agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/125.0.0.0Safari/537.36"}},
  {"key":"玩偶","name":"《玩偶💿哥4K》","type":3,"api":"csp_WoGGGuard","jar":"https://gitee.com/tianwikeji/jar/raw/master/f.jar","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
+ 
+ {"key": "23ys","name": "【云数1080P】","type": 3,"api": "csp_Muou","jar": "http://110.42.45.218:520/yunfensi/jar/yunqj250217.jar","playerType": 2,"ext": "caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44"},
+ {"key": "云w","name": "【飞升星云】","type": 3,"api": "http://wang.qijiyun.vip/yunzc/drpy_libs/drpy2.min.js","jar": "http://110.42.45.218:520/yunfensi/jar/yunw.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "http://110.42.45.218:520/yunfensi/lib/云影视.js"},
+ {"key": "悠悠","name": "【悠悠1080P】","type": 3,"api": "csp_Muou","playerType": 2,"quickSearch": 1,"ext": "caHR0cDovL2FwcC53dWlxLmNufOS8mOS8mOWFlHw0LjEuOA==","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740965279595/0303.jar;md5;ec975f203099b42d6286751914e27fc9"},
+ {"key":"追剧弹幕","name":"【追剧弹幕】","type":3,"api":"https://7337.kstore.space/twvip/JS/drpy2.min.js","ext":"https://7337.kstore.space/twvip/JS/追剧弹幕.js"},
+ {"key": "瓜子","name": "【瓜子】","type": 3,"api": "csp_Gz360Guard","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743563721956/0402.jar"},
 
 //#磁力资源区
  {"key":"荐片","name":"磁力｜荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ownjpykxttjzuhy.jiesiwa.com","jar": "https://gitee.com/hnkfmh/jsjar/raw/master/custom_spider.jar"},     
