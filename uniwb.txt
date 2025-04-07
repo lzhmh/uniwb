@@ -20,7 +20,7 @@
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx$php
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk$php
 
-凤凰香港,http://108.181.21.27:27347/livehttpplay?channel_id=20067$108
+凤凰香港,http://108.181.20.197/livehttpplay?channel_id=20067$108
 凤凰资讯,http://cdn5.1678520.xyz/live/live2.1.php?id=fhzx$cdn5
 
 凤凰中文,http://119.32.12.17:2901/udp/224.1.100.3:11111$广电
@@ -169,9 +169,10 @@ CETV4,http://119.32.12.32:2901/udp/224.1.100.109:11111$广电
 深圳体育,http://125.89.163.44:8888/udp/239.77.1.140:5146$广东信#http://113.65.7.94:8888/udp/239.77.1.140:5146$广东信#http://125.89.163.44:8888/udp/239.77.1.128:5146$广东信
 
 纬来体育,rtmp://f13h.mine.nu/sat/tv721$f13
+纬来体育,http://108.181.20.197/livehttpplay?channel_id=20120$108#http://108.181.21.27:27347/livehttpplay?channel_id=20120$108
 纬来体育,http://60.248.77.83/sat/tv721.flv$60
 纬来体育,http://122.117.71.103:8562/http/220.130.87.218:8081/hls/67/809/ch028.m3u8$122
-纬来体育,http://108.181.21.27:27347/livehttpplay?channel_id=20120$108
+纬来体育,http://108.181.20.197/livehttpplay?channel_id=20120$108
 
 超级体育,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eg-EQHTrpbCOxNSgnFRbr4w%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMNhcQPODGVtsSVKlB7CbAh%2CEND$bj789c
 超级体育,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226348/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ETVADpDcwLMjKKWF--XtEOg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$bj89b
@@ -186,6 +187,7 @@ CETV4,http://119.32.12.32:2901/udp/224.1.100.109:11111$广电
 劲爆体育,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6808&tk=a0c4f6cfaba3
 劲爆体育,http://home.wwang.pw:35455/itv/5000000002000029972.m3u8?cdn=bestzb
 
+五星体育,http://108.181.20.197/livehttpplay?channel_id=20060$108#http://108.181.21.27:27347/livehttpplay?channel_id=20060$108
 五星体育,http://180.158.201.25:1024/udp/239.45.3.112:5140$上海信
 五星体育,http://117.161.12.124/live/program/live/ssty/4000000/mnf.m3u8
 五星体育,http://117.161.12.124/live/program/live/wxtyhd8m/8000000/mnf.m3u8
@@ -365,6 +367,13 @@ iHOT爱体育,http://39.170.52.236:808/hls/19/index.m3u8$杭移
 凤凰资讯,http://www.jxnklgb.cloudns.org/php/fhx.php?id=1$凤凰秀
 凤凰香港,http://www.jxnklgb.cloudns.org/php/fhx.php?id=3$凤凰秀
 
+凤凰中文,http://108.181.20.197/livehttpplay?channel_id=20065$108#http://108.181.21.27:27347/livehttpplay?channel_id=20065$108
+凤凰资讯,http://108.181.20.197/livehttpplay?channel_id=30015$108#http://108.181.21.27:27347/livehttpplay?channel_id=30015$108
+凤凰香港,http://108.181.20.197/livehttpplay?channel_id=20067$108#http://108.181.21.27:27347/livehttpplay?channel_id=20067$108
+凤凰资讯,http://108.181.20.197/livehttpplay?channel_id=20066$108#http://108.181.21.27:27347/livehttpplay?channel_id=20066$108
+凤凰香港,http://108.181.20.197/livehttpplay?channel_id=30016$108#http://108.181.21.27:27347/livehttpplay?channel_id=30016$108
+凤凰中文,http://108.181.20.197/livehttpplay?channel_id=30014$108#http://108.181.21.27:27347/livehttpplay?channel_id=30014$108
+
 凤凰中文,http://43.129.81.169/qctv.fengshows.cn/live/0701pcc72.flv$701
 凤凰资讯,http://43.129.81.169/qctv.fengshows.cn/live/0701pin72.flv$701
 凤凰香港,http://43.129.81.169/qctv.fengshows.cn/live/0701phk72.flv$701
@@ -384,21 +393,29 @@ iHOT爱体育,http://39.170.52.236:808/hls/19/index.m3u8$杭移
 凤凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8$cdn
 凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8$cdn3
 
-TVBSHD,http://108.181.21.27:27347/livehttpplay?channel_id=20085$108
-年代新闻,http://108.181.21.27:27347/livehttpplay?channel_id=20033$108
-民视新闻,http://108.181.21.27:27347/livehttpplay?channel_id=20097$108
-东森财经,http://108.181.21.27:27347/livehttpplay?channel_id=20078$108
-壹新闻,http://108.181.21.27:27347/livehttpplay?channel_id=20028$108
+TVBSHD,http://108.181.20.197/livehttpplay?channel_id=20085$108#http://108.181.21.27:27347/livehttpplay?channel_id=20085
+东森新闻,http://108.181.20.197/livehttpplay?channel_id=20082$108#http://108.181.21.27:27347/livehttpplay?channel_id=20082$108
+东森财经,http://108.181.20.197/livehttpplay?channel_id=20078$108#http://108.181.21.27:27347/livehttpplay?channel_id=20078$108
+非凡新闻,rtmp://f13h.mine.nu/sat/tv581$rtm
+非凡新闻,http://108.181.20.197/livehttpplay?channel_id=20034$108#http://108.181.21.27:27347/livehttpplay?channel_id=20034$108
+华视新闻,http://108.181.20.197/livehttpplay?channel_id=20086$108#http://108.181.21.27:27347/livehttpplay?channel_id=20086$108
+年代新闻,http://108.181.20.197/livehttpplay?channel_id=20033$108#http://108.181.21.27:27347/livehttpplay?channel_id=20033$108
+民视新闻,http://108.181.20.197/livehttpplay?channel_id=20097$108#http://108.181.21.27:27347/livehttpplay?channel_id=20097$108
+壹新闻,http://108.181.20.197/livehttpplay?channel_id=20028$108#http://108.181.21.27:27347/livehttpplay?channel_id=20028$108
+三立新闻,http://108.181.20.197/livehttpplay?channel_id=10126$108#http://108.181.21.27:27347/livehttpplay?channel_id=10126$108
+国兴卫视,http://108.181.20.197/livehttpplay?channel_id=20164$108#http://108.181.21.27:27347/livehttpplay?channel_id=20164$108
+NOW新闻,http://108.181.20.197/livehttpplay?channel_id=20041$108#http://108.181.21.27:27347/livehttpplay?channel_id=20041$108
+CHANNEL8,http://108.181.20.197/livehttpplay?channel_id=10132$108#http://108.181.21.27:27347/livehttpplay?channel_id=10132$108
+HOY78,http://108.181.20.197/livehttpplay?channel_id=20191$108#http://108.181.21.27:27347/livehttpplay?channel_id=20191$108
 
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$chunk
-非凡新闻,rtmp://f13h.mine.nu/sat/tv581$rtm
 
 TVBSHD,http://122.117.71.103:8544/http/220.130.87.218:8081/hls/75/817/ch058.m3u8$122
 TVBS新闻,http://122.117.71.103:8562/http/61.222.53.250:8081/hls/67/809/ch28.m3u8$122
 中天新闻,http://122.117.71.103:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8$122
 寰宇新闻,http://122.117.71.103:8548/http/220.130.87.218:8081/hls/76/818/ch062.m3u8$122
 年代新闻,http://122.117.71.103:8538/http/220.130.87.218:8081/hls/67/809/ch027.m3u8$122
-三立新聞,http://122.117.71.103:8542/http/220.130.87.218:8081/hls/65/807/ch018.m3u8$122
+三立新闻,http://122.117.71.103:8542/http/220.130.87.218:8081/hls/65/807/ch018.m3u8$122
 民视新闻,http://122.117.71.103:8541/http/220.130.87.218:8081/hls/85/80/FtvNews4max.m3u8$122
 
 寰宇新闻,http://50.7.234.10:8278/huanyuxinwen_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=2e4ba5060f39aa293606ab3341b4fcde$50
@@ -464,8 +481,8 @@ ZooMoo,https://zoomoo-samsungau.amagi.tv:443/playlist1080p.m3u8
 ZooMoo,https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 ZooMoo,https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
-尼克卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20089$108
-CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048$108
+尼克卡通,http://108.181.20.197/livehttpplay?channel_id=20089$108#http://108.181.21.27:27347/livehttpplay?channel_id=20089$108
+CN卡通,http://108.181.20.197/livehttpplay?channel_id=20048$108#http://108.181.21.27:27347/livehttpplay?channel_id=20048$108
 
 NICKTOONS,http://143.244.60.30/NICKTOONS/index.m3u8
 NICK_JR,https://fl5.moveonjoy.com/NICK_JR/index.m3u8
@@ -608,6 +625,43 @@ DAZN1,https://stream1.freetv.fun/dazn-sport-1-1.ctv$fun#rtmp://59.124.75.138/sat
 DAZN2,https://stream1.freetv.fun/dazn-sport-2-1.ctv$fun#rtmp://59.124.75.138/sat/tv741$59#http://211.72.65.236:8567/.m3u8$211
 DAZN2,rtmp://59.124.75.138/sat/md011$59
 DAZN3,rtmp://59.124.75.138/sat/md021$59
+DAZN2,http://108.181.20.197/livehttpplay?channel_id=10105$108#http://108.181.21.27:27347/livehttpplay?channel_id=10105$108
+DAZN1,http://108.181.20.197/livehttpplay?channel_id=10104$108#http://108.181.21.27:27347/livehttpplay?channel_id=10104$108
+
+爱尔达体育1,http://108.181.20.197/livehttpplay?channel_id=20129$108#http://108.181.21.27:27347/livehttpplay?channel_id=20129$108
+爱尔达体育2,http://108.181.20.197/livehttpplay?channel_id=20107$108#http://108.181.21.27:27347/livehttpplay?channel_id=20107$108
+博斯运动I,http://108.181.20.197/livehttpplay?channel_id=10131$108#http://108.181.21.27:27347/livehttpplay?channel_id=10131$108
+博斯运动II,http://108.181.20.197/livehttpplay?channel_id=20311$108#http://108.181.21.27:27347/livehttpplay?channel_id=20311$108
+博斯高球2,http://108.181.20.197/livehttpplay?channel_id=20117$108#http://108.181.21.27:27347/livehttpplay?channel_id=20117$108
+
+靖天娱乐,http://108.181.20.197/livehttpplay?channel_id=30020$108#http://108.181.21.27:27347/livehttpplay?channel_id=30020$108
+三立都会,http://108.181.20.197/livehttpplay?channel_id=20100$108#http://108.181.21.27:27347/livehttpplay?channel_id=20100$108
+中天综合,http://108.181.20.197/livehttpplay?channel_id=20064$108#http://108.181.21.27:27347/livehttpplay?channel_id=20064$108
+东森综合,http://108.181.20.197/livehttpplay?channel_id=20104$108#http://108.181.21.27:27347/livehttpplay?channel_id=20104$108
+三立戏剧,http://108.181.20.197/livehttpplay?channel_id=10125$108#http://108.181.21.27:27347/livehttpplay?channel_id=10125$108
+
+龙华偶像,http://108.181.20.197/livehttpplay?channel_id=20023$108#http://108.181.21.27:27347/livehttpplay?channel_id=20023$108
+八大精彩,http://108.181.20.197/livehttpplay?channel_id=20052$108#http://108.181.21.27:27347/livehttpplay?channel_id=20052$108
+八大综合,http://108.181.20.197/livehttpplay?channel_id=20068$108#http://108.181.21.27:27347/livehttpplay?channel_id=20068$108
+八大娱乐,http://108.181.20.197/livehttpplay?channel_id=20071$108#http://108.181.21.27:27347/livehttpplay?channel_id=20071$108
+八大第一,http://108.181.20.197/livehttpplay?channel_id=20073$108#http://108.181.21.27:27347/livehttpplay?channel_id=20073$108
+东森戏剧,http://108.181.20.197/livehttpplay?channel_id=20072$108#http://108.181.21.27:27347/livehttpplay?channel_id=20072$108
+中天娱乐,http://108.181.20.197/livehttpplay?channel_id=20079$108#http://108.181.21.27:27347/livehttpplay?channel_id=20079$108
+纬来戏剧,http://108.181.20.197/livehttpplay?channel_id=20200$108#http://108.181.21.27:27347/livehttpplay?channel_id=20200$108
+纬来综合,http://108.181.20.197/livehttpplay?channel_id=20201$108#http://108.181.21.27:27347/livehttpplay?channel_id=20201$108
+纬来娱乐,http://108.181.20.197/livehttpplay?channel_id=20202$108#http://108.181.21.27:27347/livehttpplay?channel_id=20202$108
+纬来日本,http://108.181.20.197/livehttpplay?channel_id=20303$108#http://108.181.21.27:27347/livehttpplay?channel_id=20303$108
+靖天欢乐,http://108.181.20.197/livehttpplay?channel_id=30021$108#http://108.181.21.27:27347/livehttpplay?channel_id=30021$108
+TVBS欢乐,http://108.181.20.197/livehttpplay?channel_id=20105$108#http://108.181.21.27:27347/livehttpplay?channel_id=20105$108
+TVBS精彩,http://108.181.20.197/livehttpplay?channel_id=20136$108#http://108.181.21.27:27347/livehttpplay?channel_id=20136$108
+天气新闻,http://108.181.20.197/livehttpplay?channel_id=20043$108#http://108.181.21.27:27347/livehttpplay?channel_id=20043$108
+
+星河,http://108.181.20.197/livehttpplay?channel_id=20070$108#http://108.181.21.27:27347/livehttpplay?channel_id=20070$108
+公视,http://108.181.20.197/livehttpplay?channel_id=20087$108#http://108.181.21.27:27347/livehttpplay?channel_id=20087$108
+中视,http://108.181.20.197/livehttpplay?channel_id=20088$108#http://108.181.21.27:27347/livehttpplay?channel_id=20088$108
+台视,http://108.181.20.197/livehttpplay?channel_id=20076$108#http://108.181.21.27:27347/livehttpplay?channel_id=20076$108
+民视,http://108.181.20.197/livehttpplay?channel_id=20074$108#http://108.181.21.27:27347/livehttpplay?channel_id=20074$108
+采昌,http://108.181.20.197/livehttpplay?channel_id=20141$108#http://108.181.21.27:27347/livehttpplay?channel_id=20141$108
 
 皇马RMTV,https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 曼联官方MUTV,https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
@@ -1073,6 +1127,24 @@ IPTV6+,http://27.10.92.105:4022/udp/225.0.4.50:7980$重庆联
 国内电影,http://www.lnlee.top:10000/udp/239.81.0.189:4056$广西信
 
 外阜电影,#genre#
+
+华纳WB,http://108.181.20.197/livehttpplay?channel_id=20112$108#http://108.181.21.27:27347/livehttpplay?channel_id=20112$108
+好莱坞电影,http://108.181.20.197/livehttpplay?channel_id=20062$108#http://108.181.21.27:27347/livehttpplay?channel_id=20062$108
+纬来电影,http://108.181.20.197/livehttpplay?channel_id=20199$108#http://108.181.21.27:27347/livehttpplay?channel_id=20199$108
+东森洋片,http://108.181.20.197/livehttpplay?channel_id=20080$108#http://108.181.21.27:27347/livehttpplay?channel_id=20080$108
+龙祥电影,http://108.181.20.197/livehttpplay?channel_id=20114$108#http://108.181.21.27:27347/livehttpplay?channel_id=20114$108
+东森电影,http://108.181.20.197/livehttpplay?channel_id=20077$108#http://108.181.21.27:27347/livehttpplay?channel_id=20077$108
+天映经典,http://108.181.20.197/livehttpplay?channel_id=20063$108#http://108.181.21.27:27347/livehttpplay?channel_id=20063$108
+天映电影,http://108.181.20.197/livehttpplay?channel_id=10130$108#http://108.181.21.27:27347/livehttpplay?channel_id=10130$108
+龙华电影,http://108.181.20.197/livehttpplay?channel_id=10129$108#http://108.181.21.27:27347/livehttpplay?channel_id=10129$108
+龙华洋片,http://108.181.20.197/livehttpplay?channel_id=20090$108#http://108.181.21.27:27347/livehttpplay?channel_id=20090$108
+美亚电影,http://108.181.20.197/livehttpplay?channel_id=20197$108#http://108.181.21.27:27347/livehttpplay?channel_id=20197$108
+FGM电影,http://108.181.20.197/livehttpplay?channel_id=10123$108#http://108.181.21.27:27347/livehttpplay?channel_id=10123$108
+BBC地球,http://108.181.20.197/livehttpplay?channel_id=20044$108#http://108.181.21.27:27347/livehttpplay?channel_id=20044$108
+HBOFAMILY,http://108.181.20.197/livehttpplay?channel_id=20092$108#http://108.181.21.27:27347/livehttpplay?channel_id=20092$108
+HBOHITS,http://108.181.20.197/livehttpplay?channel_id=20091$108#http://108.181.21.27:27347/livehttpplay?channel_id=20091$108
+HBOsignature,http://108.181.20.197/livehttpplay?channel_id=20314$108#http://108.181.21.27:27347/livehttpplay?channel_id=20314$108
+HBO,http://108.181.20.197/livehttpplay?channel_id=20093$108#http://108.181.21.27:27347/livehttpplay?channel_id=20093$108
 
 amc电影,http://61.221.215.25:8800/hls/43/index.m3u8$61
 天映电影,http://live4play.uk/livehttpplay?channel_id=10130
@@ -3069,11 +3141,12 @@ CGTNDocumentary,http://183.162.119.249:9901/tsfile/live/1048_1.m3u8$六安信
 发现之旅,http://gat.bkpcp.top/ymg.php?id=fxzl$ymg
 
 WildEarth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8#https://wildearth-roku.amagi.tv/masterR720P.m3u8
-动物星球,http://61.221.215.25:8800/hls/57/index.m3u8$61#https://stream1.freetv.fun/dong-wu-xing-qiu-1.m3u8
-动物星球,http://108.181.21.27:27347/livehttpplay?channel_id=20106$108
 
-DW,http://61.221.215.25:8800/hls/1/index.m3u8$61
-探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8$61
+国家地理,http://108.181.20.197/livehttpplay?channel_id=20037$108#http://108.181.21.27:27347/livehttpplay?channel_id=20037$108#
+动物星球,http://61.221.215.25:8800/hls/57/index.m3u8$61
+动物星球,http://108.181.20.197/livehttpplay?channel_id=20106$108#http://108.181.21.27:27347/livehttpplay?channel_id=20106$108#
+探索亚洲,http://108.181.20.197/livehttpplay?channel_id=20113$108#http://108.181.21.27:27347/livehttpplay?channel_id=20113$108#
+探索世界,http://108.181.20.197/livehttpplay?channel_id=20110$108#http://108.181.21.27:27347/livehttpplay?channel_id=20110$108#
 
 LoveNature,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 LoveNature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
