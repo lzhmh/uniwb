@@ -34,21 +34,19 @@
 凤凰资讯,http://43.129.81.169/qctv.fengshows.cn/live/0701pin72.flv$701
 凤凰香港,http://43.129.81.169/qctv.fengshows.cn/live/0701phk72.flv$701
 
+CCTV4,http://113.56.95.69:53765/tsfile/live/0004_1.m3u8$潜江联
 CCTV4,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8$iptv
-CCTV13,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8$iptv
 CCTV4,http://112.99.193.34:9901/tsfile/live/1048_1.m3u8$双鸭山信s
-CCTV4,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBFJ5gRpm8ntK8JEFPZOhLQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$bj789
-CCTV4,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226470/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0wP1dRMt9qCzHdvA65wh1w%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMcuN2HH7RLPyPHWOUWhSMk%2CEND$bj89
 
 CCTV13,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=49c8041461997c7a97dbcc3c7fd11b4f&txTime=18d00acf487
 CCTV13,http://v4d.xiepeiru.top:1123/iptv/gq/GuangZhouJingSai
-CCTV13,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EqHPe9pEEWJ00hz1ArnRZVA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$bja89b
-CCTV13,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226446/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EU-IJJyzlYeEElWsacI4JKw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMT7DWkynQtRPzNDJCOY_C_%2CEND$bjb
 CCTV13,http://183.203.182.117:9616/hls/13/index.m3u8$晋城移s
 CCTV13,http://112.99.193.34:9901/tsfile/live/1011_1.m3u8$双鸭山信s
 
 CCTV13,http://222.169.85.8:9901/tsfile/live/0013_1.m3u8$辽源
 CCTV4,http://183.203.182.117:9616/hls/4/index.m3u8$晋城移s
+CCTV13,http://113.56.95.69:53765/tsfile/live/0014_1.m3u8$潜江联
+CCTV13,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8$iptv
 
 CCTV4,http://119.32.12.17:2901/udp/224.1.100.104:11111$广电
 CCTV13,http://119.32.12.17:2901/udp/224.1.100.69:11111$广电
@@ -107,6 +105,8 @@ ClassicArts,https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8$4
 
 体育频道,#genre#
 
+CCTV5,http://113.56.95.69:53765/tsfile/live/0005_1.m3u8$潜江联
+CCTV5+,http://113.56.95.69:53765/tsfile/live/0006_1.m3u8$潜江联
 CCTV5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8$iptv
 CCTV5,http://219.159.91.10:9901/tsfile/live/0005_1.m3u8$桂林信
 CCTV5+,http://183.203.182.117:9616/hls/5/index.m3u8$晋城移
@@ -115,18 +115,11 @@ CCTV5+,http://ycsj.aguihome.com:4022/udp/233.50.201.220:5140$浙江信
 CCTV5,http://ycsj.aguihome.com:4022/udp/233.50.201.197:5140$浙江信#http://ycsj.aguihome.com:4022/udp/233.50.201.17:5140$浙江信s
 CCTV16,http://ycsj.aguihome.com:4022/udp/233.50.201.192:5140$浙江信#http://ycsj.aguihome.com:4022/udp/233.50.201.63:5140$浙江信4K
 
-CCTV5,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226454/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErKwB8Qqtvssoy-K7GEgesQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOIR_8g_qYRqpV5wTQqRILi%2CEND$bj789
-CCTV5+,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226458/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Em70vyfVI_MkrcLYjHWnqOA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNlS0O1LA8iGydXPYujpRue%2CEND$bja6789b
-CCTV5+,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EevWZ0zmguDsOY_Mf3SM5TA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$bja6789b
-CCTV16,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EX9goLRw26BM_r54des2PAw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPt5W7-RovMDpE-7B-0PhHw%2CEND$bjb
-CCTV16,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EX9goLRw26BM_r54des2PAw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$bjb
-
 CCTV5,http://58.19.38.162:9901/tsfile/live/0005_1.m3u8$武汉联
 
 CCTV5,http://119.32.12.17:2901/udp/224.1.100.82:11111$广电
 CCTV5+,http://119.32.12.17:2901/udp/224.1.100.25:11111$广电
 
-CCTV5,http://222.169.85.8:9901/tsfile/live/0005_1.m3u8$辽源联
 CCTV5,http://119.36.148.115:59901/tsfile/live/1001_1.m3u8$荆州联
 CCTV5+,http://119.36.148.115:59901/tsfile/live/1003_1.m3u8$荆州联
 CCTV5,http://112.99.193.34:9901/tsfile/live/1007_1.m3u8$双鸭山信s
@@ -140,8 +133,12 @@ CCTV5+,http://14.212.185.146:9901/tsfile/live/0018_1.m3u8$佛山信
 
 爱羽客,http://nas.hssvm.com:8888/udp/225.1.2.1:5002$天津联#http://60.7.56.33:4000/udp/239.253.93.202:6380$河北联x#http://60.164.128.167:8029/udp/239.255.29.31:8231$甘肃信x
 
-百事乒羽1,http://ycsj.aguihome.com:4022/udp/233.50.200.236:5140$浙江信1#http://www.flyskyman.cn:4022/udp/233.50.200.236:5140$浙江信2#http://180.158.201.25:1024/udp/239.45.3.139:5140$上海信#http://ycsj.aguihome.com:4022/udp/233.50.200.234:5140$浙江信4#http://ycsj.aguihome.com:4022/udp/233.50.200.235:5140$浙江信5#http://123.97.74.222:5555/udp/233.50.200.236:5140$浙江信2#http://115.239.82.110:9999/udp/233.50.200.236:5140$浙江信#http://101.68.81.44:9999/udp/233.50.201.204:5140$浙江联#http://14.135.72.70:8888/udp/239.121.4.130:8762$宁夏信#http://14.135.72.70:8888/udp/239.121.4.131:8768$宁夏信5#http://nas.tuyuannet.cn:8800/udp/239.37.0.253:5540$辽宁信x#http://60.164.128.167:8029/udp/239.255.30.170:8231$甘肃信x#http://www.lnlee.top:10000/udp/239.81.0.181:4056$广西信x
-百事乒羽2,http://ycsj.aguihome.com:4022/udp/233.50.200.237:5140$浙江信3#http://www.flyskyman.cn:4022/udp/233.50.200.237:5140$浙江信2#http://180.158.201.25:1024/udp/239.45.3.140:5140$上海信#http://nas.tuyuannet.cn:8800/udp/239.37.0.214:5540$辽宁信2x
+百事乒羽1,http://ycsj.aguihome.com:4022/udp/233.50.200.236:5140$浙江信1#http://www.flyskyman.cn:4022/udp/233.50.200.236:5140$浙江信2#http://180.158.201.25:1024/udp/239.45.3.139:5140$上海信#http://ycsj.aguihome.com:4022/udp/233.50.200.234:5140$浙江信4#http://ycsj.aguihome.com:4022/udp/233.50.200.235:5140$浙江信5#http://www.jeremyoto.com:82/udp/233.50.200.236:5140$浙江信3#
+
+////http://14.135.72.70:8888/udp/239.121.4.130:8762$宁夏信#http://14.135.72.70:8888/udp/239.121.4.131:8768$宁夏信5#http://nas.tuyuannet.cn:8800/udp/239.37.0.253:5540$辽宁信x#http://60.164.128.167:8029/udp/239.255.30.170:8231$甘肃信x#http://www.lnlee.top:10000/udp/239.81.0.181:4056$广西信x#http://101.68.81.44:9999/udp/233.50.201.204:5140$浙江联
+
+百事乒羽2,http://ycsj.aguihome.com:4022/udp/233.50.200.237:5140$浙江信3#http://www.jeremyoto.com:82/udp/233.50.200.237:5140$浙江信3#http://www.flyskyman.cn:4022/udp/233.50.200.237:5140$浙江信2#http://180.158.201.25:1024/udp/239.45.3.140:5140$上海信#
+/////http://nas.tuyuannet.cn:8800/udp/239.37.0.214:5540$辽宁信2x
 
 广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty&replay=1&days=7$php
 广东体育,http://14.212.185.146:9901/tsfile/live/1003_1.m3u8$佛山信
@@ -153,14 +150,10 @@ CCTV5+,http://14.212.185.146:9901/tsfile/live/0018_1.m3u8$佛山信
 广东体育,http://120.238.94.82:9901/tsfile/live/1012_1.m3u8$梅州移
 
 北京体育,http://iptv.huuc.edu.cn/hls/btv11hd.m3u8$iptv
-北京体育,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226438/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EeVAybrHg955d_IRT9e_uHQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMLCKqkSfuGOusJwBMwlCbz%2CEND$bj
 北京体育,http://114.252.236.205:8000/udp/239.3.1.243:8000$北京联#http://joyznm.i234.me:20000/udp/239.3.1.243:8000$北京联#http://123.115.114.174:9000/udp/239.3.1.243:8000$北京联#http://222.129.140.189:8888/udp/239.3.1.243:8000$北京联#http://222.128.178.100:8888/udp/239.3.1.243:8000$北京联
 
-
-CETV4,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226557/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBzZToIaOOoaa_jAUfhUQHQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOD9BEmVSNbqSQpqXZxnxbk%2CEND$bj
 CETV4,http://119.32.12.32:2901/udp/224.1.100.109:11111$广电
 
-睛彩竞技,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226566/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ELNKCwls2CgCuSsq57Mh8ug%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$bj6
 睛彩竞技,http://111.22.153.159:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive$邵阳移
 睛彩竞技,http://171.40.125.154:5000/3000000020000011528/FifastbLive/index.m3u8$孝感信
 睛彩竞技,http://171.40.125.154:5000/3000000020000011530/FifastbLive/index.m3u8$孝感信
@@ -180,12 +173,9 @@ CETV4,http://119.32.12.32:2901/udp/224.1.100.109:11111$广电
 纬来体育,http://122.117.71.103:8562/http/220.130.87.218:8081/hls/67/809/ch028.m3u8$122
 纬来体育,http://108.181.20.197/livehttpplay?channel_id=20120$108
 
-超级体育,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eg-EQHTrpbCOxNSgnFRbr4w%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMNhcQPODGVtsSVKlB7CbAh%2CEND$bj789c
-超级体育,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226348/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ETVADpDcwLMjKKWF--XtEOg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$bj89b
-
 吉林篮球,http://nas.tuyuannet.cn:8800/udp/239.37.0.216:5540$辽宁信#http://nas.tuyuannet.cn:8800/udp/239.37.0.212:5540$辽宁信
 
-风云足球,http://60.223.72.30:8001/udp/226.0.2.225:9712$山西联##http://nas.tuyuannet.cn:8800/udp/239.37.0.80:5540$辽宁信http://14.112.86.85:4022/udp/239.253.43.20:5146$广东信#http://14.112.86.85:4022/udp/239.253.43.14:5146$广东信#http://110.179.80.171:8083/udp/239.1.1.101:8101#http://171.124.48.100:8083/udp/226.0.2.225:9712$山西联#http://180.158.201.25:1024/udp/239.45.0.43:5140$上海信#http://60.7.56.33:4000/udp/239.253.93.254:6432$河北联#http://www.akw323.com:9527/udp/238.255.2.29:5999$贵阳信#http://enlen.vip:4022/udp/239.200.200.88:8020$云南信#http://www.lizhinas.top:1009/udp/239.252.219.96:5140$江西信
+风云足球,http://60.223.72.30:8001/udp/226.0.2.225:9712$山西联##http://nas.tuyuannet.cn:8800/udp/239.37.0.80:5540$辽宁信http://14.112.86.85:4022/udp/239.253.43.20:5146$广东信#http://14.112.86.85:4022/udp/239.253.43.14:5146$广东信#http://110.179.80.171:8083/udp/239.1.1.101:8101#http://171.124.48.100:8083/udp/226.0.2.225:9712$山西联#http://180.158.201.25:1024/udp/239.45.0.43:5140$上海信#http://60.7.56.33:4000/udp/239.253.93.254:6432$河北联#http://www.lizhinas.top:1009/udp/239.252.219.96:5140$江西信
 
 魅力足球,http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031207/index.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3
 魅力足球,http://60.164.128.167:8029/udp/239.255.30.147:8231$甘肃信#http://ycsj.aguihome.com:4022/udp/233.50.200.176:5140$浙江信#http://101.68.81.44:9999/udp/233.50.200.176:5140$浙江联
@@ -209,7 +199,7 @@ EURO1网球,http://iptv-hls.idc.md:8200/hls/78/live1.m3u8
 EURO1网球,http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
 EURO1网球,http://iptv-hls.idc.md:8200/hls/261/live1.m3u8
 
-高尔夫网球,http://nas.tuyuannet.cn:8800/udp/239.37.0.230:5540$辽宁信#http://180.158.201.25:1024/udp/239.45.0.48:5140$上海信#http://60.7.56.33:4000/udp/239.253.93.122:6465$河北联#http://www.akw323.com:9527/udp/238.255.2.223:5999$贵阳信#http://180.158.201.25:1024/udp/239.45.1.72:5140$上海信#http://enlen.vip:4022/udp/239.200.200.89:8024$云南信#http://www.lizhinas.top:1009/udp/239.252.219.95:5140$江西信
+高尔夫网球,http://nas.tuyuannet.cn:8800/udp/239.37.0.230:5540$辽宁信#http://180.158.201.25:1024/udp/239.45.0.48:5140$上海信#http://60.7.56.33:4000/udp/239.253.93.122:6465$河北联#http://180.158.201.25:1024/udp/239.45.1.72:5140$上海信#http://enlen.vip:4022/udp/239.200.200.89:8024$云南信#http://www.lizhinas.top:1009/udp/239.252.219.95:5140$江西信
 
 百事,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.9:1025$福建信1#http://e2.woc.iiiya.cn:28888/rtp/239.61.5.10:1025$福建信2#http://e2.woc.iiiya.cn:28888/rtp/239.61.5.11:1025$福建信3#http://e2.woc.iiiya.cn:28888/rtp/239.61.5.12:1025$福建信4#http://e2.woc.iiiya.cn:28888/rtp/239.61.5.13:1025$福建信5#http://e2.woc.iiiya.cn:28888/rtp/239.61.5.14:1025$福建信6#http://e2.woc.iiiya.cn:28888/rtp/239.61.5.15:1025$福建信7
 百事,http://www.745612.xyz:7788/udp/235.254.196.231:1196$重庆信1#http://www.745612.xyz:7788/udp/235.254.196.232:1200$重庆信2#http://www.745612.xyz:7788/udp/235.254.196.233:1204$重庆信3#http://www.745612.xyz:7788/udp/235.254.196.234:1208$重庆信4#http://www.745612.xyz:7788/udp/235.254.196.235:1212$重庆信5#http://www.745612.xyz:7788/udp/235.254.196.236:1216$重庆信6#http://www.745612.xyz:7788/udp/235.254.196.237:1220$重庆信7#http://www.745612.xyz:7788/udp/235.254.196.241:8950$重庆信8#http://www.745612.xyz:7788/udp/235.254.196.239:8942$重庆信9#http://www.745612.xyz:7788/udp/235.254.196.240:8946$重庆信10
@@ -337,7 +327,7 @@ iHOT爱体育,http://39.170.52.236:808/hls/19/index.m3u8$杭移
 安徽体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv
 安徽体育,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829415240627.m3u8
 
-天元围棋,http://171.213.197.238:9977/udp/239.93.42.55:5140$四川信#http://wouu.net:9977/udp/239.93.42.55:5140$四川信#http://60.7.56.33:4000/udp/239.253.93.211:6389$河北联#http://www.akw323.com:9527/udp/238.255.2.7:5999$贵阳信
+天元围棋,http://171.213.197.238:9977/udp/239.93.42.55:5140$四川信#http://wouu.net:9977/udp/239.93.42.55:5140$四川信#http://60.7.56.33:4000/udp/239.253.93.211:6389$河北联
 天元围棋,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8487&tk=a0c4f6cfaba3$api
 天元围棋,http://120.76.248.139/live/bfgd/4200000633.m3u8$深圳
 
@@ -366,8 +356,6 @@ iHOT爱体育,http://39.170.52.236:808/hls/19/index.m3u8$杭移
 斗鱼体育,http://zzy789.xyz/douyu1.php?id=9170147
 斗鱼体育,http://huanqiuzhibo.cn/manifest/douyu.php?id=9170147
 
-快乐垂钓,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226549/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~RHz0NOpqUZZN1Iz6lVLkkg~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNSiF8rKF1Pn2LepKMJ2cEG%2CEND$bj
-快乐垂钓,http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031206/index.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=3
 快乐垂钓,http://58.19.38.162:9901/tsfile/live/1033_1.m3u8$鄂联
 快乐垂钓,http://14.112.86.85:4022/udp/239.77.0.145:5146$广东信#http://60.7.56.33:4000/udp/239.253.93.213:6391$河北联#http://wouu.net:9977/udp/239.93.1.151:5140$四川信#http://60.164.128.167:8029/udp/239.255.29.26:8231$甘肃信#http://ycsj.aguihome.com:4022/udp/233.50.200.123:5140$浙江信#http://180.158.201.25:1024/udp/239.45.3.215:5140$上海信5
 
@@ -567,10 +555,6 @@ NICKELODEON,http://198.16.100.186:8278/Nickelodeon/playlist.m3u8?tid=MBBB9174743
 CN卡通,http://198.16.100.186:8278/momo1_twn/playlist.m3u8?tid=MFFF9797479997974799&ct=19249&tsum=0bd9dac79cd373cc918357d3199c8b22$198
 DK儿童,http://198.16.100.186:8278/discoverykidtamil_raj/playlist.m3u8?tid=MC1C6666962666669626&ct=19254&tsum=5c7c203bde4f208923e38663dbbc3a4e$198
 
-嘉佳卡通,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226539/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQDRyt1jaDU7f52NwPN526A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOLcRNi6C1PMX5tGrYl_SiR%2CEND$bj
-优漫卡通,http://[2409:8087:1:20:20::28]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227007/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EhHDWGhkwx_zJcJUYE9TAaA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$bj9
-北京卡酷,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227024/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjvuDD-WqVkjs3cnfSInf6A%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$bj
-
 华数动画,http://114.252.236.205:8000/udp/239.3.1.80:4120$北京联#http://125.82.168.238:8888/udp/235.254.198.87:1624$重庆信#http://14.135.72.70:8888/udp/239.121.4.166:8980$宁夏信
 
 华数少儿,http://171.213.197.238:9977/udp/239.93.1.49:5140$四川信#http://27.10.92.105:4022/udp/225.0.4.52:7980$重庆联#http://114.252.236.205:8000/udp/239.3.1.199:9000$北京联#http://113.128.128.56:8688/udp/239.21.1.125:5002$山东信#http://wouu.net:9977/udp/239.93.1.49:5140$四川信#http://www.lnlee.top:10000/udp/239.81.0.82:4056$广西信#http://14.135.72.70:8888/udp/239.121.4.87:8496$宁夏信
@@ -590,17 +574,17 @@ CETV早教,http://14.112.86.85:4022/udp/239.77.0.180:5146$广东信
 
 百事少儿,http://171.213.197.238:9977/udp/239.93.0.146:5140$四川信#http://wouu.net:9977/udp/239.93.0.146:5140$四川信#http://180.158.201.25:1024/udp/239.45.1.11:5140$上海信4k#http://180.158.201.25:1024/udp/239.45.1.1:5140$上海信4k#http://60.164.128.167:8029/udp/239.255.30.150:8231$甘肃信
 
-北京卡酷,http://114.252.236.205:8000/udp/239.3.1.189:8000$北京联#http://115.239.104.127:9999/udp/233.50.200.166:5140$浙江信#http://14.135.72.70:8888/udp/239.121.4.53:8292$宁夏信#http://180.158.201.25:1024/udp/239.45.0.8:5140$上海信#http://180.158.201.25:1024/udp/239.45.1.49:5140$上海信#http://60.164.128.167:8029/udp/239.255.30.39:8231$甘肃信#http://60.164.128.167:8029/udp/239.255.29.38:8231$甘肃信#http://www.akw323.com:9527/udp/238.255.2.80:5999$贵阳信#http://ycsj.aguihome.com:4022/udp/233.50.200.166:5140$浙江信
+北京卡酷,http://114.252.236.205:8000/udp/239.3.1.189:8000$北京联#http://115.239.104.127:9999/udp/233.50.200.166:5140$浙江信#http://14.135.72.70:8888/udp/239.121.4.53:8292$宁夏信#http://180.158.201.25:1024/udp/239.45.0.8:5140$上海信#http://180.158.201.25:1024/udp/239.45.1.49:5140$上海信#http://60.164.128.167:8029/udp/239.255.30.39:8231$甘肃信#http://ycsj.aguihome.com:4022/udp/233.50.200.166:5140$浙江信
 
-金鹰卡通,http://114.252.236.205:8000/udp/239.3.1.51:9252$北京联#http://60.7.56.33:4000/udp/239.253.92.163:8055$河北联#http://58.19.38.162:9901/tsfile/live/1031_1.m3u8$鄂联#http://218.72.152.76:9999/udp/233.50.201.73:5140$浙江信#http://14.135.72.70:8888/udp/239.121.4.52:8286$宁夏信#http://180.158.201.25:1024/udp/239.45.3.233:5140$上海信#http://180.158.201.25:1024/udp/239.45.0.38:5140$上海信#http://60.164.128.167:8029/udp/239.255.30.38:8231$甘肃信#http://www.akw323.com:9527/udp/238.255.2.55:5999$贵阳信
+金鹰卡通,http://114.252.236.205:8000/udp/239.3.1.51:9252$北京联#http://60.7.56.33:4000/udp/239.253.92.163:8055$河北联#http://58.19.38.162:9901/tsfile/live/1031_1.m3u8$鄂联#http://218.72.152.76:9999/udp/233.50.201.73:5140$浙江信#http://14.135.72.70:8888/udp/239.121.4.52:8286$宁夏信#http://180.158.201.25:1024/udp/239.45.3.233:5140$上海信#http://180.158.201.25:1024/udp/239.45.0.38:5140$上海信
 
 嘉佳卡通,http://119.123.79.35:9600/hls/27/index.m3u8$深信
-嘉佳卡通,http://27.10.92.105:4022/udp/225.0.4.221:7980$重庆联#http://114.252.236.205:8000/udp/239.3.1.147:9268$北京联#http://180.158.201.25:1024/udp/239.45.1.48:5140$上海信#http://60.164.128.167:8029/udp/239.255.30.65:8231$甘肃信#http://www.akw323.com:9527/udp/238.255.2.62:5999$贵阳信#http://60.7.56.33:4000/udp/239.253.93.203:6381$河北联#http://wouu.net:9977/udp/239.93.0.246:5140$四川信#http://14.135.72.70:8888/udp/239.121.4.79:8448$宁夏信
+嘉佳卡通,http://27.10.92.105:4022/udp/225.0.4.221:7980$重庆联#http://114.252.236.205:8000/udp/239.3.1.147:9268$北京联#http://180.158.201.25:1024/udp/239.45.1.48:5140$上海信#http://60.7.56.33:4000/udp/239.253.93.203:6381$河北联#http://wouu.net:9977/udp/239.93.0.246:5140$四川信#http://14.135.72.70:8888/udp/239.121.4.79:8448$宁夏信
 嘉佳卡通,http://183.11.239.36:808/hls/8/index.m3u8
 
-哈哈炫动,http://180.158.201.25:1024/udp/239.45.1.55:5140$上海信#http://14.135.72.70:8888/udp/239.121.4.51:8280$宁夏信#http://60.164.128.167:8029/udp/239.255.30.37:8231$甘肃信#http://www.akw323.com:9527/udp/238.255.2.56:5999$贵阳信#http://115.239.104.127:9999/udp/233.50.200.167:5140$浙江信#http://218.67.174.165:8888/udp/225.1.1.62:5002$天津联#http://110.177.146.152:888/udp/239.1.1.64:8064$山西信#http://223.10.11.180:8083/udp/239.1.1.64:8064$山西信#http://223.10.3.122:8084/udp/239.1.1.64:8064$山西信#http://60.164.128.167:8029/udp/239.255.29.37:8231$甘肃信#http://wouu.net:9977/udp/239.93.0.173:5140$四川信#http://ycsj.aguihome.com:4022/udp/233.50.200.167:5140$浙江信#http://218.72.152.76:9999/udp/233.50.201.74:5140$浙江信
+哈哈炫动,http://180.158.201.25:1024/udp/239.45.1.55:5140$上海信#http://115.239.104.127:9999/udp/233.50.200.167:5140$浙江信#http://218.67.174.165:8888/udp/225.1.1.62:5002$天津#http://223.10.11.180:8083/udp/239.1.1.64:8064$山西信#http://223.10.3.122:8084/udp/239.1.1.64:8064$山西信#http://wouu.net:9977/udp/239.93.0.173:5140$四川信#http://ycsj.aguihome.com:4022/udp/233.50.200.167:5140$浙江信#http://218.72.152.76:9999/udp/233.50.201.74:5140$浙江信
 
-优漫卡通,http://60.7.56.33:4000/udp/239.253.93.204:6382$河北联#http://www.akw323.com:9527/udp/238.255.2.57:5999$贵阳信
+优漫卡通,http://60.7.56.33:4000/udp/239.253.93.204:6382$河北联
 
 动漫秀场,http://60.7.56.33:4000/udp/239.253.93.225:6403$河北联#http://110.177.146.152:888/udp/239.1.1.80:8080$山西信#http://223.10.11.180:8083/udp/239.1.1.80:8080$山西信#http://223.10.3.122:8084/udp/239.1.1.80:8080$山西信#http://60.4.3.178:8888/udp/239.253.93.225:6403$河北联#http://115.239.104.127:9999/udp/233.50.200.12:5140$浙江信#http://ycsj.aguihome.com:4022/udp/233.50.200.12:5140$浙江信#http://218.72.152.76:9999/udp/233.50.201.184:5140$浙江信#http://14.135.72.70:8888/udp/239.121.4.74:8418$宁夏信#http://60.164.128.167:8029/udp/239.255.30.60:8231$甘肃信#http://60.164.128.167:8029/udp/239.255.29.16:8231$甘肃信
 
@@ -617,12 +601,10 @@ CETV早教,http://14.112.86.85:4022/udp/239.77.0.180:5146$广东信
 亲子趣学,http://171.213.197.238:9977/udp/239.93.1.191:5140$四川信#http://wouu.net:9977/udp/239.93.1.191:5140$四川信
 少儿天地,http://171.213.197.238:9977/udp/239.93.1.115:5140$四川信#http://wouu.net:9977/udp/239.93.1.115:5140$四川信
 
-CETV早教,http://27.10.92.105:4022/udp/225.0.4.227:7980$重庆联#http://114.252.236.205:8000/udp/239.3.1.79:4120$北京联#http://125.82.168.238:8888/udp/235.254.196.112:7980$重庆信#http://180.158.201.25:1024/udp/239.45.0.54:5140$上海信#http://218.67.174.165:8888/udp/225.1.2.207:5002$天津联#http://14.135.72.70:8888/udp/239.121.4.198:9172$宁夏信#http://www.akw323.com:9527/udp/238.255.2.143:5999$贵阳信#http://60.7.56.33:4000/udp/239.253.92.39:6107$河北联#http://op.sev7.net:4022/udp/239.254.201.230:7253$河北信
+CETV早教,http://27.10.92.105:4022/udp/225.0.4.227:7980$重庆联#http://114.252.236.205:8000/udp/239.3.1.79:4120$北京联#http://125.82.168.238:8888/udp/235.254.196.112:7980$重庆信#http://180.158.201.25:1024/udp/239.45.0.54:5140$上海信#http://218.67.174.165:8888/udp/225.1.2.207:5002$天津联#http://60.7.56.33:4000/udp/239.253.92.39:6107$河北联#http://op.sev7.net:4022/udp/239.254.201.230:7253$河北信
 
 中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8$61
 
-淘BABY,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EN0sbBMpQv4sLsW5foy3YfA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND$bj
-萌宠TV,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226555/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E_PpxWPtvSZRFtu_Ged_-vQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO0istnBuoA2R9ODSCqyIyS%2CEND$bj
 淘Baby,http://114.252.236.205:8000/udp/239.3.1.238:8001$北京联#http://opdf.top:8088/udp/239.3.1.238:8001$广西信
 
 百事4K少儿,http://115.239.104.127:9999/udp/233.50.200.183:5140$浙江信#http://ycsj.aguihome.com:4022/udp/233.50.200.183:5140$浙江信
@@ -759,7 +741,7 @@ NBCSports,http://41.205.93.154:80/NBA/index.m3u8
 
 世界军事,http://171.213.197.238:9977/udp/239.93.0.204:9076$四川信#http://27.10.92.105:4022/udp/225.0.4.154:7980$重庆联#http://27.11.105.179:8005/udp/225.0.4.154:7980$重庆联#http://114.252.236.205:8000/udp/239.3.1.76:4120$北京联#http://hzzzz530.com:4022/udp/239.69.1.103:10256$湖北信#http://wouu.net:9977/udp/239.93.0.204:9076$四川信#http://14.112.86.85:4022/udp/239.77.0.36:5146$广东信#http://202.102.201.244:40022/udp/238.1.78.239:7784$广东信#http://119.41.169.132:4000/udp/239.253.64.229:5140$安徽信#http://omnix.cn:4000/udp/225.1.8.236:4120$北京信#http://1.203.77.72:7788/udp/225.1.8.236:4120$北京信#http://60.164.128.167:8029/udp/239.255.30.244:8231$甘肃信#http://14.135.72.70:8888/udp/239.121.4.196:9160$宁夏信
 
-兵器科技,http://171.213.197.238:9977/udp/239.93.1.235:5140$四川信#http://60.223.72.30:8001/udp/226.0.2.223:9696$山西联#http://183.66.51.205:4022/udp/235.254.196.98:7980$重庆信#http://125.82.168.238:8888/udp/235.254.196.98:7980$重庆信#http://60.7.56.33:4000/udp/239.253.93.47:6435$河北联#http://hzzzz530.com:4022/udp/239.69.1.79:10114$湖北信#http://wouu.net:9977/udp/239.93.1.235:5140$四川信#http://14.112.86.85:4022/udp/239.253.43.18:5146$广东信#http://14.112.86.85:4022/udp/239.253.43.9:5146$广东信#http://180.158.201.25:1024/udp/239.45.1.74:5140$上海信#http://180.158.201.25:1024/udp/239.45.0.45:5140$上海信#http://home.yulei.online:9999/udp/226.0.2.223:9696$山西联#http://nas.tuyuannet.cn:8800/udp/239.37.0.84:5540$辽宁信#http://enlen.vip:4022/udp/239.200.200.91:8036$云南信#http://218.67.174.165:8888/udp/225.1.2.166:5002$天津联#http://www.lizhinas.top:1009/udp/239.252.219.98:5140$江西信#http://www.akw323.com:9527/udp/238.255.2.34:5999$贵阳信
+兵器科技,http://171.213.197.238:9977/udp/239.93.1.235:5140$四川信#http://60.223.72.30:8001/udp/226.0.2.223:9696$山西联#http://183.66.51.205:4022/udp/235.254.196.98:7980$重庆信#http://125.82.168.238:8888/udp/235.254.196.98:7980$重庆信#http://60.7.56.33:4000/udp/239.253.93.47:6435$河北联#http://hzzzz530.com:4022/udp/239.69.1.79:10114$湖北信#http://wouu.net:9977/udp/239.93.1.235:5140$四川信#http://14.112.86.85:4022/udp/239.253.43.18:5146$广东信#http://14.112.86.85:4022/udp/239.253.43.9:5146$广东信#http://180.158.201.25:1024/udp/239.45.1.74:5140$上海信#http://180.158.201.25:1024/udp/239.45.0.45:5140$上海信#http://home.yulei.online:9999/udp/226.0.2.223:9696$山西联#http://nas.tuyuannet.cn:8800/udp/239.37.0.84:5540$辽宁信#http://enlen.vip:4022/udp/239.200.200.91:8036$云南信#http://218.67.174.165:8888/udp/225.1.2.166:5002$天津联
 
 东方财经,http://171.213.197.238:9977/udp/239.93.0.31:5140$四川信#http://60.223.72.30:8001/udp/226.0.2.76:8520$山西联#http://wouu.net:9977/udp/239.93.0.31:5140$四川信#http://180.158.201.25:1024/udp/239.45.0.17:5140$上海信#http://60.164.128.167:8029/udp/239.255.29.43:8231$甘肃信#http://60.7.56.33:4000/udp/239.253.93.239:6417$河北联#http://home.yulei.online:9999/udp/226.0.2.76:8520$山西联#http://14.135.72.70:8888/udp/239.121.4.71:8400$宁夏信#http://110.177.146.152:888/udp/239.1.1.85:8085$山西信#http://223.10.11.180:8083/udp/239.1.1.85:8085$山西信#http://223.10.3.122:8084/udp/239.1.1.85:8085$山西信#http://60.4.3.178:8888/udp/239.253.93.239:6417$河北联#http://115.239.104.127:9999/udp/233.50.200.177:5140$浙江信#http://ycsj.aguihome.com:4022/udp/233.50.200.177:5140$浙江信
 
@@ -768,10 +750,9 @@ NBCSports,http://41.205.93.154:80/NBA/index.m3u8
 第一财经,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281
 第一财经,http://180.158.201.25:1024/udp/239.45.3.111:5140$上海信#http://180.158.201.25:1024/udp/239.45.3.211:5140$上海信#http://ycsj.aguihome.com:4022/udp/233.50.200.125:5140$浙江信#http://115.239.104.127:9999/udp/233.50.200.125:5140$浙江信
 
-北京财经,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226516/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eh9_SEkmWeMdS1TMnIILZgg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPIiicEW7OIvk1s-X-PXHqO%2CEND$bjb
 北京财经,http://114.252.236.205:8000/udp/239.3.1.116:8000$北京联#http://114.252.238.87:8000/udp/239.3.1.116:8000$北京联
 
-财富天下,http://60.223.72.30:8001/udp/226.0.2.139:9024$山西联#http://114.252.236.205:8000/udp/239.3.1.53:9136$北京联#http://125.82.168.238:8888/udp/235.254.198.108:1708$重庆信#http://wouu.net:9977/udp/239.93.0.116:9136$四川信#http://14.112.86.85:4022/udp/239.77.0.113:5146$广东信#http://180.158.201.25:1024/udp/239.45.0.7:5140$上海信#http://60.7.56.33:4000/udp/239.253.93.247:6425$河北联#http://101.31.59.131:4022/udp/239.253.93.247:6425$河北联#http://218.67.174.165:8888/udp/225.1.2.198:5002$天津联#http://home.yulei.online:9999/udp/226.0.2.139:9024$山西联#http://14.135.72.70:8888/udp/239.121.4.181:9070$宁夏信#http://www.akw323.com:9527/udp/238.255.2.186:5999$贵阳信#
+财富天下,http://60.223.72.30:8001/udp/226.0.2.139:9024$山西联#http://114.252.236.205:8000/udp/239.3.1.53:9136$北京联#http://125.82.168.238:8888/udp/235.254.198.108:1708$重庆信#http://wouu.net:9977/udp/239.93.0.116:9136$四川信#http://14.112.86.85:4022/udp/239.77.0.113:5146$广东信#http://180.158.201.25:1024/udp/239.45.0.7:5140$上海信#http://60.7.56.33:4000/udp/239.253.93.247:6425$河北联#http://101.31.59.131:4022/udp/239.253.93.247:6425$河北联#http://218.67.174.165:8888/udp/225.1.2.198:5002$天津联#http://home.yulei.online:9999/udp/226.0.2.139:9024$山西联#
 
 家庭理财,http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031210/index.m3u8?channel-id=bestzb&Contentid=5000000011000031210&livemode=1&stbId=3
 家庭理财,http://60.223.72.30:8001/udp/226.0.2.129:8944$山西联#http://180.158.201.25:1024/udp/239.45.0.14:5140$上海信#http://60.7.56.33:4000/udp/239.253.93.246:6424$河北联#http://home.yulei.online:9999/udp/226.0.2.129:8944$山西联
@@ -782,14 +763,22 @@ NBCSports,http://41.205.93.154:80/NBA/index.m3u8
 
 淘精彩,http://114.252.236.205:8000/udp/239.3.1.178:8001$北京联#
 
-淘娱乐,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ex0efg9fpenP8E8lWJUb5Lg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND$bj
 淘娱乐,http://114.252.236.205:8000/udp/239.3.1.100:8001$北京联
 
-超级综艺,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ejm-KqHfTZezbm9C-325YiA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNnfpAUC20DSCXUyGpDggnK%2CEND$bj2a
-超级综艺,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226975/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EYioXJd79dXZ_L0XAyn5Oqg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$bj6789bc
-金牌综艺,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227004/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkcfszuSJNo6WZ8h7xrIswA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMWi_zfgUXV5YnB6haFF-C2%2CEND$bjb
-
 央视音乐,#genre#
+
+CCTV9,http://113.56.95.69:53765/tsfile/live/0010_1.m3u8$潜江联
+CCTV10,http://113.56.95.69:53765/tsfile/live/0011_1.m3u8$潜江联
+CCTV1,http://113.56.95.69:53765/tsfile/live/0001_1.m3u8$潜江联
+CCTV2,http://113.56.95.69:53765/tsfile/live/0002_1.m3u8$潜江联
+CCTV3,http://113.56.95.69:53765/tsfile/live/0003_1.m3u8$潜江联
+CCTV6,http://113.56.95.69:53765/tsfile/live/0007_1.m3u8$潜江联
+CCTV7,http://113.56.95.69:53765/tsfile/live/0008_1.m3u8$潜江联
+CCTV8,http://113.56.95.69:53765/tsfile/live/0009_1.m3u8$潜江联
+CCTV11,http://113.56.95.69:53765/tsfile/live/0012_1.m3u8$潜江联
+CCTV12,http://113.56.95.69:53765/tsfile/live/0013_1.m3u8$潜江联
+CCTV14,http://113.56.95.69:53765/tsfile/live/0015_1.m3u8$潜江联
+CCTV15,http://113.56.95.69:53765/tsfile/live/0016_1.m3u8$潜江联
 
 CCTV10,http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8$iptv
 CCTV1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8$iptv
@@ -827,21 +816,6 @@ CCTV4K,http://180.158.201.25:1024/udp/239.45.0.55:5140$上海信
 女性时尚,http://180.158.201.25:1024/udp/239.45.0.47:5140$上海信
 电视指南,http://180.158.201.25:1024/udp/239.45.1.73:5140$上海信
 
-CCTV10,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226449/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EzhRgoBfyoaW0eC2lnTJYAQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOxqyo6ss4VuHKCaIhF4e3B%2CEND$bj89
-CCTV1,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND$bja789b
-CCTV1,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$bj6789bc
-CCTV3,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226456/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E_6GNVcVOz9Xub8CclyMRUg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOIR_8g_qYRqpV5wTQqRILi%2CEND$bj89
-CCTV6,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226453/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ex56LEwufYqPdJkUNYhbNCw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOH2PzEhAK60LI_FWtVxfVS%2CEND$bj89
-CCTV7,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EutDC7HLJc_gC0YdIDr7oig%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPOHuulzlCcw92vP3vgYa4n%2CEND$bjb
-CCTV8,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226451/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EO_1NY-UghfdG_S28Bf_FPw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO1anuaDcpMt0_BMig72trX%2CEND$bj89
-CCTV11,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0RcQQbNseiHvFO8XWf466A%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$bj7
-CCTV11,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226448/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eqfhzy1ZrFZrYrATDOB991A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOu522yjh6D1Z_dApuOt9eE%2CEND$bjb
-CCTV12,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E2knJCFLHz_HqfBZXNGeA1A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMIlZ5z7o_ym15iMooogSvj%2CEND$bj89
-CCTV14,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ey_UgKg-_uoDiTW1MNHptPg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNLabf3bHEXv4444iiOs_Px%2CEND$bj7
-CCTV15,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EWyklhmFh7oMx-lG1tNUcSQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$bj
-CCTV15,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226444/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EFQ8BWVFffGkwLTLNv7CwFQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNM7I2coCeiP5K0pSIMZqcUB%2CEND$bj89
-CCTV17,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226442/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EtihRNVe_x2y1Lgi_XWYeNw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOl8OnsD1vPD0mhNmo98J3J%2CEND$bj89
-
 CCTV1,http://119.32.12.17:2901/udp/224.1.100.90:11111$广电
 CCTV2,http://119.32.12.17:2901/udp/224.1.100.94:11111$广电
 CCTV3,http://119.32.12.17:2901/udp/224.1.100.64:11111$广电
@@ -854,20 +828,6 @@ CCTV11,http://119.32.12.17:2901/udp/224.1.100.44:11111$广电
 CCTV12,http://119.32.12.17:2901/udp/224.1.100.78:11111$广电
 CCTV14,http://119.32.12.17:2901/udp/224.1.100.80:11111$广电
 CCTV15,http://119.32.12.17:2901/udp/224.1.100.42:11111$广电
-
-CCTV卫生健康,http://www.akw323.com:9527/udp/238.255.2.144:5999$贵阳信
-风云音乐,http://www.akw323.com:9527/udp/238.255.2.24:5999$贵阳信
-文化精品,http://www.akw323.com:9527/udp/238.255.2.32:5999$贵阳信
-女性时尚,http://www.akw323.com:9527/udp/238.255.2.27:5999$贵阳信
-
-电视指南,http://enlen.vip:4022/udp/239.200.200.83:8000$云南信
-风云音乐,http://enlen.vip:4022/udp/239.200.200.86:8008$云南信
-女性时尚,http://enlen.vip:4022/udp/239.200.200.100:8084$云南信
-央视文化精品,http://enlen.vip:4022/udp/239.200.200.92:8028$云南信
-CCTV4K,http://enlen.vip:4022/udp/239.200.200.202:8784$云南信
-
-电视指南,http://60.7.56.33:4000/udp/239.253.93.249:6427$河北联
-风云音乐,http://60.7.56.33:4000/udp/239.253.93.253:6431$河北联
 
 生活时尚,http://wouu.net:9977/udp/239.93.0.106:5140$四川信#http://218.67.174.165:8888/udp/225.1.1.143:5002$天津联#http://110.177.146.152:888/udp/239.1.1.76:8076$山西信#http://60.7.56.33:4000/udp/239.253.93.226:6404$河北联#http://60.4.3.178:8888/udp/239.253.93.226:6404$河北联
 
@@ -893,41 +853,9 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 四川卫视,http://iptv.huuc.edu.cn/hls/schd.m3u8$iptv
 东南卫视,http://iptv.huuc.edu.cn/hls/dnhd.m3u8$iptv
 江西卫视,http://iptv.huuc.edu.cn/hls/jxhd.m3u8$iptv
-北京卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcYPi33WFyhvd6SjmqUKhJg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$bja789b
-北京卫视,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226436/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ElMQ3ov45VmhzipweN5VstQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPg_yZ8DZHTaSU92MIl_o3b%2CEND$bjc
-深圳卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226245/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EFvxuZ6Kfg6J67sArVd0LuA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO9YxM-C8gPFvQRk47-h2ok%2CEND$bj67
-湖北卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226240/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ExfU_RR0RQok0w_xd7h22CQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPVnDV2fEBphgm3TP7hAHBx%2CEND$bj
-东方卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EuOKqNaOUqqiJjXIfPoRPMQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNeqgYr1eA9ESriCOsl_DTz%2CEND$bj
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$索
-浙江卫视,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226247/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eo6BokfP3WkB3SIXSrgvRBA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNP3w4GkbU9L7iRQ8H2vgzhF%2CEND$bj7
-吉林卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226533/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EicY_6znuOTlmMeE15TFEig%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNNUZpDp9cPVsM_M_ftJRVM%2CEND$bj
-江苏卫视,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EJT6eqtJpcKnNhyUS90EOgw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNN1SxXwCt0S69Lq27ZMJpfR%2CEND$bj
-山东卫视,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226244/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EycMz-PML_dQW8iLcNBkw7g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMYCYLC04QAM6EBli1wTuET%2CEND$bj
-黑龙江卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEHwpSHKc5p-bHJfhpIWFig%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNM5Y8rTELLykZJHp-bmY2YW%2CEND$bj
-东南卫视,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226496/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkZUfG47p98m2PZiCsgkhyQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNM5EcQIH6BiwZavlhPLb4oJ%2CEND$bj
 江西卫视,https://local-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8$索
-江西卫视,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226243/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EfPpe3gkzCutYMoqOQQZNzA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMVuW7agCgULnvgy9rhLyCH%2CEND$bj79
-云南卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226543/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EzQy9f4DIExLCs810r0Q6Kw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO_hnHaWpTsMQwR98VJGduo%2CEND$bj
-辽宁卫视,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226488/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0dsu8dOBmGQQO7fSrvySew%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNN4l9PIxeExdzsncIMJiPZb%2CEND$bj7
-重庆卫视,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226518/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ey-ITbF7am-eD_R60rK2QcQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMWkDi37K3eowQvLymiiLyV%2CEND$bj7
-山西卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226531/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EokFa56wMKUpB1vaIjEe92A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPoj5DNJHruOghC7vAQxinJ%2CEND$bj
-海南卫视,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226574/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EZOP0PLu1-XG8_Ae0lTe9HQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNODcjESMU4f6yMuMuOuQbie%2CEND$bj79
-安徽卫视,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226490/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcN5s_AlHugvAv9Pda6f9fA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOtRTFrO5eKiKNV40gMGHaS%2CEND$bj
-甘肃卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226545/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EPxObabIs3mLyPmSf2HHtqQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNBE3K16ZfzYGIqbP6z6cGJ%2CEND$bj
-青海卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226529/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ege4qzvU2ax15UdL3NFQ7AQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNdiWnhjH1amCOGECUhABr9%2CEND$bj
-宁夏卫视,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226528/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E9-jWxE6tfiz7aO7MvbCY7Q%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMi3qn27U9rBeXpVrJ8eLy7%2CEND$bj7
-宁夏卫视,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227020/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Err-CLugPnTcUinEM8JeySg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$bj7
-内蒙古卫视,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226530/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EHHMwHAFmEx4xxtZRlWhCrg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMZe-zTYLW-Yz0RcFLVr37n%2CEND$bj
-陕西卫视,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226532/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E6sNSqmLCqLFl_AJPBXp1qA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO6b4uKEI14SNy0LDiw52LH%2CEND$bj7
-广西卫视,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226534/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EpjsBggKPaCw3f-xlBWZWaQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMJYhPE64lykNkIsypBRZqO%2CEND$bj
-厦门卫视,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226542/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0HuqirkTe1cAUljwazjNGw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMvSOYesmmWPPy5i3xS4Rsb%2CEND$bj7
 三沙卫视,https://livessws.hnntv.cn/live/ssws_01hnntv.m3u8?_upt=626783981743357501&replay=1&days=7$索
-三沙卫视,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226544/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eb2dn60YQRxhB5rAyOnrv0g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO_hnHaWpTsMQwR98VJGduo%2CEND$bj7
-新疆卫视,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ETtoZKRqwsL9SQjr1A0iH5g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMREPnBLSH3b8pR7cnmo9am%2CEND$bj7
-西藏卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226527/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EmHuqUIe0F51C4h6xZanhig%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMi3qn27U9rBeXpVrJ8eLy7%2CEND$bj
-兵团卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226541/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ESv-rH0nF41q6pxKZKeRnNA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNN-56c_rnHTXQA4R-D0Dlau%2CEND$bj
-延边卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227045/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eq0D3NdTUN7FuRzr8eJsbQA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNONS2RAhxb5u6NYaMGGM23S%2CEND$bj
-康巴卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227027/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkHMvBpWz4rccMxNvSRekpQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPtFfVFX0AVycM8b4Xmbcl4%2CEND$bj789
 
 北京卫视,http://119.32.12.17:2901/udp/224.1.100.100:11111$广电
 东方卫视,http://119.32.12.17:2901/udp/224.1.100.48:11111$广电
@@ -961,12 +889,6 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 山西卫视,http://rou.xyparty.com:8867/udp/224.30.30.96:8115$太原联
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
 
-北京新闻,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EncK5uEAdYwWMsf8WJWI1mQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO_LSIQh_h2P54Cz-MqgJqC%2CEND$bj
-北京IPTV4K,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND$bj
-北京国际,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226510/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EIfgL7tTUNqHAIdgvKuwj8A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPr9j5nfyiWS_jEXD6m401A%2CEND$bjb
-北京文艺,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226440/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EWrJcgMpdGPvZavpf4dmmrQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNhmwDsUZnvQgU5E5wiGA2g%2CEND$bj89
-北京生活,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226514/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Es-PVNcPJsjr_oBdcXGT40g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMWvZ0r6eMXcXJOGrCpJiq1%2CEND$bjb
-
 北京新闻,http://114.252.236.205:8000/udp/239.3.1.159:8000$北京联
 
 北京文艺,http://114.252.236.205:8000/udp/239.3.1.242:8000$北京联#
@@ -981,7 +903,6 @@ https://test5.btzx.com.cn/live/2023bt.stream/playlist.m3u8#http://wouu.net:9977/
 河北卫视,http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=f1b16a3a3866dafecb94ec2bb4160e58
 甘肃卫视,https://hls.gstv.com.cn/49048r/6e1sy2.m3u8
 
-中国交通,http://www.akw323.com:9527/udp/238.255.2.220:5999$贵阳信
 中国交通,http://114.252.236.205:8000/udp/239.3.1.188:8001$北京联
 
 电影频道,#genre#
@@ -1002,11 +923,6 @@ CHC动作电影,http://gat.bkpcp.top/ymg.php?id=dzdy$ymg
 
 老故事,http://goo.bkpcp.top/mg/lgs$mg
 老故事,http://gat.bkpcp.top/ymg.php?id=lgs$ymg
-
-超级电影,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EfPRR4mbRWhkCFuUCVm9THg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNM4kysjLk_woYMRnu35KtBV%2CEND$bjb
-超级电影,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226994/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EOKgJ-MarN4M0aStGnXjR0A%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$bjb
-北京影视,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226433/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EygquRbh9L0wUPRY53fsZWw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO62IynDcU1yYDL1b4Xte8T%2CEND$bj
-重温经典,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226556/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eg58chGORQFpH6J3zm0kF5g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPAP4UJ9bY8mj3RcXbpDq31%2CEND$bj
 
 华数经典,http://171.213.197.238:9977/udp/239.93.0.57:9024$四川信#http://wouu.net:9977/udp/239.93.0.57:9024$四川信
 华数热播,http://171.213.197.238:9977/udp/239.93.0.56:9020$四川信#http://wouu.net:9977/udp/239.93.0.56:9020$四川信
@@ -1190,9 +1106,6 @@ CHC动作电影,http://gat.bkpcp.top/ymg.php?id=dzdy$ymg
 
 爱上4K,http://14.135.72.70:8888/udp/239.121.4.95:8544$宁夏信
 爱电影,http://14.135.72.70:8888/udp/239.121.4.144:8834$宁夏信
-
-淘电影,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND$bj
-淘剧场,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOuQYJeiYEeFWTkFfE86Vq-%2CEND$bj
 
 淘电影,http://114.252.236.205:8000/udp/239.3.1.250:8001$北京联#
 淘剧场,http://114.252.236.205:8000/udp/239.3.1.95:8001$北京联#
@@ -3322,7 +3235,6 @@ TVB经典—九江十二坊,https://lunbo.freetv.top/yy/1382735566
 
 求索纪录,http://60.7.56.33:4000/udp/239.253.93.236:6414$河北联#http://125.82.168.238:8888/udp/235.254.198.251:7980$重庆信#http://www.lnlee.top:10000/udp/239.81.0.153:4056$广西信#http://183.66.51.205:4022/udp/235.254.198.251:7980$重庆信
 
-北京纪实科教,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226434/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ejj3PtVjzl6ZzFdM-Vi1dmQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPJa61jREJv4ZfZigyrxX0U%2CEND$bj
 北京纪实科教,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8$8K
 
 上海纪实人文,http://61.173.144.157:9901/tsfile/live/1005_1.m3u8$沪信
@@ -3331,7 +3243,7 @@ TVB经典—九江十二坊,https://lunbo.freetv.top/yy/1382735566
 
 CGTNDocumentary,http://news.cgtn.com/resource/live/document/cgtn-doc.m3u8$news#https://0472.org/hls/cgtnd.m3u8
 CGTNDocumentary,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8$news
-CGTNDocumentary,http://eyfs.vicp.net:8888/udp/239.76.245.67:1234$湖南信#http://www.akw323.com:9527/udp/238.255.2.172:5999$贵阳信
+CGTNDocumentary,http://eyfs.vicp.net:8888/udp/239.76.245.67:1234$湖南信
 
 世界地理,http://120.76.248.139/live/bfgd/4200000177.m3u8$深圳
 世界地理,http://60.7.56.33:4000/udp/239.253.92.113:8066$河北联#http://111.61.236.247:9081/hls/62/index.m3u8
@@ -3405,62 +3317,35 @@ DiscoveryWorld,http://daleplay.club/live/nj9121jose/NXqbrZuj9NRq/53470.ts
 斗鱼历史2,http://maomao.kandiantv.cn/douyu1.php?id=10102281$mao
 老高闲聊,http://maomao.kandiantv.cn/douyu1.php?id=838632$mao
 
-乐游频道,http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031112/index.m3u8?channel-id=bestzb&Contentid=5000000011000031112&livemode=1&stbId=3
-
 教育综合,#genre#
 
-CETV1,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EB8MrpAzJ_Bw12HHVBcZO6g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNONWWecbSKZXNjh_5hExtTC%2CEND$bj
-CETV1,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227021/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ELlgU9sgTT7iMtFgKHFa-dA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$bjb
-CETV2,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226537/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7AxXs4eTU2oiWrhopr9sHw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNxsM0Bor098BJglrhfEQTl%2CEND$bj
-CETV3,http://[2409:8087:1:20:20::28]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226577/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EhE2Z89HKgsQOlN9opVn1iw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNN03yUnk4zBVk1bynPPL3hZ%2CEND$不行
-
-CETV2,http://www.akw323.com:9527/udp/238.255.2.221:5999$贵阳信#http://wouu.net:9977/udp/239.93.0.113:5140$四川信#http://171.213.204.84:8888/udp/239.93.0.113:5140$四川信#http://14.135.72.70:8888/udp/239.121.4.60:8334$宁夏信
+CETV2,http://wouu.net:9977/udp/239.93.0.113:5140$四川信
 
 金色学堂,http://php.jdshipin.com:8880/bestv.php?id=jingsepd8m/8000000
 
 文物宝库,http://221.7.175.154:8445/tsfile/live/1019_1.m3u8$北海联
 文物宝库,http://php.jdshipin.com:8880/hntv.php?id=wwbk
 
-陶瓷频道,http://60.168.227.113:2000/udp/238.1.78.157:7128$安徽信
-
-茶频道,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226548/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ec1XXmbKOEhI6pFYCxtVG9A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOD3hCDGl7mDB_HDsnRfhB2%2CEND$bj7
-茶频道,http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031209/index.m3u8?channel-id=bestzb&Contentid=5000000011000031209&livemode=1&stbId=3
-
 汽摩频道,http://120.76.248.139/live/bfgd/4200000168.m3u8$深圳
 
-法治天地,http://120.76.248.139/live/bfgd/4200000162.m3u8$深圳#http://61.173.144.157:9901/tsfile/live/1006_1.m3u8$沪信
+法治天地,http://120.76.248.139/live/bfgd/4200000162.m3u8$深圳
 
 中华特产,http://218.67.174.165:8888/udp/225.1.2.197:5002$天津联#http://60.7.56.33:4000/udp/239.253.93.242:6420$河北联#http://enlen.vip:4022/udp/239.200.201.155:8124$云南信
 
-山东教育,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226526/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEtk94qghXphElKOQlUC-Yw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOpyxkKQ6N6FjQz-LrJwo0o%2CEND$bj
-
-国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f?wsSecret=dd3209fbf2ddd2902b569e99d1088ed2&wsTime=1741359337$tvcdn
 国学频道,http://120.76.248.139/live/bfgd/4200000169.m3u8$深圳
-国学频道,http://183.66.51.205:4022/udp/235.254.198.84:1612$重庆信#http://14.112.86.85:4022/udp/239.77.0.226:5146$广东信#http://60.7.56.33:4000/udp/239.253.92.158:8071$河北联#http://nas.tuyuannet.cn:8800/udp/239.37.0.93:5540$辽宁信#http://www.akw323.com:9527/udp/238.255.2.176:5999$贵阳信
-
-陶瓷频道,http://119.41.169.132:4000/udp/239.253.64.209:5140$海南信#http://218.67.174.165:8888/udp/225.1.1.153:5002$天津联
-
-环球奇观,http://218.67.174.165:8888/udp/225.1.1.197:5002$天津联#http://nas.tuyuannet.cn:8800/udp/239.37.0.70:5540$辽宁信#http://www.akw323.com:9527/udp/238.255.2.43:5999$贵阳信
+国学频道,http://183.66.51.205:4022/udp/235.254.198.84:1612$重庆信#http://60.7.56.33:4000/udp/239.253.92.158:8071$河北联
 
 环球旅游,http://120.76.248.139/live/bfgd/4200000147.m3u8$深圳
 
 车迷频道,http://120.76.248.139/live/bfgd/4200000146.m3u8$深圳
 
 fashionBOX,http://80.94.54.42/fashiontv/stream/playlist.m3u8#http://lb.streaming.sk/fashiontv/stream/playlist.m3u8#http://91.247.68.229:8000/play/Fashion/index.m3u8
-苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8$4k
-
-书法频道,http://14.112.86.85:4022/udp/239.77.1.115:5146$广东信#http://nas.tuyuannet.cn:8800/udp/239.37.0.113:5540$辽宁信#http://60.7.56.33:4000/udp/239.253.93.214:6392$河北联#http://www.akw323.com:9527/udp/238.255.2.177:5999$贵阳信
 
 名医养生,http://180.158.201.25:1024/udp/239.45.1.28:5140$上海信
 
-相声小品,http://183.66.51.205:4022/udp/235.254.198.118:1748$重庆信#http://14.135.72.70:8888/udp/239.121.4.186:9100$宁夏信#http://119.41.169.132:4000/udp/239.253.64.214:5140$海南信
-
-鉴赏频道,http://14.135.72.70:8888/udp/239.121.4.184:9088$宁夏信#http://60.164.128.167:8029/udp/239.255.30.247:8231$甘肃信
-
-墨宝频道,http://14.135.72.70:8888/udp/239.121.4.86:8490$宁夏信#http://60.164.128.167:8029/udp/239.255.30.248:8231$甘肃信
+相声小品,http://183.66.51.205:4022/udp/235.254.198.118:1748$重庆信
 
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-中国天气,http://119.123.79.35:9600/hls/19/index.m3u8$深信
 
 地市频道,#genre#
 
@@ -3509,7 +3394,6 @@ fashionBOX,http://80.94.54.42/fashiontv/stream/playlist.m3u8#http://lb.streaming
 
 外语新闻,#genre#
 
-中国国际CGTN,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226443/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ebu8iDniP_aAtg-APxKXKAA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOeLGc8fhipDF_paLm6VUd-%2CEND$bj89
 中国国际CGTN,http://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 中国国际CGTN,http://iptv.huuc.edu.cn/hls/cgtnhd.m3u8$iptv
 
