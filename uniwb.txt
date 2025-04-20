@@ -34,6 +34,8 @@
 凤凰资讯,http://43.129.81.169/qctv.fengshows.cn/live/0701pin72.flv$701
 凤凰香港,http://43.129.81.169/qctv.fengshows.cn/live/0701phk72.flv$701
 
+CCTV4,http://60.29.124.66:6080/hls/15/index.m3u8$天津联
+CCTV13,http://60.29.124.66:6080/hls/23/index.m3u8$天津联
 CCTV4,http://107.174.52.32/itv.php?id=CCTV4$itv
 
 CCTV4,http://113.56.95.69:53765/tsfile/live/0004_1.m3u8$潜江联
@@ -108,6 +110,7 @@ ClassicArts,https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8$4
 
 体育频道,#genre#
 
+CCTV5,http://60.29.124.66:6080/hls/16/index.m3u8$天津联
 CCTV5,http://107.174.52.32/itv.php?id=CCTV5$itv
 CCTV16,http://107.174.52.32/itv.php?id=CCTV16$itv
 
@@ -148,6 +151,8 @@ CCTV5+,http://14.212.185.146:9901/tsfile/live/0018_1.m3u8$佛山信
 
 百事乒羽2,http://ycsj.aguihome.com:4022/udp/233.50.200.237:5140$浙江信3#http://www.jeremyoto.com:82/udp/233.50.200.237:5140$浙江信3#http://www.flyskyman.cn:4022/udp/233.50.200.237:5140$浙江信2#http://180.158.201.25:1024/udp/239.45.3.140:5140$上海信#
 /////http://nas.tuyuannet.cn:8800/udp/239.37.0.214:5540$辽宁信2x
+
+天津体育,http://60.29.124.66:6080/hls/6/index.m3u8$天津联
 
 广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty&replay=1&days=7$php
 广东体育,http://14.212.185.146:9901/tsfile/live/1003_1.m3u8$佛山信
@@ -810,6 +815,17 @@ CCTV12,http://113.56.95.69:53765/tsfile/live/0013_1.m3u8$潜江联
 CCTV14,http://113.56.95.69:53765/tsfile/live/0015_1.m3u8$潜江联
 CCTV15,http://113.56.95.69:53765/tsfile/live/0016_1.m3u8$潜江联
 
+CCTV1,http://60.29.124.66:6080/hls/12/index.m3u8$天津联
+CCTV2,http://60.29.124.66:6080/hls/13/index.m3u8$天津联
+CCTV3,http://60.29.124.66:6080/hls/14/index.m3u8$天津联
+CCTV6,http://60.29.124.66:6080/hls/17/index.m3u8$天津联
+CCTV7,http://60.29.124.66:6080/hls/18/index.m3u8$天津联
+CCTV8,http://60.29.124.66:6080/hls/19/index.m3u8$天津联
+CCTV9,http://60.29.124.66:6080/hls/20/index.m3u8$天津联
+CCTV10,http://60.29.124.66:6080/hls/21/index.m3u8$天津联
+CCTV11,http://60.29.124.66:6080/hls/22/index.m3u8$天津联
+CCTV14,http://60.29.124.66:6080/hls/25/index.m3u8$天津联
+
 CCTV10,http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8$iptv
 CCTV1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8$iptv
 CCTV2,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8$iptv
@@ -845,19 +861,6 @@ CCTV15,http://180.158.201.25:1024/udp/239.45.3.126:5140$上海信
 CCTV4K,http://180.158.201.25:1024/udp/239.45.0.55:5140$上海信
 女性时尚,http://180.158.201.25:1024/udp/239.45.0.47:5140$上海信
 电视指南,http://180.158.201.25:1024/udp/239.45.1.73:5140$上海信
-
-CCTV1,http://119.32.12.17:2901/udp/224.1.100.90:11111$广电
-CCTV2,http://119.32.12.17:2901/udp/224.1.100.94:11111$广电
-CCTV3,http://119.32.12.17:2901/udp/224.1.100.64:11111$广电
-CCTV6,http://119.32.12.17:2901/udp/224.1.100.84:11111$广电
-CCTV7,http://119.32.12.17:2901/udp/224.1.100.27:11111$广电
-CCTV8,http://119.32.12.17:2901/udp/224.1.100.86:11111$广电
-CCTV9,http://119.32.12.17:2901/udp/224.1.100.29:11111$广电
-CCTV10,http://119.32.12.17:2901/udp/224.1.100.76:11111$广电
-CCTV11,http://119.32.12.17:2901/udp/224.1.100.44:11111$广电
-CCTV12,http://119.32.12.17:2901/udp/224.1.100.78:11111$广电
-CCTV14,http://119.32.12.17:2901/udp/224.1.100.80:11111$广电
-CCTV15,http://119.32.12.17:2901/udp/224.1.100.42:11111$广电
 
 生活时尚,http://wouu.net:9977/udp/239.93.0.106:5140$四川信#http://nas.hssvm.com:8888/udp/225.1.1.143:5002$天津联#http://110.177.146.152:888/udp/239.1.1.76:8076$山西信#http://60.7.56.33:4000/udp/239.253.93.226:6404$河北联#http://60.4.3.178:8888/udp/239.253.93.226:6404$河北联
 
