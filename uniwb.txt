@@ -34,10 +34,7 @@
 凤凰资讯,http://43.129.81.169/qctv.fengshows.cn/live/0701pin72.flv$701
 凤凰香港,http://43.129.81.169/qctv.fengshows.cn/live/0701phk72.flv$701
 
-CCTV4,http://60.29.124.66:6080/hls/15/index.m3u8$天津联
-CCTV13,http://60.29.124.66:6080/hls/23/index.m3u8$天津联
 CCTV4,http://107.174.52.32/itv.php?id=CCTV4$itv
-
 CCTV4,http://113.56.95.69:53765/tsfile/live/0004_1.m3u8$潜江联
 CCTV4,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8$iptv
 CCTV4,http://112.99.193.34:9901/tsfile/live/1048_1.m3u8$双鸭山信s
@@ -66,6 +63,8 @@ CCTV4,http://114.252.236.205:8000/udp/239.3.1.105:8092$北京联#http://180.158.
 
 CCTV13,http://ycsj.aguihome.com:4022/udp/233.50.200.97:5140$浙江信#http://114.252.236.205:8000/udp/239.3.1.124:8128$北京联#http://180.158.201.25:1024/udp/239.45.0.19:5140$上海信#http://183.130.227.9:8188/udp/233.50.200.111:5140$浙江信#http://prettyalan.vicp.cc:8888/udp/239.61.2.23:8132$厦门信#http://home.yulei.online:9999/udp/226.0.2.30:8152$山西联s
 CCTV13,http://107.174.52.32/itv.php?id=CCTV13$itv
+CCTV4,http://60.29.124.66:6080/hls/15/index.m3u8$天津联
+CCTV13,http://60.29.124.66:6080/hls/23/index.m3u8$天津联
 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://anren.live/HK/BSJDUFpB.m3u8$anren
@@ -110,12 +109,12 @@ ClassicArts,https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8$4
 
 体育频道,#genre#
 
-CCTV5,http://60.29.124.66:6080/hls/16/index.m3u8$天津联
+CCTV5,http://113.56.95.69:53765/tsfile/live/0005_1.m3u8$潜江联
+CCTV5+,http://113.56.95.69:53765/tsfile/live/0006_1.m3u8$潜江联
+
 CCTV5,http://107.174.52.32/itv.php?id=CCTV5$itv
 CCTV16,http://107.174.52.32/itv.php?id=CCTV16$itv
 
-CCTV5,http://113.56.95.69:53765/tsfile/live/0005_1.m3u8$潜江联
-CCTV5+,http://113.56.95.69:53765/tsfile/live/0006_1.m3u8$潜江联
 CCTV5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8$iptv
 CCTV5,http://219.159.91.10:9901/tsfile/live/0005_1.m3u8$桂林信
 CCTV5+,http://183.203.182.117:9616/hls/5/index.m3u8$晋城移
@@ -136,6 +135,7 @@ CCTV5+,http://119.36.148.115:59901/tsfile/live/1003_1.m3u8$荆州联
 CCTV5,http://112.99.193.34:9901/tsfile/live/1007_1.m3u8$双鸭山信s
 CCTV5,http://14.212.185.146:9901/tsfile/live/0005_1.m3u8$佛山信
 CCTV5+,http://14.212.185.146:9901/tsfile/live/0018_1.m3u8$佛山信
+CCTV5,http://60.29.124.66:6080/hls/16/index.m3u8$天津联
 
 先锋乒羽,http://183.66.51.205:4022/udp/235.254.198.106:7980$重庆信#http://www.745612.xyz:7788/udp/235.254.198.106:7980$重庆信#http://125.82.168.238:8888/udp/235.254.198.106:7980$重庆信#http://125.82.171.210:8888/udp/235.254.198.106:7980$重庆信#http://nas.hssvm.com:8888/udp/225.1.1.219:5002$天津联#http://www.jiaocj.xyz:4000/udp/239.49.0.145:8000$江苏信#http://180.119.195.121:4022/udp/239.49.0.145:8000$江苏信#http://171.213.197.238:9977/udp/239.93.42.56:5140$四川信#http://180.158.201.25:1024/udp/239.45.3.43:5140$上海信#http://wouu.net:9977/udp/239.93.42.56:5140$四川信#http://home.yulei.online:9999/udp/226.0.2.121:8880$山西联#http://60.2.190.206:4000/udp/239.253.93.219:6397$河北联#http://ik6.iptv8.net:8888/udp/225.1.4.210:1263$河南联#http://115.60.241.249:2000/udp/225.1.4.210:1263$河南联#http://www.huakangyaoye.cn:8800/udp/225.1.2.213:11416$商丘联#http://171.105.201.164:4022/udp/239.81.0.236:4056$广西信x#http://123.168.202.78:4020/udp/239.21.2.98:5002$山东信x#http://eyfs.vicp.net:8888/udp/239.76.253.51:9000$湖南信x#http://prettyalan.vicp.cc:8888/udp/239.61.3.17:9622$厦门信x#http://e2.woc.iiiya.cn:28888/rtp/239.61.4.168:1025$福建信#http://enlen.vip:4022/udp/239.200.201.33:4120$云南信x
 先锋乒羽,http://120.76.248.139/live/bfgd/4200000349.m3u8$深圳
