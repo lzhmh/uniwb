@@ -145,7 +145,7 @@ CCTV5,http://60.29.124.66:6080/hls/16/index.m3u8$天津联
 爱羽客,http://nas.hssvm.com:8888/udp/225.1.2.1:5002$天津联#http://221.198.198.37:8888/udp/225.1.2.1:5002$天津联#
 ///http://60.7.56.33:4000/udp/239.253.93.202:6380$河北联x#http://60.164.128.167:8029/udp/239.255.29.31:8231$甘肃信x
 
-百事乒羽1,http://ycsj.aguihome.com:4022/udp/233.50.200.236:5140$浙江信1#http://www.flyskyman.cn:4022/udp/233.50.200.236:5140$浙江信2#http://180.158.201.25:1024/udp/239.45.3.139:5140$上海信#http://ycsj.aguihome.com:4022/udp/233.50.200.234:5140$浙江信4#http://ycsj.aguihome.com:4022/udp/233.50.200.235:5140$浙江信5#http://www.jeremyoto.com:82/udp/233.50.200.236:5140$浙江信3#
+百事乒羽1,http://ycsj.aguihome.com:4022/udp/233.50.200.234:5140$浙江信4#http://ycsj.aguihome.com:4022/udp/233.50.200.236:5140$浙江信1#http://www.flyskyman.cn:4022/udp/233.50.200.236:5140$浙江信2#http://180.158.201.25:1024/udp/239.45.3.139:5140$上海信#http://ycsj.aguihome.com:4022/udp/233.50.200.235:5140$浙江信5#http://www.jeremyoto.com:82/udp/233.50.200.236:5140$浙江信3#
 
 ////http://14.135.72.70:8888/udp/239.121.4.130:8762$宁夏信#http://14.135.72.70:8888/udp/239.121.4.131:8768$宁夏信5#http://nas.tuyuannet.cn:8800/udp/239.37.0.253:5540$辽宁信x#http://60.164.128.167:8029/udp/239.255.30.170:8231$甘肃信x#http://www.lnlee.top:10000/udp/239.81.0.181:4056$广西信x#http://101.68.81.44:9999/udp/233.50.201.204:5140$浙江联
 
@@ -437,7 +437,11 @@ iHOT爱体育,http://39.170.52.236:808/hls/19/index.m3u8$杭移
 TVBS新闻,http://198.16.100.186:8278/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&tsum=513a9dcb42fa8b98e1792d513dd3e2ee$198
 TVBS新闻,http://122.117.71.103:8543/tvbs新闻.m3u8$122
 
+TVBSHD,https://stream1.freetv.fun/9d2c91a81d331d274075759d214887a3a4336b0245780cba0b9d108d5a505139.ctv$stream#
 TVBSHD,http://108.181.20.197/livehttpplay?channel_id=20085$108#http://108.181.21.27:27347/livehttpplay?channel_id=20085$108
+
+年代新闻,https://stream1.freetv.fun/517c64a9bdf7c9970fe1d047628171b825ead65650ae2e88293ca4d95b3a9cc2.ctv$stream#https://stream1.freetv.fun/b568fdf49ecc39119662a57f6e4ee16a6e41643a2a3c66854f9bc81663a8174b.ctv$stream#
+
 东森新闻,http://108.181.20.197/livehttpplay?channel_id=20082$108#http://108.181.21.27:27347/livehttpplay?channel_id=20082$108
 东森财经,http://108.181.20.197/livehttpplay?channel_id=20078$108#http://108.181.21.27:27347/livehttpplay?channel_id=20078$108
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581$rtm
@@ -454,7 +458,9 @@ TVBSHD,http://108.181.20.197/livehttpplay?channel_id=20085$108#http://108.181.21
 非凡新闻,http://198.16.100.186:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997$198
 非凡新闻,http://198.16.100.186:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378$198
 
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$chunk
+TVBS亚洲,https://stream1.freetv.fun/bec78e286aac6635512a9f28b62fd31b8e95a4a6c3d14cfb31cc3924b0f4725c.m3u8$stream#http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$chunk
+东森美洲,https://stream1.freetv.fun/41fd1dc90b335e2c39f811e013a8bc45d966113d4b326afb8bed450591629da1.m3u8$stream#
+东森财经,https://stream1.freetv.fun/9ab1d387aea892378b7046dff801ff75aa65efb7a39fabda8629a2246ab8542e.m3u8stream#
 
 寰宇新闻,http://50.7.234.10:8278/huanyuxinwen_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=2e4ba5060f39aa293606ab3341b4fcde$50
 中天亚洲,http://50.7.234.10:8278/ctiasia_twn/playlist.m3u8?tid=MBDB2043146120431461&ct=19234&tsum=ba6deb1dd785ef48ec39eda87a905fb6&replay=1&days=7$50
@@ -720,8 +726,8 @@ DMAX,http://198.16.100.186:8278/natgeohd_twn/playlist.m3u8?tid=MD3D4446495344464
 astro体育2,http://198.16.100.186:8278/Assp2/playlist.m3u8?tid=ME1E4056565440565654&ct=19249&tsum=1bf59bebb8a43a859eae9f1b3759f844$198
 astro体育3,http://198.16.100.186:8278/Assp3/playlist.m3u8?tid=MB4B2552451125524511&ct=19249&tsum=f6cb45a995e37dfc7c40d515f29924e4$198
 
-博斯网球,http://198.16.100.186:8278/bositennis_twn/playlist.m3u8?tid=MDCD2148551721485517&ct=19249&tsum=bab41ccd3843b938886a64a656463af0$198
-博斯运动1,http://198.16.100.186:8278/bosisport1_twn/playlist.m3u8?tid=MDAD4087844840878448&ct=19249&tsum=0a23fd28e83ff8205a515273a4c1b421$198
+博斯网球,https://stream1.freetv.fun/94b348b96eae05babe15dff0bb835f89a5b66c6aecac98f95fc4a6f0527081e0.m3u8$stream#http://198.16.100.186:8278/bositennis_twn/playlist.m3u8?tid=MDCD2148551721485517&ct=19249&tsum=bab41ccd3843b938886a64a656463af0$198
+博斯运动1,https://stream1.freetv.fun/a89024c61bc77fd48bc41c5bfcca4d1ca902f8ac9ea3e577006750082c8debf0.m3u8$stream#http://198.16.100.186:8278/bosisport1_twn/playlist.m3u8?tid=MDAD4087844840878448&ct=19249&tsum=0a23fd28e83ff8205a515273a4c1b421$198
 博斯运动2,http://198.16.100.186:8278/bosisport2_twn/playlist.m3u8?tid=ME9E7698135376981353&ct=19249&tsum=9eadcc8585f74357f09f1465844024c9$198
 博斯高球1,http://198.16.100.186:8278/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4828ab19efff1c5b0$198
 博斯高球1,http://198.16.100.186:8278/bosigolf1_twn/playlist.m3u8?tid=m51c41c232c43&ct=18335&tsum=26e2e08302bf0409db94a692921fa08b$198
