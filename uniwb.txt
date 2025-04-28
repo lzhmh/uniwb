@@ -12,13 +12,14 @@
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx$php
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk$php
 
+凤凰中文,http://cdn.132.us.kg/live/fhzw/stream.m3u8$cdn
+凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8$cdn3
+
 凤凰香港,http://108.181.20.197/livehttpplay?channel_id=20067$108
 凤凰资讯,http://cdn5.1678520.xyz/live/live2.1.php?id=fhzx$cdn5
 
 凤凰中文,http://119.32.12.17:2901/udp/224.1.100.3:11111$广电
 凤凰中文,http://119.32.12.32:2901/udp/224.1.100.3:11111$广电
-
-凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8$cdn3
 
 凤凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8$cdn
 凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8$cdn39
@@ -34,12 +35,11 @@
 凤凰中文,http://162.62.120.19/qctv.fengshows.cn/live/0701pcc72.m3u8$701
 凤凰中文,http://162.62.120.19/qctv.fengshows.cn/live/0701phk72.flv$701
 
-CCTV4,http://27.46.65.9:17088/udp/239.0.1.180:6040$广东联
-
-CCTV4,http://107.174.52.32/itv.php?id=CCTV4$itv
 CCTV4,http://113.56.95.69:53765/tsfile/live/0004_1.m3u8$潜江联
 CCTV4,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8$iptv
 CCTV4,http://112.99.193.34:9901/tsfile/live/1048_1.m3u8$双鸭山信s
+CCTV4,http://27.46.65.9:17088/udp/239.0.1.180:6040$广东联
+CCTV4,http://107.174.52.32/itv.php?id=CCTV4$itv
 
 CCTV13,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=49c8041461997c7a97dbcc3c7fd11b4f&txTime=18d00acf487
 CCTV13,http://27.46.65.9:17088/udp/239.0.1.73:8264$广东联
@@ -78,6 +78,7 @@ CCTV13,http://60.29.124.66:6080/hls/23/index.m3u8$天津联
 
 无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台,http://qjrhc.jydjd.top:2911/udp/224.1.100.1:11111$广电
@@ -85,6 +86,7 @@ CCTV13,http://60.29.124.66:6080/hls/23/index.m3u8$天津联
 翡翠台,http://222.128.55.152:9080/live/gdfc.m3u8
 翡翠台,http://119.32.12.17:2901/udp/224.1.100.121:11111$广电
 
+明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 明珠台,http://qjrhc.jydjd.top:2911/udp/224.1.100.123:11111$广电
 明珠台,http://beishan008.asuscomm.com:8890/bysid/2.m3u8
 明珠台,http://bziyunshao.synology.me:8890/bysid/2
@@ -145,10 +147,10 @@ CCTV5,http://60.29.124.66:6080/hls/16/index.m3u8$天津联
 
 麻辣体育,http://171.213.197.238:9977/udp/239.93.42.2:5140$四川信#http://wouu.net:9977/udp/239.93.42.2:5140$四川信#
 
-爱羽客,http://218.67.182.65:8888/udp/225.1.2.1:5002$天津联#http://nas.hssvm.com:8888/udp/225.1.2.1:5002$天津联#
+爱羽客,http://nas.hssvm.com:8888/udp/225.1.2.1:5002$天津联#http://218.67.182.65:8888/udp/225.1.2.1:5002$天津联#
 ///http://60.7.56.33:4000/udp/239.253.93.202:6380$河北联x#http://60.164.128.167:8029/udp/239.255.29.31:8231$甘肃信x
 
-百事乒羽1,http://ycsj.aguihome.com:4022/udp/233.50.200.236:5140$浙江信#http://ycsj.aguihome.com:4022/udp/233.50.200.234:5140$浙江信41#http://www.flyskyman.cn:4022/udp/233.50.200.236:5140$浙江信2#http://ycsj.aguihome.com:4022/udp/233.50.200.235:5140$浙江信5#http://www.jeremyoto.com:82/udp/233.50.200.236:5140$浙江信3#http://125.125.181.194:4000/udp/233.50.200.236:5140$浙江信#http://125.120.8.115:9999/udp/233.50.200.236:5140$浙江信#
+百事乒羽1,http://ycsj.aguihome.com:4022/udp/233.50.200.236:5140$浙江信1#http://www.flyskyman.cn:4022/udp/233.50.200.236:5140$浙江信#http://www.jeremyoto.com:82/udp/233.50.200.236:5140$浙江信3#http://125.125.181.194:4000/udp/233.50.200.236:5140$浙江信#http://125.120.8.115:9999/udp/233.50.200.236:5140$浙江信#
 
 ////http://14.135.72.70:8888/udp/239.121.4.130:8762$宁夏信#http://180.158.201.25:1024/udp/239.45.3.139:5140$上海信#http://14.135.72.70:8888/udp/239.121.4.131:8768$宁夏信5#http://nas.tuyuannet.cn:8800/udp/239.37.0.253:5540$辽宁信x#http://60.164.128.167:8029/udp/239.255.30.170:8231$甘肃信x#http://www.lnlee.top:10000/udp/239.81.0.181:4056$广西信x#http://101.68.81.44:9999/udp/233.50.201.204:5140$浙江联
 
@@ -197,7 +199,7 @@ CETV4,http://119.32.12.32:2901/udp/224.1.100.109:11111$广电
 
 吉林篮球,http://nas.tuyuannet.cn:8800/udp/239.37.0.216:5540$辽宁信#http://nas.tuyuannet.cn:8800/udp/239.37.0.212:5540$辽宁信
 
-风云足球,http://60.223.72.30:8001/udp/226.0.2.225:9712$山西联##http://nas.tuyuannet.cn:8800/udp/239.37.0.80:5540$辽宁信http://125.89.163.44:8888/udp/239.253.43.20:5146$广东信#http://125.89.163.44:8888/udp/239.253.43.14:5146$广东信#http://110.179.80.171:8083/udp/239.1.1.101:8101#http://171.124.48.100:8083/udp/226.0.2.225:9712$山西联#http://180.158.201.25:1024/udp/239.45.0.43:5140$上海信#http://60.7.56.33:4000/udp/239.253.93.254:6432$河北联#http://www.lizhinas.top:1009/udp/239.252.219.96:5140$江西信
+风云足球,http://www.lizhinas.top:1009/udp/239.252.219.96:5140$江西信#http://60.223.72.30:8001/udp/226.0.2.225:9712$山西联##http://nas.tuyuannet.cn:8800/udp/239.37.0.80:5540$辽宁信http://125.89.163.44:8888/udp/239.253.43.20:5146$广东信#http://125.89.163.44:8888/udp/239.253.43.14:5146$广东信#http://110.179.80.171:8083/udp/239.1.1.101:8101#http://171.124.48.100:8083/udp/226.0.2.225:9712$山西联#http://180.158.201.25:1024/udp/239.45.0.43:5140$上海信#http://60.7.56.33:4000/udp/239.253.93.254:6432$河北联#
 
 魅力足球,http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031207/index.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3
 魅力足球,http://60.164.128.167:8029/udp/239.255.30.147:8231$甘肃信#http://ycsj.aguihome.com:4022/udp/233.50.200.176:5140$浙江信#http://101.68.81.44:9999/udp/233.50.200.176:5140$浙江联
@@ -352,7 +354,7 @@ iHOT爱体育,http://39.170.52.236:808/hls/19/index.m3u8$杭移
 安徽体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv
 安徽体育,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829415240627.m3u8
 
-天元围棋,http://171.213.197.238:9977/udp/239.93.42.55:5140$四川信#http://wouu.net:9977/udp/239.93.42.55:5140$四川信#http://60.7.56.33:4000/udp/239.253.93.211:6389$河北联
+天元围棋,http://wouu.net:9977/udp/239.93.42.55:5140$四川信#http://171.213.197.238:9977/udp/239.93.42.55:5140$四川信#http://60.7.56.33:4000/udp/239.253.93.211:6389$河北联
 天元围棋,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8487&tk=a0c4f6cfaba3$api
 天元围棋,http://120.76.248.139/live/bfgd/4200000633.m3u8$深圳
 
@@ -3454,6 +3456,7 @@ FOX新闻,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 俄IGITV,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 France24,http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+BBC新闻,http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
 
 NewsmaxTV,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 印BeritaSatu,https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
