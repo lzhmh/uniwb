@@ -37,6 +37,7 @@
 
 CCTV4,http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.1.25:5540$kbtv
 CCTV4,http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.1.11:5540$kbtv
+CCTV4,http://39.137.75.234:80/000000001000/1000000005000265004/1.m3u8$西宁移
 
 CCTV4,http://zqh2333.top:2222/udp/239.93.25.105:5140
 CCTV4,http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.1.12:5540$kbtv
@@ -116,6 +117,7 @@ CCTV16,http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.1.21:5
 CCTV5,http://omnix.cn:4000/udp/225.1.8.89:8000$北京信
 CCTV5,http://183.131.246.250:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$宁波信
 
+CCTV5+,http://39.137.75.234:80/000000001000/reallive-cctv5plus/1.m3u8$西宁移
 CCTV5+,http://zqh2333.top:2222/udp/239.93.25.173:5140雅安信#http://zqh2333.top:2222/rtp/239.93.25.79:5140雅安信#http://omnix.cn:4000/udp/225.1.0.110:1025$北京信
 CCTV16,http://omnix.cn:4000/udp/225.1.0.64:8001$北京信
 
@@ -774,6 +776,15 @@ CCTV4k,http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.34:5
 电视指南,http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.115:5540$kbtv
 卫生健康,http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.229:5540$kbtv
 
+CCTV14,http://39.137.75.234:80/000000001000/1000000001000021349/1.m3u8$西宁移
+CCTV12,http://39.137.75.234:80/000000001000/1000000005000265012/1.m3u8$西宁移
+CCTV9,http://39.137.75.234:80/000000001000/1000000005000265009/1.m3u8$西宁移
+CCTV7,http://39.137.75.234:80/000000001000/1000000005000265007/1.m3u8$西宁移
+CCTV1,http://39.137.75.234:80/000000001000/1000000001000018602/1.m3u8$西宁移
+CCTV1,http://39.137.75.234:80/000000001000/1000000005000265001/1.m3u8$西宁移
+CCTV15,http://39.137.75.234:80/000000001000/1000000005000265014/1.m3u8$西宁移
+CCTV17,http://39.137.75.234:80/000000001000/1000000005000056836/1.m3u8$西宁移
+
 CCTV9,http://itv.iptv1688.top:2016/itv.php?id=CCTV9$itv
 CCTV10,http://itv.iptv1688.top:2016/itv.php?id=CCTV10$itv
 CCTV1,http://itv.iptv1688.top:2016/itv.php?id=CCTV1$itv
@@ -863,6 +874,16 @@ CCTV4K,http://180.158.201.25:1024/udp/239.45.0.55:5140$上海信
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$索
 江西卫视,https://local-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8$索
 三沙卫视,https://livessws.hnntv.cn/live/ssws_01hnntv.m3u8?_upt=626783981743357501&replay=1&days=7$索
+
+安徽卫视,http://39.137.75.234:80/000000001000/1000000001000020780/1.m3u8$西宁移
+甘肃卫视,http://39.137.75.234:80/000000001000/1000000002000017827/1.m3u8$西宁移
+贵州卫视,http://39.137.75.234:80/000000001000/1000000002000003169/1.m3u8$西宁移
+河北卫视,http://39.137.75.234:80/000000001000/1000000002000017118/1.m3u8$西宁移
+湖南卫视,http://39.137.75.234:80/000000001000/1000000001000009115/1.m3u8$西宁移
+青海卫视,http://39.137.75.234:80/000000001000/1000000002000013359/1.m3u8$西宁移
+深圳卫视,http://39.137.75.234:80/000000001000/1000000005000265028/1.m3u8$西宁移
+四川卫视,http://39.137.75.234:80/000000001000/1000000002000016825/1.m3u8$西宁移
+重庆卫视,http://39.137.75.234:80/000000001000/1000000002000018937/1.m3u8$西宁移
 
 北京卫视,http://119.32.12.17:2901/udp/224.1.100.100:11111$广电
 东方卫视,http://119.32.12.17:2901/udp/224.1.100.48:11111$广电
