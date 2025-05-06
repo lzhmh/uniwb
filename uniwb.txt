@@ -39,7 +39,7 @@ CCTV4,http://fn.tmde.top:35455/bptv/10000100000000050000000003870747.m3u8$长春
 CCTV13,http://fn.tmde.top:35455/bptv/10000100000000050000000004796248.m3u8$长春联
 
 CCTV4,http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.1.25:5540$kbtv
-CCTV4,http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.1.11:5540$kbtv
+CCTV4,http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.1.11:5540$kbtv欧
 
 CCTV4,http://2.itv.nctv.top:35455/bptv/10000100000000050000000003870747.m3u8$惠州信
 CCTV13,http://2.itv.nctv.top:35455/bptv/10000100000000050000000004796248.m3u8$惠州信
@@ -51,7 +51,7 @@ CCTV13,http://dsj.motem.top:8880/bptv/10000100000000050000000004796248.m3u8$南�
 CCTV4,http://39.137.75.234:80/000000001000/1000000005000265004/1.m3u8$西宁移
 
 CCTV4,http://zqh2333.top:2222/udp/239.93.25.105:5140$雅安信
-CCTV4,http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.1.12:5540$kbtv
+CCTV4,http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.1.12:5540$kbtv美洲
 CCTV4,http://113.195.4.116:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0$九江联
 CCTV4,http://183.131.246.250:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$宁波信
 CCTV4,http://itv.iptv1688.top:2016/itv.php?id=CCTV4$itv
@@ -199,7 +199,6 @@ CETV4,http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.1.32:55
 吉林篮球,http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.212:5540$kbtv
 吉林篮球,http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.216:5540$kbtv
 风云足球,http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.80:5540$kbtv
-五星体育,http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.254:5540$kbtv
 武术世界,http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.227:5540$kbtv
 央视台球,http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.163:5540$kbtv
 高尔夫网球,http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.230:5540$kbtv
@@ -252,7 +251,7 @@ EURO1网球,http://iptv-hls.idc.md:8200/hls/261/live1.m3u8
 
 百事,http://zqh2333.top:2222/udp/239.93.25.180:5140$雅安信1#http://zqh2333.top:2222/udp/239.93.25.181:5140$雅安信2#http://zqh2333.top:2222/udp/239.93.25.182:5140$雅安信#http://zqh2333.top:2222/udp/239.93.25.183:5140$雅安信4#http://zqh2333.top:2222/udp/239.93.25.184:5140$雅安信5#http://zqh2333.top:2222/udp/239.93.25.185:5140$雅安信6#http://zqh2333.top:2222/udp/239.93.25.186:5140$雅安信7#http://zqh2333.top:2222/udp/239.93.25.187:5140$雅安信
 
-百事,http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.88:5540$kbtv1#http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.142:5540$kbtv2#http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.162:5540$kbtv3#http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.211:5540$kbtv4#http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.213:5540$kbtv5#6http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.214:5540$kbtv7#http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.222:5540$kbtv8#http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.237:5540$kbtv9#http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.253:5540$kbtv
+百事,http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.254:5540$kbtv#http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.88:5540$kbtv1#http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.142:5540$kbtv2#http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.162:5540$kbtv3#http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.211:5540$kbtv4#http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.213:5540$kbtv5#6http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.214:5540$kbtv7#http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.222:5540$kbtv8#http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.237:5540$kbtv9#http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.253:5540$kbtv
 
 百事,http://www.745612.xyz:7788/udp/235.254.196.231:1196$重庆信1#http://www.745612.xyz:7788/udp/235.254.196.232:1200$重庆信2#http://www.745612.xyz:7788/udp/235.254.196.233:1204$重庆信3#http://www.745612.xyz:7788/udp/235.254.196.234:1208$重庆信4#http://www.745612.xyz:7788/udp/235.254.196.235:1212$重庆信5#http://www.745612.xyz:7788/udp/235.254.196.236:1216$重庆信6#http://www.745612.xyz:7788/udp/235.254.196.237:1220$重庆信7#http://www.745612.xyz:7788/udp/235.254.196.241:8950$重庆信8#http://www.745612.xyz:7788/udp/235.254.196.239:8942$重庆信9#http://www.745612.xyz:7788/udp/235.254.196.240:8946$重庆信10
 百事手游,http://www.745612.xyz:7788/udp/235.254.198.161:7980$重庆信
@@ -1173,9 +1172,6 @@ CHC家庭影院,http://60.16.18.243:4949/hls/29/index.m3u8$沈阳联
 百事红剧,http://www.lebaobei.top:6868/udp/239.255.30.166:8231$甘肃信
 百事电影,http://www.lebaobei.top:6868/udp/239.255.30.100:8231$甘肃信
 百事戏剧,http://www.lebaobei.top:6868/udp/239.255.30.118:8231$甘肃信
-
-1905国外电影,http://php.jdshipin.com:8880/1905.php?id=1905dy2
-1905国内电影,http://php.jdshipin.com:8880/1905.php?id=1905dy
 
 老故事,http://nas.tuyuannet.cn:8800/udp/239.37.0.44:5540$辽宁信
 怀旧剧场,http://nas.tuyuannet.cn:8800/udp/239.37.0.82:5540$辽宁信
