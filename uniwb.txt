@@ -21,10 +21,6 @@
 凤凰香港,http://108.181.20.197/livehttpplay?channel_id=20067$108
 凤凰资讯,http://cdn5.1678520.xyz/live/live2.1.php?id=fhzx$cdn5
 
-凤凰香港,https://live.tvfix.org/live/fwxg/2/v4000000/index.m3u8$live
-凤凰中文,https://live.tvfix.org/live/fhzw/1/v4000000/index.m3u8$live
-凤凰资讯,https://live.tvfix.org/live/fwzx/1/v4000000/index.m3u8$live
-
 凤凰中文,http://119.32.12.17:2901/udp/224.1.100.3:11111$广电
 凤凰中文,http://119.32.12.32:2901/udp/224.1.100.3:11111$广电
 
@@ -41,6 +37,9 @@
 凤凰中文,http://162.62.120.19/qctv.fengshows.cn/live/0701pcc72.flv$162
 凤凰资讯,http://162.62.120.19/qctv.fengshows.cn/live/0701pin72.flv$162
 凤凰香港,http://162.62.120.19/qctv.fengshows.cn/live/0701phk72.flv$162
+凤凰香港,https://live.tvfix.org/live/fwxg/2/v4000000/index.m3u8$live无声
+凤凰中文,https://live.tvfix.org/live/fhzw/1/v4000000/index.m3u8$live无声
+凤凰资讯,https://live.tvfix.org/live/fwzx/1/v4000000/index.m3u8$live无声
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8$701
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8$701
 凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8$701
@@ -88,28 +87,25 @@ CCTV13,http://fn.tmde.top:35455/bptv/10000100000000050000000004796248.m3u8$长�
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv$720P
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 
-环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
-
-无线新闻,https://live.tvfix.org/live/inews/3/v4000000/index.m3u8$live
-无线新闻,https://live.tvfix.org/live/inews/index.m3u8$live
 无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台,http://qjrhc.jydjd.top:2911/udp/224.1.100.1:11111$广电
-翡翠台,http://beishan008.asuscomm.com:8889/bysid/1.m3u8
 翡翠台,http://222.128.55.152:9080/live/gdfc.m3u8
 翡翠台,http://119.32.12.17:2901/udp/224.1.100.121:11111$广电
 
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-明珠台,https://live.tvfix.org/live/pearl/1/v4000000/index.m3u8$live
 明珠台,http://qjrhc.jydjd.top:2911/udp/224.1.100.123:11111$广电
 明珠台,http://bziyunshao.synology.me:8890/bysid/2
 明珠台,http://beishan008.asuscomm.com:8890/bysid/2.m3u8
 明珠台,http://bziyunshao.synology.me:8890/bysid/2
-明珠台,http://nz171l122.bb60246.ctm.net:8892/bysid/2.m3u8
 明珠台,http://119.32.12.17:2901/udp/224.1.100.2:11111$广电
+
+///环球电视http://zb.xzxwhcb.com:9999/hls/world.m3u8
+///翡翠台http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+///翡翠台http://beishan008.asuscomm.com:8889/bysid/1.m3u8
+///明珠台http://nz171l122.bb60246.ctm.net:8892/bysid/2.m3u8
 
 NOW新闻,http://108.181.20.197/livehttpplay?channel_id=20041$108#http://live4play.uk/livehttpplay?channel_id=20041$108
 CHANNEL8,http://108.181.20.197/livehttpplay?channel_id=10132$108#http://live4play.uk/livehttpplay?channel_id=10132$108
@@ -122,7 +118,6 @@ RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/st
 RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 RTHK32,http://198.16.100.186:8278/rhk32_twn/playlist.m3u8?tid=MDBD4704174447041744&ct=19249&tsum=763ebe53fc33677d02ebf83b4d558d33$198
 
-tvbplus,https://live.tvfix.org/live/tvbplus/2/v4000000/index.m3u8$live
 Now新闻,http://live4play.uk/livehttpplay?channel_id=20041
 HOY78,http://live4play.uk/livehttpplay?channel_id=20191
 
@@ -281,6 +276,21 @@ iHOT爱体育,http://39.170.52.236:808/hls/19/index.m3u8$杭移
 
 棋牌娱乐,#genre#
 
+//http://lxajh.top/tv/douyu.php?id=
+八卦大师,http://lxajh.top/tv/douyu.php?id=851040$lxajh
+帽子象棋,http://lxajh.top/tv/douyu.php?id=4487219
+笑笑象棋,http://lxajh.top/tv/douyu.php?id=9969
+大神象棋,http://lxajh.top/tv/douyu.php?id=1227260
+飞刀陷阱,http://lxajh.top/tv/douyu.php?id=11576846
+飞刀讲解,http://lxajh.top/tv/douyu.php?id=10237088
+飞刀谱,http://lxajh.top/tv/douyu.php?id=11765935
+小鹤求败,http://lxajh.top/tv/douyu.php?id=3830820
+旭宝斗地主,http://lxajh.top/tv/douyu.php?id=9804176
+欢乐斗地主,http://lxajh.top/tv/douyu.php?id=8324074
+斗地主冠军赛,http://lxajh.top/tv/douyu.php?id=488743
+陶老师围棋,http://lxajh.top/tv/douyu.php?id=6586073
+弈夫围棋,http://lxajh.top/tv/douyu.php?id=6399350
+
 八卦大师,http://zzy789.xyz/douyu1.php?id=851040$zzy
 帽子象棋,http://zzy789.xyz/douyu1.php?id=4487219
 笑笑象棋,http://zzy789.xyz/douyu1.php?id=9969
@@ -324,21 +334,6 @@ iHOT爱体育,http://39.170.52.236:808/hls/19/index.m3u8$杭移
 斗地主冠军赛,https://www.goodiptv.club/douyu/488743
 陶老师围棋,https://www.goodiptv.club/douyu/6586073
 弈夫围棋,https://www.goodiptv.club/douyu/6399350
-
-//http://lxajh.top/tv/douyu.php?id=
-八卦大师,http://lxajh.top/tv/douyu.php?id=851040$lxajh
-帽子象棋,http://lxajh.top/tv/douyu.php?id=4487219
-笑笑象棋,http://lxajh.top/tv/douyu.php?id=9969
-大神象棋,http://lxajh.top/tv/douyu.php?id=1227260
-飞刀陷阱,http://lxajh.top/tv/douyu.php?id=11576846
-飞刀讲解,http://lxajh.top/tv/douyu.php?id=10237088
-飞刀谱,http://lxajh.top/tv/douyu.php?id=11765935
-小鹤求败,http://lxajh.top/tv/douyu.php?id=3830820
-旭宝斗地主,http://lxajh.top/tv/douyu.php?id=9804176
-欢乐斗地主,http://lxajh.top/tv/douyu.php?id=8324074
-斗地主冠军赛,http://lxajh.top/tv/douyu.php?id=488743
-陶老师围棋,http://lxajh.top/tv/douyu.php?id=6586073
-弈夫围棋,http://lxajh.top/tv/douyu.php?id=6399350
 
 //http://huanqiuzhibo.cn/manifest/douyu.php?id=
 八卦大师,http://huanqiuzhibo.cn/manifest/douyu.php?id=851040$huan
@@ -477,10 +472,8 @@ iHOT爱体育,http://39.170.52.236:808/hls/19/index.m3u8$杭移
 凤凰资讯,http://aktv-stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8$aktv
 凤凰香港,http://aktv-stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8$aktv
 
-TVBSHD,http://108.181.20.197/livehttpplay?channel_id=20085$108#http://live4play.uk/livehttpplay?channel_id=20085$108
-
-tvbs新闻,https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8$live
 //http://live4play.uk/livehttpplay?channel_id=10126
+TVBSHD,http://198.16.100.186:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223$荷兰198
 TVBS新闻,http://198.16.100.186:8278/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&tsum=513a9dcb42fa8b98e1792d513dd3e2ee$荷兰198
 中视新闻,http://198.16.100.186:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd$荷兰198
 中天亚洲,http://198.16.100.186:8278/ctiasia_twn/playlist.m3u8?tid=mfc2c5bc6c101&ct=18335&tsum=d074a602fcd98718afeb8fc9a18fa964$荷兰198
@@ -509,9 +502,9 @@ TVBS新闻,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MB6B3640782836407828
 非凡新闻,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997$荷兰
 非凡新闻,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d$荷兰
 非凡新闻,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?ct=17874&tid=m050e7aad65f614336734&tsum=4ea1b829d195ac69a6c2ca51b21ae378$荷兰
-非凡新闻,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378$荷兰
 民视新闻,http://50.7.234.10:8278/ftvnew_taiwan/playlist.m3u8?tid=MF1F9892989898929898&ct=19234&tsum=454a768519608690638d11c0258cdcbe$荷兰
 
+TVBSHD,http://108.181.20.197/livehttpplay?channel_id=20085$108#http://live4play.uk/livehttpplay?channel_id=20085$108
 东森新闻,http://108.181.20.197/livehttpplay?channel_id=20082$108#http://live4play.uk/livehttpplay?channel_id=20082$108
 东森财经,http://108.181.20.197/livehttpplay?channel_id=20078$108#http://live4play.uk/livehttpplay?channel_id=20078$108
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581$rtm
@@ -524,27 +517,12 @@ TVBS新闻,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MB6B3640782836407828
 国兴卫视,http://108.181.20.197/livehttpplay?channel_id=20164$108#http://live4play.uk/livehttpplay?channel_id=20164$108
 今日新闻,http://108.181.20.197/livehttpplay?channel_id=20043$108#http://live4play.uk/livehttpplay?channel_id=20043$108
 
-非凡新闻,http://198.16.100.186:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d$198
-非凡新闻,http://198.16.100.186:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997$198
-非凡新闻,http://198.16.100.186:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378$198
-
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$chunk
-
-中天新闻,http://122.117.71.103:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8$122
-TVBS新闻,http://122.117.71.103:8548/http/220.130.87.218:8081/hls/76/818/ch062.m3u8$122
-年代新闻,http://122.117.71.103:8538/http/220.130.87.218:8081/hls/67/809/ch027.m3u8$122
-三立新闻,http://122.117.71.103:8542/http/220.130.87.218:8081/hls/65/807/ch018.m3u8$122
-民视新闻,http://122.117.71.103:8541/http/220.130.87.218:8081/hls/85/80/FtvNews4max.m3u8$122
-东森超视,http://122.117.71.103:8544/http/220.130.87.218:8081/hls/75/817/ch058.m3u8$122
-
-TVBPLUS,http://cdn.163189.xyz/live/tvbp/stream.m3u8$cdn
-
-龙华电影,http://122.117.71.103:8555/http/61.222.53.250:8068/hls/10/80/cstv10.m3u8$122
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8$chunk
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8$chunk
 
 台湾Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 
-大爱1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 TVBSNEWS,http://61.221.215.25:8800/hls/9/index.m3u8$61
 
 咪咕直播,#genre#
@@ -591,7 +569,7 @@ TVBSNEWS,http://61.221.215.25:8800/hls/9/index.m3u8$61
 
 ZooMoo,https://zoomoo-samsungau.amagi.tv:443/playlist1080p.m3u8
 ZooMoo,https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
-ZooMoo,https://zoomoo-samsungau.amagi.tv/playlist.m3u8#https://live.tvfix.org/live/zoo/index.m3u8
+ZooMoo,https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 CN卡通,http://50.7.234.10:8278/momo1_twn/playlist.m3u8?ct=19225&tid=MA0A4898983648989836&tsum=bd109117d126916f203880b1f2063d5e$荷兰
 CN卡通,http://50.7.234.10:8278/momo1_twn/playlist.m3u8?tid=MA0A4898983648989836&ct=19225&tsum=bd109117d126916f203880b1f2063d5e$荷兰
@@ -1079,8 +1057,8 @@ CHC家庭影院,http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.
 CHC影迷电影,http://60.16.18.243:4949/hls/28/index.m3u8$沈阳联
 CHC家庭影院,http://60.16.18.243:4949/hls/29/index.m3u8$沈阳联
 
-邵氏影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519
 邵氏影院,http://lxajh.top/tv/douyu.php?id=4246519
+邵氏影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519
 邵氏影院,https://www.goodiptv.club/douyu/4246519
 邵氏影院,http://zzy789.xyz/douyu1.php?id=4246519
 邵氏影院,http://live.nctv.top/douyu.php?id=4246519
@@ -1305,6 +1283,107 @@ PopC,http://go1.bkpcp.top/tl/popc
 
 斗鱼轮播,#genre#
 
+//http://lxajh.top/tv/douyu.php?id=
+译制国语,http://lxajh.top/tv/douyu.php?id=2436390$lxajh
+犯罪片,http://lxajh.top/tv/douyu.php?id=747764
+漫威科幻,http://lxajh.top/tv/douyu.php?id=6140589
+苹果影院,http://lxajh.top/tv/douyu.php?id=2793084
+桃花影院,http://lxajh.top/tv/douyu.php?id=7305938
+邦德影院,http://lxajh.top/tv/douyu.php?id=9292499
+粤语电影,http://lxajh.top/tv/douyu.php?id=6566671
+4K影院,http://lxajh.top/tv/douyu.php?id=9249162
+科幻动作灾难,http://lxajh.top/tv/douyu.php?id=248753
+平安夜快乐,http://lxajh.top/tv/douyu.php?id=6863367
+看经典,http://lxajh.top/tv/douyu.php?id=7314294
+可乐电影,http://lxajh.top/tv/douyu.php?id=20415
+林正英1,http://lxajh.top/tv/douyu.php?id=218859
+小黛兮影,http://lxajh.top/tv/douyu.php?id=11553944
+林正英2,http://lxajh.top/tv/douyu.php?id=7356023
+宇哥经典,http://lxajh.top/tv/douyu.php?id=413573
+高分影厅,http://lxajh.top/tv/douyu.php?id=2535105
+花卷陪看,http://lxajh.top/tv/douyu.php?id=52787
+喜剧电影,http://lxajh.top/tv/douyu.php?id=9292492
+佳佳越狱,http://lxajh.top/tv/douyu.php?id=7575350
+胡八一,http://lxajh.top/tv/douyu.php?id=7701735
+尬舞姐姐,http://lxajh.top/tv/douyu.php?id=323876
+表妹影院,http://lxajh.top/tv/douyu.php?id=5423
+小栗子,http://lxajh.top/tv/douyu.php?id=7254536
+南波柠檬,http://lxajh.top/tv/douyu.php?id=3379942
+过往1908,http://lxajh.top/tv/douyu.php?id=8721095
+周星驰3,http://lxajh.top/tv/douyu.php?id=3990812
+刘德华1,http://lxajh.top/tv/douyu.php?id=2516864
+刘德华2,http://lxajh.top/tv/douyu.php?id=8985415
+神乐影院,http://lxajh.top/tv/douyu.php?id=85894
+特辑影院,http://lxajh.top/tv/douyu.php?id=3637778
+周末电影院,http://lxajh.top/tv/douyu.php?id=3637726
+周末经典,http://lxajh.top/tv/douyu.php?id=3637765
+欧美恐怖,http://lxajh.top/tv/douyu.php?id=96577
+恐怖电影,http://lxajh.top/tv/douyu.php?id=310926
+吃米滴虫,http://lxajh.top/tv/douyu.php?id=315457
+米娅陪看,http://lxajh.top/tv/douyu.php?id=6537888
+黎黎来了,http://lxajh.top/tv/douyu.php?id=7116591
+欧美科幻,http://lxajh.top/tv/douyu.php?id=9651304
+网神影厅,http://lxajh.top/tv/douyu.php?id=508118
+经典喜剧,http://lxajh.top/tv/douyu.php?id=9650887
+万合出品,http://lxajh.top/tv/douyu.php?id=9220456
+港片华语,http://lxajh.top/tv/douyu.php?id=431460
+凌儿影视,http://lxajh.top/tv/douyu.php?id=1377142
+华语影视,http://lxajh.top/tv/douyu.php?id=3928
+青铜椁,http://lxajh.top/tv/douyu.php?id=9292503
+避风港影院,http://lxajh.top/tv/douyu.php?id=9826611
+神乐1,http://lxajh.top/tv/douyu.php?id=122402
+贝爷1,http://lxajh.top/tv/douyu.php?id=4332
+贝爷2,http://lxajh.top/tv/douyu.php?id=252802
+贝爷3,http://lxajh.top/tv/douyu.php?id=36337
+贝爷4,http://lxajh.top/tv/douyu.php?id=925724
+甜牛奶,http://lxajh.top/tv/douyu.php?id=7494871
+兔兔陪看,http://lxajh.top/tv/douyu.php?id=1504768
+斗小饼Q,http://lxajh.top/tv/douyu.php?id=1735337
+软糖,http://lxajh.top/tv/douyu.php?id=7842226
+晚晚Vi,http://lxajh.top/tv/douyu.php?id=8861179
+小丑女,http://lxajh.top/tv/douyu.php?id=8603174
+动漫剧场,http://lxajh.top/tv/douyu.php?id=206858
+西游记,http://lxajh.top/tv/douyu.php?id=9518204
+隋唐寅义,http://lxajh.top/tv/douyu.php?id=7552568
+龙门镖局,http://lxajh.top/tv/douyu.php?id=9650860
+亮剑,http://lxajh.top/tv/douyu.php?id=7925840
+老友记,http://lxajh.top/tv/douyu.php?id=8814650
+李子键,http://lxajh.top/tv/douyu.php?id=3439096
+霸王花,http://lxajh.top/tv/douyu.php?id=9627172
+水浒传,http://lxajh.top/tv/douyu.php?id=3758762
+金庸,http://lxajh.top/tv/douyu.php?id=338759
+武侠剧场,http://lxajh.top/tv/douyu.php?id=7655471
+最早港剧,http://lxajh.top/tv/douyu.php?id=59612
+爱情公寓,http://lxajh.top/tv/douyu.php?id=2838296
+经典家庭剧,http://lxajh.top/tv/douyu.php?id=10068957
+米尼家庭剧,http://lxajh.top/tv/douyu.php?id=7642724
+搞笑一家人,http://lxajh.top/tv/douyu.php?id=5422706
+爱情公寓,http://lxajh.top/tv/douyu.php?id=4105989
+杨光的生活,http://lxajh.top/tv/douyu.php?id=6899895
+法证先锋2Y,http://lxajh.top/tv/douyu.php?id=9019945
+怡寳影院,http://lxajh.top/tv/douyu.php?id=434971
+橙幕港剧,http://lxajh.top/tv/douyu.php?id=4549169
+新三国,http://lxajh.top/tv/douyu.php?id=276200
+神探狄仁杰,http://lxajh.top/tv/douyu.php?id=674441
+童年阴影,http://lxajh.top/tv/douyu.php?id=2935323
+奶虫恐怖,http://lxajh.top/tv/douyu.php?id=263824
+粤语综艺,http://lxajh.top/tv/douyu.php?id=7919720
+豆瓣高分,http://lxajh.top/tv/douyu.php?id=8770422
+冰冰经典电影,http://lxajh.top/tv/douyu.php?id=74374
+林林影院,http://lxajh.top/tv/douyu.php?id=9652323
+高帧影片,http://lxajh.top/tv/douyu.php?id=6763930
+恐怖鬼怪,http://lxajh.top/tv/douyu.php?id=1165374
+愛看电影,http://lxajh.top/tv/douyu.php?id=432071
+经典神剧,http://lxajh.top/tv/douyu.php?id=3700024
+漫威宇宙,http://lxajh.top/tv/douyu.php?id=4282654
+蚂蚱影视,http://lxajh.top/tv/douyu.php?id=6079455
+国产剧场,http://lxajh.top/tv/douyu.php?id=308752
+苹果电影,http://lxajh.top/tv/douyu.php?id=6511325
+午夜一部片,http://lxajh.top/tv/douyu.php?id=1557481
+怀旧90,http://lxajh.top/tv/douyu.php?id=9275635
+麓山迷踪,http://lxajh.top/tv/douyu.php?id=4505431
+荒野建造者,http://lxajh.top/tv/douyu.php?id=9611578
+
 //http://zzy789.xyz
 译制国语,http://zzy789.xyz/douyu1.php?id=2436390
 犯罪片,http://zzy789.xyz/douyu1.php?id=747764
@@ -1418,107 +1497,6 @@ PopC,http://go1.bkpcp.top/tl/popc
 科幻动作灾难,https://www.goodiptv.club/douyu/248753
 平安夜快乐,https://www.goodiptv.club/douyu/6863367
 看经典,https://www.goodiptv.club/douyu/7314294
-
-//http://lxajh.top/tv/douyu.php?id=
-译制国语,http://lxajh.top/tv/douyu.php?id=2436390$lxajh
-犯罪片,http://lxajh.top/tv/douyu.php?id=747764
-漫威科幻,http://lxajh.top/tv/douyu.php?id=6140589
-苹果影院,http://lxajh.top/tv/douyu.php?id=2793084
-桃花影院,http://lxajh.top/tv/douyu.php?id=7305938
-邦德影院,http://lxajh.top/tv/douyu.php?id=9292499
-粤语电影,http://lxajh.top/tv/douyu.php?id=6566671
-4K影院,http://lxajh.top/tv/douyu.php?id=9249162
-科幻动作灾难,http://lxajh.top/tv/douyu.php?id=248753
-平安夜快乐,http://lxajh.top/tv/douyu.php?id=6863367
-看经典,http://lxajh.top/tv/douyu.php?id=7314294
-可乐电影,http://lxajh.top/tv/douyu.php?id=20415
-林正英1,http://lxajh.top/tv/douyu.php?id=218859
-小黛兮影,http://lxajh.top/tv/douyu.php?id=11553944
-林正英2,http://lxajh.top/tv/douyu.php?id=7356023
-宇哥经典,http://lxajh.top/tv/douyu.php?id=413573
-高分影厅,http://lxajh.top/tv/douyu.php?id=2535105
-花卷陪看,http://lxajh.top/tv/douyu.php?id=52787
-喜剧电影,http://lxajh.top/tv/douyu.php?id=9292492
-佳佳越狱,http://lxajh.top/tv/douyu.php?id=7575350
-胡八一,http://lxajh.top/tv/douyu.php?id=7701735
-尬舞姐姐,http://lxajh.top/tv/douyu.php?id=323876
-表妹影院,http://lxajh.top/tv/douyu.php?id=5423
-小栗子,http://lxajh.top/tv/douyu.php?id=7254536
-南波柠檬,http://lxajh.top/tv/douyu.php?id=3379942
-过往1908,http://lxajh.top/tv/douyu.php?id=8721095
-周星驰3,http://lxajh.top/tv/douyu.php?id=3990812
-刘德华1,http://lxajh.top/tv/douyu.php?id=2516864
-刘德华2,http://lxajh.top/tv/douyu.php?id=8985415
-神乐影院,http://lxajh.top/tv/douyu.php?id=85894
-特辑影院,http://lxajh.top/tv/douyu.php?id=3637778
-周末电影院,http://lxajh.top/tv/douyu.php?id=3637726
-周末经典,http://lxajh.top/tv/douyu.php?id=3637765
-欧美恐怖,http://lxajh.top/tv/douyu.php?id=96577
-恐怖电影,http://lxajh.top/tv/douyu.php?id=310926
-吃米滴虫,http://lxajh.top/tv/douyu.php?id=315457
-米娅陪看,http://lxajh.top/tv/douyu.php?id=6537888
-黎黎来了,http://lxajh.top/tv/douyu.php?id=7116591
-欧美科幻,http://lxajh.top/tv/douyu.php?id=9651304
-网神影厅,http://lxajh.top/tv/douyu.php?id=508118
-经典喜剧,http://lxajh.top/tv/douyu.php?id=9650887
-万合出品,http://lxajh.top/tv/douyu.php?id=9220456
-港片华语,http://lxajh.top/tv/douyu.php?id=431460
-凌儿影视,http://lxajh.top/tv/douyu.php?id=1377142
-华语影视,http://lxajh.top/tv/douyu.php?id=3928
-青铜椁,http://lxajh.top/tv/douyu.php?id=9292503
-避风港影院,http://lxajh.top/tv/douyu.php?id=9826611
-神乐1,http://lxajh.top/tv/douyu.php?id=122402
-贝爷1,http://lxajh.top/tv/douyu.php?id=4332
-贝爷2,http://lxajh.top/tv/douyu.php?id=252802
-贝爷3,http://lxajh.top/tv/douyu.php?id=36337
-贝爷4,http://lxajh.top/tv/douyu.php?id=925724
-甜牛奶,http://lxajh.top/tv/douyu.php?id=7494871
-兔兔陪看,http://lxajh.top/tv/douyu.php?id=1504768
-斗小饼Q,http://lxajh.top/tv/douyu.php?id=1735337
-软糖,http://lxajh.top/tv/douyu.php?id=7842226
-晚晚Vi,http://lxajh.top/tv/douyu.php?id=8861179
-小丑女,http://lxajh.top/tv/douyu.php?id=8603174
-动漫剧场,http://lxajh.top/tv/douyu.php?id=206858
-西游记,http://lxajh.top/tv/douyu.php?id=9518204
-隋唐寅义,http://lxajh.top/tv/douyu.php?id=7552568
-龙门镖局,http://lxajh.top/tv/douyu.php?id=9650860
-亮剑,http://lxajh.top/tv/douyu.php?id=7925840
-老友记,http://lxajh.top/tv/douyu.php?id=8814650
-李子键,http://lxajh.top/tv/douyu.php?id=3439096
-霸王花,http://lxajh.top/tv/douyu.php?id=9627172
-水浒传,http://lxajh.top/tv/douyu.php?id=3758762
-金庸,http://lxajh.top/tv/douyu.php?id=338759
-武侠剧场,http://lxajh.top/tv/douyu.php?id=7655471
-最早港剧,http://lxajh.top/tv/douyu.php?id=59612
-爱情公寓,http://lxajh.top/tv/douyu.php?id=2838296
-经典家庭剧,http://lxajh.top/tv/douyu.php?id=10068957
-米尼家庭剧,http://lxajh.top/tv/douyu.php?id=7642724
-搞笑一家人,http://lxajh.top/tv/douyu.php?id=5422706
-爱情公寓,http://lxajh.top/tv/douyu.php?id=4105989
-杨光的生活,http://lxajh.top/tv/douyu.php?id=6899895
-法证先锋2Y,http://lxajh.top/tv/douyu.php?id=9019945
-怡寳影院,http://lxajh.top/tv/douyu.php?id=434971
-橙幕港剧,http://lxajh.top/tv/douyu.php?id=4549169
-新三国,http://lxajh.top/tv/douyu.php?id=276200
-神探狄仁杰,http://lxajh.top/tv/douyu.php?id=674441
-童年阴影,http://lxajh.top/tv/douyu.php?id=2935323
-奶虫恐怖,http://lxajh.top/tv/douyu.php?id=263824
-粤语综艺,http://lxajh.top/tv/douyu.php?id=7919720
-豆瓣高分,http://lxajh.top/tv/douyu.php?id=8770422
-冰冰经典电影,http://lxajh.top/tv/douyu.php?id=74374
-林林影院,http://lxajh.top/tv/douyu.php?id=9652323
-高帧影片,http://lxajh.top/tv/douyu.php?id=6763930
-恐怖鬼怪,http://lxajh.top/tv/douyu.php?id=1165374
-愛看电影,http://lxajh.top/tv/douyu.php?id=432071
-经典神剧,http://lxajh.top/tv/douyu.php?id=3700024
-漫威宇宙,http://lxajh.top/tv/douyu.php?id=4282654
-蚂蚱影视,http://lxajh.top/tv/douyu.php?id=6079455
-国产剧场,http://lxajh.top/tv/douyu.php?id=308752
-苹果电影,http://lxajh.top/tv/douyu.php?id=6511325
-午夜一部片,http://lxajh.top/tv/douyu.php?id=1557481
-怀旧90,http://lxajh.top/tv/douyu.php?id=9275635
-麓山迷踪,http://lxajh.top/tv/douyu.php?id=4505431
-荒野建造者,http://lxajh.top/tv/douyu.php?id=9611578
 
 //http://huanqiuzhibo.cn/manifest/douyu.php?id=
 译制国语,http://huanqiuzhibo.cn/manifest/douyu.php?id=2436390
@@ -3901,33 +3879,34 @@ CNTV自然,#genre#
 
 小品汇,#genre#
 
-本山小品,https://www.goodiptv.club/douyu/9817716
 本山小品,http://lxajh.top/tv/douyu.php?id=9817716
+吐槽大会,http://lxajh.top/tv/douyu.php?id=9236042
+辽宁小品,http://lxajh.top/tv/douyu.php?id=9322175
+宋小宝小品,http://lxajh.top/tv/douyu.php?id=9817729
+相声小品,http://lxajh.top/tv/douyu.php?id=9273031
+贾玲小品,http://lxajh.top/tv/douyu.php?id=10419541
+
+本山小品,https://www.goodiptv.club/douyu/9817716
 本山小品,http://zzy789.xyz/douyu1.php?id=9817716
 本山小品,http://live.nctv.top/douyu.php?id=9817716
 
 吐槽大会,https://www.goodiptv.club/douyu/9236042
-吐槽大会,http://lxajh.top/tv/douyu.php?id=9236042
 吐槽大会,http://zzy789.xyz/douyu1.php?id=9236042
 吐槽大会,http://live.nctv.top/douyu.php?id=9236042
 
 辽宁小品,https://www.goodiptv.club/douyu/9322175
-辽宁小品,http://lxajh.top/tv/douyu.php?id=9322175
 辽宁小品,http://zzy789.xyz/douyu1.php?id=9322175
 辽宁小品,http://live.nctv.top/douyu.php?id=9322175
 
 宋小宝小品,https://www.goodiptv.club/douyu/9817729
-宋小宝小品,http://lxajh.top/tv/douyu.php?id=9817729
 宋小宝小品,http://zzy789.xyz/douyu1.php?id=9817729
 宋小宝小品,http://live.nctv.top/douyu.php?id=9817729
 
 相声小品,https://www.goodiptv.club/douyu/9273031
-相声小品,http://lxajh.top/tv/douyu.php?id=9273031
 相声小品,http://zzy789.xyz/douyu1.php?id=9273031
 相声小品,http://live.nctv.top/douyu.php?id=9273031
 
 贾玲小品,https://www.goodiptv.club/douyu/10419541
-贾玲小品,http://lxajh.top/tv/douyu.php?id=10419541
 贾玲小品,http://zzy789.xyz/douyu1.php?id=10419541
 贾玲小品,http://live.nctv.top/douyu.php?id=10419541
 
