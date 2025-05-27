@@ -5,6 +5,9 @@
 凤凰资讯,http://www.jxnklgb.cloudns.org/php/fhx.php?id=1$凤凰秀
 凤凰香港,http://www.jxnklgb.cloudns.org/php/fhx.php?id=3$凤凰秀
 
+凤凰中文,http://tv.dahaili.cn:4022/udp/239.11.0.153:5140$四川联
+凤凰资讯,http://tv.dahaili.cn:4022/udp/239.11.0.154:5140$四川联
+
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8$701
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8$701
 凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8$701
@@ -37,7 +40,9 @@ CCTV13,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=49c8041461997c7a9
 CCTV13,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226571/index.m3u8$哈移
 CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226571/index.m3u8$哈移
 
-CCTV4,http://tv.dahailisea.cn:4022/udp/239.10.0.190:5140$四川联
+CCTV4,http://tv.dahaili.cn:4022/udp/239.11.0.109:5140$四川联
+CCTV13,http://tv.dahaili.cn:4022/udp/239.11.0.24:5140$四川联
+
 CCTV4,http://183.131.246.250:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$宁波信#http://123.159.135.253:9901/tsfile/live/0004_1.m3u8$温州联
 CCTV4,http://itv.iptv1688.top:2016/itv.php?id=CCTV4$itv
 CCTV4,http://hzzzz530.com:4022/udp/239.69.1.138:10466$湖北信
@@ -116,7 +121,11 @@ CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8$�
 CCTV5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$哈移
 CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$哈移
 
-CCTV16,http://tv.dahailisea.cn:4022/udp/239.10.0.187:5140$四川联
+CCTV5,http://tv.dahaili.cn:4022/udp/239.11.0.100:5140$四川联
+CCTV5+,http://tv.dahaili.cn:4022/udp/239.11.0.241:5140$四川联
+CCTV16,http://tv.dahaili.cn:4022/udp/239.11.0.67:5140$四川联4K
+CCTV16,http://tv.dahaili.cn:4022/udp/239.10.0.187:5140$四川联4K
+
 CCTV5,http://hzzzz530.com:4022/udp/239.69.1.123:10376$湖北信
 CCTV5,http://hzzzz530.com:4022/udp/239.69.1.12:9712$湖北信
 CCTV5+,http://hzzzz530.com:4022/udp/239.254.96.234:9484$湖北信
@@ -168,8 +177,9 @@ CETV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8$�
 黑龙江文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8$哈移
 黑龙江文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226424/index.m3u8$哈移s
 
-睛彩竞技,http://tv.dahailisea.cn:4022/udp/239.10.0.224:5140$四川联
-睛彩青少,http://tv.dahailisea.cn:4022/udp/239.10.0.130:5140$四川联
+睛彩青少,http://tv.dahaili.cn:4022/udp/239.10.0.130:5140$四川联
+睛彩竞技,http://tv.dahaili.cn:4022/udp/239.10.0.224:5140$四川联
+睛彩篮球,http://tv.dahaili.cn:4022/udp/239.11.0.122:5140$四川联
 魅力足球,http://tv.dahailisea.cn:4022/udp/239.10.0.185:5140$四川联
 
 天津体育,http://60.29.124.66:6080/hls/6/index.m3u8$天津联
@@ -621,10 +631,19 @@ CN卡通,https://haoyunlai.serv00.net/Smartv-1.php?id=momo1_twn$haoyunlai
 
 黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8$哈移
 金鹰卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8$哈移
-北京少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8$哈移s
+北京酷少,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8$哈移s
 优漫卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8$哈移s
 哈哈炫动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8$哈移s
 精品萌宠,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8$哈移
+
+北京酷少,http://tv.dahaili.cn:4022/udp/239.11.0.129:5140$四川联
+金鹰卡通,http://tv.dahaili.cn:4022/udp/239.11.0.127:5140$四川联
+嘉佳卡通,http://tv.dahaili.cn:4022/udp/239.11.0.203:5140$四川联
+哈哈炫动,http://tv.dahaili.cn:4022/udp/239.11.0.64:5140$四川联
+动漫秀场,http://tv.dahaili.cn:4022/udp/239.10.0.101:5140$四川联
+优漫卡通,http://tv.dahaili.cn:4022/udp/239.11.0.63:5140$四川联
+新动漫,http://tv.dahailisea.cn:4022/udp/239.10.0.89:5140$四川联#http://tv.dahailisea.cn:4022/udp/239.10.0.159:5140$四川联
+中学生,http://tv.dahaili.cn:4022/udp/239.11.0.247:5140$四川联
 
 华数动画,http://tv.dahailisea.cn:4022/udp/239.10.0.163:5140$四川联#http://joyznm.i234.me:20000/udp/239.3.1.80:4120$北京联#http://omnix.cn:4000/udp/225.1.8.240:4120$北京信#http://www.745612.xyz:7788/udp/235.254.198.87:1624$重庆信#http://124.224.85.177:2000/udp/239.121.4.166:8980$宁夏信
 
@@ -650,9 +669,7 @@ CETV早教,http://125.89.163.44:8888/udp/239.77.0.180:5146$广东信
 
 优漫卡通,http://121.29.141.57:4022/udp/239.253.93.204:6382$河北联
 
-动漫秀场,http://tv.dahailisea.cn:4022/udp/239.10.0.101:5140$四川联#http://121.29.141.57:4022/udp/239.253.93.225:6403$河北联#http://110.177.146.152:888/udp/239.1.1.80:8080$山西信#http://223.10.11.180:8083/udp/239.1.1.80:8080$山西信#http://223.10.3.122:8084/udp/239.1.1.80:8080$山西信#http://60.4.3.178:8888/udp/239.253.93.225:6403$河北联#http://115.239.104.127:9999/udp/233.50.200.12:5140$浙江信#http://125.123.121.81:4022/udp/233.50.200.12:5140$浙江信#http://218.72.152.76:9999/udp/233.50.201.184:5140$浙江信#http://124.224.85.177:2000/udp/239.121.4.74:8418$宁夏信#http://60.164.128.167:8029/udp/239.255.30.60:8231$甘肃信#http://60.164.128.167:8029/udp/239.255.29.16:8231$甘肃信
-
-新动漫,http://tv.dahailisea.cn:4022/udp/239.10.0.89:5140$四川联#http://tv.dahailisea.cn:4022/udp/239.10.0.159:5140$四川联
+动漫秀场,http://121.29.141.57:4022/udp/239.253.93.225:6403$河北联#http://110.177.146.152:888/udp/239.1.1.80:8080$山西信#http://223.10.11.180:8083/udp/239.1.1.80:8080$山西信#http://223.10.3.122:8084/udp/239.1.1.80:8080$山西信#http://60.4.3.178:8888/udp/239.253.93.225:6403$河北联#http://115.239.104.127:9999/udp/233.50.200.12:5140$浙江信#http://125.123.121.81:4022/udp/233.50.200.12:5140$浙江信#http://218.72.152.76:9999/udp/233.50.201.184:5140$浙江信
 
 百事动画,http://wouu.net:9977/udp/239.93.0.147:5140$四川信#http://60.164.128.167:8029/udp/239.255.30.151:8231$甘肃信
 
@@ -728,10 +745,6 @@ CETV早教,http://www.745612.xyz:7788/udp/235.254.196.112:7980$重庆信http://2
 天天成长记13,https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/dc3da5530b2245c48bc772c13ab5ea2c/2000.m3u8
 灌篮高手,http://6666666.mghost.site/1/yy2.php?id=1382735626
 灌篮高手,http://jiaojirentv.top/2020/yy.php?id=1382735626
-
-中学生,http://goo.bkpcp.top/mg/zxs$mg
-中学生,http://gat.bkpcp.top/ymg.php?id=zxs$ymg
-中学生,http://183.11.239.36:808/hls/24/index.m3u8
 
 环球体育,#genre#
 
@@ -883,6 +896,28 @@ CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$
 CCTV10,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8$哈移
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8$哈移
 
+CCTV9,http://tv.dahaili.cn:4022/udp/239.11.0.111:5140$四川联
+CCTV10,http://tv.dahaili.cn:4022/udp/239.11.0.112:5140$四川联
+CCTV2,http://tv.dahaili.cn:4022/udp/239.11.0.108:5140$四川联
+CCTV3,http://tv.dahaili.cn:4022/udp/239.11.0.101:5140$四川联
+CCTV6,http://tv.dahaili.cn:4022/udp/239.11.0.102:5140$四川联
+CCTV7,http://tv.dahaili.cn:4022/udp/239.11.0.110:5140$四川联
+CCTV8,http://tv.dahaili.cn:4022/udp/239.11.0.103:5140$四川联
+CCTV11,http://tv.dahaili.cn:4022/udp/239.10.0.150:5140$四川联
+CCTV11,http://tv.dahaili.cn:4022/udp/239.11.0.22:5140$四川联
+CCTV12,http://tv.dahaili.cn:4022/udp/239.11.0.113:5140$四川联
+CCTV14,http://tv.dahaili.cn:4022/udp/239.11.0.114:5140$四川联
+CCTV15,http://tv.dahaili.cn:4022/udp/239.11.0.26:5140$四川联
+CCTV17,http://tv.dahaili.cn:4022/udp/239.11.0.107:5140$四川联
+CCTV1,http://tv.dahaili.cn:4022/udp/239.10.0.190:5140$四川联
+CCTV1,http://tv.dahaili.cn:4022/udp/239.10.0.151:5140$四川联
+CCTV1,http://tv.dahaili.cn:4022/udp/239.10.0.245:5140$四川联
+CCTV1,http://tv.dahaili.cn:4022/udp/239.11.0.65:5140$四川联
+CCTV1,http://tv.dahaili.cn:4022/udp/239.11.0.69:5140$四川联
+生活时尚,http://tv.dahaili.cn:4022/udp/239.10.0.102:5140$四川联
+CCTV4K,http://tv.dahaili.cn:4022/udp/239.11.0.61:5140$四川联
+CCTV4K,http://tv.dahaili.cn:4022/udp/239.11.0.62:5140$四川联
+
 CCTV14,http://39.137.75.234:80/000000001000/1000000001000021349/1.m3u8$西宁移
 CCTV12,http://39.137.75.234:80/000000001000/1000000005000265012/1.m3u8$西宁移
 CCTV9,http://39.137.75.234:80/000000001000/1000000005000265009/1.m3u8$西宁移
@@ -955,6 +990,44 @@ CCTV7,https://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?t
 浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8$哈移
 吉林卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8$哈移
 重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8$哈移
+
+北京卫视,http://tv.dahaili.cn:4022/udp/239.11.0.121:5140$四川联
+北京卫视,http://tv.dahaili.cn:4022/udp/239.10.0.91:5140$四川联4K
+北京卫视,http://tv.dahaili.cn:4022/udp/239.10.0.92:5140$四川联4K
+广东卫视,http://tv.dahaili.cn:4022/udp/239.11.0.115:5140$四川联
+深圳卫视,http://tv.dahaili.cn:4022/udp/239.11.0.71:5140$四川联
+东南卫视,http://tv.dahaili.cn:4022/udp/239.11.0.41:5140$四川联
+湖北卫视,http://tv.dahaili.cn:4022/udp/239.11.0.74:5140$四川联
+湖南卫视,http://tv.dahaili.cn:4022/udp/239.11.0.119:5140$四川联
+江西卫视,http://tv.dahaili.cn:4022/udp/239.11.0.42:5140$四川联
+山东卫视,http://tv.dahaili.cn:4022/udp/239.11.0.73:5140$四川联
+云南卫视,http://tv.dahaili.cn:4022/udp/239.11.0.52:5140$四川联
+天津卫视,http://tv.dahaili.cn:4022/udp/239.11.0.123:5140$四川联
+辽宁卫视,http://tv.dahaili.cn:4022/udp/239.11.0.118:5140$四川联
+吉林卫视,http://tv.dahaili.cn:4022/udp/239.11.0.35:5140$四川联
+黑龙江卫视,http://tv.dahaili.cn:4022/udp/239.11.0.36:5140$四川联
+安徽卫视,http://tv.dahaili.cn:4022/udp/239.11.0.117:5140$四川联
+东方卫视,http://tv.dahaili.cn:4022/udp/239.11.0.68:5140$四川联
+河北卫视,http://tv.dahaili.cn:4022/udp/239.11.0.31:5140$四川联
+四川卫视,http://tv.dahaili.cn:4022/udp/239.11.0.78:5140$四川联
+海南卫视,http://tv.dahaili.cn:4022/udp/239.11.0.193:5140$四川联
+重庆卫视,http://tv.dahaili.cn:4022/udp/239.11.0.116:5140$四川联
+三沙卫视,http://tv.dahaili.cn:4022/udp/239.11.0.84:5140$四川联
+江苏卫视,http://tv.dahaili.cn:4022/udp/239.11.0.76:5140$四川联
+河南卫视,http://tv.dahaili.cn:4022/udp/239.11.0.44:5140$四川联
+广西卫视,http://tv.dahaili.cn:4022/udp/239.11.0.48:5140$四川联
+贵州卫视,http://tv.dahaili.cn:4022/udp/239.11.0.51:5140$四川联
+甘肃卫视,http://tv.dahaili.cn:4022/udp/239.11.0.55:5140$四川联
+青海卫视,http://tv.dahaili.cn:4022/udp/239.11.0.56:5140$四川联
+浙江卫视,http://tv.dahaili.cn:4022/udp/239.11.0.70:5140$四川联
+山西卫视,http://tv.dahaili.cn:4022/udp/239.11.0.32:5140$四川联
+陕西卫视,http://tv.dahaili.cn:4022/udp/239.11.0.54:5140$四川联
+内蒙古卫视,http://tv.dahaili.cn:4022/udp/239.11.0.33:5140$四川联
+康巴卫视,http://tv.dahaili.cn:4022/udp/239.11.0.10:5140$四川联
+厦门卫视,http://tv.dahaili.cn:4022/udp/239.11.0.83:5140$四川联
+宁夏卫视,http://tv.dahaili.cn:4022/udp/239.11.0.57:5140$四川联
+新疆卫视,http://tv.dahaili.cn:4022/udp/239.11.0.58:5140$四川联
+西藏卫视,http://tv.dahaili.cn:4022/udp/239.11.0.53:5140$四川联
 
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$索
 江西卫视,https://local-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8$索
@@ -1037,6 +1110,7 @@ CHC家庭影院,http://60.16.18.243:4949/hls/29/index.m3u8$沈阳联
 经典电影,http://61.133.118.228:5001/yy/1356363815
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv$ali
 
+华数电影,http://tv.dahaili.cn:4022/udp/239.11.0.120:5140$四川联4k
 华数热播,http://tv.dahailisea.cn:4022/udp/239.10.0.121:5140$四川联
 华数经典,http://tv.dahailisea.cn:4022/udp/239.10.0.122:5140$四川联
 华数喜剧,http://tv.dahailisea.cn:4022/udp/239.10.0.132:5140$四川联
@@ -1049,6 +1123,10 @@ CHC家庭影院,http://60.16.18.243:4949/hls/29/index.m3u8$沈阳联
 华数军旅,http://tv.dahailisea.cn:4022/udp/239.10.0.125:5140$四川联
 华数现代,http://tv.dahailisea.cn:4022/udp/239.10.0.124:5140$四川联
 南岛风云,http://tv.dahailisea.cn:4022/udp/239.10.0.164:5140$四川联
+星空频道,http://tv.dahaili.cn:4022/udp/239.11.0.156:5140$四川联
+峨眉电影,http://tv.dahaili.cn:4022/udp/239.11.0.11:5140$四川联
+
+铁路电视,http://tv.dahaili.cn:4022/udp/239.11.0.191:5140$四川联
 
 华数经典,http://wouu.net:9977/udp/239.93.0.57:9024$四川信
 华数热播,http://wouu.net:9977/udp/239.93.0.56:9020$四川信
@@ -1092,6 +1170,7 @@ CHC家庭影院,http://60.16.18.243:4949/hls/29/index.m3u8$沈阳联
 华数家庭,http://27.10.92.105:4022/udp/225.0.4.171:7980$重庆联#
 华数精选,http://27.10.92.105:4022/udp/225.0.4.152:7980$重庆联#
 华数星影,http://27.10.92.105:4022/udp/225.0.4.172:7980$重庆联#
+都市剧场,http://tv.dahaili.cn:4022/udp/239.10.0.106:5140$四川联
 
 华数喜剧,http://113.128.128.56:8688/udp/239.21.1.122:5002$山东信
 华数动作,http://113.128.128.56:8688/udp/239.21.1.123:5002$山东信
@@ -1110,10 +1189,6 @@ CHC家庭影院,http://60.16.18.243:4949/hls/29/index.m3u8$沈阳联
 华数动作,http://183.66.13.82:60033/tsfile/live/0110_2.m3u8$重信
 华数经典,http://183.66.13.82:60033/tsfile/live/0111_2.m3u8$重信
 
-老故事,http://nas.tuyuannet.cn:8800/udp/239.37.0.44:5540$辽宁信
-怀旧剧场,http://nas.tuyuannet.cn:8800/udp/239.37.0.82:5540$辽宁信
-长影频道,http://nas.tuyuannet.cn:8800/udp/239.37.0.125:5540$辽宁信
-
 第一剧场,http://www.lizhinas.top:1009/udp/239.252.219.86:5140$江西信#http://59.55.252.241:6565/udp/239.252.219.86:5140$江西信
 怀旧剧场,http://www.lizhinas.top:1009/udp/239.252.219.90:5140$江西信#http://59.55.252.241:6565/udp/239.252.219.90:5140$江西信
 
@@ -1121,7 +1196,7 @@ CHC家庭影院,http://60.16.18.243:4949/hls/29/index.m3u8$沈阳联
 
 欢笑剧场,http://tv.dahailisea.cn:4022/udp/239.10.0.129:5140$四川联#http://125.123.121.81:4022/udp/233.50.200.229:5140$浙江信
 
-都市剧场,http://tv.dahailisea.cn:4022/udp/239.10.0.106:5140$四川联#http://wouu.net:9977/udp/239.93.42.30:5140$四川信#http://nas.hssvm.com:8888/udp/225.1.1.146:5002$天津联#http://125.123.121.81:4022/udp/233.50.200.11:5140$浙江信
+都市剧场,http://wouu.net:9977/udp/239.93.42.30:5140$四川信#http://nas.hssvm.com:8888/udp/225.1.1.146:5002$天津联#http://125.123.121.81:4022/udp/233.50.200.11:5140$浙江信
 淘电影,http://joyznm.i234.me:20000/udp/239.3.1.250:8001$北京联
 淘剧场,http://joyznm.i234.me:20000/udp/239.3.1.95:8001$北京联
 爱上4K,http://joyznm.i234.me:20000/udp/239.3.1.236:2000$北京联#http://wouu.net:9977/udp/239.93.0.97:5140$四川信#
@@ -3359,12 +3434,17 @@ Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 CGTNDocumentary,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8$哈移
 精品纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8$哈移
 
-金鹰纪实,http://tv.dahailisea.cn:4022/udp/239.10.0.193:5140$四川联#http://hzzzz530.com:4022/udp/239.69.1.109:10292$湖北信
+求索纪录,http://tv.dahaili.cn:4022/udp/239.10.0.221:5140$四川联
+金鹰纪实,http://tv.dahaili.cn:4022/udp/239.10.0.193:5140$四川联
+乐游频道,http://tv.dahaili.cn:4022/udp/239.10.0.105:5140$四川联
+CGTNDocumentary,http://tv.dahaili.cn:4022/udp/239.11.0.138:5140$四川联
+
+金鹰纪实,http://hzzzz530.com:4022/udp/239.69.1.109:10292$湖北信
 金鹰纪实,http://116.128.242.83:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 
 世界地理,http://hzzzz530.com:4022/udp/239.69.1.91:10186$湖北信
 
-求索纪录,http://121.29.141.57:4022/udp/239.253.93.236:6414$河北联#http://www.745612.xyz:7788/udp/235.254.198.251:7980$重庆信#http://tv.dahailisea.cn:4022/udp/239.10.0.221:5140$四川联#http://www.lnlee.top:10000/udp/239.81.0.153:4056$广西信#http://183.66.51.205:4022/udp/235.254.198.251:7980$重庆信
+求索纪录,http://121.29.141.57:4022/udp/239.253.93.236:6414$河北联#http://www.745612.xyz:7788/udp/235.254.198.251:7980$重庆信#http://www.lnlee.top:10000/udp/239.81.0.153:4056$广西信#http://183.66.51.205:4022/udp/235.254.198.251:7980$重庆信
 
 CGTNDocumentary,http://news.cgtn.com/resource/live/document/cgtn-doc.m3u8$news#https://0472.org/hls/cgtnd.m3u8
 CGTNDocumentary,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8$news
@@ -3440,16 +3520,20 @@ CETV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8$�
 山东教育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8$哈移s
 大庆教育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226523/index.m3u8$哈移
 
+CETV2,http://tv.dahaili.cn:4022/udp/239.11.0.246:5140$四川联
+CETV4,http://tv.dahaili.cn:4022/udp/239.11.0.139:5140$四川联
+CETV4,http://tv.dahaili.cn:4022/udp/239.11.0.248:5140$四川联
+金色学堂,http://tv.dahaili.cn:4022/udp/239.10.0.179:5140$四川联
+山东教育,http://tv.dahaili.cn:4022/udp/239.11.0.140:5140$四川联
+
 CETV2,http://wouu.net:9977/udp/239.93.0.113:5140$四川信
 
-金色学堂,http://tv.dahailisea.cn:4022/udp/239.10.0.179:5140$四川联#
 金色学堂,http://php.jdshipin.com:8880/bestv.php?id=jingsepd8m/8000000
 
 文物宝库,http://tvcdn.stream3.hndt.com/tv/65b5a69d017e1000aa645bea00000000_transios/playlist.m3u8?wsSecret=6a9f28d3d145a2cc25b7a9c55dac14a0&wsTime=1746802840$tvcdn
 文物宝库,http://1.94.31.214/php/hntv.php?id=wwbk$hntv
 文物宝库,http://221.7.175.154:8445/tsfile/live/1019_1.m3u8$北海联
 文物宝库,http://php.jdshipin.com:8880/hntv.php?id=wwbk
-
 
 中华特产,http://nas.hssvm.com:8888/udp/225.1.2.197:5002$天津联#http://121.29.141.57:4022/udp/239.253.93.242:6420$河北联#http://enlen.vip:4022/udp/239.200.201.155:8124$云南信
 
@@ -3530,6 +3614,7 @@ fashionBOX,http://80.94.54.42/fashiontv/stream/playlist.m3u8#http://lb.streaming
 
 中国国际CGTN,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8$哈移
 中国国际CGTN,http://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+中国国际CGTN,http://tv.dahaili.cn:4022/udp/239.11.0.245:5140$四川联
 
 新加坡cna,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 新加坡cna,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
