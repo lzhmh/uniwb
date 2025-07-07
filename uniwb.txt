@@ -1,6 +1,9 @@
 //粤联频道数据收集自网络上的分享250706开通IPV6
 港澳HU97,#genre#
 
+
+凤凰中文,http://43.152.143.193/hkmolive.fengshows.com/live/0701pcc72.m3u8
+凤凰资讯,http://43.152.143.193/hkmolive.fengshows.com/live/0701pin72.m3u8
 凤凰中文,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8$北海联#http://hbhyjq.ufyct.com:1088/hls/72/index.m3u8$邯郸联
 凤凰资讯,http://hbhyjq.ufyct.com:1088/hls/73/index.m3u8$邯郸联
 凤凰资讯,http://218.104.239.114:9901/tsfile/live/1012_1.m3u8#http://221.7.175.154:8445/tsfile/live/1021_1.m3u8$北海联
@@ -379,9 +382,8 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8$chunk
 TVBSHD,http://198.16.100.186:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e$荷兰198
 TVBSHD,http://198.16.100.186:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223$荷兰198
 TVBS新闻,http://198.16.100.186:8278/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&tsum=513a9dcb42fa8b98e1792d513dd3e2ee$荷兰198
+中天新闻,http://198.16.100.186:8278/ctiasia_twn/playlist.m3u8?tid=mfc2c5bc6c101&ct=18335&tsum=d074a602fcd98718afeb8fc9a18fa964$荷兰198
 中视新闻,http://198.16.100.186:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd$荷兰198
-中天亚洲,http://198.16.100.186:8278/ctiasia_twn/playlist.m3u8?tid=MFFF9983745599837455&ct=19193&tsum=ee61e179a8c619a076c515514d68e24e$荷兰198
-中天亚洲,http://198.16.100.186:8278/ctiasia_twn/playlist.m3u8?tid=mfc2c5bc6c101&ct=18335&tsum=d074a602fcd98718afeb8fc9a18fa964$荷兰198
 东森财经,http://198.16.100.186:8278/ettvcaijing_twn/playlist.m3u8?ct=17874&tid=m999b5a0f7fca17599138&tsum=345085d2d6d4401fdb3da968dfee5a54$荷兰198
 东森财经,http://198.16.100.186:8278/ettvcaijing_twn/playlist.m3u8?tid=m999b5a0f7fca17599138&ct=17874&tsum=345085d2d6d4401fdb3da968dfee5a54$荷兰198
 东森新闻,http://198.16.100.186:8278/ettvnews/playlist.m3u8?tid=MD8D4407126144071261&ct=19344&tsum=c7212737de5e023823ea68610d709c14$荷兰198
@@ -392,6 +394,7 @@ TVBS新闻,http://198.16.100.186:8278/tvbs_n/playlist.m3u8?tid=MA4A2233260122332
 非凡新闻,http://198.16.100.186:8278/feifannews_twn/playlist.m3u8?ct=17874&tid=m050e7aad65f614336734&tsum=4ea1b829d195ac69a6c2ca51b21ae378$荷兰198
 非凡新闻,http://198.16.100.186:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378$荷兰198
 民视新闻,http://198.16.100.186:8278/ftvnew_taiwan/playlist.m3u8?tid=MF1F9892989898929898&ct=19234&tsum=454a768519608690638d11c0258cdcbe$荷兰198
+中天亚洲,http://198.16.100.186:8278/ctiasia_twn/playlist.m3u8?tid=MFFF9983745599837455&ct=19193&tsum=ee61e179a8c619a076c515514d68e24e$荷兰198
 
 TVBSHD,https://haoyunlai.serv00.net/Smartv-1.php?id=tvbs$haoyunlai
 TVBS新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=tvbs_n$haoyunlai
@@ -817,6 +820,7 @@ CHC家庭影院,http://60.16.18.243:4949/hls/29/index.m3u8$沈阳联
 东北热剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8$哈移
 欢乐剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8$哈移
 
+凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8$iot
 凤凰电影,http://221.7.175.154:8445/tsfile/live/1022_1.m3u8
 CHC家庭影院,http://221.234.131.59:4022/udp/239.69.1.243:11100$湖北信
 CHC家庭影院,http://58.50.157.86:4022/udp/239.69.1.243:11100$湖北信
@@ -3276,8 +3280,9 @@ fashionBOX,http://80.94.54.42/fashiontv/stream/playlist.m3u8#http://lb.streaming
 
 外语新闻,#genre#
 
-中国国际CGTN,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8$哈移
+中国国际CGTN,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 中国国际CGTN,http://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+中国国际CGTN,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8$哈移
 
 新加坡cna,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 新加坡cna,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
