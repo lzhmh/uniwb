@@ -1,4 +1,4 @@
-//粤联频道数据收集自网络上的分享250906开通IPV6
+//粤联频道数据收集自网络上的分享250808开通IPV6
 //https://live.iill.top/bilibili/
 港澳HU02,#genre#
 
@@ -60,10 +60,10 @@
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8$音频
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8$音频
 
-CCTV4,http://116.77.33.98:44330/tsfile/live/0004_1.m3u8$深天威
-CCTV13,http://116.77.33.98:44330/tsfile/live/0014_1.m3u8$深天威
 CCTV4,http://vip1.xinketongxun.fun:8082/tsfile/live/0004_1.m3u8$钦州联
 CCTV13,http://vip1.xinketongxun.fun:8082/tsfile/live/0013_1.m3u8$钦州联
+CCTV4,http://116.77.33.98:44330/tsfile/live/0004_1.m3u8$深天威
+CCTV13,http://116.77.33.98:44330/tsfile/live/0014_1.m3u8$深天威
 CCTV13,http://jackgao.top:35455/douyin/870887192950$douyin
 CCTV13,http://jackgao.top:35455/douyin/870887192950
 CCTV4,http://106.53.99.30/tv/api.php?id=cctv4$106
@@ -240,17 +240,22 @@ CCTV5,http://111.43.126.240:9003/hls/17/index.m3u8$哈移动
 CCTV5+,http://111.43.126.240:9003/hls/18/index.m3u8$哈移动
 CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8$哈移
 
+CCTV16,http://www.zyhfm.com:8088/udp/239.69.1.247:11124$湖北信#http://www.zyhfm.com:8088/udp/239.69.1.249:11136$湖北信K
+
 先锋乒羽,http://vip1.xinketongxun.fun:8082/tsfile/live/1013_1.m3u8$钦州联
-先锋乒羽,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-1.m3u8$温州移#http://117.141.162.238:8181/tsfile/live/1114_1.m3u8?key=txiptv&playlive=1&authid=0$北海移#http://180.165.27.52:8686/udp/239.45.3.43:5140$上海信#http://home.amucn.net:8800/udp/239.49.0.145:8000$江苏信
+先锋乒羽,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-1.m3u8$温州移#http://117.141.162.238:8181/tsfile/live/1114_1.m3u8?key=txiptv&playlive=1&authid=0$北海移#http://home.amucn.net:8800/udp/239.49.0.145:8000$江苏信
 
 爱尔达3,http://t.061899.xyz/tl/js/js.php?id=3aedtyt$0618
 爱尔达3,http://iptv.4666888.xyz/iptv.php?id=20234$iptv
 
+麻辣体育,http://sckonlan.youankj.cn:8888/udp/239.93.42.2:5140$四川信
+
 爱羽客,http://nas.hssvm.com:8888/udp/225.1.2.1:5002$天津联
 
-百事乒羽1,http://58.32.33.197:4022/udp/239.45.3.139:5140$上海信#http://116.234.76.21:4022/udp/239.45.3.139:5140$上海信#http://116.237.148.215:8881/udp/239.45.3.139:5140$上海信#http://180.165.27.52:8686/udp/239.45.3.139:5140$上海信#http://e2.woc.iiiya.cn:28888/udp/239.61.5.12:1025$福建信4#http://www.745612.xyz:7788/udp/235.254.196.234:1208$重庆信4#http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225664/1.m3u8$ip6
+百事乒羽1,http://95201.top:8888/udp/233.50.201.204:5140$浙江联#http://95201.top:8888/udp/233.50.200.236:5140$浙江信
+百事乒羽1,http://58.32.33.197:4022/udp/239.45.3.139:5140$上海信#http://116.234.76.21:4022/udp/239.45.3.139:5140$上海信#http://116.237.148.215:8881/udp/239.45.3.139:5140$上海信#http://e2.woc.iiiya.cn:28888/udp/239.61.5.12:1025$福建信4#http://www.745612.xyz:7788/udp/235.254.196.234:1208$重庆信4#http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225664/1.m3u8$ip6
 
-百事乒羽2,http://58.32.33.197:4022/udp/239.45.3.140:5140$上海信#http://116.234.76.21:4022/udp/239.45.3.140:5140$上海信#http://116.237.148.215:8881/udp/239.45.3.140:5140$上海信#http://180.165.27.52:8686/udp/239.45.3.140:5140$上海信
+百事乒羽2,http://58.32.33.197:4022/udp/239.45.3.140:5140$上海信#http://116.234.76.21:4022/udp/239.45.3.140:5140$上海信#http://116.237.148.215:8881/udp/239.45.3.140:5140$上海信#
 
 广东体育,http://116.77.33.98:44330/tsfile/live/1004_1.m3u8$深天威
 广东体育,http://vip1.xinketongxun.fun:8082/tsfile/live/1006_1.m3u8$钦州联
@@ -328,8 +333,6 @@ CETV4,http://36.135.118.195:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&aut
 
 棋牌娱乐,#genre#
 
-掼蛋精英赛,http://m.061899.xyz/mg/dds$mg
-掼蛋精英赛,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=gdjys
 掼蛋精英赛,http://m.061899.xyz/mg/dds$mg
 掼蛋精英赛,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=gdjys
 
@@ -550,23 +553,9 @@ CETV4,http://36.135.118.195:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&aut
 陶老师围棋,https://www.goodiptv.club/douyu/6586073
 弈夫围棋,https://www.goodiptv.club/douyu/6399350
 
-柳大华直播,http://jackgao.top:35455/douyin/27068126593$jack
-街头直播,http://jackgao.top:35455/douyin/999039291841$jack
-
-掼蛋联赛,http://jackgao.top:35455/douyin/55948161808$jack
-看风直播,http://jackgao.top:35455/douyin/42059896853$jack
-钰宝直播,http://jackgao.top:35455/douyin/38129468982$jack
-淡定直播,http://jackgao.top:35455/douyin/1089824966$jack
-张毅直播,http://jackgao.top:35455/douyin/1080010222$jack
-掼蛋直播,http://jackgao.top:35455/douyin/38731796266$jack
-
 囲碁将棋,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS363&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 天元围棋,http://121.29.169.136:7777/udp/239.253.93.211:6389$河北联#http://121.29.169.136:8888/udp/239.253.93.211:6389$河北联#http://121.29.169.30:7777/udp/239.253.93.211:6389$河北联#http://121.29.169.30:8888/udp/239.253.93.211:6389$河北联#http://121.29.169.6:7777/udp/239.253.93.211:6389$河北联#http://121.29.169.6:8888/udp/239.253.93.211:6389$河北联#http://121.29.215.215:7777/udp/239.253.93.211:6389$河北联#http://121.29.215.215:8888/udp/239.253.93.211:6389$河北联
-
-天山弈道,http://jackgao.top:35455/douyin/309312439347$jack
-张指导直播,http://jackgao.top:35455/douyin/448147530190$jack
-极简直播,http://jackgao.top:35455/douyin/328531745171$jack
 
 斗地主冠军赛,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 体育人物,https://mursor.ottiptv.cc/douyu/8434598
@@ -603,9 +592,6 @@ CETV4,http://36.135.118.195:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&aut
 邱慧芳24太极拳,https://vd3.bdstatic.com/mda-pct748r1egmk3c8x/sc/cae_h264/1680067740751400060/mda-pct748r1egmk3c8x.mp4
 
 联通电信,#genre#
-
-都业华直播,http://jackgao.top:35455/douyin/992023778128$jack
-股道直播,http://jackgao.top:35455/douyin/272329718530$jack
 
 凤凰中文,http://bxtv.3a.ink/api.php?id=fhzw$bxtv
 凤凰资讯,http://bxtv.3a.ink/api.php?id=fhzx$bxtv
@@ -756,7 +742,66 @@ MTV,http://iptv.4666888.xyz/iptv.php?id=20276$iptv
 BBC,http://iptv.4666888.xyz/iptv.php?id=20279$iptv#http://iptv.4666888.xyz/iptv.php?id=20280$iptv
 History,http://iptv.4666888.xyz/iptv.php?id=20283$iptv
 
-体育赛事,#genre#
+TVBS新闻,https://stream1.freetv.fun/b9008aeb80dd41cc97f7006561fd5af645903c8fe9f44cb2e1e866c841842054.ctv
+中天新闻,https://stream1.freetv.fun/d5a6ec037d2c4635d144520d0ddf989faeb6a5f8d5d85e3c5a5c07d2ca2d79b3.m3u8
+寰宇新闻,https://stream1.freetv.fun/d9e077d94c5ba3a10f9d1a26d5c1f3aa5d4d3f811e1f85120c5b742aaa506157.m3u8
+
+直播频道,#genre#
+
+股道直播,http://jackgao.top:35455/douyin/272329718530$jack
+都业华直播,http://jackgao.top:35455/douyin/992023778128$jack
+
+掼蛋直播,http://jackgao.top:35455/douyin/38731796266$jack
+掼蛋联赛,http://jackgao.top:35455/douyin/55948161808$jack
+看风直播,http://jackgao.top:35455/douyin/42059896853$jack
+钰宝直播,http://jackgao.top:35455/douyin/38129468982$jack
+淡定直播,http://jackgao.top:35455/douyin/1089824966$jack
+张毅直播,http://jackgao.top:35455/douyin/1080010222$jack
+
+柳大华直播,http://jackgao.top:35455/douyin/27068126593$jack
+街头直播,http://jackgao.top:35455/douyin/999039291841$jack
+
+围棋指导,http://jackgao.top:35455/douyin/448147530190$jack
+极简直播,http://jackgao.top:35455/douyin/328531745171$jack
+天山弈道,http://jackgao.top:35455/douyin/309312439347$jack
+
+咪咕赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8$哈移
+咪咕网球29,http://iptv.hn.cn:1258/itv/3000000010000006077.m3u8?cdn=FifastbLive$hn
+咪咕网球32,http://iptv.hn.cn:1258/itv/3000000010000010833.m3u8?cdn=FifastbLive$hn
+咪咕体育1,http://iptv.hn.cn:1258/itv/3000000001000005308.m3u8?cdn=FifastbLive$hn
+咪咕体育2,http://iptv.hn.cn:1258/itv/3000000001000005969.m3u8?cdn=FifastbLive$hn
+咪咕体育3,http://iptv.hn.cn:1258/itv/3000000001000007218.m3u8?cdn=FifastbLive$hn
+咪咕体育4,http://iptv.hn.cn:1258/itv/3000000001000008001.m3u8?cdn=FifastbLive$hn
+咪咕体育5,http://iptv.hn.cn:1258/itv/3000000001000008176.m3u8?cdn=FifastbLive$hn
+咪咕体育6,http://iptv.hn.cn:1258/itv/3000000001000008379.m3u8?cdn=FifastbLive$hn
+咪咕体育7,http://iptv.hn.cn:1258/itv/3000000001000010129.m3u8?cdn=FifastbLive$hn
+咪咕体育8,http://iptv.hn.cn:1258/itv/3000000001000010948.m3u8?cdn=FifastbLive$hn
+咪咕体育9,http://iptv.hn.cn:1258/itv/3000000001000028638.m3u8?cdn=FifastbLive$hn
+咪咕体育10,http://iptv.hn.cn:1258/itv/3000000001000031494.m3u8?cdn=FifastbLive$hn
+咪咕体育11,http://iptv.hn.cn:1258/itv/3000000010000005837.m3u8?cdn=FifastbLive$hn
+咪咕体育12,http://iptv.hn.cn:1258/itv/3000000020000011518.m3u8?cdn=FifastbLive$hn
+咪咕体育13,http://iptv.hn.cn:1258/itv/3000000020000011519.m3u8?cdn=FifastbLive$hn
+咪咕体育14,http://iptv.hn.cn:1258/itv/3000000020000011520.m3u8?cdn=FifastbLive$hn
+咪咕体育15,http://iptv.hn.cn:1258/itv/3000000020000011521.m3u8?cdn=FifastbLive$hn
+咪咕体育24,http://iptv.hn.cn:1258/itv/3000000010000000097.m3u8?cdn=FifastbLive$hn
+咪咕体育25,http://iptv.hn.cn:1258/itv/3000000010000002019.m3u8?cdn=FifastbLive$hn
+咪咕体育26,http://iptv.hn.cn:1258/itv/3000000010000002809.m3u8?cdn=FifastbLive$hn
+咪咕体育27,http://iptv.hn.cn:1258/itv/3000000010000003915.m3u8?cdn=FifastbLive$hn
+咪咕体育28,http://iptv.hn.cn:1258/itv/3000000010000004193.m3u8?cdn=FifastbLive$hn
+咪咕体育30,http://iptv.hn.cn:1258/itv/3000000010000006658.m3u8?cdn=FifastbLive$hn
+咪咕体育31,http://iptv.hn.cn:1258/itv/3000000010000009788.m3u8?cdn=FifastbLive$hn
+咪咕体育33,http://iptv.hn.cn:1258/itv/3000000010000011297.m3u8?cdn=FifastbLive$hn
+咪咕体育35,http://iptv.hn.cn:1258/itv/3000000010000012558.m3u8?cdn=FifastbLive$hn
+咪咕体育36,http://iptv.hn.cn:1258/itv/3000000010000012616.m3u8?cdn=FifastbLive$hn
+咪咕体育37,http://iptv.hn.cn:1258/itv/3000000010000015470.m3u8?cdn=FifastbLive$hn
+咪咕体育38,http://iptv.hn.cn:1258/itv/3000000010000015560.m3u8?cdn=FifastbLive$hn
+咪咕体育39,http://iptv.hn.cn:1258/itv/3000000010000017678.m3u8?cdn=FifastbLive$hn
+咪咕体育40,http://iptv.hn.cn:1258/itv/3000000010000019839.m3u8?cdn=FifastbLive$hn
+咪咕体育41,http://iptv.hn.cn:1258/itv/3000000010000021904.m3u8?cdn=FifastbLive$hn
+咪咕体育42,http://iptv.hn.cn:1258/itv/3000000010000023434.m3u8?cdn=FifastbLive$hn
+咪咕体育43,http://iptv.hn.cn:1258/itv/3000000010000025380.m3u8?cdn=FifastbLive$hn
+咪咕体育44,http://iptv.hn.cn:1258/itv/3000000010000027691.m3u8?cdn=FifastbLive$hn
+咪咕体育45,http://iptv.hn.cn:1258/itv/3000000010000031669.m3u8?cdn=FifastbLive$hn
 
 FightNetwork,https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 TraceSports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
@@ -812,44 +857,6 @@ DAZN2,http://t.061899.xyz/tl/js/js.php?id=2dazn$0618
 博斯网球,http://t.061899.xyz/tl/js/js.php?id=bswq$0618
 博斯无限,http://t.061899.xyz/tl/js/js.php?id=bswx$0618
 博斯无限2,http://t.061899.xyz/tl/js/js.php?id=2bswx$0618
-
-咪咕赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8$哈移
-咪咕网球29,http://iptv.hn.cn:1258/itv/3000000010000006077.m3u8?cdn=FifastbLive$hn
-咪咕网球32,http://iptv.hn.cn:1258/itv/3000000010000010833.m3u8?cdn=FifastbLive$hn
-咪咕体育1,http://iptv.hn.cn:1258/itv/3000000001000005308.m3u8?cdn=FifastbLive$hn
-咪咕体育2,http://iptv.hn.cn:1258/itv/3000000001000005969.m3u8?cdn=FifastbLive$hn
-咪咕体育3,http://iptv.hn.cn:1258/itv/3000000001000007218.m3u8?cdn=FifastbLive$hn
-咪咕体育4,http://iptv.hn.cn:1258/itv/3000000001000008001.m3u8?cdn=FifastbLive$hn
-咪咕体育5,http://iptv.hn.cn:1258/itv/3000000001000008176.m3u8?cdn=FifastbLive$hn
-咪咕体育6,http://iptv.hn.cn:1258/itv/3000000001000008379.m3u8?cdn=FifastbLive$hn
-咪咕体育7,http://iptv.hn.cn:1258/itv/3000000001000010129.m3u8?cdn=FifastbLive$hn
-咪咕体育8,http://iptv.hn.cn:1258/itv/3000000001000010948.m3u8?cdn=FifastbLive$hn
-咪咕体育9,http://iptv.hn.cn:1258/itv/3000000001000028638.m3u8?cdn=FifastbLive$hn
-咪咕体育10,http://iptv.hn.cn:1258/itv/3000000001000031494.m3u8?cdn=FifastbLive$hn
-咪咕体育11,http://iptv.hn.cn:1258/itv/3000000010000005837.m3u8?cdn=FifastbLive$hn
-咪咕体育12,http://iptv.hn.cn:1258/itv/3000000020000011518.m3u8?cdn=FifastbLive$hn
-咪咕体育13,http://iptv.hn.cn:1258/itv/3000000020000011519.m3u8?cdn=FifastbLive$hn
-咪咕体育14,http://iptv.hn.cn:1258/itv/3000000020000011520.m3u8?cdn=FifastbLive$hn
-咪咕体育15,http://iptv.hn.cn:1258/itv/3000000020000011521.m3u8?cdn=FifastbLive$hn
-咪咕体育24,http://iptv.hn.cn:1258/itv/3000000010000000097.m3u8?cdn=FifastbLive$hn
-咪咕体育25,http://iptv.hn.cn:1258/itv/3000000010000002019.m3u8?cdn=FifastbLive$hn
-咪咕体育26,http://iptv.hn.cn:1258/itv/3000000010000002809.m3u8?cdn=FifastbLive$hn
-咪咕体育27,http://iptv.hn.cn:1258/itv/3000000010000003915.m3u8?cdn=FifastbLive$hn
-咪咕体育28,http://iptv.hn.cn:1258/itv/3000000010000004193.m3u8?cdn=FifastbLive$hn
-咪咕体育30,http://iptv.hn.cn:1258/itv/3000000010000006658.m3u8?cdn=FifastbLive$hn
-咪咕体育31,http://iptv.hn.cn:1258/itv/3000000010000009788.m3u8?cdn=FifastbLive$hn
-咪咕体育33,http://iptv.hn.cn:1258/itv/3000000010000011297.m3u8?cdn=FifastbLive$hn
-咪咕体育35,http://iptv.hn.cn:1258/itv/3000000010000012558.m3u8?cdn=FifastbLive$hn
-咪咕体育36,http://iptv.hn.cn:1258/itv/3000000010000012616.m3u8?cdn=FifastbLive$hn
-咪咕体育37,http://iptv.hn.cn:1258/itv/3000000010000015470.m3u8?cdn=FifastbLive$hn
-咪咕体育38,http://iptv.hn.cn:1258/itv/3000000010000015560.m3u8?cdn=FifastbLive$hn
-咪咕体育39,http://iptv.hn.cn:1258/itv/3000000010000017678.m3u8?cdn=FifastbLive$hn
-咪咕体育40,http://iptv.hn.cn:1258/itv/3000000010000019839.m3u8?cdn=FifastbLive$hn
-咪咕体育41,http://iptv.hn.cn:1258/itv/3000000010000021904.m3u8?cdn=FifastbLive$hn
-咪咕体育42,http://iptv.hn.cn:1258/itv/3000000010000023434.m3u8?cdn=FifastbLive$hn
-咪咕体育43,http://iptv.hn.cn:1258/itv/3000000010000025380.m3u8?cdn=FifastbLive$hn
-咪咕体育44,http://iptv.hn.cn:1258/itv/3000000010000027691.m3u8?cdn=FifastbLive$hn
-咪咕体育45,http://iptv.hn.cn:1258/itv/3000000010000031669.m3u8?cdn=FifastbLive$hn
 
 少儿动漫,#genre#
 
@@ -979,11 +986,13 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 
 第一财经,http://m.061899.xyz/mg/dycj$mg
 北京财经,http://m.061899.xyz/mg/bjcj$mg
-北京财经,http://drive.mxmy.net:8888/udp/239.3.1.116:8000$北京联#http://114.252.236.205:8000/udp/239.3.1.116:8000$北京联#http://114.252.238.87:8000/udp/239.3.1.116:8000$北京联
+北京财经,http://drive.mxmy.net:8888/udp/239.3.1.116:8000$北京联#
 
 inwonder,https://inwonder-samsungau.amagi.tv/playlist.m3u8
 
-兵器科技,http://36.135.118.195:85/tsfile/live/1027_1.m3u8?key=txiptv&playlive=0&authid=0#http://home.yulei.online:9999/udp/226.0.2.223:9696$山西联#http://nas.tuyuannet.cn:8800/udp/239.37.0.84:5540$辽宁信#http://www.lizhinas.top:1009/udp/239.252.219.98:5140$江西信
+世界军事,http://www.zyhfm.com:8088/udp/239.69.1.103:10256$湖北信
+兵器科技,http://sckonlan.youankj.cn:8888/udp/239.93.1.235:5140$四川信#http://www.zyhfm.com:8088/udp/239.69.1.79:10114$湖北信
+兵器科技,http://www.lizhinas.top:1009/udp/239.252.219.98:5140$江西信#http://36.135.118.195:85/tsfile/live/1027_1.m3u8?key=txiptv&playlive=0&authid=0#http://home.yulei.online:9999/udp/226.0.2.223:9696$山西联#
 
 相声小品,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c59_fast_1044_720P_t10/c59_fast_1044_720P_t10.m3u8?d
 中国通史,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1029_720P_t10/c60_fast_1029_720P_t10.m3u8?d
@@ -1571,6 +1580,10 @@ CHC家庭影院,http://42.227.89.126:9003/hls/61/index.m3u8$河南联
 CHC动作电影,http://36.135.118.195:85/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0$吉林移
 CHC影迷电影,http://36.135.118.195:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0$吉林移
 CHC家庭影院,http://36.135.118.195:85/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0$吉林移
+CHC家庭影院,http://www.zyhfm.com:8088/udp/239.69.1.243:11100$湖北信
+CHC动作电影,http://www.zyhfm.com:8088/udp/239.69.1.242:11094$湖北信
+CHC影迷电影,http://www.zyhfm.com:8088/udp/239.69.1.241:11088$湖北信
+
 CHC影迷电影,http://182.150.115.26:5003/custom28.m3u8$成都信
 BesTV,http://182.150.115.26:5003/custom26.m3u8$成都信
 爱科幻,http://182.150.115.26:5003/custom30.m3u8$成都信
