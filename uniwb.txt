@@ -330,10 +330,8 @@ CETV4,http://36.135.118.195:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&aut
 
 掼蛋精英赛,http://m.061899.xyz/mg/dds$mg
 掼蛋精英赛,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=gdjys
-
-淡定掼蛋,http://jackgao.top:35455/douyin/1089824966$jack
-张毅掼蛋,http://jackgao.top:35455/douyin/1080010222$jack
-掼蛋争冠,http://jackgao.top:35455/douyin/38731796266$jack
+掼蛋精英赛,http://m.061899.xyz/mg/dds$mg
+掼蛋精英赛,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=gdjys
 
 戴长胜掼蛋,http://59.153.164.107:6868/huya/28092053$59
 石头掼蛋,http://59.153.164.107:6868/huya/28092051$59
@@ -394,9 +392,6 @@ CETV4,http://36.135.118.195:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&aut
 赵老师掼蛋,http://47.96.156.159:517/huya/28092052$47
 龙崎掼蛋,http://47.96.156.159:517/huya/28092048$47
 掼蛋实战讲解,http://47.96.156.159:517/huya/28092049$47
-
-象棋柳大华,http://jackgao.top:35455/douyin/27068126593$jack
-街头象棋,http://jackgao.top:35455/douyin/999039291841$jack
 
 八卦大师,http://iptv.jxpan.vip:18888/aio/douyu/851040$iptv
 帽子象棋,http://iptv.jxpan.vip:18888/aio/douyu/4487219$iptv
@@ -555,13 +550,23 @@ CETV4,http://36.135.118.195:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&aut
 陶老师围棋,https://www.goodiptv.club/douyu/6586073
 弈夫围棋,https://www.goodiptv.club/douyu/6399350
 
-天山弈道,http://jackgao.top:35455/douyin/309312439347$jack
-围棋张指导,http://jackgao.top:35455/douyin/448147530190$jack
-极简网课,http://jackgao.top:35455/douyin/328531745171$jack
+柳大华直播,http://jackgao.top:35455/douyin/27068126593$jack
+街头直播,http://jackgao.top:35455/douyin/999039291841$jack
+
+掼蛋联赛,http://jackgao.top:35455/douyin/55948161808$jack
+看风直播,http://jackgao.top:35455/douyin/42059896853$jack
+钰宝直播,http://jackgao.top:35455/douyin/38129468982$jack
+淡定直播,http://jackgao.top:35455/douyin/1089824966$jack
+张毅直播,http://jackgao.top:35455/douyin/1080010222$jack
+掼蛋直播,http://jackgao.top:35455/douyin/38731796266$jack
 
 囲碁将棋,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS363&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 天元围棋,http://121.29.169.136:7777/udp/239.253.93.211:6389$河北联#http://121.29.169.136:8888/udp/239.253.93.211:6389$河北联#http://121.29.169.30:7777/udp/239.253.93.211:6389$河北联#http://121.29.169.30:8888/udp/239.253.93.211:6389$河北联#http://121.29.169.6:7777/udp/239.253.93.211:6389$河北联#http://121.29.169.6:8888/udp/239.253.93.211:6389$河北联#http://121.29.215.215:7777/udp/239.253.93.211:6389$河北联#http://121.29.215.215:8888/udp/239.253.93.211:6389$河北联
+
+天山弈道,http://jackgao.top:35455/douyin/309312439347$jack
+张指导直播,http://jackgao.top:35455/douyin/448147530190$jack
+极简直播,http://jackgao.top:35455/douyin/328531745171$jack
 
 斗地主冠军赛,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 体育人物,https://mursor.ottiptv.cc/douyu/8434598
@@ -598,8 +603,9 @@ CETV4,http://36.135.118.195:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&aut
 邱慧芳24太极拳,https://vd3.bdstatic.com/mda-pct748r1egmk3c8x/sc/cae_h264/1680067740751400060/mda-pct748r1egmk3c8x.mp4
 
 联通电信,#genre#
-都业华,http://jackgao.top:35455/douyin/992023778128$jack
-股道至简,http://jackgao.top:35455/douyin/272329718530$jack
+
+都业华直播,http://jackgao.top:35455/douyin/992023778128$jack
+股道直播,http://jackgao.top:35455/douyin/272329718530$jack
 
 凤凰中文,http://bxtv.3a.ink/api.php?id=fhzw$bxtv
 凤凰资讯,http://bxtv.3a.ink/api.php?id=fhzx$bxtv
