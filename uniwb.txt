@@ -1,20 +1,19 @@
 //粤联频道数据收集自网络上的分享250808开通IPV6
 港澳HU04,#genre#
-凤凰中文,http://108.181.20.181/livehttpplay?channel_id=20065$108
-凤凰资讯,http://108.181.20.181/livehttpplay?channel_id=20066$108
-凤凰香港,http://108.181.20.181/livehttpplay?channel_id=20067$108
+凤凰中文,http://t.061899.xyz/tl/js/js.php?id=fhwszwt$0618
+凤凰资讯,http://t.061899.xyz/tl/js/js.php?id=fhwszxt$0618
+凤凰香港,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt$0618
 
 凤凰中文,http://219.146.65.78:59902/tsfile/live/0117_2.m3u8$青岛信
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2$php
 
 凤凰中文,http://m.061899.xyz/mg/fhzw$mg
 凤凰资讯,http://m.061899.xyz/mg/fhzx$mg
 凤凰香港,http://m.061899.xyz/mg/fhhk$mg
 
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2$php
-
-凤凰中文,http://t.061899.xyz/tl/js/js.php?id=fhwszwt$0618
-凤凰资讯,http://t.061899.xyz/tl/js/js.php?id=fhwszxt$0618
-凤凰香港,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt$0618
+凤凰中文,http://108.181.20.181/livehttpplay?channel_id=20065$108
+凤凰资讯,http://108.181.20.181/livehttpplay?channel_id=20066$108
+凤凰香港,http://108.181.20.181/livehttpplay?channel_id=20067$108
 
 凤凰中文,http://j.s.bkpcp.top/js/fhzw$js
 凤凰资讯,http://j.s.bkpcp.top/js/fhzx$js
