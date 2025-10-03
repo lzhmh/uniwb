@@ -11,6 +11,10 @@
 凤凰资讯,http://m.061899.xyz/mg/fhzx$mg
 凤凰香港,http://m.061899.xyz/mg/fhhk$mg
 
+凤凰中文,http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8$api
+凤凰资讯,http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8$api
+凤凰香港,http://api.mg.itv888.cn:8080/hls/e9660dce9a6/index.m3u8$api
+
 凤凰中文,http://108.181.20.181/livehttpplay?channel_id=20065$108
 凤凰资讯,http://108.181.20.181/livehttpplay?channel_id=20066$108
 凤凰香港,http://108.181.20.181/livehttpplay?channel_id=20067$108
@@ -18,10 +22,6 @@
 凤凰中文,http://j.s.bkpcp.top/js/fhzw$js
 凤凰资讯,http://j.s.bkpcp.top/js/fhzx$js
 凤凰香港,http://j.s.bkpcp.top/js/fhxg$js
-
-凤凰中文,http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8$api
-凤凰资讯,http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8$api
-凤凰香港,http://api.mg.itv888.cn:8080/hls/e9660dce9a6/index.m3u8$api
 
 凤凰中文,http://58.19.180.108:9981/stream/channelid/1749482778?profile=pass$58
 凤凰资讯,http://58.19.180.108:9981/stream/channelid/708272803?profile=pass$58
@@ -55,6 +55,9 @@
 CCTV4,http://vip1.xinketongxun.fun:8082/tsfile/live/0004_1.m3u8$钦州联
 CCTV13,http://vip1.xinketongxun.fun:8082/tsfile/live/0013_1.m3u8$钦州联
 
+CCTV4,http://116.77.33.98:44330/tsfile/live/0004_1.m3u8$深天威
+CCTV13,http://116.77.33.98:44330/tsfile/live/0014_1.m3u8$深天威
+
 CCTV4,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv4$cdn6
 CCTV13,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv13$cdn6
 
@@ -66,9 +69,6 @@ CCTV4,https://zby.130519.xyz/PLTV/11/224/3221226124/index.m3u8$zby
 CCTV13,http://113.195.172.192:808/hls/172/index.m3u8$宜春联
 CCTV13,http://113.195.172.192:808/hls/36/index.m3u8$宜春联
 CCTV13,https://zby.130519.xyz/PLTV/11/224/3221226128/index.m3u8$zby
-
-CCTV4,http://116.77.33.98:44330/tsfile/live/0004_1.m3u8$深天威
-CCTV13,http://116.77.33.98:44330/tsfile/live/0014_1.m3u8$深天威
 
 CCTV4,http://106.53.99.30/tv/api.php?id=cctv4$106
 CCTV13,http://106.53.99.30/tv/api.php?id=cctv13-1$106
@@ -186,6 +186,10 @@ CCTV5,http://vip1.xinketongxun.fun:8082/tsfile/live/0005_1.m3u8$钦州联
 CCTV5+,http://vip1.xinketongxun.fun:8082/tsfile/live/0016_1.m3u8$钦州联
 CCTV16,http://vip1.xinketongxun.fun:8082/tsfile/live/1002_1.m3u8$钦州联
 
+CCTV5,http://116.77.33.98:44330/tsfile/live/0005_1.m3u8$深天威
+CCTV5+,http://116.77.33.98:44330/tsfile/live/0006_1.m3u8$深天威
+CCTV16,http://116.77.33.98:44330/tsfile/live/0017_1.m3u8$深天威
+
 CCTV5,http://113.195.172.192:808/hls/162/index.m3u8$宜春联
 CCTV5+,http://113.195.172.192:808/hls/163/index.m3u8$宜春联
 CCTV16,http://113.195.172.192:808/hls/178/index.m3u8$宜春联
@@ -203,7 +207,7 @@ CCTV16,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv16$cdn6
 
 CCTV5,http://61.143.15.139:59901//tsfile/live/1001_1.m3u8$江门信
 CCTV5+,http://61.143.15.139:59901//tsfile/live/0016_1.m3u8$江门信
-CCTV16,http://163.142.186.48:9901/tsfile/live/1016_1.m3u8$佛山联
+CCTV16,http://163.142.186.48:9901/tsfile/live/1016_1.m3u8$佛山联#http://163.142.186.49:9901/tsfile/live/1016_1.m3u8$佛山联
 
 CCTV5,http://219.144.190.2:9901/tsfile/live/0005_1.m3u8$西安信
 CCTV5+,http://219.144.190.2:9901/tsfile/live/0016_1.m3u8$西安信
@@ -211,10 +215,6 @@ CCTV16,http://219.144.190.2:9901/tsfile/live/1040_1.m3u8$西安信
 
 CCTV5,https://zby.130519.xyz/PLTV/11/224/3221225734/index.m3u8$zby
 CCTV16,https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8$zby
-
-CCTV5,http://116.77.33.98:44330/tsfile/live/0005_1.m3u8$深天威
-CCTV5+,http://116.77.33.98:44330/tsfile/live/0006_1.m3u8$深天威
-CCTV16,http://116.77.33.98:44330/tsfile/live/0017_1.m3u8$深天威
 
 CCTV5,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225734/index.m3u8$ip6#http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226146/index.m3u8$ip6
 CCTV16,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226120/index.m3u8$ip6
@@ -272,18 +272,20 @@ CCTV16,http://www.zyhfm.com:8088/udp/239.69.1.247:11124$湖北信#http://www.zyh
 爱羽客,http://nas.hssvm.com:8888/udp/225.1.2.1:5002$天津联
 爱羽客,http://www.tszhgjj.cn:7000/udp/239.253.93.202:6380$河北联
 
-百事乒羽1,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225664/1.m3u8$ip6#http://cloud.sunrisecom.wang:8888/udp/239.45.3.139:5140$上海信#http://e2.woc.iiiya.cn:28888/udp/239.61.5.12:1025$福建信4#http://95201.top:8888/udp/233.50.200.236:5140$浙江信#http://www.745612.xyz:7788/udp/235.254.196.234:1208$重庆信4#http://vpn.rogerxlj.top:9998/udp/239.45.3.139:5140$上海信
+百事乒羽1,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225664/1.m3u8$ip6#http://e2.woc.iiiya.cn:28888/udp/239.61.5.12:1025$福建信4#http://cloud.sunrisecom.wang:8888/udp/239.45.3.139:5140$上海信#http://95201.top:8888/udp/233.50.200.236:5140$浙江信#http://www.745612.xyz:7788/udp/235.254.196.234:1208$重庆信4#http://vpn.rogerxlj.top:9998/udp/239.45.3.139:5140$上海信
 
 百事乒羽2,http://vpn.rogerxlj.top:9998/udp/239.45.3.140:5140$上海信
 百事乒羽2,http://cloud.sunrisecom.wang:8888/udp/239.45.3.140:5140$上海信
 
 广东体育,http://120.233.73.4:19901/tsfile/live/1040_1.m3u8$深移动
-广东体育,http://163.142.186.48:9901/tsfile/live/1026_1.m3u8$佛山联
+广东体育,http://116.77.33.98:44330/tsfile/live/1004_1.m3u8$深天威
+广东体育,http://163.142.186.48:9901/tsfile/live/1026_1.m3u8$佛山联#http://163.142.186.49:9901/tsfile/live/1026_1.m3u8$佛山联
 广东体育,http://go.bkpcp.top/mg/gdty$go
+广东体育,http://live4play.uk/livehttpplay?channel_id=12028$live4#http://vallest.uk/livehttpplay?channel_id=30031$vall
 广东体育,http://163.142.186.56:9901/tsfile/live/1026_1.m3u8$佛山联#http://163.142.186.56:9903/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0$佛山联
 广东体育,http://106.53.99.30/tv/gdcucc.php?id=2$106#http://106.53.99.30/tv/gdcucc.php?id=30$106
 广东体育,http://113.81.20.131:20443/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$113
-广东体育,http://116.77.33.98:44330/tsfile/live/1004_1.m3u8$深天威
+广东体育,http://gd.wsd.gd.cn:1698/hls/12/index.m3u8
 广东体育,http://120.238.94.82:9901/tsfile/live/1012_1.m3u8$梅州移
 
 深圳体育,http://120.233.73.4:19901/tsfile/live/1036_1.m3u8$深移动
@@ -293,6 +295,12 @@ CCTV16,http://www.zyhfm.com:8088/udp/239.69.1.247:11124$湖北信#http://www.zyh
 劲爆体育,http://m.061899.xyz/mg/jbty$mg
 
 山东体育,http://nw.jiayinkeji.xin/migunew/gtqilu.php?id=typd
+
+睛彩篮球,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+睛彩篮球,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+睛彩青少,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+睛彩竞技,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+睛彩竞技,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
 
 睛彩竞技,https://zby.130519.xyz/PLTV/11/224/3221226116/index.m3u8$zby
 睛彩篮球,https://zby.130519.xyz/PLTV/11/224/3221226118/index.m3u8$zby
@@ -558,7 +566,7 @@ CETV4,http://113.195.172.192:808/hls/40/index.m3u8$宜春联
 浙江民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
 
 睛彩广场舞,https://zby.130519.xyz/PLTV/11/224/3221226139/index.m3u8$zby
-睛彩广场舞,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226139/index.m3u8$ip6
+睛彩广场舞,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226139/index.m3u8$ip6#http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf#http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
 至臻视界4K,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225687/1.m3u8$ip6
 
 哑铃塑型,https://i.uik.cc/view.php/e88fd95f75bd9c600fd335b518c82d02.mp4
@@ -593,7 +601,9 @@ CETV4,http://113.195.172.192:808/hls/40/index.m3u8$宜春联
 中天亚洲,http://line.greatstar.me:80/play/live.php?mac=00:1A:79:13:54:E8&stream=571212&extension=ts$line#
 中天亚洲,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19449.ts$40gbp
 中天亚洲,http://t.061899.xyz/tl/js/js.php?id=ztyzt$0618#http://line.greatstar.me:80/play/live.php?mac=00:1A:79:51:45:21&stream=571212&extension=ts
-中天新闻,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts$ts
+
+中天新闻,rtmp://hc.siqianginfo.com/live/yifatv-ztxw01$hc
+中天新闻,http://tlive24.uk/livehttpplay?channel_id=20163$tlive
 
 TVBSHD,http://152.32.229.52:5050/4gtv-4gtv073/index.m3u8?proxy=true$4gtv
 TVBS新闻,http://152.32.229.52:5050/4gtv-4gtv072/index.m3u8?proxy=true$4gtv
@@ -638,10 +648,51 @@ JOJO 的奇妙冒險,http://152.32.229.52:5050/ofiii178/index.m3u8?proxy=true$4g
 靖天资讯,http://152.32.229.52:5050/4gtv-4gtv065/index.m3u8?proxy=true$4gtv
 
 TVBS新闻,https://stream1.freetv.fun/b9008aeb80dd41cc97f7006561fd5af645903c8fe9f44cb2e1e866c841842054.ctv
-中天新闻,http://tlive24.uk/livehttpplay?channel_id=20163$tlive
 寰宇新闻,https://stream1.freetv.fun/d9e077d94c5ba3a10f9d1a26d5c1f3aa5d4d3f811e1f85120c5b742aaa506157.m3u8
 
 直播频道,#genre#
+
+咪视通24,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪咕4K2,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=toShengfen&/PLTV/&$anf
+咪视通29,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视通35,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视通44,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪咕4K1,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=toShengfen&/PLTV/&$anf
+咪视通2,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视通7,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+
+咪视通9,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+
+咪视通1,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视通3,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视通4,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视通5,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视通6,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视通8,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视通10,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视通11,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视通12,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视通13,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视通14,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视通15,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+CCTV7,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf#http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视通25,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视通26,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视通27,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视通28,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视通30,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视通31,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视通32,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视通33,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视通36,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视通37,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视通38,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视通40,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视通41,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视通42,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视通43,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视通45,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视通39,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
 
 咪视界1,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225636/1.m3u8$ip6
 咪视界2,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225637/1.m3u8$ip6
@@ -692,7 +743,7 @@ TVBS新闻,https://stream1.freetv.fun/b9008aeb80dd41cc97f7006561fd5af645903c8fe9
 ///极简直播http://jackgao.top:35455/douyin/328531745171$jack
 ///天山弈道http://jackgao.top:35455/douyin/309312439347$jack
 
-///百事,http://zqh2333.top:2222/udp/239.93.25.180:5140$雅安信1#http://zqh2333.top:2222/udp/239.93.25.181:5140$雅安信2#http://zqh2333.top:2222/udp/239.93.25.182:5140$雅安信#http://zqh2333.top:2222/udp/239.93.25.184:5140$雅安信5#http://zqh2333.top:2222/udp/239.93.25.185:5140$雅安信6#http://zqh2333.top:2222/udp/239.93.25.186:5140$雅安信7#http://zqh2333.top:2222/udp/239.93.25.187:5140$雅安信#http://www.745612.xyz:7788/udp/235.254.196.231:1196$重庆信1#http://www.745612.xyz:7788/udp/235.254.196.232:1200$重庆信2#http://www.745612.xyz:7788/udp/235.254.196.233:1204$重庆信3#http://www.745612.xyz:7788/udp/235.254.196.235:1212$重庆信5#http://www.745612.xyz:7788/udp/235.254.196.236:1216$重庆信6#http://www.745612.xyz:7788/udp/235.254.196.237:1220$重庆信7#http://www.745612.xyz:7788/udp/235.254.196.241:8950$重庆信8#http://www.745612.xyz:7788/udp/235.254.196.239:8942$重庆信9#http://www.745612.xyz:7788/udp/235.254.196.240:8946$重庆信10#http://www.745612.xyz:7788/udp/235.254.198.161:7980$重庆信#http://106.87.50.218:8888/udp/235.254.198.161:7980$重庆信#http://113.251.95.130:4022/udp/235.254.198.161:7980$重庆信#http://e2.woc.iiiya.cn:28888/udp/239.61.5.9:1025$福建信1#http://e2.woc.iiiya.cn:28888/udp/239.61.5.10:1025$福建信2#http://e2.woc.iiiya.cn:28888/udp/239.61.5.11:1025$福建信3#http://e2.woc.iiiya.cn:28888/udp/239.61.5.13:1025$福建信5#http://e2.woc.iiiya.cn:28888/udp/239.61.5.14:1025$福建信6#http://e2.woc.iiiya.cn:28888/udp/239.61.5.15:1025$福建信7http://180.165.25.50:4022/udp/239.45.3.53:5140$上海信1#http://180.165.25.50:4022/udp/239.45.3.54:5140$上海信2#http://180.165.25.50:4022/udp/239.45.3.55:5140$上海信3#http://180.165.25.50:4022/udp/239.45.3.157:5140$上海信#http://180.165.25.50:4022/udp/239.45.3.216:5140$上海信五星#http://125.123.121.81:4022/udp/233.50.200.233:5140$浙江信1#http://125.123.121.81:4022/udp/233.50.200.244:5140$浙江信4#http://125.123.121.81:4022/udp/233.50.200.245:5140$浙江信5#http://125.123.121.81:4022/udp/233.50.200.246:5140$浙江信6#http://125.123.121.81:4022/udp/233.50.201.201:5140$浙江信9#http://125.123.121.81:4022/udp/233.50.201.203:5140$浙江信1#http://125.123.121.81:4022/udp/233.50.201.205:5140$浙江信2#http://125.123.121.81:4022/udp/233.50.201.207:5140$浙江信3#http://nas.tuyuannet.cn:8800/udp/239.37.0.88:5540$辽宁信1#http://nas.tuyuannet.cn:8800/udp/239.37.0.142:5540$辽宁信8#http://nas.tuyuannet.cn:8800/udp/239.37.0.211:5540$辽宁信9#http://nas.tuyuannet.cn:8800/udp/239.37.0.237:5540$辽宁信3#http://nas.tuyuannet.cn:8800/udp/239.37.0.254:5540$辽宁信五#http://124.224.85.177:2000/udp/239.121.4.127:8744$宁夏信1#http://124.224.85.177:2000/udp/239.121.4.128:8750$宁夏信2#http://124.224.85.177:2000/udp/239.121.4.129:8756$宁夏信3#http://124.224.85.177:2000/udp/239.121.4.132:8774$宁夏信6#http://124.224.85.177:2000/udp/239.121.4.133:8780$宁夏信7#http://124.224.85.177:2000/udp/239.121.4.146:8858$宁夏信8#http://124.224.85.177:2000/udp/239.121.4.147:8864$宁夏信9#http://124.224.85.177:2000/udp/239.121.4.148:8870$宁夏信1#http://124.224.85.177:2000/udp/239.121.4.149:8876$宁夏信#http://60.164.128.167:8029/udp/239.255.30.167:8231$甘肃信#http://60.164.128.167:8029/udp/239.255.30.168:8231$甘肃信#http://60.164.128.167:8029/udp/239.255.30.169:8231$甘肃信#http://60.164.128.167:8029/udp/239.255.30.172:8231$甘肃信#http://60.164.128.167:8029/udp/239.255.30.173:8231$甘肃信#http://60.164.128.167:8029/udp/239.255.30.198:8231$甘肃信#http://60.164.128.167:8029/udp/239.255.30.199:8231$甘肃信#http://60.164.128.167:8029/udp/239.255.30.200:8231$甘肃信#http://101.68.81.44:9999/udp/233.50.200.233:5140$浙江联1#http://101.68.81.44:9999/udp/233.50.200.234:5140$浙江联2#http://101.68.81.44:9999/udp/233.50.200.237:5140$浙江联3#http://101.68.81.44:9999/udp/233.50.200.244:5140$浙江联4#http://101.68.81.44:9999/udp/233.50.200.245:5140$浙江联5#http://101.68.81.44:9999/udp/233.50.200.246:5140$浙江联6#http://101.68.81.44:9999/udp/233.50.201.201:5140$浙江联9#http://101.68.81.44:9999/udp/233.50.201.203:5140$浙江联1#http://101.68.81.44:9999/udp/233.50.201.205:5140$浙江联2#http://101.68.81.44:9999/udp/233.50.201.207:5140$浙江联3#http://119.41.169.132:4000/udp/239.253.64.184:5140$海南02#http://119.41.169.132:4000/udp/239.253.64.185:5140$海南03#http://119.41.169.132:4000/udp/239.253.64.186:5140$海南04#http://119.41.169.132:4000/udp/239.253.64.187:5140$海南05#http://119.41.169.132:4000/udp/239.253.64.188:5140$海南06#http://119.41.169.132:4000/udp/239.253.64.189:5140$海南07#http://119.41.169.132:4000/udp/239.253.64.190:5140$海南08#http://119.41.169.132:4000/udp/239.253.64.191:5140$海南09#http://119.41.169.132:4000/udp/239.253.64.192:5140$海南10#http://119.41.169.132:4000/udp/239.253.64.193:5140$海南1#http://119.41.169.132:4000/udp/239.253.64.130:5140$海南2#http://119.41.169.132:4000/udp/239.253.64.131:5140$海南3#http://119.41.169.132:4000/udp/239.253.64.132:5140$海南4#http://119.41.169.132:4000/udp/239.253.64.133:5140$海南5#http://119.41.169.132:4000/udp/239.253.64.134:5140$海南6#http://119.41.169.132:4000/udp/239.253.64.135:5140$海南7#http://119.41.169.132:4000/udp/239.253.64.136:5140$海南8#http://119.41.169.132:4000/udp/239.253.64.180:5140$海南9#http://119.41.169.132:4000/udp/239.253.64.181:5140$海南10#http://119.41.169.132:4000/udp/239.253.64.182:5140$海南11#http://119.41.169.132:4000/udp/239.253.64.183:5140$海南#http://125.123.121.81:4022/udp/233.50.200.31:5140$浙江信#http://101.68.81.44:9999/udp/233.50.200.31:5140$浙江联#http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225663/1.m3u8$ip6#http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225665/1.m3u8$ip6#http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225666/1.m3u8$ip6#http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225667/1.m3u8$ip6#http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225669/1.m3u8$ip6#http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225670/1.m3u8$ip6#http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225671/1.m3u8$ip6#http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226102/1.m3u8$ip6#http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226123/1.m3u8#http://[2409:8087:5e08:25::4]:6610/000000001000/5000000001000001116/index.m3u8?channel-id=bestzb&Contentid=5000000001000001116&livemode=1&stbId=3$ip40#http://[2409:8087:5e08:25::4]:6610/000000001000/5000000001000004876/index.m3u8?channel-id=bestzb&Contentid=5000000001000004876&livemode=1&stbId=3$ip41#http://[2409:8087:5e08:25::4]:6610/000000001000/5000000001000006777/index.m3u8?channel-id=bestzb&Contentid=5000000001000006777&livemode=1&stbId=3$ip42#http://[2409:8087:5e08:25::4]:6610/000000001000/5000000001000017342/index.m3u8?channel-id=bestzb&Contentid=5000000001000017342&livemode=1&stbId=3$ip43#http://[2409:8087:5e08:25::4]:6610/000000001000/5000000001000018009/index.m3u8?channel-id=bestzb&Contentid=5000000001000018009&livemode=1&stbId=3$ip44#http://[2409:8087:5e08:25::4]:6610/000000001000/5000000001000019233/index.m3u8?channel-id=bestzb&Contentid=5000000001000019233&livemode=1&stbId=3$ip45#http://[2409:8087:5e08:25::4]:6610/000000001000/5000000001000022620/index.m3u8?channel-id=bestzb&Contentid=5000000001000022620&livemode=1&stbId=3$ip46#http://[2409:8087:5e08:25::4]:6610/000000001000/5000000001000023256/index.m3u8?channel-id=bestzb&Contentid=5000000001000023256&livemode=1&stbId=3$ip47#http://[2409:8087:5e08:25::4]:6610/000000001000/5000000001000026930/index.m3u8?channel-id=bestzb&Contentid=5000000001000026930&livemode=1&stbId=3$ip48
+///百事http://zqh2333.top:2222/udp/239.93.25.180:5140$雅安信1#http://zqh2333.top:2222/udp/239.93.25.181:5140$雅安信2#http://zqh2333.top:2222/udp/239.93.25.182:5140$雅安信#http://zqh2333.top:2222/udp/239.93.25.184:5140$雅安信5#http://zqh2333.top:2222/udp/239.93.25.185:5140$雅安信6#http://zqh2333.top:2222/udp/239.93.25.186:5140$雅安信7#http://zqh2333.top:2222/udp/239.93.25.187:5140$雅安信#http://www.745612.xyz:7788/udp/235.254.196.231:1196$重庆信1#http://www.745612.xyz:7788/udp/235.254.196.232:1200$重庆信2#http://www.745612.xyz:7788/udp/235.254.196.233:1204$重庆信3#http://www.745612.xyz:7788/udp/235.254.196.235:1212$重庆信5#http://www.745612.xyz:7788/udp/235.254.196.236:1216$重庆信6#http://www.745612.xyz:7788/udp/235.254.196.237:1220$重庆信7#http://www.745612.xyz:7788/udp/235.254.196.241:8950$重庆信8#http://www.745612.xyz:7788/udp/235.254.196.239:8942$重庆信9#http://www.745612.xyz:7788/udp/235.254.196.240:8946$重庆信10#http://www.745612.xyz:7788/udp/235.254.198.161:7980$重庆信#http://106.87.50.218:8888/udp/235.254.198.161:7980$重庆信#http://113.251.95.130:4022/udp/235.254.198.161:7980$重庆信#http://e2.woc.iiiya.cn:28888/udp/239.61.5.9:1025$福建信1#http://e2.woc.iiiya.cn:28888/udp/239.61.5.10:1025$福建信2#http://e2.woc.iiiya.cn:28888/udp/239.61.5.11:1025$福建信3#http://e2.woc.iiiya.cn:28888/udp/239.61.5.13:1025$福建信5#http://e2.woc.iiiya.cn:28888/udp/239.61.5.14:1025$福建信6#http://e2.woc.iiiya.cn:28888/udp/239.61.5.15:1025$福建信7http://180.165.25.50:4022/udp/239.45.3.53:5140$上海信1#http://180.165.25.50:4022/udp/239.45.3.54:5140$上海信2#http://180.165.25.50:4022/udp/239.45.3.55:5140$上海信3#http://180.165.25.50:4022/udp/239.45.3.157:5140$上海信#http://180.165.25.50:4022/udp/239.45.3.216:5140$上海信五星#http://125.123.121.81:4022/udp/233.50.200.233:5140$浙江信1#http://125.123.121.81:4022/udp/233.50.200.244:5140$浙江信4#http://125.123.121.81:4022/udp/233.50.200.245:5140$浙江信5#http://125.123.121.81:4022/udp/233.50.200.246:5140$浙江信6#http://125.123.121.81:4022/udp/233.50.201.201:5140$浙江信9#http://125.123.121.81:4022/udp/233.50.201.203:5140$浙江信1#http://125.123.121.81:4022/udp/233.50.201.205:5140$浙江信2#http://125.123.121.81:4022/udp/233.50.201.207:5140$浙江信3#http://nas.tuyuannet.cn:8800/udp/239.37.0.88:5540$辽宁信1#http://nas.tuyuannet.cn:8800/udp/239.37.0.142:5540$辽宁信8#http://nas.tuyuannet.cn:8800/udp/239.37.0.211:5540$辽宁信9#http://nas.tuyuannet.cn:8800/udp/239.37.0.237:5540$辽宁信3#http://nas.tuyuannet.cn:8800/udp/239.37.0.254:5540$辽宁信五#http://124.224.85.177:2000/udp/239.121.4.127:8744$宁夏信1#http://124.224.85.177:2000/udp/239.121.4.128:8750$宁夏信2#http://124.224.85.177:2000/udp/239.121.4.129:8756$宁夏信3#http://124.224.85.177:2000/udp/239.121.4.132:8774$宁夏信6#http://124.224.85.177:2000/udp/239.121.4.133:8780$宁夏信7#http://124.224.85.177:2000/udp/239.121.4.146:8858$宁夏信8#http://124.224.85.177:2000/udp/239.121.4.147:8864$宁夏信9#http://124.224.85.177:2000/udp/239.121.4.148:8870$宁夏信1#http://124.224.85.177:2000/udp/239.121.4.149:8876$宁夏信#http://60.164.128.167:8029/udp/239.255.30.167:8231$甘肃信#http://60.164.128.167:8029/udp/239.255.30.168:8231$甘肃信#http://60.164.128.167:8029/udp/239.255.30.169:8231$甘肃信#http://60.164.128.167:8029/udp/239.255.30.172:8231$甘肃信#http://60.164.128.167:8029/udp/239.255.30.173:8231$甘肃信#http://60.164.128.167:8029/udp/239.255.30.198:8231$甘肃信#http://60.164.128.167:8029/udp/239.255.30.199:8231$甘肃信#http://60.164.128.167:8029/udp/239.255.30.200:8231$甘肃信#http://101.68.81.44:9999/udp/233.50.200.233:5140$浙江联1#http://101.68.81.44:9999/udp/233.50.200.234:5140$浙江联2#http://101.68.81.44:9999/udp/233.50.200.237:5140$浙江联3#http://101.68.81.44:9999/udp/233.50.200.244:5140$浙江联4#http://101.68.81.44:9999/udp/233.50.200.245:5140$浙江联5#http://101.68.81.44:9999/udp/233.50.200.246:5140$浙江联6#http://101.68.81.44:9999/udp/233.50.201.201:5140$浙江联9#http://101.68.81.44:9999/udp/233.50.201.203:5140$浙江联1#http://101.68.81.44:9999/udp/233.50.201.205:5140$浙江联2#http://101.68.81.44:9999/udp/233.50.201.207:5140$浙江联3#http://www.hkyc.site:1991/udp/239.253.64.184:5140$海南02#http://www.hkyc.site:1991/udp/239.253.64.185:5140$海南03#http://www.hkyc.site:1991/udp/239.253.64.186:5140$海南04#http://www.hkyc.site:1991/udp/239.253.64.187:5140$海南05#http://www.hkyc.site:1991/udp/239.253.64.188:5140$海南06#http://www.hkyc.site:1991/udp/239.253.64.189:5140$海南07#http://www.hkyc.site:1991/udp/239.253.64.190:5140$海南08#http://www.hkyc.site:1991/udp/239.253.64.191:5140$海南09#http://www.hkyc.site:1991/udp/239.253.64.192:5140$海南10#http://www.hkyc.site:1991/udp/239.253.64.193:5140$海南1#http://www.hkyc.site:1991/udp/239.253.64.130:5140$海南2#http://www.hkyc.site:1991/udp/239.253.64.131:5140$海南3#http://www.hkyc.site:1991/udp/239.253.64.132:5140$海南4#http://www.hkyc.site:1991/udp/239.253.64.133:5140$海南5#http://www.hkyc.site:1991/udp/239.253.64.134:5140$海南6#http://www.hkyc.site:1991/udp/239.253.64.135:5140$海南7#http://www.hkyc.site:1991/udp/239.253.64.136:5140$海南8#http://www.hkyc.site:1991/udp/239.253.64.180:5140$海南9#http://www.hkyc.site:1991/udp/239.253.64.181:5140$海南10#http://www.hkyc.site:1991/udp/239.253.64.182:5140$海南11#http://www.hkyc.site:1991/udp/239.253.64.183:5140$海南#http://125.123.121.81:4022/udp/233.50.200.31:5140$浙江信#http://101.68.81.44:9999/udp/233.50.200.31:5140$浙江联#http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225663/1.m3u8$ip6#http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225665/1.m3u8$ip6#http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225666/1.m3u8$ip6#http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225667/1.m3u8$ip6#http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225669/1.m3u8$ip6#http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225670/1.m3u8$ip6#http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225671/1.m3u8$ip6#http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226102/1.m3u8$ip6#http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226123/1.m3u8#http://[2409:8087:5e08:25::4]:6610/000000001000/5000000001000001116/index.m3u8?channel-id=bestzb&Contentid=5000000001000001116&livemode=1&stbId=3$ip40#http://[2409:8087:5e08:25::4]:6610/000000001000/5000000001000004876/index.m3u8?channel-id=bestzb&Contentid=5000000001000004876&livemode=1&stbId=3$ip41#http://[2409:8087:5e08:25::4]:6610/000000001000/5000000001000006777/index.m3u8?channel-id=bestzb&Contentid=5000000001000006777&livemode=1&stbId=3$ip42#http://[2409:8087:5e08:25::4]:6610/000000001000/5000000001000017342/index.m3u8?channel-id=bestzb&Contentid=5000000001000017342&livemode=1&stbId=3$ip43#http://[2409:8087:5e08:25::4]:6610/000000001000/5000000001000018009/index.m3u8?channel-id=bestzb&Contentid=5000000001000018009&livemode=1&stbId=3$ip44#http://[2409:8087:5e08:25::4]:6610/000000001000/5000000001000019233/index.m3u8?channel-id=bestzb&Contentid=5000000001000019233&livemode=1&stbId=3$ip45#http://[2409:8087:5e08:25::4]:6610/000000001000/5000000001000022620/index.m3u8?channel-id=bestzb&Contentid=5000000001000022620&livemode=1&stbId=3$ip46#http://[2409:8087:5e08:25::4]:6610/000000001000/5000000001000023256/index.m3u8?channel-id=bestzb&Contentid=5000000001000023256&livemode=1&stbId=3$ip47#http://[2409:8087:5e08:25::4]:6610/000000001000/5000000001000026930/index.m3u8?channel-id=bestzb&Contentid=5000000001000026930&livemode=1&stbId=3$ip48
 
 域外体育,#genre#
 
@@ -3546,13 +3597,13 @@ CETV1,http://1.180.2.93:9901/tsfile/live/1013_1.m3u8$呼信
 
 地市频道,#genre#
 
+广东新闻,http://116.77.33.98:44330/tsfile/live/1006_1.m3u8$深天威
+广东民生,http://116.77.33.98:44330/tsfile/live/1005_1.m3u8$深天威
+
 广州新闻,http://tencentplaygzrb01.gztv.com/live/xinwen.m3u8
 广州影视,http://tencentplaygzrb01.gztv.com/live/yingshi.m3u8
 广州法治,http://tencentplaygzrb01.gztv.com/live/fazhi.m3u8
 广州南国,http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
-
-广东民生,http://116.77.33.98:44330/tsfile/live/1005_1.m3u8$深天威
-广东新闻,http://116.77.33.98:44330/tsfile/live/1006_1.m3u8$深天威
 
 南国都市,https://tencentplaywebsite.gztv.com/live/nanguodushi.m3u8?txSecret=6332a877c5f4cd0bee7b40bbed1983f8&txTime=192a274ca1d
 南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=7a9302751803950aa7bee6994f477b11&txTime=19182c0a3f6
