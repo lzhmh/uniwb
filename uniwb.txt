@@ -589,6 +589,7 @@ CETV4,http://113.195.172.192:808/hls/40/index.m3u8$宜春联
 中天亚洲,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19449.ts$40gbp
 中天亚洲,http://t.061899.xyz/tl/js/js.php?id=ztyzt$0618#http://line.greatstar.me:80/play/live.php?mac=00:1A:79:51:45:21&stream=571212&extension=ts
 
+中天新闻,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts$ts
 中天新闻,http://tlive24.uk/livehttpplay?channel_id=20163$tlive
 中天新闻,http://cnlive.org/channel/41d8a09d/index.m3u8$cnlive
 TVBSHD,http://cnlive.org/channel/154f9d73/index.m3u8$cnlive
@@ -649,7 +650,6 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$chunk#http:
 JOJO 的奇妙冒險,http://152.32.229.52:5050/ofiii178/index.m3u8?proxy=true$4gtv
 靖天资讯,http://152.32.229.52:5050/4gtv-4gtv065/index.m3u8?proxy=true$4gtv
 
-中天新聞,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
 TVBS新闻,https://stream1.freetv.fun/b9008aeb80dd41cc97f7006561fd5af645903c8fe9f44cb2e1e866c841842054.ctv
 寰宇新闻,https://stream1.freetv.fun/d9e077d94c5ba3a10f9d1a26d5c1f3aa5d4d3f811e1f85120c5b742aaa506157.m3u8
 
