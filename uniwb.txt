@@ -1,16 +1,16 @@
 //粤联频道数据收集自网络上的分享250808开通IPV6
 港澳HU05,#genre#
 
+凤凰中文,http://t.061899.xyz/tl/js/js.php?id=fhwszwt$0618
+凤凰资讯,http://t.061899.xyz/tl/js/js.php?id=fhwszxt$0618
+凤凰香港,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt$0618
+
 凤凰中文,http://219.146.65.78:59902/tsfile/live/0117_2.m3u8$青岛信
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2$php
 
 凤凰中文,http://108.181.20.181/livehttpplay?channel_id=20065$108
 凤凰资讯,http://108.181.20.181/livehttpplay?channel_id=20066$108
 凤凰香港,http://108.181.20.181/livehttpplay?channel_id=20067$108
-
-凤凰中文,http://t.061899.xyz/tl/js/js.php?id=fhwszwt$0618
-凤凰资讯,http://t.061899.xyz/tl/js/js.php?id=fhwszxt$0618
-凤凰香港,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt$0618
 
 凤凰中文,http://m.061899.xyz/mg/fhzw$mg
 凤凰资讯,http://m.061899.xyz/mg/fhzx$mg
@@ -489,6 +489,12 @@ CETV4,http://113.195.172.192:808/hls/40/index.m3u8$宜春联
 
 爱体育,http://153.0.171.163:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$三亚联
 
+戴长胜掼蛋,http://live.nctv.top/huya.php?id=28092053$nctv
+石头掼蛋,http://live.nctv.top/huya.php?id=28092051$nctv
+赵老师掼蛋,http://live.nctv.top/huya.php?id=28092052$nctv
+龙崎掼蛋,http://live.nctv.top/huya.php?id=28092048$nctv
+掼蛋实战讲解,http://live.nctv.top/huya.php?id=28092049$nctv
+
 戴长胜掼蛋,http://aiony.top:35455/huya/28092053$aiony
 石头掼蛋,http://aiony.top:35455/huya/28092051$aiony
 赵老师掼蛋,http://aiony.top:35455/huya/28092052$aiony
@@ -500,12 +506,6 @@ CETV4,http://113.195.172.192:808/hls/40/index.m3u8$宜春联
 赵老师掼蛋,http://59.153.164.107:6868/huya/28092052$59
 龙崎掼蛋,http://59.153.164.107:6868/huya/28092048$59
 掼蛋实战讲解,http://59.153.164.107:6868/huya/28092049$59
-
-戴长胜掼蛋,http://live.nctv.top/huya.php?id=28092053$nctv
-石头掼蛋,http://live.nctv.top/huya.php?id=28092051$nctv
-赵老师掼蛋,http://live.nctv.top/huya.php?id=28092052$nctv
-龙崎掼蛋,http://live.nctv.top/huya.php?id=28092048$nctv
-掼蛋实战讲解,http://live.nctv.top/huya.php?id=28092049$nctv
 
 戴长胜掼蛋,http://131.186.40.172:15002/huya/28092053$131
 石头掼蛋,http://131.186.40.172:15002/huya/28092051$131
@@ -653,7 +653,27 @@ JOJO 的奇妙冒險,http://152.32.229.52:5050/ofiii178/index.m3u8?proxy=true$4g
 TVBS新闻,https://stream1.freetv.fun/b9008aeb80dd41cc97f7006561fd5af645903c8fe9f44cb2e1e866c841842054.ctv
 寰宇新闻,https://stream1.freetv.fun/d9e077d94c5ba3a10f9d1a26d5c1f3aa5d4d3f811e1f85120c5b742aaa506157.m3u8
 
-直播频道,#genre#
+实时直播,#genre#
+
+股道直播,https://live.iill.top/douyin/272329718530$live
+都业华直播,https://live.iill.top/douyin/992023778128$live
+
+掼蛋联赛,https://live.iill.top/douyin/55948161808$live
+龙崎掼蛋,https://live.iill.top/douyin/205999118218$live
+栓Q掼蛋,https://live.iill.top/douyin/885067119515$live
+六月直播,https://live.iill.top/douyin/90789809598$live
+游江直播,https://live.iill.top/douyin/13041727223$live
+看风直播,https://live.iill.top/douyin/42059896853$live
+钰宝直播,https://live.iill.top/douyin/38129468982$live
+淡定直播,https://live.iill.top/douyin/1089824966$live
+张毅直播,https://live.iill.top/douyin/1080010222$live
+
+柳大华直播,https://live.iill.top/douyin/27068126593$live
+街头直播,https://live.iill.top/douyin/999039291841$live
+
+围棋指导,https://live.iill.top/douyin/448147530190$live
+极简直播,https://live.iill.top/douyin/328531745171$live
+天山弈道,https://live.iill.top/douyin/309312439347$live
 
 咪视界2,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
 咪视界3,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
@@ -728,23 +748,6 @@ CCTV7,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Con
 咪视界29,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225697/1.m3u8$ip6
 咪视界30,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225699/1.m3u8$ip6
 咪视界31,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226125/1.m3u8$ip6
-
-股道直播,https://live.iill.top/douyin/272329718530$live
-都业华直播,https://live.iill.top/douyin/992023778128$live
-
-掼蛋直播,https://live.iill.top/douyin/38731796266$live
-掼蛋联赛,https://live.iill.top/douyin/55948161808$live
-看风直播,https://live.iill.top/douyin/42059896853$live
-钰宝直播,https://live.iill.top/douyin/38129468982$live
-淡定直播,https://live.iill.top/douyin/1089824966$live
-张毅直播,https://live.iill.top/douyin/1080010222$live
-
-柳大华直播,https://live.iill.top/douyin/27068126593$live
-街头直播,https://live.iill.top/douyin/999039291841$live
-
-围棋指导,https://live.iill.top/douyin/448147530190$live
-极简直播,https://live.iill.top/douyin/328531745171$live
-天山弈道,https://live.iill.top/douyin/309312439347$live
 
 ///股道直播http://jackgao.top:35455/douyin/272329718530$jack
 ///百事http://zqh2333.top:2222/udp/239.93.25.180:5140$雅安信1#http://zqh2333.top:2222/udp/239.93.25.181:5140$雅安信2#http://zqh2333.top:2222/udp/239.93.25.182:5140$雅安信#http://zqh2333.top:2222/udp/239.93.25.184:5140$雅安信5#http://zqh2333.top:2222/udp/239.93.25.185:5140$雅安信6#http://zqh2333.top:2222/udp/239.93.25.186:5140$雅安信7#http://zqh2333.top:2222/udp/239.93.25.187:5140$雅安信#http://www.745612.xyz:7788/udp/235.254.196.231:1196$重庆信1#http://www.745612.xyz:7788/udp/235.254.196.232:1200$重庆信2#http://www.745612.xyz:7788/udp/235.254.196.233:1204$重庆信3#http://www.745612.xyz:7788/udp/235.254.196.235:1212$重庆信5#http://www.745612.xyz:7788/udp/235.254.196.236:1216$重庆信6#http://www.745612.xyz:7788/udp/235.254.196.237:1220$重庆信7#http://www.745612.xyz:7788/udp/235.254.196.241:8950$重庆信8#http://www.745612.xyz:7788/udp/235.254.196.239:8942$重庆信9#http://www.745612.xyz:7788/udp/235.254.196.240:8946$重庆信10#http://www.745612.xyz:7788/udp/235.254.198.161:7980$重庆信#http://106.87.50.218:8888/udp/235.254.198.161:7980$重庆信#http://113.251.95.130:4022/udp/235.254.198.161:7980$重庆信#http://e2.woc.iiiya.cn:28888/udp/239.61.5.9:1025$福建信1#http://e2.woc.iiiya.cn:28888/udp/239.61.5.10:1025$福建信2#http://e2.woc.iiiya.cn:28888/udp/239.61.5.11:1025$福建信3#http://e2.woc.iiiya.cn:28888/udp/239.61.5.13:1025$福建信5#http://e2.woc.iiiya.cn:28888/udp/239.61.5.14:1025$福建信6#http://e2.woc.iiiya.cn:28888/udp/239.61.5.15:1025$福建信7http://180.165.25.50:4022/udp/239.45.3.53:5140$上海信1#http://180.165.25.50:4022/udp/239.45.3.54:5140$上海信2#http://180.165.25.50:4022/udp/239.45.3.55:5140$上海信3#http://180.165.25.50:4022/udp/239.45.3.157:5140$上海信#http://180.165.25.50:4022/udp/239.45.3.216:5140$上海信五星#http://125.123.121.81:4022/udp/233.50.200.233:5140$浙江信1#http://125.123.121.81:4022/udp/233.50.200.244:5140$浙江信4#http://125.123.121.81:4022/udp/233.50.200.245:5140$浙江信5#http://125.123.121.81:4022/udp/233.50.200.246:5140$浙江信6#http://125.123.121.81:4022/udp/233.50.201.201:5140$浙江信9#http://125.123.121.81:4022/udp/233.50.201.203:5140$浙江信1#http://125.123.121.81:4022/udp/233.50.201.205:5140$浙江信2#http://125.123.121.81:4022/udp/233.50.201.207:5140$浙江信3#http://nas.tuyuannet.cn:8800/udp/239.37.0.88:5540$辽宁信1#http://nas.tuyuannet.cn:8800/udp/239.37.0.142:5540$辽宁信8#http://nas.tuyuannet.cn:8800/udp/239.37.0.211:5540$辽宁信9#http://nas.tuyuannet.cn:8800/udp/239.37.0.237:5540$辽宁信3#http://nas.tuyuannet.cn:8800/udp/239.37.0.254:5540$辽宁信五#http://124.224.85.177:2000/udp/239.121.4.127:8744$宁夏信1#http://124.224.85.177:2000/udp/239.121.4.128:8750$宁夏信2#http://124.224.85.177:2000/udp/239.121.4.129:8756$宁夏信3#http://124.224.85.177:2000/udp/239.121.4.132:8774$宁夏信6#http://124.224.85.177:2000/udp/239.121.4.133:8780$宁夏信7#http://124.224.85.177:2000/udp/239.121.4.146:8858$宁夏信8#http://124.224.85.177:2000/udp/239.121.4.147:8864$宁夏信9#http://124.224.85.177:2000/udp/239.121.4.148:8870$宁夏信1#http://124.224.85.177:2000/udp/239.121.4.149:8876$宁夏信#http://60.164.128.167:8029/udp/239.255.30.167:8231$甘肃信#http://60.164.128.167:8029/udp/239.255.30.168:8231$甘肃信#http://60.164.128.167:8029/udp/239.255.30.169:8231$甘肃信#http://60.164.128.167:8029/udp/239.255.30.172:8231$甘肃信#http://60.164.128.167:8029/udp/239.255.30.173:8231$甘肃信#http://60.164.128.167:8029/udp/239.255.30.198:8231$甘肃信#http://60.164.128.167:8029/udp/239.255.30.199:8231$甘肃信#http://60.164.128.167:8029/udp/239.255.30.200:8231$甘肃信#http://101.68.81.44:9999/udp/233.50.200.233:5140$浙江联1#http://101.68.81.44:9999/udp/233.50.200.234:5140$浙江联2#http://101.68.81.44:9999/udp/233.50.200.237:5140$浙江联3#http://101.68.81.44:9999/udp/233.50.200.244:5140$浙江联4#http://101.68.81.44:9999/udp/233.50.200.245:5140$浙江联5#http://101.68.81.44:9999/udp/233.50.200.246:5140$浙江联6#http://101.68.81.44:9999/udp/233.50.201.201:5140$浙江联9#http://101.68.81.44:9999/udp/233.50.201.203:5140$浙江联1#http://101.68.81.44:9999/udp/233.50.201.205:5140$浙江联2#http://101.68.81.44:9999/udp/233.50.201.207:5140$浙江联3#http://www.hkyc.site:1991/udp/239.253.64.184:5140$海南02#http://www.hkyc.site:1991/udp/239.253.64.185:5140$海南03#http://www.hkyc.site:1991/udp/239.253.64.186:5140$海南04#http://www.hkyc.site:1991/udp/239.253.64.187:5140$海南05#http://www.hkyc.site:1991/udp/239.253.64.188:5140$海南06#http://www.hkyc.site:1991/udp/239.253.64.189:5140$海南07#http://www.hkyc.site:1991/udp/239.253.64.190:5140$海南08#http://www.hkyc.site:1991/udp/239.253.64.191:5140$海南09#http://www.hkyc.site:1991/udp/239.253.64.192:5140$海南10#http://www.hkyc.site:1991/udp/239.253.64.193:5140$海南1#http://www.hkyc.site:1991/udp/239.253.64.130:5140$海南2#http://www.hkyc.site:1991/udp/239.253.64.131:5140$海南3#http://www.hkyc.site:1991/udp/239.253.64.132:5140$海南4#http://www.hkyc.site:1991/udp/239.253.64.133:5140$海南5#http://www.hkyc.site:1991/udp/239.253.64.134:5140$海南6#http://www.hkyc.site:1991/udp/239.253.64.135:5140$海南7#http://www.hkyc.site:1991/udp/239.253.64.136:5140$海南8#http://www.hkyc.site:1991/udp/239.253.64.180:5140$海南9#http://www.hkyc.site:1991/udp/239.253.64.181:5140$海南10#http://www.hkyc.site:1991/udp/239.253.64.182:5140$海南11#http://www.hkyc.site:1991/udp/239.253.64.183:5140$海南#http://125.123.121.81:4022/udp/233.50.200.31:5140$浙江信#http://101.68.81.44:9999/udp/233.50.200.31:5140$浙江联#http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225663/1.m3u8$ip6#http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225665/1.m3u8$ip6#http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225666/1.m3u8$ip6#http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225667/1.m3u8$ip6#http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225669/1.m3u8$ip6#http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225670/1.m3u8$ip6#http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225671/1.m3u8$ip6#http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226102/1.m3u8$ip6#http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226123/1.m3u8#http://[2409:8087:5e08:25::4]:6610/000000001000/5000000001000001116/index.m3u8?channel-id=bestzb&Contentid=5000000001000001116&livemode=1&stbId=3$ip40#http://[2409:8087:5e08:25::4]:6610/000000001000/5000000001000004876/index.m3u8?channel-id=bestzb&Contentid=5000000001000004876&livemode=1&stbId=3$ip41#http://[2409:8087:5e08:25::4]:6610/000000001000/5000000001000006777/index.m3u8?channel-id=bestzb&Contentid=5000000001000006777&livemode=1&stbId=3$ip42#http://[2409:8087:5e08:25::4]:6610/000000001000/5000000001000017342/index.m3u8?channel-id=bestzb&Contentid=5000000001000017342&livemode=1&stbId=3$ip43#http://[2409:8087:5e08:25::4]:6610/000000001000/5000000001000018009/index.m3u8?channel-id=bestzb&Contentid=5000000001000018009&livemode=1&stbId=3$ip44#http://[2409:8087:5e08:25::4]:6610/000000001000/5000000001000019233/index.m3u8?channel-id=bestzb&Contentid=5000000001000019233&livemode=1&stbId=3$ip45#http://[2409:8087:5e08:25::4]:6610/000000001000/5000000001000022620/index.m3u8?channel-id=bestzb&Contentid=5000000001000022620&livemode=1&stbId=3$ip46#http://[2409:8087:5e08:25::4]:6610/000000001000/5000000001000023256/index.m3u8?channel-id=bestzb&Contentid=5000000001000023256&livemode=1&stbId=3$ip47#http://[2409:8087:5e08:25::4]:6610/000000001000/5000000001000026930/index.m3u8?channel-id=bestzb&Contentid=5000000001000026930&livemode=1&stbId=3$ip48
