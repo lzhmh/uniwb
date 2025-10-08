@@ -61,14 +61,14 @@
 凤凰中文,http://218.15.183.23:9901/tsfile/live/23037_1.m3u8$梅州信
 凤凰资讯,http://58.19.180.108:9981/stream/channelid/708272803?profile=pass$襄阳联
 
-CCTV4,http://vip1.xinketongxun.fun:8082/tsfile/live/0004_1.m3u8$钦州联
-CCTV13,http://vip1.xinketongxun.fun:8082/tsfile/live/0013_1.m3u8$钦州联
-
 CCTV4,http://124.152.56.11:53290/tsfile/live/1004_1.m3u8$张掖联
 CCTV13,http://124.152.56.11:53290/tsfile/live/1014_1.m3u8$张掖联
 
 CCTV4,http://116.77.33.98:44330/tsfile/live/0004_1.m3u8$深天威
 CCTV13,http://116.77.33.98:44330/tsfile/live/0014_1.m3u8$深天威
+
+CCTV4,http://vip1.xinketongxun.fun:8082/tsfile/live/0004_1.m3u8$钦州联
+CCTV13,http://vip1.xinketongxun.fun:8082/tsfile/live/0013_1.m3u8$钦州联
 
 CCTV4,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv4$cdn6
 CCTV13,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv13$cdn6
@@ -173,10 +173,6 @@ CCTV+2,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist
 
 体育频道,#genre#
 
-CCTV5,http://vip1.xinketongxun.fun:8082/tsfile/live/0005_1.m3u8$钦州联
-CCTV5+,http://vip1.xinketongxun.fun:8082/tsfile/live/0016_1.m3u8$钦州联
-CCTV16,http://vip1.xinketongxun.fun:8082/tsfile/live/1002_1.m3u8$钦州联
-
 CCTV5,http://124.152.56.11:53290/tsfile/live/1005_1.m3u8$张掖联
 CCTV5+,http://124.152.56.11:53290/tsfile/live/1006_1.m3u8$张掖联
 CCTV16,http://124.152.56.11:53290/tsfile/live/1017_1.m3u8$张掖联
@@ -188,6 +184,10 @@ CCTV16,http://116.77.33.98:44330/tsfile/live/0017_1.m3u8$深天威
 CCTV5,http://113.195.172.192:808/hls/162/index.m3u8$宜春联
 CCTV5+,http://113.195.172.192:808/hls/163/index.m3u8$宜春联
 CCTV16,http://113.195.172.192:808/hls/178/index.m3u8$宜春联
+
+CCTV5,http://vip1.xinketongxun.fun:8082/tsfile/live/0005_1.m3u8$钦州联
+CCTV5+,http://vip1.xinketongxun.fun:8082/tsfile/live/0016_1.m3u8$钦州联
+CCTV16,http://vip1.xinketongxun.fun:8082/tsfile/live/1002_1.m3u8$钦州联
 
 CCTV5,http://119.123.177.78:8086/hls/6/index.m3u8$深圳信
 CCTV5+,http://119.123.177.78:8086/hls/252/index.m3u8$深圳信
@@ -259,11 +259,11 @@ CCTV16,http://www.zyhfm.com:8088/udp/239.69.1.247:11124$湖北信#http://www.zyh
 CCTV5,http://58.19.180.108:9981/stream/channelid/908622330?profile=pass$襄阳联
 CCTV5+,http://58.19.180.108:9981/stream/channelid/1400754434?profile=pass$襄阳联
 
-先锋乒羽,http://vip1.xinketongxun.fun:8082/tsfile/live/1013_1.m3u8$钦州联
 先锋乒羽,http://113.195.172.192:808/hls/239/index.m3u8$宜春联
 先锋乒羽,http://219.146.65.78:59902/tsfile/live/0140_1.m3u8$青岛信
 先锋乒羽,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-1.m3u8$温州移#http://nn.7x9d.cn/地方台8563/湖南2.php?id=329#http://117.141.162.238:8181/tsfile/live/1114_1.m3u8?key=txiptv&playlive=1&authid=0$北海移#http://home.amucn.net:8800/udp/239.49.0.145:8000$江苏信#
 先锋乒羽,http://113.195.172.192:808/hls/101/index.m3u8$宜春联
+先锋乒羽,http://vip1.xinketongxun.fun:8082/tsfile/live/1013_1.m3u8$钦州联
 
 爱尔达3,rtmp://59.124.75.138/sat/md021$59
 
@@ -348,7 +348,7 @@ CETV4,http://113.195.172.192:808/hls/40/index.m3u8$宜春联
 
 掼蛋精英赛,http://m.061899.xyz/mg/dds$mg
 掼蛋精英赛,http://t.061899.xyz/tl/dq.php?id=dds$t
-掼蛋精英赛,https://migu.188766.xyz/?migutoken=68aea5c7f3cadfacb42f2db7b2e8643d&id=%E6%8E%BC%E8%9B%8B%E7%B2%BE%E8%8B%B1%E8%B5%9B&type=yy
+掼蛋精英赛,http://gslbmgsplive.miguvideo.com/wd_r4/virtuallive/5101059662/150/index.m3u8?msisdn=20251008200033e2ce8ef94f104c27a4d62029cd0bae92&mdspid=&spid=800033&netType=0&sid=5500341085&pid=2028597139&timestamp=20251008200033&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=631354620&ParentNodeID=-99&assertID=5500341085&client_ip=106.13.250.89&SecurityKey=20251008200033&promotionId=&mvid=5101059662&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=7e258de13ef6321cb18b1ae6b1283df7&ddCalcu=77feed203518802d1eb163eeaf16b38211bc
 
 八卦大师,http://iptv.jxpan.vip:18888/aio/douyu/851040$iptv
 帽子象棋,http://iptv.jxpan.vip:18888/aio/douyu/4487219$iptv
