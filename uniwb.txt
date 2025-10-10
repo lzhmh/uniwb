@@ -586,6 +586,20 @@ CETV4,http://113.195.172.192:808/hls/40/index.m3u8$宜春联
 凤凰资讯,https://stream1.freetv.fun/7d3e0683dbf6e0636efa3bc17815aba2c44580449b0be83ed1e3ca97ed45bccc.ctv#https://stream1.freetv.fun/394e3d5e6a07057143c0beb8ee4f57f8ca189fbe996eec435f23e92ea2acbe46.ctv
 凤凰香港,https://stream1.freetv.fun/befd2cea5524857b26687c6c5ede8b698f02c45d4ae98400ee0fdf0b7f358de1.ctv#https://stream1.freetv.fun/1adc080c2a2e1019875ad56cd3e5093054475d1f818d2973262d3492d8a74306.ctv#https://stream1.freetv.fun/a6e64c90fc24ccf34c0be8409108f8b9e4e4e91f51e8b3daa2bcfe108d2cfb20.ctv#
 
+TVBSHD,http://114.34.40.48:50008/4gtv-4gtv073/index.m3u8?proxy=true$4gtv
+TVBS新闻,http://114.34.40.48:50008/4gtv-4gtv072/index.m3u8?proxy=true$4gtv
+中天新闻,http://114.34.40.48:50008/4gtv-4gtv009/index.m3u8?proxy=true$4gtv
+华视新闻,http://114.34.40.48:50008/4gtv-4gtv052/index.m3u8?proxy=true$4gtv
+中视新闻,http://114.34.40.48:50008/4gtv-4gtv074/index.m3u8?proxy=true$4gtv
+东森新闻,http://114.34.40.48:50008/4gtv-4gtv152/index.m3u8?proxy=true$4gtv
+台视新闻,http://114.34.40.48:50008/4gtv-4gtv051/index.m3u8?proxy=true$4gtv
+镜新闻,http://114.34.40.48:50008/4gtv-4gtv075/index.m3u8?proxy=true$4gtv
+新唐人,http://114.34.40.48:50008/4gtv-live050/index.m3u8?proxy=true$4gtv
+东森财经,http://114.34.40.48:50008/4gtv-4gtv153/index.m3u8?proxy=true$4gtv
+三立iNEWS,http://114.34.40.48:50008/4gtv-live089/index.m3u8?proxy=true$4gtv
+靖天国际,http://114.34.40.48:50008/4gtv-4gtv063/index.m3u8?proxy=true$4gtv
+Bloomberg TV,http://114.34.40.48:50008/4gtv-live059/index.m3u8?proxy=true$4gtv
+
 中天亚洲,http://line.greatstar.me:80/play/live.php?mac=00:1A:79:13:54:E8&stream=571212&extension=ts$line#
 中天亚洲,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19449.ts$40gbp
 中天亚洲,http://t.061899.xyz/tl/js/js.php?id=ztyzt$0618#http://line.greatstar.me:80/play/live.php?mac=00:1A:79:51:45:21&stream=571212&extension=ts
@@ -608,19 +622,17 @@ TVBS新闻,http://cnlive.org/channel/n69ccce92/index.m3u8$cnlive
 
 中天新闻,http://bxtv.3a.ink/api.php?id=ztxw$bxtv
 中天新闻,rtmp://hc.siqianginfo.com/live/yifatv-ztxw01$hc
-TVBSHD,http://152.32.229.52:5050/4gtv-4gtv073/index.m3u8?proxy=true$4gtv
-TVBS新闻,http://152.32.229.52:5050/4gtv-4gtv072/index.m3u8?proxy=true$4gtv
-中天新闻,http://152.32.229.52:5050/4gtv-4gtv009/index.m3u8?proxy=true$4gtv
-华视新闻,http://152.32.229.52:5050/4gtv-4gtv052/index.m3u8?proxy=true$4gtv
-中视新闻,http://152.32.229.52:5050/4gtv-4gtv074/index.m3u8?proxy=true$4gtv
-东森新闻,http://152.32.229.52:5050/4gtv-4gtv152/index.m3u8?proxy=true$4gtv
-Bloomberg TV,http://152.32.229.52:5050/4gtv-live059/index.m3u8?proxy=true$4gtv
-台视新闻,http://152.32.229.52:5050/4gtv-4gtv051/index.m3u8?proxy=true$4gtv
-镜新闻,http://152.32.229.52:5050/4gtv-4gtv075/index.m3u8?proxy=true$4gtv
-新唐人,http://152.32.229.52:5050/4gtv-live050/index.m3u8?proxy=true$4gtv
-东森财经,http://152.32.229.52:5050/4gtv-4gtv153/index.m3u8?proxy=true$4gtv
-三立iNEWS,http://152.32.229.52:5050/4gtv-live089/index.m3u8?proxy=true$4gtv
-靖天国际,http://152.32.229.52:5050/4gtv-4gtv063/index.m3u8?proxy=true$4gtv
+
+TVBSHD,http://114.34.40.48:50008/li-4gtv-4gtv073/index.m3u8?proxy=true$li
+TVBS新闻,http://114.34.40.48:50008/li-4gtv-4gtv072/index.m3u8?proxy=true$li
+中天新闻,http://114.34.40.48:50008/li-4gtv-4gtv009/index.m3u8?proxy=true$li
+中视新闻,http://114.34.40.48:50008/li-4gtv-4gtv074/index.m3u8?proxy=true$li
+东森新闻,http://114.34.40.48:50008/li-4gtv-4gtv152/index.m3u8?proxy=true$li
+台视新闻,http://114.34.40.48:50008/li-4gtv-4gtv051/index.m3u8?proxy=true$li
+镜新闻,http://114.34.40.48:50008/li-4gtv-4gtv075/index.m3u8?proxy=true$li
+东森财经,http://114.34.40.48:50008/li-4gtv-4gtv153/index.m3u8?proxy=true$li
+靖天国际,http://114.34.40.48:50008/li-4gtv-4gtv063/index.m3u8?proxy=true$li
+
 TVBS亚洲,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19474.ts$40gbp
 TVBS亚洲,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500305399.ts$40gbp
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$chunk#http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8$chunk#http://38.64.72.148/hls/modn/list/4005/playlist.m3u8$chunk
@@ -628,31 +640,28 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$chunk#http:
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581$rtm
 新唐人,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8#h
 
-国际大小事,http://152.32.229.52:5050/ofiii55/index.m3u8?proxy=true$4gtv
-乡民大学问,http://152.32.229.52:5050/ofiii83/index.m3u8?proxy=true$4gtv
-新闻大白話,http://152.32.229.52:5050/ofiii202/index.m3u8?proxy=true$4gtv
-寰宇全视界,http://152.32.229.52:5050/ofiii204/index.m3u8?proxy=true$4gtv
-環球大戰線,http://152.32.229.52:5050/ofiii206/index.m3u8?proxy=true$4gtv
-少康戰情室,http://152.32.229.52:5050/ofiii207/index.m3u8?proxy=true$4gtv
-掏掏新闻,http://152.32.229.52:5050/ofiii50/index.m3u8?proxy=true$4gtv
-文茜财经周報,http://152.32.229.52:5050/ofiii205/index.m3u8?proxy=true$4gtv
-文茜世界周報,http://152.32.229.52:5050/ofiii203/index.m3u8?proxy=true$4gtv009
-食尚玩家-熱血48小時,http://152.32.229.52:5050/ofiii228/index.m3u8?proxy=true$4gtv
-食尚玩家-魚肉鄉民,http://152.32.229.52:5050/ofiii229/index.m3u8?proxy=true$4gtv
-食尚玩家-Hello腹餓代,http://152.32.229.52:5050/ofiii225/index.m3u8?proxy=true$4gtv
-食尚玩家-瘋狂總部,http://152.32.229.52:5050/ofiii230/index.m3u8?proxy=true$4gtv
-食尚玩家-天菜就醬吃,http://152.32.229.52:5050/ofiii226/index.m3u8?proxy=true$4gtv
-食尚玩家-2天1夜go,http://152.32.229.52:5050/ofiii227/index.m3u8?proxy=true$4gtv
-詹姆士出走料理,http://152.32.229.52:5050/ofiii236/index.m3u8?proxy=true$4gtv
+国际大小事,http://114.34.40.48:50008/ofiii55/index.m3u8?proxy=true$4gtv
+乡民大学问,http://114.34.40.48:50008/ofiii83/index.m3u8?proxy=true$4gtv
+新闻大白話,http://114.34.40.48:50008/ofiii202/index.m3u8?proxy=true$4gtv
+寰宇全视界,http://114.34.40.48:50008/ofiii204/index.m3u8?proxy=true$4gtv
+環球大戰線,http://114.34.40.48:50008/ofiii206/index.m3u8?proxy=true$4gtv
+少康戰情室,http://114.34.40.48:50008/ofiii207/index.m3u8?proxy=true$4gtv
+掏掏新闻,http://114.34.40.48:50008/ofiii50/index.m3u8?proxy=true$4gtv
+文茜财经周報,http://114.34.40.48:50008/ofiii205/index.m3u8?proxy=true$4gtv
+文茜世界周報,http://114.34.40.48:50008/ofiii203/index.m3u8?proxy=true$4gtv009
+食尚玩家-熱血48小時,http://114.34.40.48:50008/ofiii228/index.m3u8?proxy=true$4gtv
+食尚玩家-魚肉鄉民,http://114.34.40.48:50008/ofiii229/index.m3u8?proxy=true$4gtv
+食尚玩家-Hello腹餓代,http://114.34.40.48:50008/ofiii225/index.m3u8?proxy=true$4gtv
+食尚玩家-瘋狂總部,http://114.34.40.48:50008/ofiii230/index.m3u8?proxy=true$4gtv
+食尚玩家-天菜就醬吃,http://114.34.40.48:50008/ofiii226/index.m3u8?proxy=true$4gtv
+食尚玩家-2天1夜go,http://114.34.40.48:50008/ofiii227/index.m3u8?proxy=true$4gtv
+詹姆士出走料理,http://114.34.40.48:50008/ofiii236/index.m3u8?proxy=true$4gtv
 
-愛爾達生活旅遊,http://152.32.229.52:5050/4gtv-live120/index.m3u8?proxy=true$4gtv
-影迷数位,http://152.32.229.52:5050/4gtv-4gtv011/index.m3u8?proxy=true$4gtv
-空間居家,http://152.32.229.52:5050/4gtv-live206/index.m3u8?proxy=true$4gtv
-JOJO 的奇妙冒險,http://152.32.229.52:5050/ofiii178/index.m3u8?proxy=true$4gtv
-靖天资讯,http://152.32.229.52:5050/4gtv-4gtv065/index.m3u8?proxy=true$4gtv
-
-TVBS新闻,https://stream1.freetv.fun/b9008aeb80dd41cc97f7006561fd5af645903c8fe9f44cb2e1e866c841842054.ctv
-寰宇新闻,https://stream1.freetv.fun/d9e077d94c5ba3a10f9d1a26d5c1f3aa5d4d3f811e1f85120c5b742aaa506157.m3u8
+愛爾達生活旅遊,http://114.34.40.48:50008/4gtv-live120/index.m3u8?proxy=true$4gtv
+影迷数位,http://114.34.40.48:50008/4gtv-4gtv011/index.m3u8?proxy=true$4gtv
+空間居家,http://114.34.40.48:50008/4gtv-live206/index.m3u8?proxy=true$4gtv
+JOJO 的奇妙冒險,http://114.34.40.48:50008/ofiii178/index.m3u8?proxy=true$4gtv
+靖天资讯,http://114.34.40.48:50008/4gtv-4gtv065/index.m3u8?proxy=true$4gtv
 
 实时直播,#genre#
 
