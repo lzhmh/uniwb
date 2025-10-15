@@ -277,33 +277,15 @@ CCTV5+,http://58.19.180.108:9981/stream/channelid/1400754434?profile=pass$襄阳
 
 爱尔达3,rtmp://59.124.75.138/sat/md021$59
 
-爱羽客,http://101.73.17.209:9999/udp/239.253.93.202:6380$河北联
-爱羽客,http://nas.hssvm.com:8888/udp/225.1.2.1:5002$天津联
-爱羽客,http://www.tszhgjj.cn:7000/udp/239.253.93.202:6380$河北联
+爱羽客,http://117.12.150.132:4022/udp/225.1.2.1:5002$天津联#http://111.162.204.87:8686/udp/225.1.2.1:5002$天津联
 
-///麻辣体育http://nas.xlnas.com:4022/udp/239.93.42.2:5140$四川信
+百事乒羽1,http://95201.top:8888/udp/233.50.200.236:5140$浙江信#http://e2.woc.iiiya.cn:28888/udp/239.61.5.12:1025$福建信#http://111.113.88.55:2000/udp/239.121.4.130:8762$宁夏信4#http://cloud.sunrisecom.wang:8888/udp/239.45.3.139:5140$上海信#http://www.745612.xyz:7788/udp/235.254.196.234:1208$重庆信4#http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225664/1.m3u8$ip6
 
-百事乒羽1,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225664/1.m3u8$ip6#http://e2.woc.iiiya.cn:28888/udp/239.61.5.12:1025$福建信4#http://cloud.sunrisecom.wang:8888/udp/239.45.3.139:5140$上海信#http://95201.top:8888/udp/233.50.200.236:5140$浙江信#http://www.745612.xyz:7788/udp/235.254.196.234:1208$重庆信4#http://vpn.rogerxlj.top:9998/udp/239.45.3.139:5140$上海信
+百事乒羽2,http://111.113.88.55:2000/udp/239.121.4.131:8768$宁夏信#http://cloud.sunrisecom.wang:8888/udp/239.45.3.140:5140$上海信
 
-百事乒羽2,http://vpn.rogerxlj.top:9998/udp/239.45.3.140:5140$上海信
-百事乒羽2,http://cloud.sunrisecom.wang:8888/udp/239.45.3.140:5140$上海信
+广东体育,http://120.233.73.4:19901/tsfile/live/1040_1.m3u8$深移动#http://116.77.33.98:44330/tsfile/live/1004_1.m3u8$深天威#http://163.142.186.48:9901/tsfile/live/1026_1.m3u8$佛山联#http://163.142.186.49:9901/tsfile/live/1026_1.m3u8$佛山联#http://go.bkpcp.top/mg/gdty$go#http://bxtv.3a.ink/api.php?id=gdty$bxtv#http://119.123.177.78:8086/hls/42/index.m3u8$深圳信#http://live4play.uk/livehttpplay?channel_id=12028$live4#http://vallest.uk/livehttpplay?channel_id=30031$vall#http://163.142.186.56:9901/tsfile/live/1026_1.m3u8$佛山联#http://163.142.186.56:9903/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0$佛山联#http://106.53.99.30/tv/gdcucc.php?id=30$106#http://120.238.94.82:9901/tsfile/live/1012_1.m3u8$梅州移#http://live4play.uk/livehttpplay?channel_id=30031$live4#http://live4play.uk/livehttpplay?channel_id=20130$live4#http://live4play.uk/livehttpplay?channel_id=30003$live4
 
-广东体育,http://120.233.73.4:19901/tsfile/live/1040_1.m3u8$深移动
-广东体育,http://116.77.33.98:44330/tsfile/live/1004_1.m3u8$深天威
-广东体育,http://163.142.186.48:9901/tsfile/live/1026_1.m3u8$佛山联#http://163.142.186.49:9901/tsfile/live/1026_1.m3u8$佛山联
-广东体育,http://go.bkpcp.top/mg/gdty$go
-广东体育,http://bxtv.3a.ink/api.php?id=gdty$bxtv
-广东体育,http://119.123.177.78:8086/hls/42/index.m3u8$深圳信
-广东体育,http://live4play.uk/livehttpplay?channel_id=12028$live4#http://vallest.uk/livehttpplay?channel_id=30031$vall
-广东体育,http://163.142.186.56:9901/tsfile/live/1026_1.m3u8$佛山联#http://163.142.186.56:9903/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0$佛山联
-广东体育,http://106.53.99.30/tv/gdcucc.php?id=2$106#http://106.53.99.30/tv/gdcucc.php?id=30$106
-广东体育,http://113.81.20.131:20443/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$113
-广东体育,http://gd.wsd.gd.cn:1698/hls/12/index.m3u8
-广东体育,http://120.238.94.82:9901/tsfile/live/1012_1.m3u8$梅州移
-广东体育,http://live4play.uk/livehttpplay?channel_id=30031$live4#http://live4play.uk/livehttpplay?channel_id=20130$live4#http://live4play.uk/livehttpplay?channel_id=30003$live4
-
-深圳体育,http://120.233.73.4:19901/tsfile/live/1036_1.m3u8$深移动
-深圳体育,http://183.236.43.98:4013/udp/239.77.1.140:5146$广东信#http://183.236.43.98:4013/udp/239.77.1.128:5146$广东信#http://116.21.205.101:8188/udp/239.77.1.140:5146$广东信#http://116.21.205.101:8188/udp/239.77.1.128:5146$广东信#http://ddns.cyruslee.top:8888/udp/239.77.1.140:5146$广东信#http://ddns.cyruslee.top:8888/udp/239.77.1.128:5146$广东信#http://59.35.185.47:8188/udp/239.77.1.140:5146$广东信#http://59.35.185.47:8188/udp/239.77.1.128:5146$广东信
+深圳体育,http://120.233.73.4:19901/tsfile/live/1036_1.m3u8$深移动#http://183.236.43.98:4013/udp/239.77.1.140:5146$广东信#http://183.236.43.98:4013/udp/239.77.1.128:5146$广东信#http://116.21.205.101:8188/udp/239.77.1.140:5146$广东信#http://116.21.205.101:8188/udp/239.77.1.128:5146$广东信#http://ddns.cyruslee.top:8888/udp/239.77.1.140:5146$广东信#http://ddns.cyruslee.top:8888/udp/239.77.1.128:5146$广东信#http://59.35.185.47:8188/udp/239.77.1.140:5146$广东信#http://59.35.185.47:8188/udp/239.77.1.128:5146$广东信
 
 北京体育,http://m.061899.xyz/mg/bjty$mg
 劲爆体育,http://m.061899.xyz/mg/jbty$mg#http://111.8.242.124:4095/tsfile/live/1035_1.m3u8$怀化移
