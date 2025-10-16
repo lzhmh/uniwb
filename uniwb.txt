@@ -275,11 +275,10 @@ CCTV5+,http://58.19.180.108:9981/stream/channelid/1400754434?profile=pass$襄阳
 
 爱尔达3,rtmp://59.124.75.138/sat/md021$59
 
-爱羽客,http://117.12.150.132:4022/udp/225.1.2.1:5002$天津联#http://111.162.204.87:8686/udp/225.1.2.1:5002$天津联
+爱羽客,http://111.162.204.87:8686/udp/225.1.2.1:5002$天津联#http://117.12.150.132:4022/udp/225.1.2.1:5002$天津联#
 
-百事乒羽1,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225664/1.m3u8$ip6#http://e2.woc.iiiya.cn:28888/udp/239.61.5.12:1025$福建信#http://111.113.88.55:2000/udp/239.121.4.130:8762$宁夏信4#http://cloud.sunrisecom.wang:8888/udp/239.45.3.139:5140$上海信#http://www.745612.xyz:7788/udp/235.254.196.234:1208$重庆信4#http://95201.top:8888/udp/233.50.200.236:5140$浙江信#
-
-百事乒羽2,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225666/1.m3u8$ip6#http://111.113.88.55:2000/udp/239.121.4.131:8768$宁夏信#http://cloud.sunrisecom.wang:8888/udp/239.45.3.140:5140$上海信
+百事乒羽1,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225664/1.m3u8$ip6#http://e2.woc.iiiya.cn:28888/udp/239.61.5.12:1025$福建信#http://111.113.88.55:2000/udp/239.121.4.130:8762$宁夏信4#http://cloud.sunrisecom.wang:8888/udp/239.45.3.139:5140$上海信#http://www.745612.xyz:7788/udp/235.254.196.234:1208$重庆信4#http://95201.top:8888/udp/233.50.200.236:5140$浙江信#http://95201.top:8888/udp/233.50.200.246:5140$浙江信
+百事乒羽2,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225666/1.m3u8$ip6#http://e2.woc.iiiya.cn:28888/udp/239.61.5.13:1025$福建信#http://111.113.88.55:2000/udp/239.121.4.131:8768$宁夏信#http://cloud.sunrisecom.wang:8888/udp/239.45.3.140:5140$上海信#http://www.745612.xyz:7788/udp/235.254.196.235:1212$重庆信5#http://95201.top:8888/udp/233.50.201.205:5140$浙江信
 
 广东体育,http://120.233.73.4:19901/tsfile/live/1040_1.m3u8$深移动#http://116.77.33.98:44330/tsfile/live/1004_1.m3u8$深天威#http://163.142.186.48:9901/tsfile/live/1026_1.m3u8$佛山联#http://163.142.186.49:9901/tsfile/live/1026_1.m3u8$佛山联#http://go.bkpcp.top/mg/gdty$go#http://bxtv.3a.ink/api.php?id=gdty$bxtv#http://119.123.177.78:8086/hls/42/index.m3u8$深圳信#http://live4play.uk/livehttpplay?channel_id=12028$live4#http://vallest.uk/livehttpplay?channel_id=30031$vall#http://163.142.186.56:9901/tsfile/live/1026_1.m3u8$佛山联#http://163.142.186.56:9903/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0$佛山联#http://106.53.99.30/tv/gdcucc.php?id=30$106#http://120.238.94.82:9901/tsfile/live/1012_1.m3u8$梅州移#http://live4play.uk/livehttpplay?channel_id=30031$live4#http://live4play.uk/livehttpplay?channel_id=20130$live4#http://live4play.uk/livehttpplay?channel_id=30003$live4
 
@@ -703,26 +702,6 @@ JOJO 的奇妙冒險,http://114.34.40.48:50008/ofiii178/index.m3u8?proxy=true$4g
 靖天资讯,http://114.34.40.48:50008/4gtv-4gtv065/index.m3u8?proxy=true$4gtv
 
 实时直播,#genre#
-
-股道直播,https://live.iill.top/douyin/272329718530$live
-都业华直播,https://live.iill.top/douyin/992023778128$live
-
-掼蛋联赛,https://live.iill.top/douyin/55948161808$live
-龙崎掼蛋,https://live.iill.top/douyin/205999118218$live
-栓Q掼蛋,https://live.iill.top/douyin/885067119515$live
-六月直播,https://live.iill.top/douyin/90789809598$live
-游江直播,https://live.iill.top/douyin/13041727223$live
-看风直播,https://live.iill.top/douyin/42059896853$live
-钰宝直播,https://live.iill.top/douyin/38129468982$live
-淡定直播,https://live.iill.top/douyin/1089824966$live
-张毅直播,https://live.iill.top/douyin/1080010222$live
-
-柳大华直播,https://live.iill.top/douyin/27068126593$live
-街头直播,https://live.iill.top/douyin/999039291841$live
-
-围棋指导,https://live.iill.top/douyin/448147530190$live
-极简直播,https://live.iill.top/douyin/328531745171$live
-天山弈道,https://live.iill.top/douyin/309312439347$live
 
 咪视界2,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
 咪视界3,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
