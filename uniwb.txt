@@ -277,9 +277,9 @@ CCTV5+,http://58.19.180.108:9981/stream/channelid/1400754434?profile=pass$襄阳
 
 爱羽客,http://111.162.204.87:8686/udp/225.1.2.1:5002$天津联#http://117.12.150.132:4022/udp/225.1.2.1:5002$天津联#
 
-百事乒羽1,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225664/1.m3u8$ip6#http://e2.woc.iiiya.cn:28888/udp/239.61.5.12:1025$福建信#http://111.113.88.55:2000/udp/239.121.4.130:8762$宁夏信4#http://cloud.sunrisecom.wang:8888/udp/239.45.3.139:5140$上海信#http://www.745612.xyz:7788/udp/235.254.196.234:1208$重庆信4#http://95201.top:8888/udp/233.50.200.236:5140$浙江信#http://95201.top:8888/udp/233.50.200.246:5140$浙江信#http://223.167.230.34:4022/udp/239.45.3.139:5140$上海信#http://180.165.1.5:9898/udp/239.45.3.139:5140$上海信#http://116.235.57.63:4022/udp/239.45.3.139:5140$上海信#http://61.173.162.228:4022/udp/239.45.3.139:5140$上海信
+百事乒羽1,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225664/1.m3u8$ip6#http://61.173.162.228:4022/udp/239.45.3.139:5140$上海信#http://e2.woc.iiiya.cn:28888/udp/239.61.5.12:1025$福建信#http://111.113.88.55:2000/udp/239.121.4.130:8762$宁夏信#http://cloud.sunrisecom.wang:8888/udp/239.45.3.139:5140$上海信#http://www.745612.xyz:7788/udp/235.254.196.234:1208$重庆信#http://95201.top:8888/udp/233.50.200.236:5140$浙江信#http://95201.top:8888/udp/233.50.200.246:5140$浙江信#http://223.167.230.34:4022/udp/239.45.3.139:5140$上海信#http://180.165.1.5:9898/udp/239.45.3.139:5140$上海信#http://116.235.57.63:4022/udp/239.45.3.139:5140$上海信#http://61.173.162.228:4022/udp/239.45.3.139:5140$上海信#http://120.40.56.142:1000/udp/239.61.5.12:1025$福建信#http://111.113.88.55:2000/udp/239.121.4.130:8762$宁夏信
 
-百事乒羽2,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225666/1.m3u8$ip6#http://e2.woc.iiiya.cn:28888/udp/239.61.5.13:1025$福建信#http://111.113.88.55:2000/udp/239.121.4.131:8768$宁夏信#http://cloud.sunrisecom.wang:8888/udp/239.45.3.140:5140$上海信#http://www.745612.xyz:7788/udp/235.254.196.235:1212$重庆信5#http://95201.top:8888/udp/233.50.201.205:5140$浙江信#http://223.167.230.34:4022/udp/239.45.3.140:5140$上海信#http://180.165.1.5:9898/udp/239.45.3.140:5140$上海信#http://116.235.57.63:4022/udp/239.45.3.140:5140$上海信#http://61.173.162.228:4022/udp/239.45.3.140:5140$上海信
+百事乒羽2,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225666/1.m3u8$ip6#http://61.173.162.228:4022/udp/239.45.3.140:5140$上海信#http://e2.woc.iiiya.cn:28888/udp/239.61.5.13:1025$福建信#http://111.113.88.55:2000/udp/239.121.4.131:8768$宁夏信#http://cloud.sunrisecom.wang:8888/udp/239.45.3.140:5140$上海信#http://www.745612.xyz:7788/udp/235.254.196.235:1212$重庆信5#http://95201.top:8888/udp/233.50.201.205:5140$浙江信#http://223.167.230.34:4022/udp/239.45.3.140:5140$上海信#http://180.165.1.5:9898/udp/239.45.3.140:5140$上海信#http://116.235.57.63:4022/udp/239.45.3.140:5140$上海信#http://61.173.162.228:4022/udp/239.45.3.140:5140$上海信#http://120.40.56.142:1000/udp/239.61.5.13:1025$福建信#http://111.113.88.55:2000/udp/239.121.4.131:8768$宁夏信
 
 广东体育,http://120.233.73.4:19901/tsfile/live/1040_1.m3u8$深移动#http://116.77.33.98:44330/tsfile/live/1004_1.m3u8$深天威#http://163.142.186.48:9901/tsfile/live/1026_1.m3u8$佛山联#http://163.142.186.49:9901/tsfile/live/1026_1.m3u8$佛山联#http://go.bkpcp.top/mg/gdty$go#http://bxtv.3a.ink/api.php?id=gdty$bxtv#http://119.123.177.78:8086/hls/42/index.m3u8$深圳信#http://live4play.uk/livehttpplay?channel_id=12028$live4#http://vallest.uk/livehttpplay?channel_id=30031$vall#http://163.142.186.56:9901/tsfile/live/1026_1.m3u8$佛山联#http://163.142.186.56:9903/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0$佛山联#http://106.53.99.30/tv/gdcucc.php?id=30$106#http://120.238.94.82:9901/tsfile/live/1012_1.m3u8$梅州移#http://live4play.uk/livehttpplay?channel_id=30031$live4#http://live4play.uk/livehttpplay?channel_id=20130$live4#http://live4play.uk/livehttpplay?channel_id=30003$live4
 
@@ -338,7 +338,7 @@ CETV4,http://113.195.172.192:808/hls/40/index.m3u8$宜春联
 
 掼蛋精英赛,http://m.061899.xyz/mg/dds$mg
 掼蛋精英赛,http://t.061899.xyz/tl/dq.php?id=dds$t
-掼蛋精英赛,http://gslbmgsplive.miguvideo.com/wd_r4/virtuallive/5101059662/150/index.m3u8?msisdn=20251008200033e2ce8ef94f104c27a4d62029cd0bae92&mdspid=&spid=800033&netType=0&sid=5500341085&pid=2028597139&timestamp=20251008200033&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=631354620&ParentNodeID=-99&assertID=5500341085&client_ip=106.13.250.89&SecurityKey=20251008200033&promotionId=&mvid=5101059662&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=7e258de13ef6321cb18b1ae6b1283df7&ddCalcu=77feed203518802d1eb163eeaf16b38211bc
+掼蛋精英赛,http://gslbmgsplive.miguvideo.com/wd_r4/virtuallive/5101059662/150/index.m3u8?msisdn=2025101716003663145a1465c64d20b9f874e565b414bc&mdspid=&spid=800033&netType=0&sid=5500341085&pid=2028597139&timestamp=20251017160036&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=631354620&ParentNodeID=-99&assertID=5500341085&client_ip=106.13.250.90&SecurityKey=20251017160036&promotionId=&mvid=5101059662&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=4fd2d52d3ab1bc0408d5c2f47b2d2451&ddCalcu=145fe4d1221dd025b27d43fa2bc15bdc8004
 
 八卦大师,http://iptv.jxpan.vip:18888/aio/douyu/851040$iptv
 帽子象棋,http://iptv.jxpan.vip:18888/aio/douyu/4487219$iptv
@@ -819,6 +819,7 @@ FIFA,https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U
 ZooMoo,https://zoomoo-samsungau.amagi.tv:443/playlist1080p.m3u8
 ZooMoo,https://zoomoo-samsungau.amagi.tv/playlist.m3u8#http://tl.061833.xyz/tl/zoomoo$0618
 ZooMoo,https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+经典动画,http://gslbmgsplive.miguvideo.com/migu/kailu/jingdiandonghua/51/20250514/index.m3u8?msisdn=202510171600492cef4aa2fe8346cf995639ed32d0efdc&mdspid=&spid=699004&netType=0&sid=5500315652&pid=2028597139&timestamp=20251017160049&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=629942219&ParentNodeID=-99&assertID=5500315652&client_ip=106.13.250.90&SecurityKey=20251017160049&promotionId=&mvid=5101034205&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=194c37bc0f89f10f8f873cf7ea46acd4&ddCalcu=41d9ec41ac963047abec70ffc8397f81f08f$gslb
 
 NickJr,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/5286.ts$40gbp
 NickJr,http://tlive24.uk/livehttpplay?channel_id=20102$tlive
@@ -1508,7 +1509,7 @@ CHC影迷电影,http://www.zyhfm.com:8088/udp/239.69.1.241:11088$湖北信
 天映经典,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19437.ts$40gbp
 天映频道,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19439.ts$40gbp
 
-老故事,http://gslbmgsplive.miguvideo.com/migu/kailu/cctvlaogushi/50/20231109/index.m3u8?msisdn=20250927080120fb838d54131d4cff98994b1925dec5cd&mdspid=&spid=699004&netType=0&sid=5910022002&pid=2028597139&timestamp=20250927080120&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=884121956&ParentNodeID=-99&assertID=5910022002&client_ip=106.13.250.83&SecurityKey=20250927080120&promotionId=&mvid=5900006372&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=79adfb74b419ceb795ba3939add4c073&ddCalcu=3779e0a2cd44f0dbd7a49b349139acbe5b97
+老故事，http://gslbmgsplive.miguvideo.com/migu/kailu/cctvlaogushi/50/20231109/index.m3u8?msisdn=20251017160036a88156a55e4b4406ac350d54f2b70367&mdspid=&spid=699004&netType=0&sid=5910022002&pid=2028597139&timestamp=20251017160036&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=884121956&ParentNodeID=-99&assertID=5910022002&client_ip=106.13.250.90&SecurityKey=20251017160036&promotionId=&mvid=5900006372&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=3407bc497bcfa9d67fb72c33ec0b8b51&ddCalcu=1354eb01874bb00cc4e9373bcc2f7ab9fd76
 
 重温经典,http://124.152.56.11:53290/tsfile/live/1019_1.m3u8$张掖联#http://116.77.33.98:44330/tsfile/live/1015_1.m3u8$深天威
 
@@ -3432,6 +3433,8 @@ CGTN纪录,http://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 CGTN纪录,http://news.cgtn.com/resource/live/document/cgtn-doc.m3u8$news#https://0472.org/hls/cgtnd.m3u8
 CGTN纪录,http://t.061899.xyz/tl/dq.php?id=cgtnjl$618
 四海钓鱼,http://t.061899.xyz/tl/dq.php?id=shdy$618
+
+环球旅游,http://gslbmgsplive.miguvideo.com/migu/kailu/hqly/51/20250915/index.m3u8?msisdn=202510171600505867851441464864afe140b8ffef79db&mdspid=&spid=600697&netType=0&sid=5910022200&pid=2028597139&timestamp=20251017160050&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=958475356&ParentNodeID=-99&assertID=5910022200&client_ip=106.13.250.90&SecurityKey=20251017160050&promotionId=&mvid=5900006723&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=fa59cdf8a63653f23130f54f7380b118&ddCalcu=8f1ae151b980c08d3f78fa4653f605331f32$gslb
 
 WildEarth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8#http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/6615.m3u8
 
