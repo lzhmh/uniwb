@@ -1,5 +1,5 @@
 //粤联频道数据收集自网络上的分享250808开通IPV6
-新闻HU07,#genre#
+新闻HU08,#genre#
 凤凰中文,http://zmgd.zyrnet.com:8888/hls/110/index.m3u8$中牟移
 凤凰资讯,http://zmgd.zyrnet.com:8888/hls/109/index.m3u8$中牟移
 
@@ -148,9 +148,9 @@ NOW新闻,http://iptv.4666888.xyz/iptv2A.php?id=NOW新闻$iptv
 
 GlobalNews,https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
 FRANCE24,https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8
-FRANCE24,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live146/index.m3u8?proxy=true$4gtv
+FRANCE24,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live146/index.m3u8?proxy=true$xn
 
-Bloomberg TV,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live059/index.m3u8?proxy=true$4gtv
+Bloomberg TV,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live059/index.m3u8?proxy=true$xn
 Bloomberg TV,http://220.132.15.209:5008/4gtv-live059/index.m3u8?proxy=true$220
 Bloomberg,http://tlive24.uk/livehttpplay?channel_id=20151$tlive
 
@@ -298,6 +298,8 @@ CETV4,http://36.135.118.195:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&aut
 掼蛋精英赛,https://migu.188766.xyz/?migutoken=11818159d7d4c855384a589baa496ccc&id=%E6%8E%BC%E8%9B%8B%E7%B2%BE%E8%8B%B1%E8%B5%9B&type=yy
 掼蛋精英赛,http://m.061899.xyz/mg/dds$mg
 掼蛋精英赛,http://t.061899.xyz/tl/dq.php?id=dds$t
+
+掼蛋联赛,https://live.iill.top/douyin/55948161808$live
 
 睛彩广场舞,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf#http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
 睛彩广场舞,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226139/index.m3u8$ip6#http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.42:5540$kbtv#http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.223:5540$kbtv
@@ -550,9 +552,9 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$chunk#http:
 中天新闻,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts$ts
 中天新闻,http://iptv.4666888.xyz/iptv2A.php?id=中天新闻$iptv
 
-中天亚洲,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv109/index.m3u8?proxy=true$4gtv#
+中天亚洲,http://line.greatstar.me:80/play/live.php?mac=00:1A:79:51:45:21&stream=571212&extension=ts$line#http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv109/index.m3u8?proxy=true$xn
 中天亚洲,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19449.ts$40gbp
-中天亚洲,http://line.greatstar.me:80/play/live.php?mac=00:1A:79:13:54:E8&stream=571212&extension=ts$line#http://t.061899.xyz/tl/js/js.php?id=ztyzt$0618#http://line.greatstar.me:80/play/live.php?mac=00:1A:79:51:45:21&stream=571212&extension=ts$line
+中天亚洲,http://line.greatstar.me:80/play/live.php?mac=00:1A:79:13:54:E8&stream=571212&extension=ts$line#http://t.061899.xyz/tl/js/js.php?id=ztyzt$0618#
 
 ////http://xn--elt51t.azip.dpdns.org:5008/=====http://220.132.15.209:5008/
 
@@ -623,30 +625,33 @@ TVBS亚洲,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500305399.ts$40g
 
 中天CTI+,rtmp://hc.siqianginfo.com/live/yifatv-ztxw02$hc
 
-国际大小事,http://xn--elt51t.azip.dpdns.org:5008/ofiii55/index.m3u8?proxy=true$4gtv
-乡民大学问,http://xn--elt51t.azip.dpdns.org:5008/ofiii83/index.m3u8?proxy=true$4gtv
-新闻大白話,http://xn--elt51t.azip.dpdns.org:5008/ofiii202/index.m3u8?proxy=true$4gtv
-寰宇全视界,http://xn--elt51t.azip.dpdns.org:5008/ofiii204/index.m3u8?proxy=true$4gtv
-環球大戰線,http://xn--elt51t.azip.dpdns.org:5008/ofiii206/index.m3u8?proxy=true$4gtv
-少康戰情室,http://xn--elt51t.azip.dpdns.org:5008/ofiii207/index.m3u8?proxy=true$4gtv
-掏掏新闻,http://xn--elt51t.azip.dpdns.org:5008/ofiii50/index.m3u8?proxy=true$4gtv
-文茜财经周報,http://xn--elt51t.azip.dpdns.org:5008/ofiii205/index.m3u8?proxy=true$4gtv
-文茜世界周報,http://xn--elt51t.azip.dpdns.org:5008/ofiii203/index.m3u8?proxy=true$4gtv009
-食尚玩家-熱血48小時,http://xn--elt51t.azip.dpdns.org:5008/ofiii228/index.m3u8?proxy=true$4gtv
-食尚玩家-魚肉鄉民,http://xn--elt51t.azip.dpdns.org:5008/ofiii229/index.m3u8?proxy=true$4gtv
-食尚玩家-Hello腹餓代,http://xn--elt51t.azip.dpdns.org:5008/ofiii225/index.m3u8?proxy=true$4gtv
-食尚玩家-瘋狂總部,http://xn--elt51t.azip.dpdns.org:5008/ofiii230/index.m3u8?proxy=true$4gtv
-食尚玩家-天菜就醬吃,http://xn--elt51t.azip.dpdns.org:5008/ofiii226/index.m3u8?proxy=true$4gtv
-食尚玩家-2天1夜go,http://xn--elt51t.azip.dpdns.org:5008/ofiii227/index.m3u8?proxy=true$4gtv
-詹姆士出走料理,http://xn--elt51t.azip.dpdns.org:5008/ofiii236/index.m3u8?proxy=true$4gtv
+国际大小事,http://xn--elt51t.azip.dpdns.org:5008/ofiii55/index.m3u8?proxy=true$xn
+乡民大学问,http://xn--elt51t.azip.dpdns.org:5008/ofiii83/index.m3u8?proxy=true$xn
+新闻大白話,http://xn--elt51t.azip.dpdns.org:5008/ofiii202/index.m3u8?proxy=true$xn
+寰宇全视界,http://xn--elt51t.azip.dpdns.org:5008/ofiii204/index.m3u8?proxy=true$xn
+環球大戰線,http://xn--elt51t.azip.dpdns.org:5008/ofiii206/index.m3u8?proxy=true$xn
+少康戰情室,http://xn--elt51t.azip.dpdns.org:5008/ofiii207/index.m3u8?proxy=true$xn
+掏掏新闻,http://xn--elt51t.azip.dpdns.org:5008/ofiii50/index.m3u8?proxy=true$xn
+文茜财经周報,http://xn--elt51t.azip.dpdns.org:5008/ofiii205/index.m3u8?proxy=true$xn
+文茜世界周報,http://xn--elt51t.azip.dpdns.org:5008/ofiii203/index.m3u8?proxy=true$xn009
+食尚玩家-熱血48小時,http://xn--elt51t.azip.dpdns.org:5008/ofiii228/index.m3u8?proxy=true$xn
+食尚玩家-魚肉鄉民,http://xn--elt51t.azip.dpdns.org:5008/ofiii229/index.m3u8?proxy=true$xn
+食尚玩家-Hello腹餓代,http://xn--elt51t.azip.dpdns.org:5008/ofiii225/index.m3u8?proxy=true$xn
+食尚玩家-瘋狂總部,http://xn--elt51t.azip.dpdns.org:5008/ofiii230/index.m3u8?proxy=true$xn
+食尚玩家-天菜就醬吃,http://xn--elt51t.azip.dpdns.org:5008/ofiii226/index.m3u8?proxy=true$xn
+食尚玩家-2天1夜go,http://xn--elt51t.azip.dpdns.org:5008/ofiii227/index.m3u8?proxy=true$xn
+詹姆士出走料理,http://xn--elt51t.azip.dpdns.org:5008/ofiii236/index.m3u8?proxy=true$xn
 
-愛爾達生活旅遊,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live120/index.m3u8?proxy=true$4gtv
-影迷数位,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv011/index.m3u8?proxy=true$4gtv
-空間居家,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live206/index.m3u8?proxy=true$4gtv
-JOJO 的奇妙冒險,http://xn--elt51t.azip.dpdns.org:5008/ofiii178/index.m3u8?proxy=true$4gtv
-靖天资讯,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv065/index.m3u8?proxy=true$4gtv
+愛爾達生活旅遊,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live120/index.m3u8?proxy=true$xn
+影迷数位,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv011/index.m3u8?proxy=true$xn
+空間居家,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live206/index.m3u8?proxy=true$xn
+JOJO 的奇妙冒險,http://xn--elt51t.azip.dpdns.org:5008/ofiii178/index.m3u8?proxy=true$xn
+靖天资讯,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv065/index.m3u8?proxy=true$xn
 
 实时直播,#genre#
+
+股道直播,https://live.iill.top/douyin/272329718530$live
+都业华直播,https://live.iill.top/douyin/992023778128$live
 
 咪视界2,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
 咪视界3,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
@@ -771,15 +776,15 @@ nicklodeon,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19480.ts$40gbp
 
 GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 ELTV生活英語,http://220.132.15.209:5008/of-litv-longturn20/index.m3u8
-尼克儿童,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live105/index.m3u8?proxy=true$4gtv
-NickJr,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live032/index.m3u8?proxy=true$4gtv
-梦工厂动画,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live017/index.m3u8?proxy=true$4gtv
-经典卡通,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live022/index.m3u8?proxy=true$4gtv
-精选动漫,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live024/index.m3u8?proxy=true$4gtv
-忍者乱太郎,http://xn--elt51t.azip.dpdns.org:5008/ofiii182/index.m3u8?proxy=true$4gtv
-哆啦A梦,http://xn--elt51t.azip.dpdns.org:5008/ofiii22/index.m3u8?proxy=true$4gtv
-新哆啦A梦,http://xn--elt51t.azip.dpdns.org:5008/ofiii23/index.m3u8?proxy=true$4gtv
-蜡笔小新,http://xn--elt51t.azip.dpdns.org:5008/ofiii165/index.m3u8?proxy=true$4gtv
+尼克儿童,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live105/index.m3u8?proxy=true$xn
+NickJr,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live032/index.m3u8?proxy=true$xn
+梦工厂动画,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live017/index.m3u8?proxy=true$xn
+经典卡通,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live022/index.m3u8?proxy=true$xn
+精选动漫,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live024/index.m3u8?proxy=true$xn
+忍者乱太郎,http://xn--elt51t.azip.dpdns.org:5008/ofiii182/index.m3u8?proxy=true$xn
+哆啦A梦,http://xn--elt51t.azip.dpdns.org:5008/ofiii22/index.m3u8?proxy=true$xn
+新哆啦A梦,http://xn--elt51t.azip.dpdns.org:5008/ofiii23/index.m3u8?proxy=true$xn
+蜡笔小新,http://xn--elt51t.azip.dpdns.org:5008/ofiii165/index.m3u8?proxy=true$xn
 
 北京少儿,http://zh.sqitv.com:888/hls/74/index.m3u8$商丘信
 金鹰卡通,http://zh.sqitv.com:888/hls/72/index.m3u8$商丘信
@@ -1219,17 +1224,17 @@ OCN,http://tlive24.uk/livehttpplay?channel_id=20220$tlive
 龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
 龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 
-Golden 強片台,http://xn--elt51t.azip.dpdns.org:5008/ofiii70/index.m3u8?proxy=true$4gtv
-欧飞电影,http://xn--elt51t.azip.dpdns.org:5008/ofiii75/index.m3u8?proxy=true$4gtv
-CMusic电影,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live031/index.m3u8?proxy=true$4gtv
-欧飞电影,http://xn--elt51t.azip.dpdns.org:5008/ofiii74/index.m3u8?proxy=true$4gtv
-靖天电影,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv061/index.m3u8?proxy=true$4gtv
-龙华电影,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn03/index.m3u8?proxy=true$4gtv
-龙华經典,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn21/index.m3u8?proxy=true$4gtv
-靖天映畫,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv055/index.m3u8?proxy=true$4gtv
+Golden 強片台,http://xn--elt51t.azip.dpdns.org:5008/ofiii70/index.m3u8?proxy=true$xn
+欧飞电影,http://xn--elt51t.azip.dpdns.org:5008/ofiii75/index.m3u8?proxy=true$xn
+CMusic电影,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live031/index.m3u8?proxy=true$xn
+欧飞电影,http://xn--elt51t.azip.dpdns.org:5008/ofiii74/index.m3u8?proxy=true$xn
+靖天电影,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv061/index.m3u8?proxy=true$xn
+龙华电影,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn03/index.m3u8?proxy=true$xn
+龙华經典,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn21/index.m3u8?proxy=true$xn
+靖天映畫,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv055/index.m3u8?proxy=true$xn
 
-CinemaWorld,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live069/index.m3u8?proxy=true$4gtv
-HITS,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live620/index.m3u8?proxy=true$4gtv
+CinemaWorld,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live069/index.m3u8?proxy=true$xn
+HITS,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live620/index.m3u8?proxy=true$xn
 
 战争大片,https://bscdncmnet.inter.71edge.com/tslive/l1/c53_lb_549_300_t10/nyNwfh1_ucKhYKBD_TC9H1cpPSW_kASRIHpzOyCbAlSQKCoa7yX04RS-69HeMU8vCtcLuBJr7PGxskrxih6fuqCnWcqae7adNI637bzmiWKfT_5A6rzyfSZ0MGGLVBTtyXGJSL_WfsYMsulW2MG8itaUpLb_fvhCXnp17W6sSRRqLz0TAntuHJX6Y_vRC2F5yK9Obu3pf-GYMV6g9nu9HxQQtP3HHX0Mv6VU0Jt4MbYOz49rR_krhRY1JjgFrM36_XgKxzRdQ9Z3pV96146JaeZMoAEJa9thzHYsP180Ex4pnwDC-hKCjxCHkeys7slENFpiSFYXlRqpkcxXAM9_Uw/1a38f2e9c9e4c3cce8152b1a430323419/c53_lb_549_300_t10.m3u8?key=0baa5db205ac0d2966049d19ebdc0a20d&dis_t=1752408382&uuid=6f1d53dc-6873a13e-458&qdpv=3&qd_bid=1&qd_sft=0&pv=0.1&cpt=0
 春节档期,https://lvbdcdncmn.inter.71edge.com/tslive/l1/c51_lb_1018_300_t10/FVCO_jz_IvuxsWIbLCEvdstzbdQ5JLXxRlDL_J0vn0ZfgVYlA8ZxkNsXDoN4tEEtdVVarW6sgCF_YG8SB_oH0KY1zskp9-1iKJVEaWYyfIcsLVb4uKAdavgO_OSZkELLKJjUkk8t-S2ZKMnCiMEnykukS-GLvkY3RPIYLqhh_sgtY8UdWfdJc3EC9bm2mWz6FtFwc60bdNNWJi8gc-IP6buv-YaAeEN1nX9gHHHlH-fHifCyKKz5ppVfKts6RkTExgx82j5eLn6Mhz1s-bWGltEsWZfVmO_fakc0UlGwpKI9Sib9yjNKUMrfspPL8C80AuU4zeRqbSgkzjAcoovjnw/19eafbac982c8ac667d9bbc7c395db940/c51_lb_1018_300_t10.m3u8?key=0baa5db205ac0d296d2a304d3de433222&dis_t=1752408161&uuid=6f1d53dc-6873a061-45a&qdpv=3&qd_bid=1&qd_sft=0&pv=0.1&cpt=0
@@ -3054,15 +3059,15 @@ LoveNature,https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 
-ROCK,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live080/index.m3u8?proxy=true$4gtv
-ROCK,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live138/index.m3u8?proxy=true$4gtv
-Love Nature,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live208/index.m3u8?proxy=true$4gtv
-视納华仁紀實,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv013/index.m3u8?proxy=true$4gtv
-CI 罪案偵查,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live027/index.m3u8?proxy=true$4gtv
-History 歷史頻道,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live026/index.m3u8?proxy=true$4gtv
-Focus探索新知台,http://xn--elt51t.azip.dpdns.org:5008/ofiii82/index.m3u8?proxy=true$4gtv
-Smart知識台,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn19/index.m3u8?proxy=true$4gtv
-amc電影台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv017/index.m3u8?proxy=true$4gtv
+ROCK,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live080/index.m3u8?proxy=true$xn
+ROCK,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live138/index.m3u8?proxy=true$xn
+Love Nature,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live208/index.m3u8?proxy=true$xn
+视納华仁紀實,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv013/index.m3u8?proxy=true$xn
+CI 罪案偵查,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live027/index.m3u8?proxy=true$xn
+History 歷史頻道,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live026/index.m3u8?proxy=true$xn
+Focus探索新知台,http://xn--elt51t.azip.dpdns.org:5008/ofiii82/index.m3u8?proxy=true$xn
+Smart知識台,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn19/index.m3u8?proxy=true$xn
+amc電影台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv017/index.m3u8?proxy=true$xn
 DISCOVERY,http://t.061899.xyz/tl/js/js.php?id=discovery$0618
 视納华仁紀實,http://t.061899.xyz/tl/js/js.php?id=snhrjspd$0618
 
@@ -3184,7 +3189,7 @@ CEC健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8$官方源
 
 GlobalNews,https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
 FRANCE24,https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8
-FRANCE24,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live146/index.m3u8?proxy=true$4gtv
+FRANCE24,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live146/index.m3u8?proxy=true$xn
 Bloomberg,http://tlive24.uk/livehttpplay?channel_id=20151$tlive
 
 BBC新闻,http://tlive24.uk/livehttpplay?channel_id=20134$tlive
