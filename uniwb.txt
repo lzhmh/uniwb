@@ -794,6 +794,7 @@ NickJr,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live032/index.m3u8?proxy=true$
 金鹰卡通,http://zh.sqitv.com:888/hls/72/index.m3u8$商丘信
 嘉佳卡通,http://zh.sqitv.com:888/hls/73/index.m3u8$商丘信
 优漫卡通,http://zh.sqitv.com:888/hls/78/index.m3u8$商丘信
+华数动画,http://zh.sqitv.com:888/hls/117/index.m3u8$商丘信
 
 华数动画,http://120.233.73.4:19901/tsfile/live/1011_1.m3u8$深圳移
 金鹰卡通,http://vip1.xinketongxun.fun:8082/tsfile/live/1010_1.m3u8$钦州联
@@ -1190,7 +1191,6 @@ CHC家庭影院,http://36.135.118.195:85/tsfile/live/1021_1.m3u8?key=txiptv&play
 
 凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8#https://stream1.freetv.fun/75cf3fd3b2e39cb22ee433381aeafdfabd12682b75b524b21992dc0b7284fcaa.m3u8#
 
-邵氏影院,http://iptv.jxpan.vip:18888/aio/douyu/4246519
 邵氏影院,http://php.404003.xyz/live/douyuyqk.php?id=4246519
 邵氏影院,http://zzy789.xyz/douyu1.php?id=4246519
 邵氏影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519
@@ -1198,12 +1198,12 @@ CHC家庭影院,http://36.135.118.195:85/tsfile/live/1021_1.m3u8?key=txiptv&play
 //金马影院https://pull.kktv8.com/livekktv/128600025.flv
 //午夜影院https://pull.kktv8.com/livekktv/99592190.flv
 
+华数外影,http://zh.sqitv.com:888/hls/104/index.m3u8$商丘信
+华数电视剧,http://zh.sqitv.com:888/hls/106/index.m3u8$商丘信
 美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya$php
 天映频道,http://php.jdshipin.com/smt.php?id=Celestial$php
 天映经典,http://php.jdshipin.com/smt.php?id=Celestial2$php
 爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi$php
-
-老故事,http://gslbmgsplive.miguvideo.com/migu/kailu/cctvlaogushi/50/20231109/index.m3u8?msisdn=20251017160036a88156a55e4b4406ac350d54f2b70367&mdspid=&spid=699004&netType=0&sid=5910022002&pid=2028597139&timestamp=20251017160036&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=884121956&ParentNodeID=-99&assertID=5910022002&client_ip=106.13.250.90&SecurityKey=20251017160036&promotionId=&mvid=5900006372&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=3407bc497bcfa9d67fb72c33ec0b8b51&ddCalcu=1354eb01874bb00cc4e9373bcc2f7ab9fd76
 
 重温经典,http://huzu.sihanlin.top:888/hls/61/index.m3u8$信阳信
 重温经典,http://124.152.56.11:53290/tsfile/live/1019_1.m3u8$张掖联#http://116.77.33.98:44330/tsfile/live/1015_1.m3u8$深天威
@@ -3053,6 +3053,7 @@ DISCOVERY,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19452.ts$40gbp
 国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=f4ba482a205ea40f8b3ebc6d1de3f6fc&wsTime=1758945610
 fashionBOX,http://80.94.54.42/fashiontv/stream/playlist.m3u8#http://lb.streaming.sk/fashiontv/stream/playlist.m3u8#http://91.247.68.229:8000/play/Fashion/index.m3u8
 
+CETV1,http://zh.sqitv.com:888/hls/18/index.m3u8$商丘信
 CETV1,http://vip1.xinketongxun.fun:8082/tsfile/live/1038_1.m3u8$钦州联
 CETV1,http://36.135.118.195:85/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0
 CETV2,http://36.135.118.195:85/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
