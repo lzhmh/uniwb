@@ -479,7 +479,18 @@ CETV4,http://36.135.118.195:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&aut
 新唐人,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8#
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$chunk#http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8$chunk#http://38.64.72.148/hls/modn/list/4005/playlist.m3u8$chunk
 
-中天亚洲,http://line.greatstar.me:80/play/live.php?mac=00:1A:79:13:54:E8&stream=571212&extension=ts#http://line.greatstar.me:80/play/live.php?mac=00:1A:79:51:45:21&stream=571212&extension=ts$line
+中天亚洲,http://line.greatstar.me:80/play/live.php?mac=00:1A:79:13:54:E8&stream=571212&extension=ts$line#http://line.greatstar.me:80/play/live.php?mac=00:1A:79:51:45:21&stream=571212&extension=ts$line#http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=571212$line
+
+中天新闻,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts$ts
+中天新闻,http://tlive24.uk/livehttpplay?channel_id=20163$tlive
+
+中天新闻,http://cnlive.org/channel/41d8a09d/index.m3u8$cnlive
+TVBSHD,http://cnlive.org/channel/154f9d73/index.m3u8$cnlive
+TVBS新闻,http://cnlive.org/channel/n69ccce92/index.m3u8$cnlive
+寰宇新闻,http://cnlive.org/channel/n43c34be8/index.m3u8$cnlive
+东森新闻,http://cnlive.org/channel/n88aa83/index.m3u8$cnlive
+中视新闻,http://cnlive.org/channel/428f1dfa/index.m3u8$cnlive
+台视新闻,http://cnlive.org/channel/452d9d57/index.m3u8$cnlive
 
 中天新闻,http://152.32.229.52:5050/4gtv-4gtv009/index.m3u8?proxy=true$152
 TVBSHD,http://152.32.229.52:5050/4gtv-4gtv073/index.m3u8?proxy=true$152
@@ -500,9 +511,6 @@ TVBS新闻,http://152.32.229.52:5050/4gtv-4gtv072/index.m3u8?proxy=true$152
 非凡商业,http://152.32.229.52:5050/4gtv-4gtv048/index.m3u8?proxy=true$152
 三立iNEWS,http://152.32.229.52:5050/4gtv-live089/index.m3u8?proxy=true$152
 靖天国际,http://152.32.229.52:5050/4gtv-4gtv063/index.m3u8?proxy=true$152
-
-中天新闻,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts$ts
-中天新闻,http://tlive24.uk/livehttpplay?channel_id=20163$tlive
 
 中天新闻,http://152.32.229.52:5050/li-4gtv-4gtv009/index.m3u8?proxy=true$li
 TVBSHD,http://152.32.229.52:5050/li-4gtv-4gtv073/index.m3u8?proxy=true$li
@@ -534,9 +542,6 @@ TVBS新闻,http://152.32.229.52:5050/li-4gtv-4gtv072/index.m3u8?proxy=true$li
 TVBS亚洲,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19474.ts$40gbp
 
 实时直播,#genre#
-
-股道直播,https://live.iill.top/douyin/272329718530$live
-都业华直播,https://live.iill.top/douyin/992023778128$live
 
 咪视界2,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
 咪视界3,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
@@ -3122,3 +3127,6 @@ MV,https://vd4.bdstatic.com/mda-kmbika46ppvf7nzc/v1-cae/1080p/mda-kmbika46ppvf7n
 
 春晚2025,https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8
 93阅兵,https://vip.dytt-cine.com/20250903/54616_ce842c8a/index.m3u8
+
+股道直播,https://live.iill.top/douyin/272329718530$live
+都业华直播,https://live.iill.top/douyin/992023778128$live
