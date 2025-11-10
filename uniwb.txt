@@ -5,9 +5,16 @@
 凤凰资讯,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pin72.flv$0701f
 凤凰香港,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701phk72.flv$0701f
 
+凤凰中文,http://vallest.uk/livehttpplay?channel_id=30014
+凤凰资讯,http://vallest.uk/livehttpplay?channel_id=30015
+凤凰香港,http://vallest.uk/livehttpplay?channel_id=30016
+
 凤凰中文,http://zmgd.zyrnet.com:8888/hls/110/index.m3u8$中牟移
 凤凰资讯,http://zmgd.zyrnet.com:8888/hls/109/index.m3u8$中牟移
 
+凤凰中文,http://vallest.uk/livehttpplay?channel_id=30014$vall#http://vallest.uk/livehttpplay?channel_id=20065$vall
+凤凰资讯,http://vallest.uk/livehttpplay?channel_id=30015$vall#http://vallest.uk/livehttpplay?channel_id=20066$vall
+凤凰香港,http://vallest.uk/livehttpplay?channel_id=20067$vall#http://vallest.uk/livehttpplay?channel_id=30016$vall
 凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=凤凰中文$iptv
 凤凰资讯,http://iptv.4666888.xyz/iptv2A.php?id=凤凰资讯$iptv
 凤凰香港,http://iptv.4666888.xyz/iptv2A.php?id=凤凰香港$iptv
@@ -109,6 +116,15 @@ CCTV13,http://m.061899.xyz/mg/cctv13$mg
 CCTV4,http://58.19.180.108:9981/stream/channelid/1411564127?profile=pass$襄阳联
 CCTV13,http://58.19.180.108:9981/stream/channelid/876545399?profile=pass$襄阳联
 
+有线综合,http://vallest.uk/livehttpplay?channel_id=20152$vall
+无线新闻,http://vallest.uk/livehttpplay?channel_id=30024$vall
+无线翡翠,http://vallest.uk/livehttpplay?channel_id=20124$vall
+无线明珠,http://vallest.uk/livehttpplay?channel_id=30026$vall#http://vallest.uk/livehttpplay?channel_id=20125$vall
+VIUTV粤,http://vallest.uk/livehttpplay?channel_id=30032$vall#http://vallest.uk/livehttpplay?channel_id=20131$vall
+VIUTV英,http://vallest.uk/livehttpplay?channel_id=30033$vall#http://vallest.uk/livehttpplay?channel_id=20132$vall
+RTHK-31,http://vallest.uk/livehttpplay?channel_id=30066$vall
+RTHK-32,http://vallest.uk/livehttpplay?channel_id=30067$vall#http://vallest.uk/livehttpplay?channel_id=20203$vall#http://vallest.uk/livehttpplay?channel_id=30028$vall
+
 翡翠台,http://116.77.33.98:44330/tsfile/live/1008_1.m3u8$深天威
 明珠台,http://116.77.33.98:44330/tsfile/live/1009_1.m3u8$深天威
 
@@ -121,10 +137,10 @@ CCTV13,http://58.19.180.108:9981/stream/channelid/876545399?profile=pass$襄阳�
 翡翠台,http://live4play.uk/livehttpplay?channel_id=20124$live4
 明珠台,http://live4play.uk/livehttpplay?channel_id=20125$live4#http://live4play.uk/livehttpplay?channel_id=30026$live4
 
-每日经济,http://swiftplay.hxkjmedia.com/tv/spbW.m3u8
 环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8$官网
 亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8$官网
 亚洲卫视,https://fenghuang.tv12.xyz/173.m3u8
+每日经济,http://swiftplay.hxkjmedia.com/tv/spbW.m3u8
 
 新加坡cna,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 新加坡cna,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
@@ -153,9 +169,16 @@ CCTV5,http://124.152.56.11:53290/tsfile/live/1005_1.m3u8$张掖联
 CCTV5+,http://124.152.56.11:53290/tsfile/live/1006_1.m3u8$张掖联
 CCTV16,http://124.152.56.11:53290/tsfile/live/1017_1.m3u8$张掖联
 
+CCTV05,http://vallest.uk/livehttpplay?channel_id=10107$vall#http://vallest.uk/livehttpplay?channel_id=20005$vall#http://vallest.uk/livehttpplay?channel_id=30003$vall
+CCTV5+,http://vallest.uk/livehttpplay?channel_id=20006$vall#http://vallest.uk/livehttpplay?channel_id=30004$vall
+CCTV16,http://vallest.uk/livehttpplay?channel_id=20039$vall
+
 CCTV5,http://116.77.33.98:44330/tsfile/live/0005_1.m3u8$深天威
 CCTV5+,http://116.77.33.98:44330/tsfile/live/0006_1.m3u8$深天威
 CCTV16,http://116.77.33.98:44330/tsfile/live/0017_1.m3u8$深天威
+
+CCTV05,http://tvtj.jxwltx.com:8003/cctv5.m3u8$tvtj
+CCTV16,http://tvtj.jxwltx.com:8003/cctv5p.m3u8$tvtj
 
 CCTV5,http://124.225.35.52:59901/tsfile/live/1001_1.m3u8$海口信
 CCTV5+,http://124.225.35.52:59901/tsfile/live/0016_1.m3u8$海口信
@@ -216,8 +239,9 @@ CCTV5+,http://58.19.180.108:9981/stream/channelid/1400754434?profile=pass$襄阳
 
 百事乒羽2,http://cloud.sunrisecom.wang:8888/udp/239.45.3.140:5140$上海信#http://e2.woc.iiiya.cn:28888/udp/239.61.5.13:1025$福建信#http://www.745612.xyz:7788/udp/235.254.196.235:1212$重庆信
 
-广东体育,http://113.88.211.3:9898/hls/28/index.m3u8$深圳信
+广东体育,http://113.88.211.3:9898/hls/28/index.m3u8$深圳信#http://vallest.uk/livehttpplay?channel_id=12028$vall
 广东体育,http://120.233.73.4:19901/tsfile/live/1040_1.m3u8$深移动#http://116.77.33.98:44330/tsfile/live/1004_1.m3u8$深天威#http://163.142.186.48:9901/tsfile/live/1026_1.m3u8$佛山联#http://163.142.186.49:9901/tsfile/live/1026_1.m3u8$佛山联#http://go.bkpcp.top/mg/gdty$go#http://bxtv.3a.ink/api.php?id=gdty$bxtv#http://live4play.uk/livehttpplay?channel_id=12028$live4#http://vallest.uk/livehttpplay?channel_id=30031$vall#http://163.142.186.56:9901/tsfile/live/1026_1.m3u8$佛山联#http://163.142.186.56:9903/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0$佛山联#http://106.53.99.30/tv/gdcucc.php?id=30$106#http://120.238.94.82:9901/tsfile/live/1012_1.m3u8$梅州移#http://live4play.uk/livehttpplay?channel_id=30031$live4#http://live4play.uk/livehttpplay?channel_id=20130$live4#http://live4play.uk/livehttpplay?channel_id=30003$live4
+广东体育,http://m.061899.xyz/mg/gdty$mg#http://vallest.uk/livehttpplay?channel_id=20130$vall
 
 深圳体育,http://120.233.73.4:19901/tsfile/live/1036_1.m3u8$深移动#http://183.236.43.98:4013/udp/239.77.1.140:5146$广东信#http://183.236.43.98:4013/udp/239.77.1.128:5146$广东信#http://116.21.205.101:8188/udp/239.77.1.140:5146$广东信#http://116.21.205.101:8188/udp/239.77.1.128:5146$广东信#http://59.35.185.47:8188/udp/239.77.1.140:5146$广东信#http://59.35.185.47:8188/udp/239.77.1.128:5146$广东信
 
@@ -2915,6 +2939,8 @@ CEC健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8$官方源
 东莞新闻,http://tp88.cn/IPTV/guangdong/dgtv.php?id=xwzh
 东莞生活,http://php.jdshipin.com:8880/0769.php?id=shzx$php
 东莞新闻,http://php.jdshipin.com:8880/0769.php?id=xwzh$php
+
+广东戏曲,http://vallest.uk/livehttpplay?channel_id=20142$vall
 
 开封新闻,http://tvpull.dxhmt.cn:9081/tv/10200-2.m3u8
 开封旅游,http://tvpull.dxhmt.cn:9081/tv/10200-3.m3u8
