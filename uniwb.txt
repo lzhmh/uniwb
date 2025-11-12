@@ -5,10 +5,6 @@
 凤凰资讯,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pin72.flv$0701f
 凤凰香港,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701phk72.flv$0701f
 
-凤凰中文,http://vallest.uk/livehttpplay?channel_id=30014
-凤凰资讯,http://vallest.uk/livehttpplay?channel_id=30015
-凤凰香港,http://vallest.uk/livehttpplay?channel_id=30016
-
 凤凰中文,http://zmgd.zyrnet.com:8888/hls/110/index.m3u8$中牟移
 凤凰资讯,http://zmgd.zyrnet.com:8888/hls/109/index.m3u8$中牟移
 
@@ -92,6 +88,9 @@
 凤凰中文,http://zmgd.zyrnet.com:8888/hls/67/index.m3u8$中牟移
 凤凰资讯,http://zmgd.zyrnet.com:8888/hls/66/index.m3u8$中牟移
 
+CCTV4,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8$平顶山教
+CCTV13,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8$平顶山教
+
 CCTV4,http://113.88.211.3:9898/hls/4/index.m3u8$深圳信
 CCTV13,http://113.88.211.3:9898/hls/13/index.m3u8$深圳信
 
@@ -116,15 +115,6 @@ CCTV13,http://m.061899.xyz/mg/cctv13$mg
 CCTV4,http://58.19.180.108:9981/stream/channelid/1411564127?profile=pass$襄阳联
 CCTV13,http://58.19.180.108:9981/stream/channelid/876545399?profile=pass$襄阳联
 
-有线综合,http://vallest.uk/livehttpplay?channel_id=20152$vall
-无线新闻,http://vallest.uk/livehttpplay?channel_id=30024$vall
-无线翡翠,http://vallest.uk/livehttpplay?channel_id=20124$vall
-无线明珠,http://vallest.uk/livehttpplay?channel_id=30026$vall#http://vallest.uk/livehttpplay?channel_id=20125$vall
-VIUTV粤,http://vallest.uk/livehttpplay?channel_id=30032$vall#http://vallest.uk/livehttpplay?channel_id=20131$vall
-VIUTV英,http://vallest.uk/livehttpplay?channel_id=30033$vall#http://vallest.uk/livehttpplay?channel_id=20132$vall
-RTHK-31,http://vallest.uk/livehttpplay?channel_id=30066$vall
-RTHK-32,http://vallest.uk/livehttpplay?channel_id=30067$vall#http://vallest.uk/livehttpplay?channel_id=20203$vall#http://vallest.uk/livehttpplay?channel_id=30028$vall
-
 翡翠台,http://116.77.33.98:44330/tsfile/live/1008_1.m3u8$深天威
 明珠台,http://116.77.33.98:44330/tsfile/live/1009_1.m3u8$深天威
 
@@ -141,6 +131,15 @@ RTHK-32,http://vallest.uk/livehttpplay?channel_id=30067$vall#http://vallest.uk/l
 亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8$官网
 亚洲卫视,https://fenghuang.tv12.xyz/173.m3u8
 每日经济,http://swiftplay.hxkjmedia.com/tv/spbW.m3u8
+
+有线综合,http://vallest.uk/livehttpplay?channel_id=20152$vall
+无线新闻,http://vallest.uk/livehttpplay?channel_id=30024$vall
+无线翡翠,http://vallest.uk/livehttpplay?channel_id=20124$vall
+无线明珠,http://vallest.uk/livehttpplay?channel_id=30026$vall#http://vallest.uk/livehttpplay?channel_id=20125$vall
+VIUTV粤,http://vallest.uk/livehttpplay?channel_id=30032$vall#http://vallest.uk/livehttpplay?channel_id=20131$vall
+VIUTV英,http://vallest.uk/livehttpplay?channel_id=30033$vall#http://vallest.uk/livehttpplay?channel_id=20132$vall
+RTHK-31,http://vallest.uk/livehttpplay?channel_id=30066$vall
+RTHK-32,http://vallest.uk/livehttpplay?channel_id=30067$vall#http://vallest.uk/livehttpplay?channel_id=20203$vall#http://vallest.uk/livehttpplay?channel_id=30028$vall
 
 新加坡cna,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 新加坡cna,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
@@ -159,6 +158,9 @@ CCTV+2,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist
 
 体育频道,#genre#
 
+CCTV5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8$平顶山教
+CCTV5+,http://iptv.huuc.edu.cn/hls/cctv5phd.m3u8$平顶山教
+
 CCTV5,http://vip1.xinketongxun.fun:8082/tsfile/live/0005_1.m3u8$钦州联
 CCTV5+,http://vip1.xinketongxun.fun:8082/tsfile/live/0016_1.m3u8$钦州联
 CCTV16,http://vip1.xinketongxun.fun:8082/tsfile/live/1002_1.m3u8$钦州联
@@ -168,10 +170,6 @@ CCTV5,http://113.88.211.3:9898/hls/16/index.m3u8$深圳信
 CCTV5,http://124.152.56.11:53290/tsfile/live/1005_1.m3u8$张掖联
 CCTV5+,http://124.152.56.11:53290/tsfile/live/1006_1.m3u8$张掖联
 CCTV16,http://124.152.56.11:53290/tsfile/live/1017_1.m3u8$张掖联
-
-CCTV05,http://vallest.uk/livehttpplay?channel_id=10107$vall#http://vallest.uk/livehttpplay?channel_id=20005$vall#http://vallest.uk/livehttpplay?channel_id=30003$vall
-CCTV5+,http://vallest.uk/livehttpplay?channel_id=20006$vall#http://vallest.uk/livehttpplay?channel_id=30004$vall
-CCTV16,http://vallest.uk/livehttpplay?channel_id=20039$vall
 
 CCTV5,http://116.77.33.98:44330/tsfile/live/0005_1.m3u8$深天威
 CCTV5+,http://116.77.33.98:44330/tsfile/live/0006_1.m3u8$深天威
@@ -245,6 +243,8 @@ CCTV5+,http://58.19.180.108:9981/stream/channelid/1400754434?profile=pass$襄阳
 
 深圳体育,http://120.233.73.4:19901/tsfile/live/1036_1.m3u8$深移动#http://183.236.43.98:4013/udp/239.77.1.140:5146$广东信#http://183.236.43.98:4013/udp/239.77.1.128:5146$广东信#http://116.21.205.101:8188/udp/239.77.1.140:5146$广东信#http://116.21.205.101:8188/udp/239.77.1.128:5146$广东信#http://59.35.185.47:8188/udp/239.77.1.140:5146$广东信#http://59.35.185.47:8188/udp/239.77.1.128:5146$广东信
 
+北京体育,http://iptv.huuc.edu.cn/hls/btv11hd.m3u8$平顶山教
+
 山东体育,http://nw.jiayinkeji.xin/migunew/gtqilu.php?id=typd
 
 睛彩篮球,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
@@ -254,6 +254,7 @@ CCTV5+,http://58.19.180.108:9981/stream/channelid/1400754434?profile=pass$襄阳
 睛彩竞技,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
 
 风云足球,http://124.152.56.11:53290/tsfile/live/1049_1.m3u8$张掖联
+风云足球,http://111.61.236.247:9081/hls/58/index.m3u8$廊坊移
 
 新视觉,http://124.152.56.11:53290/tsfile/live/1045_1.m3u8$张掖联
 
@@ -268,6 +269,7 @@ CCTV5+,http://58.19.180.108:9981/stream/channelid/1400754434?profile=pass$襄阳
 CETV4,http://36.135.118.195:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0#http://m.061899.xyz/mg/cetv4$mg
 
 武术世界,http://vip1.xinketongxun.fun:8082/tsfile/live/1029_1.m3u8$钦州联
+武术世界,http://111.61.236.247:9081/hls/60/index.m3u8$廊坊移
 武术世界,http://1.94.31.214/php/hntv.php?id=wspd
 武术世界,http://tvcdn.stream3.hndt.com/tv/65b4b750017e1000dbb9306200000000_transios/playlist.m3u8?wsSecret=036ae1031d69a0a2c87b40058beea320&wsTime=1758556819$tvcdn
 
@@ -293,6 +295,8 @@ CETV4,http://36.135.118.195:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&aut
 睛彩广场舞,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf#http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
 睛彩广场舞,http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.42:5540$kbtv#http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.223:5540$kbtv
 
+安徽体育,http://183.164.63.156:5000/rtp/238.1.79.41:4440$安徽信
+
 八卦大师,https://live.ottiptv.cc/douyu/851040$live
 帽子象棋,https://live.ottiptv.cc/douyu/4487219$live
 笑笑象棋,https://live.ottiptv.cc/douyu/9969$live
@@ -304,6 +308,18 @@ CETV4,http://36.135.118.195:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&aut
 欢乐斗地主,https://live.ottiptv.cc/douyu/8324074$live
 斗地主冠军赛,https://live.ottiptv.cc/douyu/488743$live
 弈夫围棋,https://live.ottiptv.cc/douyu/6399350$live
+
+八卦大师,http://jiaojirentv.top/2020/dy.php?id=851040$jiao
+帽子象棋,http://jiaojirentv.top/2020/dy.php?id=4487219$jiao
+笑笑象棋,http://jiaojirentv.top/2020/dy.php?id=9969$jiao
+大神象棋,http://jiaojirentv.top/2020/dy.php?id=1227260$jiao
+九拙讲棋,http://jiaojirentv.top/2020/dy.php?id=4369877$jiao
+熊山雷疯,http://jiaojirentv.top/2020/dy.php?id=291514$jiao
+小鹤求败,http://jiaojirentv.top/2020/dy.php?id=3830820$jiao
+旭宝斗地主,http://jiaojirentv.top/2020/dy.php?id=9804176$jiao
+欢乐斗地主,http://jiaojirentv.top/2020/dy.php?id=8324074$jiao
+斗地主冠军赛,http://jiaojirentv.top/2020/dy.php?id=488743$jiao
+弈夫围棋,http://jiaojirentv.top/2020/dy.php?id=6399350$jiao
 
 八卦大师,http://129.150.54.232:10001/douyu/851040
 帽子象棋,http://129.150.54.232:10001/douyu/4487219
@@ -506,7 +522,6 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$chunk#http:
 中天亚洲,http://line.greatstar.me:80/play/live.php?mac=00:1A:79:13:54:E8&stream=571212&extension=ts$line#http://line.greatstar.me:80/play/live.php?mac=00:1A:79:51:45:21&stream=571212&extension=ts$line#http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=571212$line
 
 中天新闻,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts$ts
-中天新闻,http://tlive24.uk/livehttpplay?channel_id=20163$tlive
 
 中天新闻,http://cnlive.org/channel/41d8a09d/index.m3u8$cnlive
 TVBSHD,http://cnlive.org/channel/154f9d73/index.m3u8$cnlive
@@ -564,6 +579,7 @@ TVBS新闻,http://152.32.229.52:5050/li-4gtv-4gtv072/index.m3u8?proxy=true$li
 台视新闻,http://152.32.229.52:5050/4gtv-4gtv051/index.m3u8
 
 TVBS亚洲,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19474.ts$40gbp
+中天新闻,http://tlive24.uk/livehttpplay?channel_id=20163$tlive
 
 实时直播,#genre#
 
@@ -777,6 +793,7 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 深圳财经,http://116.77.33.98:44330/tsfile/live/1003_1.m3u8$深天威
 
 兵器科技,http://36.135.118.195:85/tsfile/live/1027_1.m3u8?key=txiptv&playlive=0&authid=0
+兵器科技,http://111.61.236.247:9081/hls/61/index.m3u8$廊坊移
 
 相声小品,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c59_fast_1044_720P_t10/c59_fast_1044_720P_t10.m3u8?d
 中国通史,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1029_720P_t10/c60_fast_1029_720P_t10.m3u8?d
@@ -889,6 +906,7 @@ CCTV7,http://124.152.56.11:53290/tsfile/live/1035_1.m3u8$张掖联
 CCTV2,http://124.152.56.11:53290/tsfile/live/1037_1.m3u8$张掖联
 
 风云音乐,http://124.152.56.11:53290/tsfile/live/1047_1.m3u8$张掖联
+女性时尚,http://111.61.236.247:9081/hls/59/index.m3u8$廊坊移
 
 CCTV1,http://go.bkpcp.top/mg/cctv1$go
 CCTV2,http://go.bkpcp.top/mg/cctv2$go
@@ -933,6 +951,7 @@ CCTV15,http://116.77.33.98:44330/tsfile/live/0016_1.m3u8$深天威
 
 省级频道,#genre#
 
+北京新闻,http://iptv.huuc.edu.cn/hls/btv9hd.m3u8$平顶山教
 北京卫视,http://113.88.211.3:9898/hls/36/index.m3u8$深圳信
 广东卫视,http://113.88.211.3:9898/hls/19/index.m3u8$深圳信
 深圳卫视,http://113.88.211.3:9898/hls/33/index.m3u8$深圳信
@@ -1080,6 +1099,9 @@ CCTV15,http://116.77.33.98:44330/tsfile/live/0016_1.m3u8$深天威
 
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$索
 
+北京文艺,http://iptv.huuc.edu.cn/hls/btv2hd.m3u8$平顶山教
+北京影视,http://iptv.huuc.edu.cn/hls/btv4hd.m3u8$平顶山教
+
 电影频道,#genre#
 
 CHC动作电影,http://vip1.xinketongxun.fun:8082/tsfile/live/1045_1.m3u8$钦州联
@@ -1087,6 +1109,7 @@ CHC家庭影院,http://vip1.xinketongxun.fun:8082/tsfile/live/1046_1.m3u8$钦州
 CHC影迷电影,http://vip1.xinketongxun.fun:8082/tsfile/live/1047_1.m3u8$钦州联
 风云剧场,http://124.152.56.11:53290/tsfile/live/1046_1.m3u8$张掖联
 怀旧剧场,http://124.152.56.11:53290/tsfile/live/1048_1.m3u8$张掖联
+怀旧剧场,http://111.61.236.247:9081/hls/67/index.m3u8$廊坊移
 
 CHC家庭影院,http://m.061899.xyz/mg/jtyy$mg
 CHC动作电影,http://m.061899.xyz/mg/dzdy$mg
@@ -2848,6 +2871,7 @@ TVB经典—九江十二坊,http://113.45.240.129:35455/yy/1382735566
 自然教育,#genre#
 
 世界地理,http://124.152.56.11:53290/tsfile/live/1043_1.m3u8$张掖联
+世界地理,http://111.61.236.247:9081/hls/62/index.m3u8$廊坊移
 
 CGTN纪录,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/26823.ts$40gbp
 DISCOVERY,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19452.ts$40gbp
@@ -2856,6 +2880,7 @@ DISCOVERY,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19452.ts$40gbp
 
 上海新纪实,http://m.061899.xyz/mg/xjs$mg
 
+文物宝库,http://111.61.236.247:9081/hls/64/index.m3u8$廊坊移
 文物宝库,http://tvcdn.stream3.hndt.com/tv/65b5a69d017e1000aa645bea00000000_transios/playlist.m3u8?wsSecret=04d8264261b56d9496af836ae3e9eedf&wsTime=1758556819$tvcdn
 文物宝库,http://1.94.31.214/php/hntv.php?id=wwbk$hntv
 文物宝库,http://php.jdshipin.com:8880/hntv.php?id=wwbk
