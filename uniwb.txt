@@ -5,6 +5,10 @@
 凤凰资讯,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pin72.flv$0701f
 凤凰香港,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701phk72.flv$0701f
 
+凤凰中文,https://hk.188766.xyz/?migutoken=c79f31c776a7a01967dcb16c41c9ca4e&id=fhzw&pp=1$migu
+凤凰资讯,https://hk.188766.xyz/?migutoken=bbbe5e7e03e8bdbcce818f5f0d7b7f16&id=fhzx&pp=1$migu
+凤凰香港,https://hk.188766.xyz/?migutoken=a481d60abc2260bbfeeae81cdbb6b398&id=fhhk&pp=1$migu
+
 凤凰中文,http://zmgd.zyrnet.com:8888/hls/110/index.m3u8$中牟移
 凤凰资讯,http://zmgd.zyrnet.com:8888/hls/109/index.m3u8$中牟移
 
@@ -143,10 +147,9 @@ RTHK-32,http://vallest.uk/livehttpplay?channel_id=30067$vall#http://vallest.uk/l
 
 GlobalNews,https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
 FRANCE24,https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8
-Bloomberg,http://tlive24.uk/livehttpplay?channel_id=20151$tlive
-
-BBC新闻,http://tlive24.uk/livehttpplay?channel_id=20134$tlive
-CNN新闻,http://tlive24.uk/livehttpplay?channel_id=20133$tlive
+Euro新闻,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/euronews-en.m3u8$migu
+BBC新闻,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.m3u8$migu
+FRANCE24,https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8$migu
 
 CCTV+1,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 CCTV+2,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
@@ -158,6 +161,9 @@ CCTV+2,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist
 CCTV5,http://124.152.56.11:53290/tsfile/live/1005_1.m3u8$张掖联
 CCTV5+,http://124.152.56.11:53290/tsfile/live/1006_1.m3u8$张掖联
 CCTV16,http://124.152.56.11:53290/tsfile/live/1017_1.m3u8$张掖联
+
+CCTV5,https://migu.188766.xyz/?migutoken=9f2a574798af69ac8b2f418e17305eb7&id=CCTV5&type=yy$migu
+CCTV5+,https://migu.188766.xyz/?migutoken=c371490d8a0aa84c61ef1bfa18c5d7e0&id=CCTV5p&type=yy$migu
 
 CCTV5,http://vip1.xinketongxun.fun:8082/tsfile/live/0005_1.m3u8$钦州联
 CCTV5+,http://vip1.xinketongxun.fun:8082/tsfile/live/0016_1.m3u8$钦州联
@@ -237,6 +243,10 @@ CCTV5+,http://58.19.180.108:9981/stream/channelid/1400754434?profile=pass$襄阳
 睛彩竞技,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
 睛彩竞技,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
 
+睛彩竞技,https://msj.188766.xyz/play?id=3000000020000011528&token=2056ac812056ac812056ac812056ac81$migu
+睛彩篮球,https://msj.188766.xyz/play?id=3000000020000011529&token=2056ac822056ac822056ac822056ac82$migu
+睛彩青少,https://msj.188766.xyz/play?id=3000000020000011525&token=2056ac7e2056ac7e2056ac7e2056ac7e$migu
+
 风云足球,http://124.152.56.11:53290/tsfile/live/1049_1.m3u8$张掖联
 风云足球,http://111.61.236.247:9081/hls/58/index.m3u8$廊坊移
 
@@ -260,8 +270,8 @@ CETV4,http://36.135.118.195:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&aut
 中华功夫,http://zh.sqitv.com:888/hls/38/index.m3u8$商丘信
 中华功夫,http://huzu.sihanlin.top:888/hls/58/index.m3u8$信阳信
 
-骑牛大赛,http://113.45.240.129:35455/yy/1355313481#http://jiaojirentv.top/2020/yy.php?id=1355313481
-摩托挑战,http://113.45.240.129:35455/yy/1354946983#http://jiaojirentv.top/2020/yy.php?id=1354946983
+骑牛大赛,https://yylunbo.ottiptv.cc/yy/1355313481#http://jiaojirentv.top/2020/yy.php?id=1355313481
+摩托挑战,https://yylunbo.ottiptv.cc/yy/1354946983#http://jiaojirentv.top/2020/yy.php?id=1354946983
 
 百事,http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.88:5540$kbtv
 百事,http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.142:5540$kbtv
@@ -277,6 +287,7 @@ CETV4,http://36.135.118.195:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&aut
 掼蛋精英赛,https://migu.188766.xyz/?migutoken=11818159d7d4c855384a589baa496ccc&id=%E6%8E%BC%E8%9B%8B%E7%B2%BE%E8%8B%B1%E8%B5%9B&type=yy
 
 睛彩广场舞,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf#http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+睛彩广场舞,https://msj.188766.xyz/play?id=3000000020000011523&token=2056ac7c2056ac7c2056ac7c2056ac7c$migu
 睛彩广场舞,http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.42:5540$kbtv#http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.223:5540$kbtv
 
 安徽体育,http://183.164.63.156:5000/rtp/238.1.79.41:4440$安徽信
@@ -471,6 +482,10 @@ CETV4,http://36.135.118.195:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&aut
 
 联通电信,#genre#
 
+凤凰中文,https://hk.188766.xyz/?migutoken=c79f31c776a7a01967dcb16c41c9ca4e&id=fhzw&pp=1$migu
+凤凰资讯,https://hk.188766.xyz/?migutoken=bbbe5e7e03e8bdbcce818f5f0d7b7f16&id=fhzx&pp=1$migu
+凤凰香港,https://hk.188766.xyz/?migutoken=a481d60abc2260bbfeeae81cdbb6b398&id=fhhk&pp=1$migu
+
 凤凰中文,http://zmgd.zyrnet.com:8888/hls/110/index.m3u8$中牟移
 凤凰资讯,http://zmgd.zyrnet.com:8888/hls/109/index.m3u8$中牟移
 
@@ -500,8 +515,6 @@ CETV4,http://36.135.118.195:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&aut
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581$rtm
 新唐人,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8#
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$chunk#http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8$chunk#http://38.64.72.148/hls/modn/list/4005/playlist.m3u8$chunk
-
-中天亚洲,http://line.greatstar.me:80/play/live.php?mac=00:1A:79:51:45:21&stream=571212&extension=ts$line#http://line.greatstar.me:80/play/live.php?mac=00:1A:79:13:54:E8&stream=571212&extension=ts$line#http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=571212$line
 
 中天新闻,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts$ts
 
@@ -557,6 +570,7 @@ TVBS亚洲,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19474.ts$40gbp
 
 实时直播,#genre#
 
+城市联赛,https://migu.188766.xyz/?migutoken=d7154ab50cee5c9d2903c16c9a316829&id=24%E5%B0%8F%E6%97%B6%E5%9F%8E%E5%B8%82%E8%81%94%E8%B5%9B%E8%BD%AE%E6%92%AD%E5%8F%B0&type=yy$migu
 咪视界2,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
 咪视界3,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
 咪视界5,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
@@ -599,6 +613,47 @@ TVBS亚洲,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19474.ts$40gbp
 咪咕4K1,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=toShengfen&/PLTV/&$anf
 CCTV7,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf#http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
 
+咪视通2,https://msj.188766.xyz/play?id=3000000001000005308&token=eaca6a59eaca6a59eaca6a59eaca6a59$migu
+咪视界1,https://msj.188766.xyz/play?id=3000000001000005969&token=eaca819aeaca819aeaca819aeaca819a$migu
+咪视界3,https://msj.188766.xyz/play?id=3000000001000007218&token=eacb4f75eacb4f75eacb4f75eacb4f75$migu
+咪视界4,https://msj.188766.xyz/play?id=3000000001000008001&token=eacbbc2ceacbbc2ceacbbc2ceacbbc2c$migu
+咪视界5,https://msj.188766.xyz/play?id=3000000001000008176&token=eacbc0cbeacbc0cbeacbc0cbeacbc0cb$migu
+咪视界6,https://msj.188766.xyz/play?id=3000000001000008379&token=eacbc850eacbc850eacbc850eacbc850$migu
+咪视界7,https://msj.188766.xyz/play?id=3000000001000010129&token=ead634bcead634bcead634bcead634bc$migu
+咪视界8,https://msj.188766.xyz/play?id=3000000001000010948&token=ead65301ead65301ead65301ead65301$migu
+咪视界9,https://msj.188766.xyz/play?id=3000000001000028638&token=eae80218eae80218eae80218eae80218$migu
+咪视界10,https://msj.188766.xyz/play?id=3000000001000031494&token=eaf2e434eaf2e434eaf2e434eaf2e434$migu
+咪视界11,https://msj.188766.xyz/play?id=3000000010000000097&token=8b635bf38b635bf38b635bf38b635bf3$migu
+咪视界12,https://msj.188766.xyz/play?id=3000000010000002019&token=8b6443bb8b6443bb8b6443bb8b6443bb$migu
+咪视界13,https://msj.188766.xyz/play?id=3000000010000002809&token=8b6461a48b6461a48b6461a48b6461a4$migu
+咪视界14,https://msj.188766.xyz/play?id=3000000010000003915&token=8b64d9df8b64d9df8b64d9df8b64d9df$migu
+咪视界15,https://msj.188766.xyz/play?id=3000000010000004193&token=8b65312c8b65312c8b65312c8b65312c$migu
+咪视界16,https://msj.188766.xyz/play?id=3000000010000005837&token=8b65bf1c8b65bf1c8b65bf1c8b65bf1c$migu
+咪视界17,https://msj.188766.xyz/play?id=3000000010000006077&token=8b6615ef8b6615ef8b6615ef8b6615ef$migu
+咪视界18,https://msj.188766.xyz/play?id=3000000010000006658&token=8b662c388b662c388b662c388b662c38$migu
+咪视界19,https://msj.188766.xyz/play?id=3000000010000009788&token=8b678d738b678d738b678d738b678d73$migu
+咪视界20,https://msj.188766.xyz/play?id=3000000010000010833&token=8b7190be8b7190be8b7190be8b7190be$migu
+咪视界21,https://msj.188766.xyz/play?id=3000000010000011297&token=8b71ef558b71ef558b71ef558b71ef55$migu
+咪视界22,https://msj.188766.xyz/play?id=3000000010000011518&token=8b71f9a18b71f9a18b71f9a18b71f9a1$migu
+咪视界23,https://msj.188766.xyz/play?id=3000000010000012558&token=8b726e7c8b726e7c8b726e7c8b726e7c$migu
+咪视界24,https://msj.188766.xyz/play?id=3000000010000012616&token=8b7271bf8b7271bf8b7271bf8b7271bf$migu
+咪视界25,https://msj.188766.xyz/play?id=3000000010000015470&token=8b73c80e8b73c80e8b73c80e8b73c80e$migu
+咪视界26,https://msj.188766.xyz/play?id=3000000010000015560&token=8b73cbb08b73cbb08b73cbb08b73cbb0$migu
+咪视界27,https://msj.188766.xyz/play?id=3000000010000017678&token=8b74b8568b74b8568b74b8568b74b856$migu
+咪视界28,https://msj.188766.xyz/play?id=3000000010000019839&token=8b75a81b8b75a81b8b75a81b8b75a81b$migu
+咪视界29,https://msj.188766.xyz/play?id=3000000010000021904&token=8b8020038b8020038b8020038b802003$migu
+咪视界30,https://msj.188766.xyz/play?id=3000000010000023434&token=8b80f6598b80f6598b80f6598b80f659$migu
+咪视界31,https://msj.188766.xyz/play?id=3000000010000025380&token=8b81dbed8b81dbed8b81dbed8b81dbed$migu
+咪视界32,https://msj.188766.xyz/play?id=3000000010000027691&token=8b82d00e8b82d00e8b82d00e8b82d00e$migu
+咪视界33,https://msj.188766.xyz/play?id=3000000010000031669&token=8b8e2d008b8e2d008b8e2d008b8e2d00$migu
+咪视界34,https://msj.188766.xyz/play?id=3000000020000011518&token=2056ac622056ac622056ac622056ac62$migu
+咪视界35,https://msj.188766.xyz/play?id=3000000020000011519&token=2056ac632056ac632056ac632056ac63$migu
+咪视界36,https://msj.188766.xyz/play?id=3000000020000011520&token=2056ac792056ac792056ac792056ac79$migu
+咪视界37,https://msj.188766.xyz/play?id=3000000020000011521&token=2056ac7a2056ac7a2056ac7a2056ac7a$migu
+咪视界38,https://msj.188766.xyz/play?id=3000000020000011522&token=2056ac7b2056ac7b2056ac7b2056ac7b$migu
+咪视界4K-1,https://msj.188766.xyz/play?id=3000000010000005180&token=8b65a5698b65a5698b65a5698b65a569$migu
+咪视界4K-2,https://msj.188766.xyz/play?id=3000000010000015686&token=8b73cfb58b73cfb58b73cfb58b73cfb5$migu
+
 域外体育,#genre#
 
 DAZN1,rtmp://f13h.mine.nu/sat/tv731$f13
@@ -609,6 +664,7 @@ MOMOTV,http://60.248.77.83/sat/tv761.flv
 DAZN2,rtmp://59.124.75.138/sat/md011$59
 DAZN3,rtmp://59.124.75.138/sat/md021$59
 
+SPORTSTV,https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8$migu
 ELEVENSPORTS1,http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2531/index.m3u$czrb
 ELEVENSPORTS1PL,http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2518/index.m3u$czrb
 ELEVENSPORTS3,http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2533/index.m3u$czrb
@@ -626,11 +682,6 @@ DubaiSports3,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisports
 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
 MOMOTV,rtmp://59.124.75.138/sat/tv761$59#
-
-博斯無限,http://tlive24.uk/livehttpplay?channel_id=42023$live4
-博斯無限2,http://tlive24.uk/livehttpplay?channel_id=42024$live4
-博斯網球,http://tlive24.uk/livehttpplay?channel_id=42026$live4
-博斯魅力,http://tlive24.uk/livehttpplay?channel_id=42025$live4
 
 TraceSports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 FIFA,https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8#https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
@@ -822,7 +873,6 @@ ZooMoo,https://zoomoo-samsungau.amagi.tv/playlist.m3u8#http://tl.061833.xyz/tl/z
 ZooMoo,https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 
 NickJr,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/5286.ts$40gbp
-NickJr,http://tlive24.uk/livehttpplay?channel_id=20102$tlive
 nicklodeon,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19480.ts$40gbp
 DisneyChannel,https://e5.thetvapp.to/hls/DisneyChannelEast/index.m3u8
 DISNEY_XD,http://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
@@ -887,7 +937,7 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 料理小当家集,http://huanqiuzhibo.cn/manifest/douyu.php?id=8231658
 
 灌篮高手,http://jiaojirentv.top/2020/yy.php?id=1382735626
-灌篮高手,http://113.45.240.129:35455/yy/1382735626
+灌篮高手,https://yylunbo.ottiptv.cc/yy/1382735626
 
 中学生,http://go.bkpcp.top/mg/zxs$go
 中学生,http://m.061899.xyz/mg/zxs$mg
@@ -1028,9 +1078,6 @@ CHC家庭影院,http://36.135.118.195:85/tsfile/live/1021_1.m3u8?key=txiptv&play
 
 重温经典,http://huzu.sihanlin.top:888/hls/61/index.m3u8$信阳信
 重温经典,http://124.152.56.11:53290/tsfile/live/1019_1.m3u8$张掖联
-
-OCNMoves,http://tlive24.uk/livehttpplay?channel_id=20218$tlive
-OCN,http://tlive24.uk/livehttpplay?channel_id=20220$tlive
 
 澳门莲花,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8$官网
 澳门莲花,http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1#https://fenghuang.tv12.xyz/187.m3u8$fh#
@@ -1979,36 +2026,6 @@ OCN,http://tlive24.uk/livehttpplay?channel_id=20220$tlive
 
 YY轮播,#genre#
 
-// http://113.45.240.129:35455/yy/
-侦探悬疑,http://113.45.240.129:35455/yy/1382735543
-TVB经典—九江十二坊,http://113.45.240.129:35455/yy/1382735566
-十诫—外国影史里程碑,http://113.45.240.129:35455/yy/1354930945
-修牛蹄,http://113.45.240.129:35455/yy/1353413683
-你爱看的国内战争大片合集,http://113.45.240.129:35455/yy/1354936160
-美国超级英雄电影系列,http://113.45.240.129:35455/yy/1354933556
-霍比特人电影系列,http://113.45.240.129:35455/yy/1354930967
-喜剧大片—篮球冠军,http://113.45.240.129:35455/yy/1382749906
-特种兵归来4,http://113.45.240.129:35455/yy/1382736896
-科幻电影,http://113.45.240.129:35455/yy/1355065896
-纪录片封神,http://113.45.240.129:35455/yy/1382736825
-飞虎之潜行极战,http://113.45.240.129:35455/yy/1354932420
-影视剧-林深见鹿,http://113.45.240.129:35455/yy/1345494225
-功夫婆媳-家庭剧,http://113.45.240.129:35455/yy/1382736883
-风靡全球的谍战片,http://113.45.240.129:35455/yy/1382736817
-007系列大片,http://113.45.240.129:35455/yy/1382736897
-超炫科幻大片,http://113.45.240.129:35455/yy/1382736840
-火线追凶,http://113.45.240.129:35455/yy/1382745090
-速度与激情,http://113.45.240.129:35455/yy/1382749892
-敢死队,http://113.45.240.129:35455/yy/1382735573
-国外战争,http://113.45.240.129:35455/yy/1382736857
-行动与枪战,http://113.45.240.129:35455/yy/29170933
-顶级动作,http://113.45.240.129:35455/yy/24923327
-暮光之城,http://113.45.240.129:35455/yy/1354930181
-变形金刚,http://113.45.240.129:35455/yy/1382736803
-金三角大营救,http://113.45.240.129:35455/yy/1354930924
-致命守护者,http://113.45.240.129:35455/yy/1382745095
-沙海,http://113.45.240.129:35455/yy/1355171357
-
 // http://jiaojirentv.top/2020/yy.php?id=
 TVB经典—九江十二坊,http://jiaojirentv.top/2020/yy.php?id=1382735566
 十诫—外国影史里程碑,http://jiaojirentv.top/2020/yy.php?id=1354930945
@@ -2722,35 +2739,35 @@ X战警系列电影,http://jiaojirentv.top/2020/yy.php?id=1382736893
 筱威回来了,http://jiaojirentv.top/2020/yy.php?id=37347905
 侦探悬疑,http://jiaojirentv.top/2020/yy.php?id=1382735543
 
-// http://113.45.240.129:35455/yy/
-侦探悬疑,http://113.45.240.129:35455/yy/1382735543
-TVB经典—九江十二坊,http://113.45.240.129:35455/yy/1382735566
-十诫—外国影史里程碑,http://113.45.240.129:35455/yy/1354930945
-修牛蹄,http://113.45.240.129:35455/yy/1353413683
-你爱看的国内战争大片合集,http://113.45.240.129:35455/yy/1354936160
-美国超级英雄电影系列,http://113.45.240.129:35455/yy/1354933556
-霍比特人电影系列,http://113.45.240.129:35455/yy/1354930967
-喜剧大片—篮球冠军,http://113.45.240.129:35455/yy/1382749906
-特种兵归来4,http://113.45.240.129:35455/yy/1382736896
-科幻电影,http://113.45.240.129:35455/yy/1355065896
-纪录片封神,http://113.45.240.129:35455/yy/1382736825
-飞虎之潜行极战,http://113.45.240.129:35455/yy/1354932420
-影视剧-林深见鹿,http://113.45.240.129:35455/yy/1345494225
-功夫婆媳-家庭剧,http://113.45.240.129:35455/yy/1382736883
-风靡全球的谍战片,http://113.45.240.129:35455/yy/1382736817
-007系列大片,http://113.45.240.129:35455/yy/1382736897
-超炫科幻大片,http://113.45.240.129:35455/yy/1382736840
-火线追凶,http://113.45.240.129:35455/yy/1382745090
-速度与激情,http://113.45.240.129:35455/yy/1382749892
-敢死队,http://113.45.240.129:35455/yy/1382735573
-国外战争,http://113.45.240.129:35455/yy/1382736857
-行动与枪战,http://113.45.240.129:35455/yy/29170933
-顶级动作,http://113.45.240.129:35455/yy/24923327
-暮光之城,http://113.45.240.129:35455/yy/1354930181
-变形金刚,http://113.45.240.129:35455/yy/1382736803
-金三角大营救,http://113.45.240.129:35455/yy/1354930924
-致命守护者,http://113.45.240.129:35455/yy/1382745095
-沙海,http://113.45.240.129:35455/yy/1355171357
+// https://yylunbo.ottiptv.cc/yy/
+侦探悬疑,https://yylunbo.ottiptv.cc/yy/1382735543
+TVB经典—九江十二坊,https://yylunbo.ottiptv.cc/yy/1382735566
+十诫—外国影史里程碑,https://yylunbo.ottiptv.cc/yy/1354930945
+修牛蹄,https://yylunbo.ottiptv.cc/yy/1353413683
+你爱看的国内战争大片合集,https://yylunbo.ottiptv.cc/yy/1354936160
+美国超级英雄电影系列,https://yylunbo.ottiptv.cc/yy/1354933556
+霍比特人电影系列,https://yylunbo.ottiptv.cc/yy/1354930967
+喜剧大片—篮球冠军,https://yylunbo.ottiptv.cc/yy/1382749906
+特种兵归来4,https://yylunbo.ottiptv.cc/yy/1382736896
+科幻电影,https://yylunbo.ottiptv.cc/yy/1355065896
+纪录片封神,https://yylunbo.ottiptv.cc/yy/1382736825
+飞虎之潜行极战,https://yylunbo.ottiptv.cc/yy/1354932420
+影视剧-林深见鹿,https://yylunbo.ottiptv.cc/yy/1345494225
+功夫婆媳-家庭剧,https://yylunbo.ottiptv.cc/yy/1382736883
+风靡全球的谍战片,https://yylunbo.ottiptv.cc/yy/1382736817
+007系列大片,https://yylunbo.ottiptv.cc/yy/1382736897
+超炫科幻大片,https://yylunbo.ottiptv.cc/yy/1382736840
+火线追凶,https://yylunbo.ottiptv.cc/yy/1382745090
+速度与激情,https://yylunbo.ottiptv.cc/yy/1382749892
+敢死队,https://yylunbo.ottiptv.cc/yy/1382735573
+国外战争,https://yylunbo.ottiptv.cc/yy/1382736857
+行动与枪战,https://yylunbo.ottiptv.cc/yy/29170933
+顶级动作,https://yylunbo.ottiptv.cc/yy/24923327
+暮光之城,https://yylunbo.ottiptv.cc/yy/1354930181
+变形金刚,https://yylunbo.ottiptv.cc/yy/1382736803
+金三角大营救,https://yylunbo.ottiptv.cc/yy/1354930924
+致命守护者,https://yylunbo.ottiptv.cc/yy/1382745095
+沙海,https://yylunbo.ottiptv.cc/yy/1355171357
 
 自然教育,#genre#
 
@@ -2900,10 +2917,7 @@ CEC健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8$官方源
 
 GlobalNews,https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
 FRANCE24,https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8
-Bloomberg,http://tlive24.uk/livehttpplay?channel_id=20151$tlive
 
-BBC新闻,http://tlive24.uk/livehttpplay?channel_id=20134$tlive
-CNN新闻,http://tlive24.uk/livehttpplay?channel_id=20133$tlive
 BBC新闻,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/30056.ts$40gbp
 BBC新闻,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/200155129.ts$40gbp
 CNN新闻,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19955.ts$40gbp
@@ -2917,7 +2931,11 @@ FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 FOX新闻,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
+Euro新闻,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/euronews-en.m3u8$migu
+BBC新闻,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.m3u8$migu
+FRANCE24,https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8$migu
 NewsmaxTV,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
 半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 WionNews,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
