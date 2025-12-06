@@ -18,9 +18,6 @@
 凤凰中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8$福州联
 凤凰资讯,http://218.104.239.114:9901/tsfile/live/1012_1.m3u8$福州联
 
-凤凰中文,http://vallest.uk/livehttpplay?channel_id=30014$vall#http://vallest.uk/livehttpplay?channel_id=20065$vall
-凤凰资讯,http://vallest.uk/livehttpplay?channel_id=30015$vall#http://vallest.uk/livehttpplay?channel_id=20066$vall
-凤凰香港,http://vallest.uk/livehttpplay?channel_id=20067$vall#http://vallest.uk/livehttpplay?channel_id=30016$vall
 凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=凤凰中文$iptv
 凤凰资讯,http://iptv.4666888.xyz/iptv2A.php?id=凤凰资讯$iptv
 凤凰香港,http://iptv.4666888.xyz/iptv2A.php?id=凤凰香港$iptv
@@ -101,9 +98,6 @@ CCTV13,http://124.152.56.11:53290/tsfile/live/1014_1.m3u8$张掖联
 CCTV4,http://vip1.xinketongxun.fun:8082/tsfile/live/0004_1.m3u8$钦州联
 CCTV13,http://vip1.xinketongxun.fun:8082/tsfile/live/0013_1.m3u8$钦州联
 
-CCTV4,http://zh.sqitv.com:888/hls/4/index.m3u8$商丘信
-CCTV13,http://zh.sqitv.com:888/hls/13/index.m3u8$商丘信
-
 CCTV4,https://live.iill.top/douyin/166806983360$live
 CCTV13,https://live.iill.top/douyin/870887192950$live
 CCTV13,https://live.iill.top/douyin/339638082961$live
@@ -132,14 +126,6 @@ CCTV13,http://58.19.180.108:9981/stream/channelid/876545399?profile=pass$襄阳�
 亚洲卫视,https://fenghuang.tv12.xyz/173.m3u8
 每日经济,http://swiftplay.hxkjmedia.com/tv/spbW.m3u8
 
-有线综合,http://vallest.uk/livehttpplay?channel_id=20152$vall
-无线新闻,http://vallest.uk/livehttpplay?channel_id=30024$vall
-无线翡翠,http://vallest.uk/livehttpplay?channel_id=20124$vall
-无线明珠,http://vallest.uk/livehttpplay?channel_id=30026$vall#http://vallest.uk/livehttpplay?channel_id=20125$vall
-VIUTV粤,http://vallest.uk/livehttpplay?channel_id=30032$vall#http://vallest.uk/livehttpplay?channel_id=20131$vall
-VIUTV英,http://vallest.uk/livehttpplay?channel_id=30033$vall#http://vallest.uk/livehttpplay?channel_id=20132$vall
-RTHK-31,http://vallest.uk/livehttpplay?channel_id=30066$vall
-RTHK-32,http://vallest.uk/livehttpplay?channel_id=30067$vall#http://vallest.uk/livehttpplay?channel_id=20203$vall#http://vallest.uk/livehttpplay?channel_id=30028$vall
 无线新闻,http://php.jdshipin.com/smt.php?id=inews_twn
 
 新加坡cna,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -227,9 +213,8 @@ CCTV5+,http://58.19.180.108:9981/stream/channelid/1400754434?profile=pass$襄阳
 百事乒羽1,http://www.958598.xyz:4022/udp/239.45.3.139:5140$上海信
 百事乒羽2,http://www.958598.xyz:4022/udp/239.45.3.140:5140$上海信
 
-广东体育,http://120.233.73.4:19901/tsfile/live/1040_1.m3u8$深移动#http://vallest.uk/livehttpplay?channel_id=30031$vall#http://go.bkpcp.top/mg/gdty$go#http://bxtv.3a.ink/api.php?id=gdty$bxtv#http://live4play.uk/livehttpplay?channel_id=12028$live4#http://106.53.99.30/tv/gdcucc.php?id=30$106#http://120.238.94.82:9901/tsfile/live/1012_1.m3u8$梅州移#http://live4play.uk/livehttpplay?channel_id=30031$live4#http://live4play.uk/livehttpplay?channel_id=20130$live4#http://live4play.uk/livehttpplay?channel_id=30003$live4
-广东体育,http://vallest.uk/livehttpplay?channel_id=12028$vall
-广东体育,http://m.061899.xyz/mg/gdty$mg#http://vallest.uk/livehttpplay?channel_id=20130$vall
+广东体育,http://120.233.73.4:19901/tsfile/live/1040_1.m3u8$深移动#http://go.bkpcp.top/mg/gdty$go#http://bxtv.3a.ink/api.php?id=gdty$bxtv#http://live4play.uk/livehttpplay?channel_id=12028$live4#http://106.53.99.30/tv/gdcucc.php?id=30$106#http://120.238.94.82:9901/tsfile/live/1012_1.m3u8$梅州移#http://live4play.uk/livehttpplay?channel_id=30031$live4#http://live4play.uk/livehttpplay?channel_id=20130$live4#http://live4play.uk/livehttpplay?channel_id=30003$live4
+广东体育,http://m.061899.xyz/mg/gdty$mg
 
 深圳体育,http://120.233.73.4:19901/tsfile/live/1036_1.m3u8$深移动#http://183.236.43.98:4013/udp/239.77.1.140:5146$广东信#http://183.236.43.98:4013/udp/239.77.1.128:5146$广东信#http://116.21.205.101:8188/udp/239.77.1.140:5146$广东信#http://116.21.205.101:8188/udp/239.77.1.128:5146$广东信#http://59.35.185.47:8188/udp/239.77.1.140:5146$广东信#http://59.35.185.47:8188/udp/239.77.1.128:5146$广东信
 
@@ -265,10 +250,6 @@ CETV4,http://36.135.118.195:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&aut
 武术世界,http://vip1.xinketongxun.fun:8082/tsfile/live/1029_1.m3u8$钦州联
 武术世界,http://111.61.236.247:9081/hls/60/index.m3u8$廊坊移
 武术世界,http://1.94.31.214/php/hntv.php?id=wspd
-武术世界,http://tvcdn.stream3.hndt.com/tv/65b4b750017e1000dbb9306200000000_transios/playlist.m3u8?wsSecret=036ae1031d69a0a2c87b40058beea320&wsTime=1758556819$tvcdn
-
-中华功夫,http://zh.sqitv.com:888/hls/38/index.m3u8$商丘信
-中华功夫,http://huzu.sihanlin.top:888/hls/58/index.m3u8$信阳信
 
 骑牛大赛,https://yylunbo.ottiptv.cc/yy/1355313481#http://jiaojirentv.top/2020/yy.php?id=1355313481
 摩托挑战,https://yylunbo.ottiptv.cc/yy/1354946983#http://jiaojirentv.top/2020/yy.php?id=1354946983
@@ -290,7 +271,7 @@ CETV4,http://36.135.118.195:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&aut
 睛彩广场舞,https://msj.188766.xyz/play?id=3000000020000011523&token=2056ac7c2056ac7c2056ac7c2056ac7c$migu
 睛彩广场舞,http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.42:5540$kbtv#http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.223:5540$kbtv
 
-安徽体育,http://183.164.63.156:5000/rtp/238.1.79.41:4440$安徽信
+///安徽体育http://183.164.63.156:5000/rtp/238.1.79.41:4440$安徽信
 
 八卦大师,https://live.ottiptv.cc/douyu/851040$live
 帽子象棋,https://live.ottiptv.cc/douyu/4487219$live
@@ -566,8 +547,6 @@ TVBS新闻,http://152.32.229.52:5050/li-4gtv-4gtv072/index.m3u8?proxy=true$li
 寰宇财经,http://152.32.229.52:5050/of-4gtv-4gtv158/index.m3u8$of
 台视新闻,http://152.32.229.52:5050/4gtv-4gtv051/index.m3u8
 
-TVBS亚洲,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19474.ts$40gbp
-
 实时直播,#genre#
 
 城市联赛,https://migu.188766.xyz/?migutoken=d7154ab50cee5c9d2903c16c9a316829&id=24%E5%B0%8F%E6%97%B6%E5%9F%8E%E5%B8%82%E8%81%94%E8%B5%9B%E8%BD%AE%E6%92%AD%E5%8F%B0&type=yy$migu
@@ -613,46 +592,45 @@ TVBS亚洲,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19474.ts$40gbp
 咪咕4K1,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=toShengfen&/PLTV/&$anf
 CCTV7,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf#http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
 
-咪视通2,https://msj.188766.xyz/play?id=3000000001000005308&token=eaca6a59eaca6a59eaca6a59eaca6a59$migu
-咪视界1,https://msj.188766.xyz/play?id=3000000001000005969&token=eaca819aeaca819aeaca819aeaca819a$migu
-咪视界3,https://msj.188766.xyz/play?id=3000000001000007218&token=eacb4f75eacb4f75eacb4f75eacb4f75$migu
-咪视界4,https://msj.188766.xyz/play?id=3000000001000008001&token=eacbbc2ceacbbc2ceacbbc2ceacbbc2c$migu
-咪视界5,https://msj.188766.xyz/play?id=3000000001000008176&token=eacbc0cbeacbc0cbeacbc0cbeacbc0cb$migu
-咪视界6,https://msj.188766.xyz/play?id=3000000001000008379&token=eacbc850eacbc850eacbc850eacbc850$migu
-咪视界7,https://msj.188766.xyz/play?id=3000000001000010129&token=ead634bcead634bcead634bcead634bc$migu
-咪视界8,https://msj.188766.xyz/play?id=3000000001000010948&token=ead65301ead65301ead65301ead65301$migu
-咪视界9,https://msj.188766.xyz/play?id=3000000001000028638&token=eae80218eae80218eae80218eae80218$migu
-咪视界10,https://msj.188766.xyz/play?id=3000000001000031494&token=eaf2e434eaf2e434eaf2e434eaf2e434$migu
-咪视界11,https://msj.188766.xyz/play?id=3000000010000000097&token=8b635bf38b635bf38b635bf38b635bf3$migu
-咪视界12,https://msj.188766.xyz/play?id=3000000010000002019&token=8b6443bb8b6443bb8b6443bb8b6443bb$migu
-咪视界13,https://msj.188766.xyz/play?id=3000000010000002809&token=8b6461a48b6461a48b6461a48b6461a4$migu
-咪视界14,https://msj.188766.xyz/play?id=3000000010000003915&token=8b64d9df8b64d9df8b64d9df8b64d9df$migu
-咪视界15,https://msj.188766.xyz/play?id=3000000010000004193&token=8b65312c8b65312c8b65312c8b65312c$migu
-咪视界16,https://msj.188766.xyz/play?id=3000000010000005837&token=8b65bf1c8b65bf1c8b65bf1c8b65bf1c$migu
-咪视界17,https://msj.188766.xyz/play?id=3000000010000006077&token=8b6615ef8b6615ef8b6615ef8b6615ef$migu
-咪视界18,https://msj.188766.xyz/play?id=3000000010000006658&token=8b662c388b662c388b662c388b662c38$migu
-咪视界19,https://msj.188766.xyz/play?id=3000000010000009788&token=8b678d738b678d738b678d738b678d73$migu
-咪视界20,https://msj.188766.xyz/play?id=3000000010000010833&token=8b7190be8b7190be8b7190be8b7190be$migu
-咪视界21,https://msj.188766.xyz/play?id=3000000010000011297&token=8b71ef558b71ef558b71ef558b71ef55$migu
-咪视界22,https://msj.188766.xyz/play?id=3000000010000011518&token=8b71f9a18b71f9a18b71f9a18b71f9a1$migu
-咪视界23,https://msj.188766.xyz/play?id=3000000010000012558&token=8b726e7c8b726e7c8b726e7c8b726e7c$migu
-咪视界24,https://msj.188766.xyz/play?id=3000000010000012616&token=8b7271bf8b7271bf8b7271bf8b7271bf$migu
-咪视界25,https://msj.188766.xyz/play?id=3000000010000015470&token=8b73c80e8b73c80e8b73c80e8b73c80e$migu
-咪视界26,https://msj.188766.xyz/play?id=3000000010000015560&token=8b73cbb08b73cbb08b73cbb08b73cbb0$migu
-咪视界27,https://msj.188766.xyz/play?id=3000000010000017678&token=8b74b8568b74b8568b74b8568b74b856$migu
-咪视界28,https://msj.188766.xyz/play?id=3000000010000019839&token=8b75a81b8b75a81b8b75a81b8b75a81b$migu
-咪视界29,https://msj.188766.xyz/play?id=3000000010000021904&token=8b8020038b8020038b8020038b802003$migu
-咪视界30,https://msj.188766.xyz/play?id=3000000010000023434&token=8b80f6598b80f6598b80f6598b80f659$migu
-咪视界31,https://msj.188766.xyz/play?id=3000000010000025380&token=8b81dbed8b81dbed8b81dbed8b81dbed$migu
-咪视界32,https://msj.188766.xyz/play?id=3000000010000027691&token=8b82d00e8b82d00e8b82d00e8b82d00e$migu
-咪视界33,https://msj.188766.xyz/play?id=3000000010000031669&token=8b8e2d008b8e2d008b8e2d008b8e2d00$migu
-咪视界34,https://msj.188766.xyz/play?id=3000000020000011518&token=2056ac622056ac622056ac622056ac62$migu
-咪视界35,https://msj.188766.xyz/play?id=3000000020000011519&token=2056ac632056ac632056ac632056ac63$migu
-咪视界36,https://msj.188766.xyz/play?id=3000000020000011520&token=2056ac792056ac792056ac792056ac79$migu
-咪视界37,https://msj.188766.xyz/play?id=3000000020000011521&token=2056ac7a2056ac7a2056ac7a2056ac7a$migu
-咪视界38,https://msj.188766.xyz/play?id=3000000020000011522&token=2056ac7b2056ac7b2056ac7b2056ac7b$migu
-咪视界4K-1,https://msj.188766.xyz/play?id=3000000010000005180&token=8b65a5698b65a5698b65a5698b65a569$migu
-咪视界4K-2,https://msj.188766.xyz/play?id=3000000010000015686&token=8b73cfb58b73cfb58b73cfb58b73cfb5$migu
+咪视界2,https://msj.188766.xyz/play?id=3000000001000005308&token=eaca6a59eaca6a59eaca6a59eaca6a59$migu咪视界-1,https://msj.188766.xyz/play?id=3000000001000005969&token=eaca819aeaca819aeaca819aeaca819a$migu
+咪视界-3,https://msj.188766.xyz/play?id=3000000001000007218&token=eacb4f75eacb4f75eacb4f75eacb4f75$migu
+咪视界-4,https://msj.188766.xyz/play?id=3000000001000008001&token=eacbbc2ceacbbc2ceacbbc2ceacbbc2c$migu
+咪视界5,https://msj.188766.xyz/play?id=3000000001000031494&token=eaf2e434eaf2e434eaf2e434eaf2e434$migu
+咪视界-6,https://msj.188766.xyz/play?id=3000000001000008379&token=eacbc850eacbc850eacbc850eacbc850$migu
+咪视界-7,https://msj.188766.xyz/play?id=3000000001000010129&token=ead634bcead634bcead634bcead634bc$migu
+咪视界-8,https://msj.188766.xyz/play?id=3000000001000010948&token=ead65301ead65301ead65301ead65301$migu
+咪视界-9,https://msj.188766.xyz/play?id=3000000001000028638&token=eae80218eae80218eae80218eae80218$migu
+咪视界-10,https://msj.188766.xyz/play?id=3000000001000008176&token=eacbc0cbeacbc0cbeacbc0cbeacbc0cb$migu
+咪视界-11,https://msj.188766.xyz/play?id=3000000010000000097&token=8b635bf38b635bf38b635bf38b635bf3$migu
+咪视界-12,https://msj.188766.xyz/play?id=3000000010000002019&token=8b6443bb8b6443bb8b6443bb8b6443bb$migu
+咪视界-13,https://msj.188766.xyz/play?id=3000000010000002809&token=8b6461a48b6461a48b6461a48b6461a4$migu
+咪视界-14,https://msj.188766.xyz/play?id=3000000010000003915&token=8b64d9df8b64d9df8b64d9df8b64d9df$migu
+咪视界-15,https://msj.188766.xyz/play?id=3000000010000004193&token=8b65312c8b65312c8b65312c8b65312c$migu
+咪视界16,https://msj.188766.xyz/play?id=3000000010000006077&token=8b6615ef8b6615ef8b6615ef8b6615ef$migu
+咪视界-17,https://msj.188766.xyz/play?id=3000000010000005837&token=8b65bf1c8b65bf1c8b65bf1c8b65bf1c$migu
+咪视界-18,https://msj.188766.xyz/play?id=3000000010000006658&token=8b662c388b662c388b662c388b662c38$migu
+咪视界-19,https://msj.188766.xyz/play?id=3000000010000009788&token=8b678d738b678d738b678d738b678d73$migu
+咪视界-20,https://msj.188766.xyz/play?id=3000000010000010833&token=8b7190be8b7190be8b7190be8b7190be$migu
+咪视界-21,https://msj.188766.xyz/play?id=3000000010000011297&token=8b71ef558b71ef558b71ef558b71ef55$migu
+咪视界-23,https://msj.188766.xyz/play?id=3000000010000012558&token=8b726e7c8b726e7c8b726e7c8b726e7c$migu
+咪视界-24,https://msj.188766.xyz/play?id=3000000010000012616&token=8b7271bf8b7271bf8b7271bf8b7271bf$migu
+咪视界-25,https://msj.188766.xyz/play?id=3000000010000015470&token=8b73c80e8b73c80e8b73c80e8b73c80e$migu
+咪视界-26,https://msj.188766.xyz/play?id=3000000010000015560&token=8b73cbb08b73cbb08b73cbb08b73cbb0$migu
+咪视界-27,https://msj.188766.xyz/play?id=3000000010000017678&token=8b74b8568b74b8568b74b8568b74b856$migu
+咪视界-28,https://msj.188766.xyz/play?id=3000000010000019839&token=8b75a81b8b75a81b8b75a81b8b75a81b$migu
+咪视界-29,https://msj.188766.xyz/play?id=3000000010000021904&token=8b8020038b8020038b8020038b802003$migu
+咪视界-30,https://msj.188766.xyz/play?id=3000000010000023434&token=8b80f6598b80f6598b80f6598b80f659$migu
+咪视界-31,https://msj.188766.xyz/play?id=3000000010000025380&token=8b81dbed8b81dbed8b81dbed8b81dbed$migu
+咪视界-32,https://msj.188766.xyz/play?id=3000000010000027691&token=8b82d00e8b82d00e8b82d00e8b82d00e$migu
+咪视界-33,https://msj.188766.xyz/play?id=3000000010000031669&token=8b8e2d008b8e2d008b8e2d008b8e2d00$migu
+咪视界-34,https://msj.188766.xyz/play?id=3000000020000011518&token=2056ac622056ac622056ac622056ac62$migu
+咪视界-35,https://msj.188766.xyz/play?id=3000000020000011519&token=2056ac632056ac632056ac632056ac63$migu
+咪视界-36,https://msj.188766.xyz/play?id=3000000020000011520&token=2056ac792056ac792056ac792056ac79$migu
+咪视界-37,https://msj.188766.xyz/play?id=3000000020000011521&token=2056ac7a2056ac7a2056ac7a2056ac7a$migu
+咪视界-4K-1,https://msj.188766.xyz/play?id=3000000010000005180&token=8b65a5698b65a5698b65a5698b65a569$migu
+咪视界-4K-2,https://msj.188766.xyz/play?id=3000000010000015686&token=8b73cfb58b73cfb58b73cfb58b73cfb5$migu
+CCTV7,https://msj.188766.xyz/play?id=3000000010000011518&token=8b71f9a18b71f9a18b71f9a18b71f9a1$migu
+CCTV7,https://msj.188766.xyz/play?id=3000000020000011522&token=2056ac7b2056ac7b2056ac7b2056ac7b$migu
 
 域外体育,#genre#
 
@@ -872,17 +850,9 @@ ZooMoo,https://zoomoo-samsungau.amagi.tv:443/playlist1080p.m3u8
 ZooMoo,https://zoomoo-samsungau.amagi.tv/playlist.m3u8#http://tl.061833.xyz/tl/zoomoo$0618
 ZooMoo,https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 
-NickJr,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/5286.ts$40gbp
-nicklodeon,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19480.ts$40gbp
 DisneyChannel,https://e5.thetvapp.to/hls/DisneyChannelEast/index.m3u8
 DISNEY_XD,http://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
 GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
-
-北京少儿,http://zh.sqitv.com:888/hls/74/index.m3u8$商丘信
-金鹰卡通,http://zh.sqitv.com:888/hls/72/index.m3u8$商丘信
-嘉佳卡通,http://zh.sqitv.com:888/hls/73/index.m3u8$商丘信
-优漫卡通,http://zh.sqitv.com:888/hls/78/index.m3u8$商丘信
-华数动画,http://zh.sqitv.com:888/hls/117/index.m3u8$商丘信
 
 华数动画,http://120.233.73.4:19901/tsfile/live/1011_1.m3u8$深圳移
 金鹰卡通,http://vip1.xinketongxun.fun:8082/tsfile/live/1010_1.m3u8$钦州联
@@ -980,8 +950,6 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 
 财经综合,#genre#
 
-美食汇,http://zh.sqitv.com:888/hls/39/index.m3u8$商丘信
-
 第一财经,http://m.061899.xyz/mg/dycj$mg
 第一财经,http://t.061899.xyz/tl/dq.php?id=dycj$t
 
@@ -1069,14 +1037,11 @@ CHC家庭影院,http://36.135.118.195:85/tsfile/live/1021_1.m3u8?key=txiptv&play
 //金马影院https://pull.kktv8.com/livekktv/128600025.flv
 //午夜影院https://pull.kktv8.com/livekktv/99592190.flv
 
-华数外影,http://zh.sqitv.com:888/hls/104/index.m3u8$商丘信
-华数电视剧,http://zh.sqitv.com:888/hls/106/index.m3u8$商丘信
 美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya$php
 天映频道,http://php.jdshipin.com/smt.php?id=Celestial$php
 天映经典,http://php.jdshipin.com/smt.php?id=Celestial2$php
 爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi$php
 
-重温经典,http://huzu.sihanlin.top:888/hls/61/index.m3u8$信阳信
 重温经典,http://124.152.56.11:53290/tsfile/live/1019_1.m3u8$张掖联
 
 澳门莲花,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8$官网
@@ -2774,22 +2739,17 @@ TVB经典—九江十二坊,https://yylunbo.ottiptv.cc/yy/1382735566
 世界地理,http://124.152.56.11:53290/tsfile/live/1043_1.m3u8$张掖联
 世界地理,http://111.61.236.247:9081/hls/62/index.m3u8$廊坊移
 
-CGTN纪录,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/26823.ts$40gbp
-DISCOVERY,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19452.ts$40gbp
-
 北京纪实科教,http://m.061899.xyz/mg/bjjs$mg#http://1.180.2.93:9901/tsfile/live/1061_1.m3u8$呼信
 
 上海新纪实,http://m.061899.xyz/mg/xjs$mg
 
 文物宝库,http://111.61.236.247:9081/hls/64/index.m3u8$廊坊移
-文物宝库,http://tvcdn.stream3.hndt.com/tv/65b5a69d017e1000aa645bea00000000_transios/playlist.m3u8?wsSecret=04d8264261b56d9496af836ae3e9eedf&wsTime=1758556819$tvcdn
 文物宝库,http://1.94.31.214/php/hntv.php?id=wwbk$hntv
 文物宝库,http://php.jdshipin.com:8880/hntv.php?id=wwbk
 国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=202168a869cde2c97c19bc738d057b26&wsTime=1758556819
 国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=f4ba482a205ea40f8b3ebc6d1de3f6fc&wsTime=1758945610
 fashionBOX,http://80.94.54.42/fashiontv/stream/playlist.m3u8#http://lb.streaming.sk/fashiontv/stream/playlist.m3u8#http://91.247.68.229:8000/play/Fashion/index.m3u8
 
-CETV1,http://zh.sqitv.com:888/hls/18/index.m3u8$商丘信
 CETV1,http://vip1.xinketongxun.fun:8082/tsfile/live/1038_1.m3u8$钦州联
 CETV1,http://36.135.118.195:85/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0
 CETV2,http://36.135.118.195:85/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -2817,7 +2777,6 @@ CGTN纪录,http://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 天下收藏,http://vip1.xinketongxun.fun:8082/tsfile/live/1031_1.m3u8$钦州联
 中国天气,http://vip1.xinketongxun.fun:8082/tsfile/live/1007_1.m3u8$钦州联
 
-收藏天下,http://zh.sqitv.com:888/hls/36/index.m3u8$商丘信
 快乐垂钓,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-3.m3u8$温州移#http://nn.7x9d.cn/地方台8563/湖南2.php?id=218
 真实历史,https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist_1280x720.m3u8
 
@@ -2860,34 +2819,9 @@ CEC健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8$官方源
 东莞生活,http://php.jdshipin.com:8880/0769.php?id=shzx$php
 东莞新闻,http://php.jdshipin.com:8880/0769.php?id=xwzh$php
 
-广东戏曲,http://vallest.uk/livehttpplay?channel_id=20142$vall
-
 开封新闻,http://tvpull.dxhmt.cn:9081/tv/10200-2.m3u8
 开封旅游,http://tvpull.dxhmt.cn:9081/tv/10200-3.m3u8
 开封旅游,http://live.dxhmt.cn:9081/tv/10200-3.m3u8
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=b35b1fe8e5f8cee877d8e70076fff43a&wsTime=1746802840$tvcdn
-河南新闻,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=819589c90cc0b5603daa0cfe724a07e0&wsTime=1746802840$tvcdn
-都市频道,http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=8241c4cc319a1f2b0a8d34fcbbe0ee77&wsTime=1746802840$tvcdn
-民生频道,http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=b9b6ab1b214326f73062040db81f3fea&wsTime=1746802840$tvcdn
-法治频道,http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=8c8396acbd7121a0b371218220914fee&wsTime=1746802840$tvcdn
-公共频道,http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=4a0fa97283d9fe1265b72b5b70dbc7b4&wsTime=1746802840$tvcdn
-河南乡村,http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=1e3f9737bac570981dd8a85c06c633d6&wsTime=1746802840$tvcdn
-河南电视剧,http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=ac98a9de7ee7e4838aa382cf1cdbb410&wsTime=1746802840$tvcdn
-梨园频道,http://tvcdn.stream3.hndt.com/tv/65b67b15017e1000258a2b2400000000_transios/playlist.m3u8?wsSecret=03fc410a79efbf1989ab55c8bac4ff95&wsTime=1746802840$tvcdn#https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=526e788419523311cbd2c5279a2ee362&wsTime=1758556819
-睛彩中原,http://tvcdn.stream3.hndt.com/tv/65b27d4c017e100039bd55c200000000_transios/playlist.m3u8?wsSecret=1e576eed53447faca0e93b5be6064417&wsTime=1746802840$tvcdn
-移动戏曲,https://tvcdn.stream3.hndt.com/tv/160ea8971f8b41f0905f88c7afe3effe_transios/playlist.m3u8?wsSecret=912e12a1c53ce8c64d3649784c05b47d&wsTime=1746802840$tvcdn
-象视界,http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=7c5be887ffd74156ad6f0155a074070e&wsTime=1746802840$tvcdn
-豫剧频道,http://171.15.18.199:8180/TV00000000000000000029@HHZT$hhzt
-
-河南新闻,http://zh.sqitv.com:888/hls/30/index.m3u8$商丘信
-河南民生,http://zh.sqitv.com:888/hls/27/index.m3u8$商丘信
-河南法治,http://zh.sqitv.com:888/hls/28/index.m3u8$商丘信
-河南公共,http://zh.sqitv.com:888/hls/32/index.m3u8$商丘信
-河南乡村,http://zh.sqitv.com:888/hls/33/index.m3u8$商丘信
-河南电视剧,http://zh.sqitv.com:888/hls/29/index.m3u8$商丘信
-河南戏曲,http://zh.sqitv.com:888/hls/37/index.m3u8$商丘信
-河南曲艺,http://zh.sqitv.com:888/hls/35/index.m3u8$商丘信
-河南曲艺,http://huzu.sihanlin.top:888/hls/59/index.m3u8$信阳信
 
 河南新闻,http://zmgd.zyrnet.com:8888/hls/25/index.m3u8$中牟移
 河南都市,http://zmgd.zyrnet.com:8888/hls/21/index.m3u8$中牟移
@@ -2898,8 +2832,6 @@ CEC健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8$官方源
 河南电视剧,http://zmgd.zyrnet.com:8888/hls/24/index.m3u8$中牟移
 梨园频道,http://zmgd.zyrnet.com:8888/hls/75/index.m3u8$中牟移#http://zmgd.zyrnet.com:8888/hls/113/index.m3u8$中牟移
 
-东北戏曲,http://stream1.jlntv.cn/dbxq/playlist.m3u8
-东北戏曲,http://stream1.jlntv.cn/dbxq/sd/live.m3u8
 梨园频道,http://1.94.31.214/php/hntv.php?id=hnly$hntv
 
 移动戏曲,http://live.dxhmt.cn:9080/19903718786/a9aab4c5eef74da18d684c75c6dd7e10.m3u8
@@ -2918,13 +2850,6 @@ CEC健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8$官方源
 GlobalNews,https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
 FRANCE24,https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8
 
-BBC新闻,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/30056.ts$40gbp
-BBC新闻,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/200155129.ts$40gbp
-CNN新闻,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19955.ts$40gbp
-CNN新闻,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/72536.ts$40gbp
-SKYNEWS,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/200165142.ts$40gbp
-TRTWORLD,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/600004118.ts$40gbp
-FRANCE24,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/30839.ts$40gbp
 ABC,http://41.205.93.154/ABC/index.m3u8
 
 FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
