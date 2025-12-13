@@ -5,6 +5,8 @@
 凤凰资讯,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pin72.flv$0701f
 凤凰香港,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701phk72.flv$0701f
 
+凤凰中文,http://27.41.245.32:801/hls/205/index.m3u8$汕头联
+
 凤凰中文,https://hk.188766.xyz/?migutoken=c79f31c776a7a01967dcb16c41c9ca4e&id=fhzw&pp=1$migu
 凤凰资讯,https://hk.188766.xyz/?migutoken=bbbe5e7e03e8bdbcce818f5f0d7b7f16&id=fhzx&pp=1$migu
 凤凰香港,https://hk.188766.xyz/?migutoken=a481d60abc2260bbfeeae81cdbb6b398&id=fhhk&pp=1$migu
@@ -92,6 +94,9 @@
 凤凰中文,http://zmgd.zyrnet.com:8888/hls/67/index.m3u8$中牟移
 凤凰资讯,http://zmgd.zyrnet.com:8888/hls/66/index.m3u8$中牟移
 
+CCTV4,http://27.41.245.32:801/hls/4/index.m3u8$汕头联
+CCTV13,http://27.41.245.32:801/hls/13/index.m3u8$汕头联
+
 CCTV4,http://124.152.56.11:53290/tsfile/live/1004_1.m3u8$张掖联
 CCTV13,http://124.152.56.11:53290/tsfile/live/1014_1.m3u8$张掖联
 
@@ -113,9 +118,6 @@ CCTV13,http://m.061899.xyz/mg/cctv13$mg
 
 CCTV4,http://58.19.180.108:9981/stream/channelid/1411564127?profile=pass$襄阳联
 CCTV13,http://58.19.180.108:9981/stream/channelid/876545399?profile=pass$襄阳联
-
-翡翠台,http://live4play.uk/livehttpplay?channel_id=20124$live4
-明珠台,http://live4play.uk/livehttpplay?channel_id=20125$live4#http://live4play.uk/livehttpplay?channel_id=30026$live4
 
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台,http://222.128.55.152:9080/live/gdfc.m3u8
@@ -143,6 +145,8 @@ CCTV+2,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist
 //香港卫视http://zhibo.hkstv.tv/livestream/mutfysrq.flv$720P#http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
 体育频道,#genre#
+
+CCTV5,http://27.41.245.32:801/hls/5/index.m3u8$汕头联
 
 CCTV5,http://124.152.56.11:53290/tsfile/live/1005_1.m3u8$张掖联
 CCTV5+,http://124.152.56.11:53290/tsfile/live/1006_1.m3u8$张掖联
@@ -200,11 +204,13 @@ CCTV5+,http://58.19.180.108:9981/stream/channelid/1400754434?profile=pass$襄阳
 先锋乒羽,http://vip1.xinketongxun.fun:8082/tsfile/live/1013_1.m3u8$钦州联
 先锋乒羽,http://219.146.65.78:59902/tsfile/live/0140_1.m3u8$青岛信
 先锋乒羽,http://171.38.107.34:8181/tsfile/live/1034_1.m3u8$玉林联
-先锋乒羽,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-1.m3u8$温州移#http://nn.7x9d.cn/地方台8563/湖南2.php?id=329#http://117.141.162.238:8181/tsfile/live/1114_1.m3u8?key=txiptv&playlive=1&authid=0$北海移#http://home.amucn.net:8800/udp/239.49.0.145:8000$江苏信#
+先锋乒羽,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-1.m3u8$温州移#http://nn.7x9d.cn/地方台8563/湖南2.php?id=329#http://171.125.90.120:6001/rtp/226.0.2.121:8880$山西联#
 先锋乒羽,http://113.195.172.192:808/hls/101/index.m3u8$宜春联
 先锋乒羽,http://113.195.172.192:808/hls/239/index.m3u8$宜春联
 
 爱尔达3,rtmp://59.124.75.138/sat/md021$59
+
+爱羽客,http://www.tszhgjj.cn:7000/rtp/239.253.93.202:6380$河北联
 
 百事乒羽1,http://cloud.sunrisecom.wang:8888/udp/239.45.3.139:5140$上海信#http://e2.woc.iiiya.cn:28888/udp/239.61.5.12:1025$福建信#http://www.745612.xyz:7788/udp/235.254.196.234:1208$重庆信#http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.253:5540$kbtv#http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.237:5540$kbtv
 百事乒羽1,http://www.li0580.top:4022/udp/233.50.200.246:5140$浙江联#http://www.li0580.top:4022/udp/233.50.201.204:5140$浙江联
@@ -213,6 +219,7 @@ CCTV5+,http://58.19.180.108:9981/stream/channelid/1400754434?profile=pass$襄阳
 百事乒羽1,http://www.958598.xyz:4022/udp/239.45.3.139:5140$上海信
 百事乒羽2,http://www.958598.xyz:4022/udp/239.45.3.140:5140$上海信
 
+广东体育,http://27.41.245.32:801/hls/204/index.m3u8$汕头联
 广东体育,http://120.233.73.4:19901/tsfile/live/1040_1.m3u8$深移动#http://go.bkpcp.top/mg/gdty$go#http://bxtv.3a.ink/api.php?id=gdty$bxtv#http://live4play.uk/livehttpplay?channel_id=12028$live4#http://106.53.99.30/tv/gdcucc.php?id=30$106#http://120.238.94.82:9901/tsfile/live/1012_1.m3u8$梅州移#http://live4play.uk/livehttpplay?channel_id=30031$live4#http://live4play.uk/livehttpplay?channel_id=20130$live4#http://live4play.uk/livehttpplay?channel_id=30003$live4
 广东体育,http://m.061899.xyz/mg/gdty$mg
 
@@ -232,6 +239,7 @@ CCTV5+,http://58.19.180.108:9981/stream/channelid/1400754434?profile=pass$襄阳
 睛彩篮球,https://msj.188766.xyz/play?id=3000000020000011529&token=2056ac822056ac822056ac822056ac82$migu
 睛彩青少,https://msj.188766.xyz/play?id=3000000020000011525&token=2056ac7e2056ac7e2056ac7e2056ac7e$migu
 
+风云足球,http://27.41.245.32:801/hls/906/index.m3u8$汕头联
 风云足球,http://124.152.56.11:53290/tsfile/live/1049_1.m3u8$张掖联
 风云足球,http://111.61.236.247:9081/hls/58/index.m3u8$廊坊移
 
@@ -666,6 +674,20 @@ FIFA,https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U
 
 央视音乐,#genre#
 
+CCTV9,http://27.41.245.32:801/hls/9/index.m3u8$汕头联
+CCTV10,http://27.41.245.32:801/hls/10/index.m3u8$汕头联
+CCTV2,http://27.41.245.32:801/hls/2/index.m3u8$汕头联
+CCTV3,http://27.41.245.32:801/hls/3/index.m3u8$汕头联
+CCTV6,http://27.41.245.32:801/hls/6/index.m3u8$汕头联
+CCTV7,http://27.41.245.32:801/hls/7/index.m3u8$汕头联
+CCTV8,http://27.41.245.32:801/hls/8/index.m3u8$汕头联
+CCTV11,http://27.41.245.32:801/hls/11/index.m3u8$汕头联
+CCTV12,http://27.41.245.32:801/hls/12/index.m3u8$汕头联
+CCTV14,http://27.41.245.32:801/hls/14/index.m3u8$汕头联
+CCTV15,http://27.41.245.32:801/hls/15/index.m3u8$汕头联
+CCTV17,http://27.41.245.32:801/hls/16/index.m3u8$汕头联
+CCTV1,http://27.41.245.32:801/hls/1/index.m3u8$汕头联
+
 CCTV9,http://124.152.56.11:53290/tsfile/live/1010_1.m3u8$张掖联
 CCTV10,http://124.152.56.11:53290/tsfile/live/1011_1.m3u8$张掖联
 CCTV1,http://124.152.56.11:53290/tsfile/live/1001_1.m3u8$张掖联
@@ -743,6 +765,35 @@ CCTV15,http://m.061899.xyz/mg/cctv15$mg
 CCTV17,http://m.061899.xyz/mg/cctv17$mg
 
 省级频道,#genre#
+
+北京卫视,http://27.41.245.32:801/hls/28/index.m3u8$汕头联
+深圳卫视,http://27.41.245.32:801/hls/26/index.m3u8$汕头联
+东南卫视,http://27.41.245.32:801/hls/32/index.m3u8$汕头联
+湖南卫视,http://27.41.245.32:801/hls/27/index.m3u8$汕头联
+江西卫视,http://27.41.245.32:801/hls/43/index.m3u8$汕头联
+山东卫视,http://27.41.245.32:801/hls/51/index.m3u8$汕头联
+天津卫视,http://27.41.245.32:801/hls/55/index.m3u8$汕头联
+吉林卫视,http://27.41.245.32:801/hls/40/index.m3u8$汕头联
+黑龙江卫视,http://27.41.245.32:801/hls/39/index.m3u8$汕头联
+青海卫视,http://27.41.245.32:801/hls/49/index.m3u8$汕头联
+浙江卫视,http://27.41.245.32:801/hls/58/index.m3u8$汕头联
+安徽卫视,http://27.41.245.32:801/hls/29/index.m3u8$汕头联
+东方卫视,http://27.41.245.32:801/hls/31/index.m3u8$汕头联
+河北卫视,http://27.41.245.32:801/hls/37/index.m3u8$汕头联
+四川卫视,http://27.41.245.32:801/hls/54/index.m3u8$汕头联
+海南卫视,http://27.41.245.32:801/hls/36/index.m3u8$汕头联
+重庆卫视,http://27.41.245.32:801/hls/59/index.m3u8$汕头联
+江苏卫视,http://27.41.245.32:801/hls/42/index.m3u8$汕头联
+河南卫视,http://27.41.245.32:801/hls/38/index.m3u8$汕头联
+广西卫视,http://27.41.245.32:801/hls/34/index.m3u8$汕头联
+贵州卫视,http://27.41.245.32:801/hls/35/index.m3u8$汕头联
+甘肃卫视,http://27.41.245.32:801/hls/33/index.m3u8$汕头联
+山西卫视,http://27.41.245.32:801/hls/52/index.m3u8$汕头联
+陕西卫视,http://27.41.245.32:801/hls/50/index.m3u8$汕头联
+内蒙古卫视,http://27.41.245.32:801/hls/47/index.m3u8$汕头联
+宁夏卫视,http://27.41.245.32:801/hls/48/index.m3u8$汕头联
+新疆卫视,http://27.41.245.32:801/hls/57/index.m3u8$汕头联
+西藏卫视,http://27.41.245.32:801/hls/56/index.m3u8$汕头联
 
 广东卫视,http://vip1.xinketongxun.fun:8082/tsfile/live/0125_1.m3u8$钦州联
 深圳卫视,http://vip1.xinketongxun.fun:8082/tsfile/live/0126_1.m3u8$钦州联
@@ -1011,6 +1062,8 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 
 电影频道,#genre#
 
+CHC家庭影院,http://27.41.245.32:801/hls/905/index.m3u8$汕头联
+
 CHC动作电影,http://vip1.xinketongxun.fun:8082/tsfile/live/1045_1.m3u8$钦州联
 CHC家庭影院,http://vip1.xinketongxun.fun:8082/tsfile/live/1046_1.m3u8$钦州联
 CHC影迷电影,http://vip1.xinketongxun.fun:8082/tsfile/live/1047_1.m3u8$钦州联
@@ -1042,6 +1095,7 @@ CHC家庭影院,http://36.135.118.195:85/tsfile/live/1021_1.m3u8?key=txiptv&play
 天映经典,http://php.jdshipin.com/smt.php?id=Celestial2$php
 爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi$php
 
+重温经典,http://27.41.245.32:801/hls/904/index.m3u8$汕头联
 重温经典,http://124.152.56.11:53290/tsfile/live/1019_1.m3u8$张掖联
 
 澳门莲花,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8$官网
