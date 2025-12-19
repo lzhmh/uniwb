@@ -96,8 +96,6 @@ CCTV13,http://m.061899.xyz/mg/cctv13$mg
 亚洲卫视,https://fenghuang.tv12.xyz/173.m3u8
 每日经济,http://swiftplay.hxkjmedia.com/tv/spbW.m3u8
 
-无线新闻,http://php.jdshipin.com/smt.php?id=inews_twn
-
 新加坡cna,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 新加坡cna,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 
@@ -179,7 +177,7 @@ CCTV5+,http://183.222.242.31:8088/hls/16/index.m3u8$成都移
 
 百事乒羽1,http://cloud.sunrisecom.wang:8888/udp/239.45.3.139:5140$上海信#http://www.745612.xyz:7788/udp/235.254.196.234:1208$重庆信#http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.253:5540$kbtv#http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.237:5540$kbtv#http://www.li0580.top:4022/udp/233.50.200.246:5140$浙江联#http://www.li0580.top:4022/udp/233.50.201.204:5140$浙江联#http://223.167.230.5:4022/udp/239.45.3.139:5140$上海信#http://www.958598.xyz:4022/udp/239.45.3.139:5140$上海信#http://118.180.142.189:65535/udp/239.255.30.170:8231$甘肃信
 
-百事乒羽2,http://cloud.sunrisecom.wang:8888/udp/239.45.3.140:5140$上海信#http://www.745612.xyz:7788/udp/235.254.196.235:1212$重庆信#http://223.167.230.5:4022/udp/239.45.3.140:5140$上海信#http://www.958598.xyz:4022/udp/239.45.3.140:5140$上海信
+百事乒羽2,http://cloud.sunrisecom.wang:8888/udp/239.45.3.140:5140$上海信#http://www.745612.xyz:7788/udp/235.254.196.235:1212$重庆信#http://223.167.230.5:4022/udp/239.45.3.140:5140$上海信#http://www.958598.xyz:4022/udp/239.45.3.140:5140$上海信#http://118.180.142.189:65535/udp/239.255.30.171:8231$甘肃信#http://www.li0580.top:4022/udp/233.50.200.237:5140$浙江联#http://www.li0580.top:4022/udp/233.50.201.205:5140$浙江联#http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.214:5540$kbtv
 
 广东体育,http://27.41.245.32:801/hls/204/index.m3u8$汕头联#http://120.233.73.4:19901/tsfile/live/1040_1.m3u8$深移动#http://go.bkpcp.top/mg/gdty$go#http://120.238.94.82:9901/tsfile/live/1012_1.m3u8$梅州移#http://m.061899.xyz/mg/gdty$mg
 
@@ -221,13 +219,6 @@ CETV4,http://36.135.118.195:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&aut
 
 骑牛大赛,https://yylunbo.ottiptv.cc/yy/1355313481#http://jiaojirentv.top/2020/yy.php?id=1355313481
 摩托挑战,https://yylunbo.ottiptv.cc/yy/1354946983#http://jiaojirentv.top/2020/yy.php?id=1354946983
-
-百事,http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.88:5540$kbtv
-百事,http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.142:5540$kbtv
-百事,http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.162:5540$kbtv
-百事,http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.211:5540$kbtv
-百事,http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.213:5540$kbtv#http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.214:5540$kbtv
-百事,http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.222:5540$kbtv
 
 棋牌娱乐,#genre#
 
