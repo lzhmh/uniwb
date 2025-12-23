@@ -1,5 +1,5 @@
 //粤联频道数据收集自网络上的分享251022开通IPV6
-新闻HU08,#genre#
+新闻HU09,#genre#
 
 凤凰中文,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pcc72.flv$0701f
 凤凰资讯,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pin72.flv$0701f
@@ -442,6 +442,49 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$chunk#http:
 
 中天新闻,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts$ts
 
+中天新闻,http://nmk.ioapk.com:5050/4gtv-4gtv009/index.m3u8?proxy=true$nmk
+TVBSHD,http://nmk.ioapk.com:5050/4gtv-4gtv073/index.m3u8?proxy=true$nmk
+TVBS新闻,http://nmk.ioapk.com:5050/4gtv-4gtv072/index.m3u8?proxy=true$nmk
+东森新闻,http://nmk.ioapk.com:5050/4gtv-4gtv152/index.m3u8?proxy=true$nmk
+寰宇新闻,http://nmk.ioapk.com:5050/litv-longturn14/index.m3u8?proxy=true$nmk
+寰宇台湾,http://nmk.ioapk.com:5050/4gtv-4gtv156/index.m3u8?proxy=true$nmk
+非凡新闻,http://nmk.ioapk.com:5050/4gtv-4gtv010/index.m3u8?proxy=true$nmk
+中视新闻,http://nmk.ioapk.com:5050/4gtv-4gtv074/index.m3u8?proxy=true$nmk
+华视新闻,http://nmk.ioapk.com:5050/4gtv-4gtv052/index.m3u8?proxy=true$nmk
+台视新闻,http://nmk.ioapk.com:5050/4gtv-4gtv051/index.m3u8?proxy=true$nmk
+民视新闻,http://nmk.ioapk.com:5050/li-litv-ftv13/index.m3u8?proxy=true$nmk
+镜新闻,http://nmk.ioapk.com:5050/4gtv-4gtv075/index.m3u8?proxy=true$nmk
+新唐人,http://nmk.ioapk.com:5050/4gtv-live050/index.m3u8?proxy=true$nmk
+民视台湾,http://nmk.ioapk.com:5050/4gtv-4gtv001/index.m3u8?proxy=true$nmk
+东森财经,http://nmk.ioapk.com:5050/4gtv-4gtv153/index.m3u8?proxy=true$nmk
+台视财经,http://nmk.ioapk.com:5050/4gtv-4gtv056/index.m3u8?proxy=true$nmk
+非凡商业,http://nmk.ioapk.com:5050/4gtv-4gtv048/index.m3u8?proxy=true$nmk
+三立iNEWS,http://nmk.ioapk.com:5050/4gtv-live089/index.m3u8?proxy=true$nmk
+靖天国际,http://nmk.ioapk.com:5050/4gtv-4gtv063/index.m3u8?proxy=true$nmk
+古典音乐,http://nmk.ioapk.com:5050/4gtv-4gtv059/index.m3u8?proxy=true$nmk
+
+中天新闻,http://210.61.15.55:50007/4gtv-4gtv009/index.m3u8?proxy=true$210
+TVBSHD,http://210.61.15.55:50007/4gtv-4gtv073/index.m3u8?proxy=true$210
+TVBS新闻,http://210.61.15.55:50007/4gtv-4gtv072/index.m3u8?proxy=true$210
+东森新闻,http://210.61.15.55:50007/4gtv-4gtv152/index.m3u8?proxy=true$210
+寰宇新闻,http://210.61.15.55:50007/litv-longturn14/index.m3u8?proxy=true$210
+寰宇台湾,http://210.61.15.55:50007/4gtv-4gtv156/index.m3u8?proxy=true$210
+非凡新闻,http://210.61.15.55:50007/4gtv-4gtv010/index.m3u8?proxy=true$210
+中视新闻,http://210.61.15.55:50007/4gtv-4gtv074/index.m3u8?proxy=true$210
+华视新闻,http://210.61.15.55:50007/4gtv-4gtv052/index.m3u8?proxy=true$210
+台视新闻,http://210.61.15.55:50007/4gtv-4gtv051/index.m3u8?proxy=true$210
+民视新闻,http://210.61.15.55:50007/li-litv-ftv13/index.m3u8?proxy=true$210
+镜新闻,http://210.61.15.55:50007/4gtv-4gtv075/index.m3u8?proxy=true$210
+新唐人,http://210.61.15.55:50007/4gtv-live050/index.m3u8?proxy=true$210
+民视台湾,http://210.61.15.55:50007/4gtv-4gtv001/index.m3u8?proxy=true$210
+东森财经,http://210.61.15.55:50007/4gtv-4gtv153/index.m3u8?proxy=true$210
+台视财经,http://210.61.15.55:50007/4gtv-4gtv056/index.m3u8?proxy=true$210
+非凡商业,http://210.61.15.55:50007/4gtv-4gtv048/index.m3u8?proxy=true$210
+三立iNEWS,http://210.61.15.55:50007/4gtv-live089/index.m3u8?proxy=true$210
+靖天国际,http://210.61.15.55:50007/4gtv-4gtv063/index.m3u8?proxy=true$210
+古典音乐,http://210.61.15.55:50007/4gtv-4gtv059/index.m3u8?proxy=true$210
+
+///      http://nmk.ioapk.com:5050
 中天新闻,http://152.32.229.52:5050/4gtv-4gtv009/index.m3u8?proxy=true$152
 TVBSHD,http://152.32.229.52:5050/4gtv-4gtv073/index.m3u8?proxy=true$152
 TVBS新闻,http://152.32.229.52:5050/4gtv-4gtv072/index.m3u8?proxy=true$152
