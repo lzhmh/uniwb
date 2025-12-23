@@ -91,8 +91,9 @@ CCTV13,http://m.061899.xyz/mg/cctv13$mg
 翡翠台,http://222.128.55.152:9080/live/gdfc.m3u8
 
 明珠台,http://nz171l122.bb60246.ctm.net:8892/bysid/2.m3u8
+
 环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8$官网
-亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8$官网
+亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8$官网#https://pull-hsbj.vzan.com/v/slowlive_821481626725612419.flv
 亚洲卫视,https://fenghuang.tv12.xyz/173.m3u8
 每日经济,http://swiftplay.hxkjmedia.com/tv/spbW.m3u8
 
@@ -118,12 +119,13 @@ CCTV5,http://124.152.56.11:53290/tsfile/live/1005_1.m3u8$张掖联
 CCTV5+,http://124.152.56.11:53290/tsfile/live/1006_1.m3u8$张掖联
 CCTV16,http://124.152.56.11:53290/tsfile/live/1017_1.m3u8$张掖联
 
-CCTV5,https://migu.188766.xyz/?migutoken=9f2a574798af69ac8b2f418e17305eb7&id=CCTV5&type=yy$migu
-CCTV5+,https://migu.188766.xyz/?migutoken=c371490d8a0aa84c61ef1bfa18c5d7e0&id=CCTV5p&type=yy$migu
-
 CCTV5,http://vip1.xinketongxun.fun:8082/tsfile/live/0005_1.m3u8$钦州联
 CCTV5+,http://vip1.xinketongxun.fun:8082/tsfile/live/0016_1.m3u8$钦州联
 CCTV16,http://vip1.xinketongxun.fun:8082/tsfile/live/1002_1.m3u8$钦州联
+
+CCTV5,http://m.061899.xyz/mg/cctv5$mg
+CCTV5+,http://m.061899.xyz/mg/cctv5p$mg
+CCTV16,http://m.061899.xyz/mg/cctv16$mg
 
 CCTV5,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5$cdn6
 CCTV5+,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5p$cdn6
@@ -155,8 +157,6 @@ CCTV5,http://36.135.118.195:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&aut
 CCTV5+,http://36.135.118.195:85/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0$吉移
 CCTV16,http://36.135.118.195:85/tsfile/live/0016_2.m3u8?key=txiptv&playlive=0&authid=0$吉移
 
-CCTV5,http://m.061899.xyz/mg/cctv5$mg
-
 CCTV5,http://j.s.bkpcp.top/jj/cctv5$jj
 CCTV5+,http://j.s.bkpcp.top/jj/cctv5p$jj
 CCTV5+,http://106.53.99.30/tv/gdcucc.php?id=6$106#http://m.061899.xyz/mg/cctv5p$mg
@@ -185,6 +185,8 @@ CCTV5+,http://183.222.242.31:8088/hls/16/index.m3u8$成都移
 
 五星体育,http://bp-livetytv.bestv.cn/ch/bestvwxty.m3u8$bp
 北京体育,http://iptv.huuc.edu.cn/hls/btv11hd.m3u8$平顶山教
+北京体育,http://49.232.181.26:6000/udp/225.1.8.23:8002$北京信#http://115.171.216.39:4000/udp/225.1.8.23:8002$北京信#http://115.171.80.250:1688/udp/225.1.8.23:8002$北京信
+
 山东体育,http://nw.jiayinkeji.xin/migunew/gtqilu.php?id=typd
 
 睛彩篮球,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
@@ -224,13 +226,12 @@ CETV4,http://36.135.118.195:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&aut
 
 掼蛋精英赛,http://m.061899.xyz/mg/dds$mg
 掼蛋精英赛,http://t.061899.xyz/tl/dq.php?id=dds$t
-掼蛋精英赛,https://migu.188766.xyz/?migutoken=11818159d7d4c855384a589baa496ccc&id=%E6%8E%BC%E8%9B%8B%E7%B2%BE%E8%8B%B1%E8%B5%9B&type=yy
 
 睛彩广场舞,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf#http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
 睛彩广场舞,https://msj.188766.xyz/play?id=3000000020000011523&token=2056ac7c2056ac7c2056ac7c2056ac7c$migu
 睛彩广场舞,http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.42:5540$kbtv#http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.223:5540$kbtv
 
-///安徽体育http://183.164.63.156:5000/rtp/238.1.79.41:4440$安徽信
+安徽体育,http://117.68.197.198:4022/udp/238.1.79.41:4440$安徽信#http://60.166.81.174:6688/udp/238.1.79.41:4440$安徽信#http://183.164.55.78:5000/udp/238.1.79.41:4440$安徽信#http://36.57.175.227:2000/udp/238.1.79.41:4440$安徽信#http://36.57.175.234:2000/udp/238.1.79.41:4440$安徽信#http://36.57.175.251:2000/udp/238.1.79.41:4440$安徽信#http://60.168.109.180:4000/udp/238.1.79.41:4440$安徽信#http://60.168.109.197:4000/udp/238.1.79.41:4440$安徽信#http://183.164.37.18:4022/udp/238.1.79.41:4440$安徽信
 
 八卦大师,https://live.ottiptv.cc/douyu/851040$live
 帽子象棋,https://live.ottiptv.cc/douyu/4487219$live
@@ -490,89 +491,45 @@ TVBS新闻,http://152.32.229.52:5050/li-4gtv-4gtv072/index.m3u8?proxy=true$li
 台视新闻,http://152.32.229.52:5050/4gtv-4gtv051/index.m3u8
 
 实时直播,#genre#
+咪视界1,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界2,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界3,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界4,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界5,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界6,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界7,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界8,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界9,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界10,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界11,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界12,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界13,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界14,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界15,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界16,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界17,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界18,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界19,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界20,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界21,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界22,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
 
-城市联赛,https://migu.188766.xyz/?migutoken=d7154ab50cee5c9d2903c16c9a316829&id=24%E5%B0%8F%E6%97%B6%E5%9F%8E%E5%B8%82%E8%81%94%E8%B5%9B%E8%BD%AE%E6%92%AD%E5%8F%B0&type=yy$migu
-咪视界2,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界3,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界5,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界6,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界7,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界8,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界9,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界10,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界11,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界12,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界13,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界14,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界15,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界16,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界17,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界18,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界19,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界20,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界23,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界24,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界29,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界31,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-
-咪咕4K2,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=toShengfen&/PLTV/&$anf
-
-咪视通1,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视通4,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视通12,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视通35,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视通14,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视通15,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视通31,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视通32,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视通36,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视通37,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视通40,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视通43,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视通45,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视通39,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界23,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界24,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界25,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界26,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界27,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界28,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界29,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界30,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界31,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界32,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界33,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界34,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界35,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界36,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
 咪咕4K1,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=toShengfen&/PLTV/&$anf
-CCTV7,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf#http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-
-咪视界2,https://msj.188766.xyz/play?id=3000000001000005308&token=eaca6a59eaca6a59eaca6a59eaca6a59$migu咪视界-1,https://msj.188766.xyz/play?id=3000000001000005969&token=eaca819aeaca819aeaca819aeaca819a$migu
-咪视界-3,https://msj.188766.xyz/play?id=3000000001000007218&token=eacb4f75eacb4f75eacb4f75eacb4f75$migu
-咪视界-4,https://msj.188766.xyz/play?id=3000000001000008001&token=eacbbc2ceacbbc2ceacbbc2ceacbbc2c$migu
-咪视界5,https://msj.188766.xyz/play?id=3000000001000031494&token=eaf2e434eaf2e434eaf2e434eaf2e434$migu
-咪视界-6,https://msj.188766.xyz/play?id=3000000001000008379&token=eacbc850eacbc850eacbc850eacbc850$migu
-咪视界-7,https://msj.188766.xyz/play?id=3000000001000010129&token=ead634bcead634bcead634bcead634bc$migu
-咪视界-8,https://msj.188766.xyz/play?id=3000000001000010948&token=ead65301ead65301ead65301ead65301$migu
-咪视界-9,https://msj.188766.xyz/play?id=3000000001000028638&token=eae80218eae80218eae80218eae80218$migu
-咪视界-10,https://msj.188766.xyz/play?id=3000000001000008176&token=eacbc0cbeacbc0cbeacbc0cbeacbc0cb$migu
-咪视界-11,https://msj.188766.xyz/play?id=3000000010000000097&token=8b635bf38b635bf38b635bf38b635bf3$migu
-咪视界-12,https://msj.188766.xyz/play?id=3000000010000002019&token=8b6443bb8b6443bb8b6443bb8b6443bb$migu
-咪视界-13,https://msj.188766.xyz/play?id=3000000010000002809&token=8b6461a48b6461a48b6461a48b6461a4$migu
-咪视界-14,https://msj.188766.xyz/play?id=3000000010000003915&token=8b64d9df8b64d9df8b64d9df8b64d9df$migu
-咪视界-15,https://msj.188766.xyz/play?id=3000000010000004193&token=8b65312c8b65312c8b65312c8b65312c$migu
-咪视界16,https://msj.188766.xyz/play?id=3000000010000006077&token=8b6615ef8b6615ef8b6615ef8b6615ef$migu
-咪视界-17,https://msj.188766.xyz/play?id=3000000010000005837&token=8b65bf1c8b65bf1c8b65bf1c8b65bf1c$migu
-咪视界-18,https://msj.188766.xyz/play?id=3000000010000006658&token=8b662c388b662c388b662c388b662c38$migu
-咪视界-19,https://msj.188766.xyz/play?id=3000000010000009788&token=8b678d738b678d738b678d738b678d73$migu
-咪视界-20,https://msj.188766.xyz/play?id=3000000010000010833&token=8b7190be8b7190be8b7190be8b7190be$migu
-咪视界-21,https://msj.188766.xyz/play?id=3000000010000011297&token=8b71ef558b71ef558b71ef558b71ef55$migu
-咪视界-23,https://msj.188766.xyz/play?id=3000000010000012558&token=8b726e7c8b726e7c8b726e7c8b726e7c$migu
-咪视界-24,https://msj.188766.xyz/play?id=3000000010000012616&token=8b7271bf8b7271bf8b7271bf8b7271bf$migu
-咪视界-25,https://msj.188766.xyz/play?id=3000000010000015470&token=8b73c80e8b73c80e8b73c80e8b73c80e$migu
-咪视界-26,https://msj.188766.xyz/play?id=3000000010000015560&token=8b73cbb08b73cbb08b73cbb08b73cbb0$migu
-咪视界-27,https://msj.188766.xyz/play?id=3000000010000017678&token=8b74b8568b74b8568b74b8568b74b856$migu
-咪视界-28,https://msj.188766.xyz/play?id=3000000010000019839&token=8b75a81b8b75a81b8b75a81b8b75a81b$migu
-咪视界-29,https://msj.188766.xyz/play?id=3000000010000021904&token=8b8020038b8020038b8020038b802003$migu
-咪视界-30,https://msj.188766.xyz/play?id=3000000010000023434&token=8b80f6598b80f6598b80f6598b80f659$migu
-咪视界-31,https://msj.188766.xyz/play?id=3000000010000025380&token=8b81dbed8b81dbed8b81dbed8b81dbed$migu
-咪视界-32,https://msj.188766.xyz/play?id=3000000010000027691&token=8b82d00e8b82d00e8b82d00e8b82d00e$migu
-咪视界-33,https://msj.188766.xyz/play?id=3000000010000031669&token=8b8e2d008b8e2d008b8e2d008b8e2d00$migu
-咪视界-34,https://msj.188766.xyz/play?id=3000000020000011518&token=2056ac622056ac622056ac622056ac62$migu
-咪视界-35,https://msj.188766.xyz/play?id=3000000020000011519&token=2056ac632056ac632056ac632056ac63$migu
-咪视界-36,https://msj.188766.xyz/play?id=3000000020000011520&token=2056ac792056ac792056ac792056ac79$migu
-咪视界-37,https://msj.188766.xyz/play?id=3000000020000011521&token=2056ac7a2056ac7a2056ac7a2056ac7a$migu
-咪视界-4K-1,https://msj.188766.xyz/play?id=3000000010000005180&token=8b65a5698b65a5698b65a5698b65a569$migu
-咪视界-4K-2,https://msj.188766.xyz/play?id=3000000010000015686&token=8b73cfb58b73cfb58b73cfb58b73cfb5$migu
-CCTV7,https://msj.188766.xyz/play?id=3000000010000011518&token=8b71f9a18b71f9a18b71f9a18b71f9a1$migu
-CCTV7,https://msj.188766.xyz/play?id=3000000020000011522&token=2056ac7b2056ac7b2056ac7b2056ac7b$migu
+咪咕4K2,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=toShengfen&/PLTV/&$anf
 
 ///域外体育#genre#
 
