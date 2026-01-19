@@ -1,13 +1,12 @@
-//粤联频道数据收集自网络上的分享260108开通IPV6
-新闻HU11,#genre#
+﻿//粤联频道数据收集自网络上的分享260108开通IPV6
+新闻HU12,#genre#
 
 凤凰中文,http://27.41.245.32:801/hls/205/index.m3u8$汕头联
-
 凤凰中文,http://116.77.38.138:44330/tsfile/live/1013_1.m3u8$深圳天威
-
 凤凰中文,http://183.234.238.18:8927/live1129.m3u8$阳江移
-凤凰资讯,http://183.236.161.115:8960/live1171.m3u8$阳江移
+
 凤凰资讯,http://183.234.238.18:8926/live1128.m3u8$阳江移
+凤凰资讯,http://183.236.161.115:8960/live1171.m3u8$阳江移
 
 凤凰中文,http://111.221.137.155:44330/tsfile/live/0136_1.m3u8$深圳天威
 凤凰中文,http://183.237.95.108:9901/tsfile/live/1103_1.m3u8$梅州移
@@ -49,13 +48,14 @@
 凤凰中文,http://zmgd.zyrnet.com:8888/hls/67/index.m3u8$中牟移
 凤凰资讯,http://zmgd.zyrnet.com:8888/hls/66/index.m3u8$中牟移
 
+CCTV4,http://hczn.x3322.net:9902/tsfile/live/0016_1.m3u8$杭州信
+CCTV4,http://27.41.245.32:801/hls/4/index.m3u8$汕头联
 CCTV4,http://111.221.137.155:44330/tsfile/live/0004_1.m3u8$深圳天威
 CCTV13,http://111.221.137.155:44330/tsfile/live/0013_1.m3u8$深圳天威
 
 CCTV4,http://116.77.38.138:44330/tsfile/live/0004_1.m3u8$深圳天威
 CCTV13,http://116.77.38.138:44330/tsfile/live/0014_1.m3u8$深圳天威
 
-CCTV4,http://27.41.245.32:801/hls/4/index.m3u8$汕头联
 CCTV13,http://27.41.245.32:801/hls/13/index.m3u8$汕头联
 CCTV4,http://hmfs.f3322.net:3388/hls/30/index.m3u8$茂名信
 CCTV13,http://hmfs.f3322.net:3388/hls/8/index.m3u8$茂名信
@@ -116,6 +116,9 @@ CCTV+2,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist
 
 体育频道,#genre#
 
+CCTV5,http://hczn.x3322.net:9902/tsfile/live/0005_1.m3u8$杭州信
+CCTV5,http://27.41.245.32:801/hls/5/index.m3u8$汕头联
+
 CCTV5,http://116.77.38.138:44330/tsfile/live/0005_1.m3u8$深圳天威
 CCTV5+,http://116.77.38.138:44330/tsfile/live/0006_1.m3u8$深圳天威
 CCTV16,http://116.77.38.138:44330/tsfile/live/0018_1.m3u8$深圳天威
@@ -124,15 +127,13 @@ CCTV5,http://hmfs.f3322.net:3388/hls/4/index.m3u8$茂名信
 CCTV5+,http://hmfs.f3322.net:3388/hls/5/index.m3u8$茂名信
 CCTV16,http://hmfs.f3322.net:3388/hls/36/index.m3u8$茂名信
 
-CCTV5,http://111.221.137.155:44330/tsfile/live/0005_1.m3u8$深圳天威
-CCTV5+,http://111.221.137.155:44330/tsfile/live/0016_1.m3u8$深圳天威
-CCTV16,http://111.221.137.155:44330/tsfile/live/1012_1.m3u8$深圳天威
-
-CCTV5,http://27.41.245.32:801/hls/5/index.m3u8$汕头联
-
 CCTV5,http://124.152.56.11:53290/tsfile/live/1005_1.m3u8$张掖联
 CCTV5+,http://124.152.56.11:53290/tsfile/live/1006_1.m3u8$张掖联
 CCTV16,http://124.152.56.11:53290/tsfile/live/1017_1.m3u8$张掖联
+
+CCTV5,http://111.221.137.155:44330/tsfile/live/0005_1.m3u8$深圳天威
+CCTV5+,http://111.221.137.155:44330/tsfile/live/0016_1.m3u8$深圳天威
+CCTV16,http://111.221.137.155:44330/tsfile/live/1012_1.m3u8$深圳天威
 
 CCTV5+,http://124.228.160.14:9901/tsfile/live/0016_1.m3u8$衡阳信
 CCTV5,http://shuangyashan.coccc.online:65000/tsfile/live/1022_1.m3u8$双鸭山信
@@ -176,11 +177,7 @@ CCTV5+,http://m.061899.xyz/mg/cctv5p$mg
 CCTV5,http://183.222.242.31:8088/hls/5/index.m3u8$成都移
 CCTV5+,http://183.222.242.31:8088/hls/16/index.m3u8$成都移
 
-先锋乒羽,http://vip1.xinketongxun.fun:8082/tsfile/live/1013_1.m3u8$钦州联
-先锋乒羽,http://219.146.65.78:59902/tsfile/live/0140_1.m3u8$青岛信
-先锋乒羽,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-1.m3u8$温州移#http://nn.7x9d.cn/地方台8563/湖南2.php?id=329#http://171.125.90.120:6001/rtp/226.0.2.121:8880$山西联#
-先锋乒羽,http://113.195.172.192:808/hls/101/index.m3u8$宜春联
-先锋乒羽,http://113.195.172.192:808/hls/239/index.m3u8$宜春联
+///先锋乒羽http://vip1.xinketongxun.fun:8082/tsfile/live/1013_1.m3u8$钦州联#http://219.146.65.78:59902/tsfile/live/0140_1.m3u8$青岛信#http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-1.m3u8$温州移#http://nn.7x9d.cn/地方台8563/湖南2.php?id=329#http://171.125.90.120:6001/rtp/226.0.2.121:8880$山西联#http://113.195.172.192:808/hls/101/index.m3u8$宜春联#http://113.195.172.192:808/hls/239/index.m3u8$宜春联
 
 爱尔达3,rtmp://59.124.75.138/sat/md021$59
 
@@ -232,6 +229,8 @@ CCTV5+,http://183.222.242.31:8088/hls/16/index.m3u8$成都移
 CETV4,http://m.061899.xyz/mg/cetv4$mg
 
 武术世界,http://vip1.xinketongxun.fun:8082/tsfile/live/1029_1.m3u8$钦州联
+武术世界,http://m.061899.xyz/mg/dds$mg
+武术世界,http://t.061899.xyz/tl/dq.php?id=dds$t
 武术世界,http://111.61.236.247:9081/hls/60/index.m3u8$廊坊移
 武术世界,http://1.94.31.214/php/hntv.php?id=wspd
 
@@ -239,9 +238,6 @@ CETV4,http://m.061899.xyz/mg/cetv4$mg
 摩托挑战,https://yylunbo.ottiptv.cc/yy/1354946983#http://jiaojirentv.top/2020/yy.php?id=1354946983
 
 棋牌娱乐,#genre#
-
-掼蛋精英赛,http://m.061899.xyz/mg/dds$mg
-掼蛋精英赛,http://t.061899.xyz/tl/dq.php?id=dds$t
 
 睛彩广场舞,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf#http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
 睛彩广场舞,http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.42:5540$kbtv#http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.223:5540$kbtv
@@ -257,6 +253,19 @@ CETV4,http://m.061899.xyz/mg/cetv4$mg
 欢乐斗地主,http://www.douzhicloud.site:35455/douyu/8324074$douzhi
 斗地主冠军赛,http://www.douzhicloud.site:35455/douyu/488743$douzhi
 弈夫围棋,http://www.douzhicloud.site:35455/douyu/6399350$douzhi
+
+//http://php.404003.xyz/live/douyuyqk.php?id=
+八卦大师,http://php.404003.xyz/live/douyuyqk.php?id=851040$php
+帽子象棋,http://php.404003.xyz/live/douyuyqk.php?id=4487219
+笑笑象棋,http://php.404003.xyz/live/douyuyqk.php?id=9969
+大神象棋,http://php.404003.xyz/live/douyuyqk.php?id=1227260
+九拙讲棋,http://php.404003.xyz/live/douyuyqk.php?id=4369877
+熊山雷疯,http://php.404003.xyz/live/douyuyqk.php?id=291514
+小鹤求败,http://php.404003.xyz/live/douyuyqk.php?id=3830820
+旭宝斗地主,http://php.404003.xyz/live/douyuyqk.php?id=9804176
+欢乐斗地主,http://php.404003.xyz/live/douyuyqk.php?id=8324074
+斗地主冠军赛,http://php.404003.xyz/live/douyuyqk.php?id=488743
+弈夫围棋,http://php.404003.xyz/live/douyuyqk.php?id=6399350
 
 八卦大师,http://jiaojirentv.top/2020/dy.php?id=851040$jiao
 帽子象棋,http://jiaojirentv.top/2020/dy.php?id=4487219$jiao
@@ -281,32 +290,6 @@ CETV4,http://m.061899.xyz/mg/cetv4$mg
 欢乐斗地主,http://zzy789.xyz/douyu1.php?id=8324074
 斗地主冠军赛,http://zzy789.xyz/douyu1.php?id=488743
 弈夫围棋,http://zzy789.xyz/douyu1.php?id=6399350
-
-//http://php.404003.xyz/live/douyuyqk.php?id=
-八卦大师,http://php.404003.xyz/live/douyuyqk.php?id=851040$php
-帽子象棋,http://php.404003.xyz/live/douyuyqk.php?id=4487219
-笑笑象棋,http://php.404003.xyz/live/douyuyqk.php?id=9969
-大神象棋,http://php.404003.xyz/live/douyuyqk.php?id=1227260
-九拙讲棋,http://php.404003.xyz/live/douyuyqk.php?id=4369877
-熊山雷疯,http://php.404003.xyz/live/douyuyqk.php?id=291514
-小鹤求败,http://php.404003.xyz/live/douyuyqk.php?id=3830820
-旭宝斗地主,http://php.404003.xyz/live/douyuyqk.php?id=9804176
-欢乐斗地主,http://php.404003.xyz/live/douyuyqk.php?id=8324074
-斗地主冠军赛,http://php.404003.xyz/live/douyuyqk.php?id=488743
-弈夫围棋,http://php.404003.xyz/live/douyuyqk.php?id=6399350
-
-//http://huanqiuzhibo.cn/manifest/douyu.php?id=
-八卦大师,http://huanqiuzhibo.cn/manifest/douyu.php?id=851040$huan
-帽子象棋,http://huanqiuzhibo.cn/manifest/douyu.php?id=4487219
-笑笑象棋,http://huanqiuzhibo.cn/manifest/douyu.php?id=9969
-大神象棋,http://huanqiuzhibo.cn/manifest/douyu.php?id=1227260
-九拙讲棋,http://huanqiuzhibo.cn/manifest/douyu.php?id=4369877
-熊山雷疯,http://huanqiuzhibo.cn/manifest/douyu.php?id=291514
-小鹤求败,http://huanqiuzhibo.cn/manifest/douyu.php?id=3830820
-旭宝斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=9804176
-欢乐斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=8324074
-斗地主冠军赛,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
-弈夫围棋,http://huanqiuzhibo.cn/manifest/douyu.php?id=6399350
 
 //http://lxajh.top/tv/douyu.php?id=
 八卦大师,http://lxajh.top/tv/douyu.php?id=851040$lxajh
@@ -334,18 +317,6 @@ CETV4,http://m.061899.xyz/mg/cetv4$mg
 龙崎掼蛋,http://live.nctv.top/huya.php?id=28092048$nctv
 掼蛋实战讲解,http://live.nctv.top/huya.php?id=28092049$nctv
 
-戴长胜掼蛋,http://aiony.top:35455/huya/28092053$aiony
-石头掼蛋,http://aiony.top:35455/huya/28092051$aiony
-赵老师掼蛋,http://aiony.top:35455/huya/28092052$aiony
-龙崎掼蛋,http://aiony.top:35455/huya/28092048$aiony
-掼蛋实战讲解,http://aiony.top:35455/huya/28092049$aiony
-
-戴长胜掼蛋,http://131.186.40.172:15002/huya/28092053$131
-石头掼蛋,http://131.186.40.172:15002/huya/28092051$131
-赵老师掼蛋,http://131.186.40.172:15002/huya/28092052$131
-龙崎掼蛋,http://131.186.40.172:15002/huya/28092048$131
-掼蛋实战讲解,http://131.186.40.172:15002/huya/28092049$131
-
 戴长胜掼蛋,https://www.goodiptv.club/huya/28092053$good
 石头掼蛋,https://www.goodiptv.club/huya/28092051$good
 赵老师掼蛋,https://www.goodiptv.club/huya/28092052$good
@@ -358,23 +329,9 @@ CETV4,http://m.061899.xyz/mg/cetv4$mg
 龙崎掼蛋,http://live.metshop.top/huya/28092048$live
 掼蛋实战讲解,http://live.metshop.top/huya/28092049$live
 
-戴长胜掼蛋,http://39.108.209.49:2999/huya/28092053$39
-石头掼蛋,http://39.108.209.49:2999/huya/28092051$39
-赵老师掼蛋,http://39.108.209.49:2999/huya/28092052$39
-龙崎掼蛋,http://39.108.209.49:2999/huya/28092048$39
-掼蛋实战讲解,http://39.108.209.49:2999/huya/28092049$39
-
-戴长胜掼蛋,http://113.45.240.129:35455/huya/28092053$113
-石头掼蛋,http://113.45.240.129:35455/huya/28092051$113
-赵老师掼蛋,http://113.45.240.129:35455/huya/28092052$113
-龙崎掼蛋,http://113.45.240.129:35455/huya/28092048$113
-掼蛋实战讲解,http://113.45.240.129:35455/huya/28092049$113
-
-掼蛋联赛,https://live.iill.top/douyin/55948161808$live
-
 天元围棋,http://www.tszhgjj.cn:7000/udp/239.253.93.211:6389$河北联
 
-斯诺克,http://live.nctv.top/huya.php?id=880214$nctv#http://aiony.top:35455/huya/880214$aiony
+斯诺克,http://live.nctv.top/huya.php?id=880214$nctv
 
 浙江民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
 
@@ -391,12 +348,10 @@ CETV4,http://m.061899.xyz/mg/cetv4$mg
 邱慧芳24太极拳,https://vd3.bdstatic.com/mda-pct748r1egmk3c8x/sc/cae_h264/1680067740751400060/mda-pct748r1egmk3c8x.mp4
 
 体育人物,http://www.douzhicloud.site:35455/douyu/8434598
-体育人物,http://huanqiuzhibo.cn/manifest/douyu.php?id=8434598
 体育人物,http://zzy789.xyz/douyu1.php?id=8434598
 
 斗鱼体育,http://www.douzhicloud.site:35455/douyu/9170147
 斗鱼体育,http://zzy789.xyz/douyu1.php?id=9170147
-斗鱼体育,http://huanqiuzhibo.cn/manifest/douyu.php?id=9170147
 
 联通电信,#genre#
 
@@ -421,7 +376,7 @@ CETV4,http://m.061899.xyz/mg/cetv4$mg
 新唐人,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8#
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$chunk#http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8$chunk#http://38.64.72.148/hls/modn/list/4005/playlist.m3u8$chunk
 
-中天新闻,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts$ts
+中天新闻,http://free.cnlive.club/channel/41d8a09d.m3u8?q=111.170.171.148$cnlive#http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts$ts
 
 中天新闻,http://nmk.ioapk.com:5050/4gtv-4gtv009/index.m3u8?proxy=true$nmk
 TVBSHD,http://nmk.ioapk.com:5050/4gtv-4gtv073/index.m3u8?proxy=true$nmk
@@ -909,9 +864,6 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 名侦探柯南,http://lxajh.top/tv/douyu.php?id=6484910
 料理小当家集,http://lxajh.top/tv/douyu.php?id=8231658
 
-名侦探柯南,http://huanqiuzhibo.cn/manifest/douyu.php?id=6484910
-料理小当家集,http://huanqiuzhibo.cn/manifest/douyu.php?id=8231658
-
 灌篮高手,http://jiaojirentv.top/2020/yy.php?id=1382735626
 灌篮高手,https://yylunbo.ottiptv.cc/yy/1382735626
 
@@ -979,18 +931,6 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 健康大问诊,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1035_720P_t10/c60_fast_1035_720P_t10.m3u8?d
 健康养生,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c59_fast_1046_720P_t10/c59_fast_1046_720P_t10.m3u8?d
 
-科学放映厅,http://huanqiuzhibo.cn/manifest/douyu.php?id=9439712
-纪录片之家,http://huanqiuzhibo.cn/manifest/douyu.php?id=8834003
-未解之谜,http://huanqiuzhibo.cn/manifest/douyu.php?id=9369468
-科技发明,http://huanqiuzhibo.cn/manifest/douyu.php?id=9317739
-宇宙科普,http://huanqiuzhibo.cn/manifest/douyu.php?id=9412981
-观察宇宙,http://huanqiuzhibo.cn/manifest/douyu.php?id=8667001
-杰瑞生活,http://huanqiuzhibo.cn/manifest/douyu.php?id=7357786
-理论科普,http://huanqiuzhibo.cn/manifest/douyu.php?id=9385288
-林超科普,http://huanqiuzhibo.cn/manifest/douyu.php?id=9447974
-斗鱼历史1,http://huanqiuzhibo.cn/manifest/douyu.php?id=9738854
-斗鱼历史2,http://huanqiuzhibo.cn/manifest/douyu.php?id=10102281
-
 科学放映厅,http://php.404003.xyz/live/douyuyqk.php?id=9439712
 纪录片之家,http://php.404003.xyz/live/douyuyqk.php?id=8834003
 未解之谜,http://php.404003.xyz/live/douyuyqk.php?id=9369468
@@ -1040,7 +980,6 @@ CHC家庭影院,http://36.135.118.195:85/tsfile/live/1021_1.m3u8?key=txiptv&play
 邵氏影院,http://www.douzhicloud.site:35455/douyu/4246519
 邵氏影院,http://php.404003.xyz/live/douyuyqk.php?id=4246519
 邵氏影院,http://zzy789.xyz/douyu1.php?id=4246519
-邵氏影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519
 //女神影院https://pull.kktv8.com/livekktv/99350550.flv
 //金马影院https://pull.kktv8.com/livekktv/128600025.flv
 //午夜影院https://pull.kktv8.com/livekktv/99592190.flv
@@ -1247,28 +1186,6 @@ CHC影迷电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8$梅州移
 宋江,http://zzy789.xyz/douyu1.php?id=9487003
 动漫Zei,http://zzy789.xyz/douyu1.php?id=1174353
 疯狂小潴潴,http://zzy789.xyz/douyu1.php?id=5522351
-
-//http://huanqiuzhibo.cn/manifest/douyu.php?id=
-译制国语,http://huanqiuzhibo.cn/manifest/douyu.php?id=2436390
-犯罪片,http://huanqiuzhibo.cn/manifest/douyu.php?id=747764
-漫威科幻,http://huanqiuzhibo.cn/manifest/douyu.php?id=6140589
-苹果影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=2793084
-桃花影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=7305938
-邦德影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=9292499
-粤语电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=6566671
-4K影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=9249162
-科幻动作灾难,http://huanqiuzhibo.cn/manifest/douyu.php?id=248753
-平安夜快乐,http://huanqiuzhibo.cn/manifest/douyu.php?id=6863367
-看经典,http://huanqiuzhibo.cn/manifest/douyu.php?id=7314294
-林正英1,http://huanqiuzhibo.cn/manifest/douyu.php?id=218859
-小黛兮影,http://huanqiuzhibo.cn/manifest/douyu.php?id=11553944
-林正英2,http://huanqiuzhibo.cn/manifest/douyu.php?id=7356023
-宇哥经典,http://huanqiuzhibo.cn/manifest/douyu.php?id=413573
-高分影厅,http://huanqiuzhibo.cn/manifest/douyu.php?id=2535105
-花卷陪看,http://huanqiuzhibo.cn/manifest/douyu.php?id=52787
-喜剧电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=9292492
-佳佳越狱,http://huanqiuzhibo.cn/manifest/douyu.php?id=7575350
-经典港剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=9548850
 
 //http://lxajh.top/tv/douyu.php?id=
 译制国语,http://lxajh.top/tv/douyu.php?id=2436390
@@ -1823,7 +1740,6 @@ CHC影迷电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8$梅州移
 动作电影,https://live.metshop.top/huya/11602077
 周星驰,https://live.metshop.top/huya/24470631
 周星驰,https://live.metshop.top/huya/11336587
-周星星,http://huanqiuzhibo.cn/manifest/huya.php?id=24470631
 林正英,https://live.metshop.top/huya/11342421
 沈腾,https://live.metshop.top/huya/11601968
 成龙,https://live.metshop.top/huya/11342386
@@ -1884,95 +1800,6 @@ CHC影迷电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8$梅州移
 文成公主,https://live.metshop.top/huya/11352974
 小鲤鱼,https://live.metshop.top/huya/11601961
 怪兽系列,https://live.metshop.top/huya/21059554
-
-//http://huanqiuzhibo.cn/manifest/huya.php?id=
-动作电影,http://huanqiuzhibo.cn/manifest/huya.php?id=11602077
-谍战片,http://huanqiuzhibo.cn/manifest/huya.php?id=21059587
-海盗片,http://huanqiuzhibo.cn/manifest/huya.php?id=21059595
-战争电影,http://huanqiuzhibo.cn/manifest/huya.php?id=21059592
-枪战,http://huanqiuzhibo.cn/manifest/huya.php?id=21059579
-速度激情,http://huanqiuzhibo.cn/manifest/huya.php?id=21059556
-欧美黑白,http://huanqiuzhibo.cn/manifest/huya.php?id=11352880
-战争片,http://huanqiuzhibo.cn/manifest/huya.php?id=21059574
-警匪片,http://huanqiuzhibo.cn/manifest/huya.php?id=11352886
-智商罪犯,http://huanqiuzhibo.cn/manifest/huya.php?id=11352962
-巨石强森,http://huanqiuzhibo.cn/manifest/huya.php?id=21059581
-詹姆斯邦德,http://huanqiuzhibo.cn/manifest/huya.php?id=21059585
-救援电影,http://huanqiuzhibo.cn/manifest/huya.php?id=21059594
-看救援,http://huanqiuzhibo.cn/manifest/huya.php?id=21059586
-赛车片,http://huanqiuzhibo.cn/manifest/huya.php?id=11279247
-灾难片,http://huanqiuzhibo.cn/manifest/huya.php?id=11602075
-黑帮斗争,http://huanqiuzhibo.cn/manifest/huya.php?id=11342419
-科幻电影,http://huanqiuzhibo.cn/manifest/huya.php?id=11602034
-死神来了,http://huanqiuzhibo.cn/manifest/huya.php?id=11352903
-港台电影,http://huanqiuzhibo.cn/manifest/huya.php?id=880261
-高分电影,http://huanqiuzhibo.cn/manifest/huya.php?id=16615910
-命案十三宗,http://huanqiuzhibo.cn/manifest/huya.php?id=11601981
-喜乐影院,http://huanqiuzhibo.cn/manifest/huya.php?id=21059580
-贺岁片,http://huanqiuzhibo.cn/manifest/huya.php?id=11601986
-怪兽电影,http://huanqiuzhibo.cn/manifest/huya.php?id=21059577
-香港电影,http://huanqiuzhibo.cn/manifest/huya.php?id=11601971
-玄幻电影,http://huanqiuzhibo.cn/manifest/huya.php?id=11342414
-林正英,http://huanqiuzhibo.cn/manifest/huya.php?id=11342421
-沈腾,http://huanqiuzhibo.cn/manifest/huya.php?id=11601968
-成龙,http://huanqiuzhibo.cn/manifest/huya.php?id=11342386
-李连杰,http://huanqiuzhibo.cn/manifest/huya.php?id=11342390
-刘德华,http://huanqiuzhibo.cn/manifest/huya.php?id=11342424
-王晶,http://huanqiuzhibo.cn/manifest/huya.php?id=11602058
-星爷,http://huanqiuzhibo.cn/manifest/huya.php?id=11342412
-中华小当家,http://huanqiuzhibo.cn/manifest/huya.php?id=11342413
-杰森•斯坦森,http://huanqiuzhibo.cn/manifest/huya.php?id=21059588
-喜剧专场,http://huanqiuzhibo.cn/manifest/huya.php?id=11602044
-甄子丹,http://huanqiuzhibo.cn/manifest/huya.php?id=11352935
-洪金宝,http://huanqiuzhibo.cn/manifest/huya.php?id=11279251
-徐克,http://huanqiuzhibo.cn/manifest/huya.php?id=11352909
-周润发,http://huanqiuzhibo.cn/manifest/huya.php?id=11342387
-徐峥,http://huanqiuzhibo.cn/manifest/huya.php?id=11602043
-许氏三杰,http://huanqiuzhibo.cn/manifest/huya.php?id=11602033
-黄渤,http://huanqiuzhibo.cn/manifest/huya.php?id=11352876
-喜剧电影,http://huanqiuzhibo.cn/manifest/huya.php?id=11352877
-张卫健,http://huanqiuzhibo.cn/manifest/huya.php?id=11342423
-倩女幽魂,http://huanqiuzhibo.cn/manifest/huya.php?id=11601970
-日本电影,http://huanqiuzhibo.cn/manifest/huya.php?id=23652317
-冯小刚,http://huanqiuzhibo.cn/manifest/huya.php?id=11352906
-搞笑僵尸片,http://huanqiuzhibo.cn/manifest/huya.php?id=11352963
-极限挑战],http://huanqiuzhibo.cn/manifest/huya.php?id=11352914
-金庸武侠,http://huanqiuzhibo.cn/manifest/huya.php?id=11342435
-金庸电影,http://huanqiuzhibo.cn/manifest/huya.php?id=11352897
-经典武侠,http://huanqiuzhibo.cn/manifest/huya.php?id=11342427
-欢笑影院,http://huanqiuzhibo.cn/manifest/huya.php?id=11352894
-精彩不断,http://huanqiuzhibo.cn/manifest/huya.php?id=24396428
-精忠岳飞南征北战,http://huanqiuzhibo.cn/manifest/huya.php?id=11336578
-古墓系列,http://huanqiuzhibo.cn/manifest/huya.php?id=11352913
-国产悬疑,http://huanqiuzhibo.cn/manifest/huya.php?id=11342395
-天龙八部,http://huanqiuzhibo.cn/manifest/huya.php?id=11602041
-盗墓电影,http://huanqiuzhibo.cn/manifest/huya.php?id=21059552
-国产电影,http://huanqiuzhibo.cn/manifest/huya.php?id=11352973
-蜘蛛侠,http://huanqiuzhibo.cn/manifest/huya.php?id=21059599
-功夫片,http://huanqiuzhibo.cn/manifest/huya.php?id=11352941
-丧尸片,http://huanqiuzhibo.cn/manifest/huya.php?id=21059578
-高能反转,http://huanqiuzhibo.cn/manifest/huya.php?id=11352887
-变形金刚,http://huanqiuzhibo.cn/manifest/huya.php?id=21059596
-剧集_新水浒,http://huanqiuzhibo.cn/manifest/huya.php?id=11342384
-剧集_老三国,http://huanqiuzhibo.cn/manifest/huya.php?id=11602081
-剧集_新三国,http://huanqiuzhibo.cn/manifest/huya.php?id=11352944
-剧集_庆余年,http://huanqiuzhibo.cn/manifest/huya.php?id=11352960
-剧集_纪晓岚,http://huanqiuzhibo.cn/manifest/huya.php?id=11342396
-剧集_地下交通站,http://huanqiuzhibo.cn/manifest/huya.php?id=11342433
-剧集_士兵突击,http://huanqiuzhibo.cn/manifest/huya.php?id=11342430
-剧集_爱情公寓,http://huanqiuzhibo.cn/manifest/huya.php?id=11336726
-剧集_家有儿女,http://huanqiuzhibo.cn/manifest/huya.php?id=11352872
-剧集_武林外传,http://huanqiuzhibo.cn/manifest/huya.php?id=21059598
-剧集_邻里一家亲,http://huanqiuzhibo.cn/manifest/huya.php?id=11342426
-百鸟朝凤,http://huanqiuzhibo.cn/manifest/huya.php?id=15894162
-路飞,http://huanqiuzhibo.cn/manifest/huya.php?id=16913382
-麻雀,http://huanqiuzhibo.cn/manifest/huya.php?id=11352881
-陈翔六点半,http://huanqiuzhibo.cn/manifest/huya.php?id=11274154
-生活大爆炸,http://huanqiuzhibo.cn/manifest/huya.php?id=11342417
-天雷滚滚,http://huanqiuzhibo.cn/manifest/huya.php?id=11352945
-文成公主,http://huanqiuzhibo.cn/manifest/huya.php?id=11352974
-小鲤鱼,http://huanqiuzhibo.cn/manifest/huya.php?id=11601961
-怪兽系列,http://huanqiuzhibo.cn/manifest/huya.php?id=21059554
 
 //http://i.880824.xyz:35455/huya/ 
 动作电影,http://i.880824.xyz:35455/huya/11602077
