@@ -382,11 +382,11 @@ TVBS新闻,http://cnlive.org/channel/n69ccce92/index.m3u8$cnlive
 寰宇新闻,http://cnlive.org/channel/n43c34be8/index.m3u8$cnlive
 东森新闻,http://cnlive.org/channel/n88aa83/index.m3u8$cnlive
 
-中天新闻,http://free.cnlive.club/channel/41d8a09d.m3u8?q=111.170.171.148$cnlive#http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts$ts
+中天新闻,http://free.cnlive.club/channel/41d8a09d.m3u8?q=111.170.171.148$free#http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts$ts
 
-TVBSHD,http://free.cnlive.club/channel/154f9d73/index.m3u8?q=1752629214236$cnlive
-TVBS新闻,http://free.cnlive.club/channel/n69ccce92/index.m3u8?q=1752629214236$cnlive
-東森新聞,http://free.cnlive.club/channel/n88aa83/index.m3u8?q=1760217407316$cnlive
+TVBSHD,http://free.cnlive.club/channel/154f9d73/index.m3u8?q=1752629214236$free
+TVBS新闻,http://free.cnlive.club/channel/n69ccce92/index.m3u8?q=1752629214236$free
+東森新聞,http://free.cnlive.club/channel/n88aa83/index.m3u8?q=1760217407316$free
 
 中天新闻,http://nmk.ioapk.com:5050/4gtv-4gtv009/index.m3u8?proxy=true$nmk
 TVBSHD,http://nmk.ioapk.com:5050/4gtv-4gtv073/index.m3u8?proxy=true$nmk
@@ -480,6 +480,34 @@ TVBS新闻,http://152.32.229.52:5050/li-4gtv-4gtv072/index.m3u8?proxy=true$li
 台视新闻,http://152.32.229.52:5050/4gtv-4gtv051/index.m3u8
 
 实时直播,#genre#
+
+咪视界1,http://183.220.20.17:4000/udp/239.10.0.17:5140$四川移
+咪视界2,http://183.220.20.17:4000/udp/239.10.0.18:5140$四川移
+咪视界3,http://183.220.20.17:4000/udp/239.10.0.19:5140$四川移
+咪视界4,http://183.220.20.17:4000/udp/239.10.0.20:5140$四川移
+咪视界5,http://183.220.20.17:4000/udp/239.10.0.21:5140$四川移
+咪视界6,http://183.220.20.17:4000/udp/239.10.0.22:5140$四川移
+咪视界7,http://183.220.20.17:4000/udp/239.10.0.23:5140$四川移
+咪视界9,http://183.220.20.17:4000/udp/239.10.0.24:5140$四川移
+咪视界10,http://183.220.20.17:4000/udp/239.10.0.25:5140$四川移
+咪视界11,http://183.220.20.17:4000/udp/239.10.0.26:5140$四川移
+咪视界12,http://183.220.20.17:4000/udp/239.10.0.27:5140$四川移
+咪视界13,http://183.220.20.17:4000/udp/239.10.0.28:5140$四川移
+咪视界14,http://183.220.20.17:4000/udp/239.10.0.40:5140$四川移
+咪视界15,http://183.220.20.17:4000/udp/239.10.0.41:5140$四川移
+咪视界16,http://183.220.20.17:4000/udp/239.10.0.42:5140$四川移
+咪视界17,http://183.220.20.17:4000/udp/239.10.0.43:5140$四川移
+咪视界18,http://183.220.20.17:4000/udp/239.10.0.44:5140$四川移
+咪视界19,http://183.220.20.17:4000/udp/239.10.0.45:5140$四川移
+咪视界20,http://183.220.20.17:4000/udp/239.10.0.232:5140$四川移
+咪视界21,http://183.220.20.17:4000/udp/239.10.0.233:5140$四川移
+咪视界22,http://183.220.20.17:4000/udp/239.10.0.234:5140$四川移
+咪视界23,http://183.220.20.17:4000/udp/239.10.0.235:5140$四川移
+咪视界24,http://183.220.20.17:4000/udp/239.10.0.236:5140$四川移
+咪视界25,http://183.220.20.17:4000/udp/239.10.0.238:5140$四川移
+咪视界26,http://183.220.20.17:4000/udp/239.10.0.239:5140$四川移
+咪视界4K,http://183.220.20.17:4000/udp/239.10.0.240:5140$四川移
+
 咪视界1,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
 咪视界2,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
 咪视界3,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
