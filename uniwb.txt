@@ -5,7 +5,6 @@
 凤凰中文,http://111.221.137.155:44330/tsfile/live/0136_1.m3u8$深圳天威
 凤凰中文,http://183.234.238.18:8927/live1129.m3u8$阳江移
 
-凤凰资讯,http://183.234.238.18:8926/live1128.m3u8$阳江移
 凤凰资讯,http://183.236.161.115:8960/live1171.m3u8$阳江移
 
 凤凰中文,http://183.237.95.108:9901/tsfile/live/1103_1.m3u8$梅州移
@@ -47,6 +46,7 @@
 
 凤凰中文,http://zmgd.zyrnet.com:8888/hls/67/index.m3u8$中牟移
 凤凰资讯,http://zmgd.zyrnet.com:8888/hls/66/index.m3u8$中牟移
+凤凰资讯,http://183.234.238.18:8926/live1128.m3u8$阳江移
 
 CCTV4,http://27.41.245.32:801/hls/4/index.m3u8$汕头联
 CCTV13,http://27.41.245.32:801/hls/13/index.m3u8$汕头联
@@ -481,10 +481,11 @@ TVBS新闻,http://152.32.229.52:5050/li-4gtv-4gtv072/index.m3u8?proxy=true$li
 台视新闻,http://152.32.229.52:5050/4gtv-4gtv051/index.m3u8
 
 实时直播,#genre#
-咪视界1,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界2,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+
+咪视界1,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界2,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
 咪视界3,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界4,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界4,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
 咪视界5,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
 咪视界6,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
 咪视界7,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
@@ -520,8 +521,8 @@ TVBS新闻,http://152.32.229.52:5050/li-4gtv-4gtv072/index.m3u8?proxy=true$li
 咪咕4K1,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=toShengfen&/PLTV/&$anf
 咪咕4K2,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=toShengfen&/PLTV/&$anf
 
-咪视界1,http://183.220.20.17:4000/udp/239.10.0.45:5140$四川移
-咪视通2,http://183.220.20.17:4000/udp/239.10.0.18:5140$四川移
+咪视界1,http://183.220.20.17:4000/udp/239.10.0.43:5140$四川移
+咪视通2,http://183.220.20.17:4000/udp/239.10.0.45:5140$四川移
 咪视通3,http://183.220.20.17:4000/udp/239.10.0.19:5140$四川移
 咪视通4,http://183.220.20.17:4000/udp/239.10.0.20:5140$四川移
 咪视通5,http://183.220.20.17:4000/udp/239.10.0.21:5140$四川移
@@ -535,7 +536,7 @@ TVBS新闻,http://152.32.229.52:5050/li-4gtv-4gtv072/index.m3u8?proxy=true$li
 咪视通14,http://183.220.20.17:4000/udp/239.10.0.40:5140$四川移
 咪视通15,http://183.220.20.17:4000/udp/239.10.0.41:5140$四川移
 咪视通16,http://183.220.20.17:4000/udp/239.10.0.42:5140$四川移
-咪视通17,http://183.220.20.17:4000/udp/239.10.0.43:5140$四川移
+咪视通17,http://183.220.20.17:4000/udp/239.10.0.18:5140$四川移
 咪视通18,http://183.220.20.17:4000/udp/239.10.0.44:5140$四川移
 咪视通19,http://183.220.20.17:4000/udp/239.10.0.17:5140$四川移
 咪视通20,http://183.220.20.17:4000/udp/239.10.0.232:5140$四川移
@@ -546,7 +547,6 @@ TVBS新闻,http://152.32.229.52:5050/li-4gtv-4gtv072/index.m3u8?proxy=true$li
 咪视通25,http://183.220.20.17:4000/udp/239.10.0.238:5140$四川移
 咪视通26,http://183.220.20.17:4000/udp/239.10.0.239:5140$四川移
 咪咕4K1,http://183.220.20.17:4000/udp/239.10.0.240:5140$四川移
-
 ///域外体育#genre#
 
 DAZN1,rtmp://f13h.mine.nu/sat/tv731$f13
