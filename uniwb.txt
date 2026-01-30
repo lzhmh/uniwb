@@ -274,6 +274,7 @@ CETV4,http://m.061899.xyz/mg/cetv4$mg
 睛彩广场舞,http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.42:5540$kbtv#http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.223:5540$kbtv
 
 八卦大师,http://www.douzhicloud.site:35455/douyu/851040$douzhi
+日月轮回,http://www.douzhicloud.site:35455/douyu/2293920$douzhi
 帽子象棋,http://www.douzhicloud.site:35455/douyu/4487219$douzhi
 笑笑象棋,http://www.douzhicloud.site:35455/douyu/9969$douzhi
 大神象棋,http://www.douzhicloud.site:35455/douyu/1227260$douzhi
@@ -283,64 +284,57 @@ CETV4,http://m.061899.xyz/mg/cetv4$mg
 旭宝斗地主,http://www.douzhicloud.site:35455/douyu/9804176$douzhi
 欢乐斗地主,http://www.douzhicloud.site:35455/douyu/8324074$douzhi
 斗地主冠军赛,http://www.douzhicloud.site:35455/douyu/488743$douzhi
-弈夫围棋,http://www.douzhicloud.site:35455/douyu/6399350$douzhi
+围棋素材,http://www.douzhicloud.site:35455/douyu/6399350$douzhi
+围棋泳往,http://www.douzhicloud.site:35455/douyu/692988$douzhi
 
 //http://php.404003.xyz/live/douyuyqk.php?id=
 八卦大师,http://php.404003.xyz/live/douyuyqk.php?id=851040$php
-帽子象棋,http://php.404003.xyz/live/douyuyqk.php?id=4487219
-笑笑象棋,http://php.404003.xyz/live/douyuyqk.php?id=9969
-大神象棋,http://php.404003.xyz/live/douyuyqk.php?id=1227260
-九拙讲棋,http://php.404003.xyz/live/douyuyqk.php?id=4369877
-熊山雷疯,http://php.404003.xyz/live/douyuyqk.php?id=291514
-小鹤求败,http://php.404003.xyz/live/douyuyqk.php?id=3830820
-旭宝斗地主,http://php.404003.xyz/live/douyuyqk.php?id=9804176
-欢乐斗地主,http://php.404003.xyz/live/douyuyqk.php?id=8324074
-斗地主冠军赛,http://php.404003.xyz/live/douyuyqk.php?id=488743
-弈夫围棋,http://php.404003.xyz/live/douyuyqk.php?id=6399350
+日月轮回,http://php.404003.xyz/live/douyuyqk.php?id=2293920$php
+帽子象棋,http://php.404003.xyz/live/douyuyqk.php?id=4487219$php
+笑笑象棋,http://php.404003.xyz/live/douyuyqk.php?id=9969$php
+大神象棋,http://php.404003.xyz/live/douyuyqk.php?id=1227260$php
+九拙讲棋,http://php.404003.xyz/live/douyuyqk.php?id=4369877$php
+熊山雷疯,http://php.404003.xyz/live/douyuyqk.php?id=291514$php
+小鹤求败,http://php.404003.xyz/live/douyuyqk.php?id=3830820$php
+旭宝斗地主,http://php.404003.xyz/live/douyuyqk.php?id=9804176$php
+欢乐斗地主,http://php.404003.xyz/live/douyuyqk.php?id=8324074$php
+斗地主冠军赛,http://php.404003.xyz/live/douyuyqk.php?id=488743$php
+围棋素材,http://php.404003.xyz/live/douyuyqk.php?id=6399350$php
+围棋泳往,http://php.404003.xyz/live/douyuyqk.php?id=692988$php
 
-八卦大师,http://jiaojirentv.top/2020/dy.php?id=851040$jiao
-帽子象棋,http://jiaojirentv.top/2020/dy.php?id=4487219$jiao
-笑笑象棋,http://jiaojirentv.top/2020/dy.php?id=9969$jiao
-大神象棋,http://jiaojirentv.top/2020/dy.php?id=1227260$jiao
-九拙讲棋,http://jiaojirentv.top/2020/dy.php?id=4369877$jiao
-熊山雷疯,http://jiaojirentv.top/2020/dy.php?id=291514$jiao
-小鹤求败,http://jiaojirentv.top/2020/dy.php?id=3830820$jiao
-旭宝斗地主,http://jiaojirentv.top/2020/dy.php?id=9804176$jiao
-欢乐斗地主,http://jiaojirentv.top/2020/dy.php?id=8324074$jiao
-斗地主冠军赛,http://jiaojirentv.top/2020/dy.php?id=488743$jiao
-弈夫围棋,http://jiaojirentv.top/2020/dy.php?id=6399350$jiao
+八卦大师,https://live.ottiptv.cc/douyu/851040$live
+日月轮回,https://live.ottiptv.cc/douyu/2293920$live
+帽子象棋,https://live.ottiptv.cc/douyu/4487219$live
+笑笑象棋,https://live.ottiptv.cc/douyu/9969$live
+大神象棋,https://live.ottiptv.cc/douyu/1227260$live
+九拙讲棋,https://live.ottiptv.cc/douyu/4369877$live
+熊山雷疯,https://live.ottiptv.cc/douyu/291514$live
+小鹤求败,https://live.ottiptv.cc/douyu/3830820$live
+旭宝斗地主,https://live.ottiptv.cc/douyu/9804176$live
+欢乐斗地主,https://live.ottiptv.cc/douyu/8324074$live
+斗地主冠军赛,https://live.ottiptv.cc/douyu/488743$live
+围棋素材,https://live.ottiptv.cc/douyu/6399350$live
+围棋泳往,https://live.ottiptv.cc/douyu/692988$live
 
-八卦大师,http://zzy789.xyz/douyu1.php?id=851040$zzy
-帽子象棋,http://zzy789.xyz/douyu1.php?id=4487219
-笑笑象棋,http://zzy789.xyz/douyu1.php?id=9969
-大神象棋,http://zzy789.xyz/douyu1.php?id=1227260
-九拙讲棋,http://zzy789.xyz/douyu1.php?id=4369877
-熊山雷疯,http://zzy789.xyz/douyu1.php?id=291514
-小鹤求败,http://zzy789.xyz/douyu1.php?id=3830820
-旭宝斗地主,http://zzy789.xyz/douyu1.php?id=9804176
-欢乐斗地主,http://zzy789.xyz/douyu1.php?id=8324074
-斗地主冠军赛,http://zzy789.xyz/douyu1.php?id=488743
-弈夫围棋,http://zzy789.xyz/douyu1.php?id=6399350
+八卦大师,http://222.186.39.21:35466/douyu/851040$222
+日月轮回,http://222.186.39.21:35466/douyu/2293920$222
+帽子象棋,http://222.186.39.21:35466/douyu/4487219$222
+笑笑象棋,http://222.186.39.21:35466/douyu/9969$222
+大神象棋,http://222.186.39.21:35466/douyu/1227260$222
+九拙讲棋,http://222.186.39.21:35466/douyu/4369877$222
+熊山雷疯,http://222.186.39.21:35466/douyu/291514$222
+小鹤求败,http://222.186.39.21:35466/douyu/3830820$222
+旭宝斗地主,http://222.186.39.21:35466/douyu/9804176$222
+欢乐斗地主,http://222.186.39.21:35466/douyu/8324074$222
+斗地主冠军赛,http://222.186.39.21:35466/douyu/488743$222
+围棋素材,http://222.186.39.21:35466/douyu/6399350$222
+围棋泳往,http://222.186.39.21:35466/douyu/692988$222
 
-//http://lxajh.top/tv/douyu.php?id=
 八卦大师,http://lxajh.top/tv/douyu.php?id=851040$lxajh
-帽子象棋,http://lxajh.top/tv/douyu.php?id=4487219
-笑笑象棋,http://lxajh.top/tv/douyu.php?id=9969
-大神象棋,http://lxajh.top/tv/douyu.php?id=1227260
-九拙讲棋,http://lxajh.top/tv/douyu.php?id=4369877
-熊山雷疯,http://lxajh.top/tv/douyu.php?id=291514
-小鹤求败,http://lxajh.top/tv/douyu.php?id=3830820
-旭宝斗地主,http://lxajh.top/tv/douyu.php?id=9804176
-欢乐斗地主,http://lxajh.top/tv/douyu.php?id=8324074
-斗地主冠军赛,http://lxajh.top/tv/douyu.php?id=488743
-弈夫围棋,http://lxajh.top/tv/douyu.php?id=6399350
-
+八卦大师,http://zzy789.xyz/douyu1.php?id=851040$zzy
 八卦大师,https://www.goodiptv.club/douyu/851040$good
-八卦大师,http://www.douzhicloud.site:35455/douyu/851040
 八卦大师,http://tv123.top:35455/douyu/851040$tv123
 八卦大师,http://129.150.54.232:10001/douyu/851040
-八卦大师,https://live.ottiptv.cc/douyu/851040$live
-八卦大师,http://222.186.39.21:35466/douyu/851040
 
 戴长胜掼蛋,http://live.nctv.top/huya.php?id=28092053$nctv
 石头掼蛋,http://live.nctv.top/huya.php?id=28092051$nctv
@@ -575,6 +569,12 @@ SPORTSTV,https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8$migu
 MOMOTV,rtmp://59.124.75.138/sat/tv761$59#
 
 TraceSports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+
+彭荃围棋,https://live.iill.top/douyin/707246679178$live
+围棋张导,https://live.iill.top/douyin/448147530190$live
+围棋昊洋,https://live.iill.top/douyin/841353831506$live
+华丽象棋,https://live.iill.top/douyin/364795556202$live
+天天象棋,https://live.iill.top/douyin/162120419867$live
 
 央视音乐,#genre#
 
