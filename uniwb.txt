@@ -512,9 +512,10 @@ TVBS新闻,http://152.32.229.52:5050/li-4gtv-4gtv072/index.m3u8?proxy=true$li
 咪视界4,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
 咪视界5,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
 咪视界6,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界7,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界8,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界9,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界7,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界8,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界9,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界17,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
 咪视界10,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
 咪视界11,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
 咪视界12,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
@@ -522,7 +523,6 @@ TVBS新闻,http://152.32.229.52:5050/li-4gtv-4gtv072/index.m3u8?proxy=true$li
 咪视界14,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
 咪视界15,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
 咪视界16,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界17,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
 咪视界18,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
 咪视界19,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
 咪视界20,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
