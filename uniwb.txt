@@ -1,6 +1,7 @@
 ﻿//粤联频道数据收集自网络上的分享260131开通IPV6
-新闻HU13,#genre#
+新闻HU14,#genre#
 
+凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27$香港
 凤凰中文,http://27.41.245.32:801/hls/205/index.m3u8$汕头联
 凤凰中文,http://111.221.137.155:44330/tsfile/live/0136_1.m3u8$深圳天威
 凤凰中文,http://183.234.238.18:8927/live1129.m3u8$阳江移
@@ -49,6 +50,12 @@
 凤凰资讯,http://zmgd.zyrnet.com:8888/hls/66/index.m3u8$中牟移
 凤凰资讯,http://183.234.238.18:8926/live1128.m3u8$阳江移
 
+CCTV4,http://111.9.163.109:55555/tsfile/live/0004_1.m3u8$南充移
+CCTV4,http://218.17.33.178:53290/tsfile/live/1004_1.m3u8$深圳信
+CCTV4,http://116.76.254.170:44330/tsfile/live/0004_1.m3u8$深圳天威
+CCTV13,http://218.17.33.178:53290/tsfile/live/1013_1.m3u8$深圳信
+CCTV13,http://116.76.254.170:44330/tsfile/live/0013_1.m3u8$深圳天威
+
 CCTV4,http://27.41.245.32:801/hls/4/index.m3u8$汕头联
 CCTV13,http://27.41.245.32:801/hls/13/index.m3u8$汕头联
 
@@ -82,6 +89,14 @@ CCTV13,http://go.bkpcp.top/mg/cctv13$go
 
 CCTV4,http://m.061899.xyz/mg/cctv4$mg
 CCTV13,http://m.061899.xyz/mg/cctv13$mg
+
+翡翠台,http://116.76.254.170:44330/tsfile/live/1008_1.m3u8$深圳天威
+翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=28$香港
+翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=34$香港
+明珠台,http://116.76.254.170:44330/tsfile/live/1009_1.m3u8$深圳天威
+明珠台,http://iptv.4666888.xyz/iptv2A.php?id=29$香港
+RHK31,http://iptv.4666888.xyz/iptv2A.php?id=23$香港
+澳视澳门,http://iptv.4666888.xyz/iptv2A.php?id=41$香港
 
 翡翠台,http://111.221.137.155:44330/tsfile/live/1021_1.m3u8$深圳天威
 明珠台,http://111.221.137.155:44330/tsfile/live/0138_2.m3u8$深圳天威
@@ -118,6 +133,14 @@ CCTV+2,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist
 //香港卫视http://zhibo.hkstv.tv/livestream/mutfysrq.flv$720P#http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
 体育频道,#genre#
+
+CCTV5,http://111.9.163.109:55555/tsfile/live/0005_1.m3u8$南充移
+CCTV5,http://218.17.33.178:53290/tsfile/live/1017_1.m3u8$深圳信
+CCTV5,http://116.76.254.170:44330/tsfile/live/0005_1.m3u8$深圳天威
+CCTV5,http://223.112.114.228:50080/newlive/live/hls/5/live.m3u8$苏州移
+CCTV5+,http://218.17.33.178:53290/tsfile/live/1005_1.m3u8$深圳信
+CCTV5+,http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8$苏州移
+CCTV16,http://116.76.254.170:44330/tsfile/live/1012_1.m3u8$深圳天威
 
 CCTV5,http://27.41.245.32:801/hls/5/index.m3u8$汕头联
 CCTV5,http://111.221.137.155:44330/tsfile/live/0005_1.m3u8$深圳天威
@@ -195,6 +218,8 @@ CCTV16,http://58.32.18.53:4022/udp/233.18.204.114:5140$上海信
 
 百事乒羽2,http://www.745612.xyz:7788/udp/235.254.196.235:1212$重庆信#http://www.958598.xyz:4022/udp/239.45.3.140:5140$上海信#http://www.li0580.top:4022/udp/233.50.200.237:5140$浙江联#http://www.li0580.top:4022/udp/233.50.201.205:5140$浙江联#http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.214:5540$kbtv
 
+广东体育,http://116.76.254.170:44330/tsfile/live/1000_1.m3u8$深圳天威
+广东体育,http://iptv.4666888.xyz/iptv2A.php?id=20$香港
 广东体育,http://27.41.245.32:801/hls/204/index.m3u8$汕头联#http://111.221.137.155:44330/tsfile/live/1000_1.m3u8$深圳天威
 
 广东体育,http://111.221.137.234:44330/tsfile/live/0124_1.m3u8$深圳天威
@@ -214,10 +239,12 @@ CCTV16,http://58.32.18.53:4022/udp/233.18.204.114:5140$上海信
 睛彩竞技,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
 睛彩竞技,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
 
+风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub$Cogent
 风云足球,http://27.41.245.32:801/hls/906/index.m3u8$汕头联
 风云足球,http://111.61.236.247:9081/hls/58/index.m3u8$廊坊移
 风云足球,http://183.237.95.108:9901/tsfile/live/1067_1.m3u8$梅州移
 风云足球,http://hmfs.f3322.net:3388/hls/9/index.m3u8$茂名信
+
 爱体育,http://hmfs.f3322.net:3388/hls/10/index.m3u8$茂名信
 爱体育,http://183.237.95.108:9901/tsfile/live/1078_1.m3u8$梅州移
 
@@ -235,11 +262,14 @@ CCTV16,http://58.32.18.53:4022/udp/233.18.204.114:5140$上海信
 
 CETV4,http://m.061899.xyz/mg/cetv4$mg
 
-武术世界,http://vip1.xinketongxun.fun:8082/tsfile/live/1029_1.m3u8$钦州联
+武术世界,https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=3a25b2152ee83fa2f06c21c21c83455f&wsTime=1770530381#http://vip1.xinketongxun.fun:8082/tsfile/live/1029_1.m3u8$钦州联
 武术世界,http://m.061899.xyz/mg/dds$mg
 武术世界,http://t.061899.xyz/tl/dq.php?id=dds$t
 武术世界,http://111.61.236.247:9081/hls/60/index.m3u8$廊坊移
 武术世界,http://1.94.31.214/php/hntv.php?id=wspd
+
+央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub$Cogent
+高尔夫网球,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub$Cogent
 
 骑牛大赛,https://yylunbo.ottiptv.cc/yy/1355313481#http://jiaojirentv.top/2020/yy.php?id=1355313481
 摩托挑战,https://yylunbo.ottiptv.cc/yy/1354946983#http://jiaojirentv.top/2020/yy.php?id=1354946983
@@ -339,6 +369,7 @@ CETV4,http://m.061899.xyz/mg/cetv4$mg
 龙崎掼蛋,http://live.iill.top/huya.php?id=28092048$iill
 掼蛋实战讲解,http://live.iill.top/huya.php?id=28092049$iill
 
+天元围棋,http://120.76.248.139/live/bfgd/4200000633.m3u8$阿里云
 天元围棋,http://www.tszhgjj.cn:7000/udp/239.253.93.211:6389$河北联
 
 斯诺克,https://isus.cc/php/huya.php?id=880214$isus
@@ -386,6 +417,15 @@ CETV4,http://m.061899.xyz/mg/cetv4$mg
 新唐人,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8#
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$chunk#http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8$chunk#http://38.64.72.148/hls/modn/list/4005/playlist.m3u8$chunk
 
+中天新闻,https://stream1.freetv.fun/1b67bc523c86ffa05707cd3f9471cfe1ced1c17d0537471788e00679a1d6cde3.m3u8$Str
+TVBS新闻,http://rihou.cc:555/tv/[FY]tvbS新闻$rihou
+TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43$香港
+非凡新闻,http://iptv.4666888.xyz/iptv2A.php?id=44$香港
+中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8$74
+华视新闻,http://74.91.26.218:82/live/ctsnews.m3u8$74
+台视新闻,http://74.91.26.218:82/live/ttvnews.m3u8$74
+镜新闻,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8$v1
+
 中天新闻,http://cnlive.org/channel/41d8a09d/index.m3u8$cnlive
 TVBSHD,http://cnlive.org/channel/154f9d73/index.m3u8$cnlive
 TVBS新闻,http://cnlive.org/channel/n69ccce92/index.m3u8$cnlive
@@ -397,6 +437,7 @@ TVBS新闻,http://cnlive.org/channel/n69ccce92/index.m3u8$cnlive
 TVBSHD,http://free.cnlive.club/channel/154f9d73/index.m3u8?q=1752629214236$free
 TVBS新闻,http://free.cnlive.club/channel/n69ccce92/index.m3u8?q=1752629214236$free
 东森新闻,http://free.cnlive.club/channel/n88aa83/index.m3u8?q=1760217407316$free
+
 
 中天新闻,http://nmk.ioapk.com:5050/4gtv-4gtv009/index.m3u8?proxy=true$nmk
 TVBSHD,http://nmk.ioapk.com:5050/4gtv-4gtv073/index.m3u8?proxy=true$nmk
@@ -563,6 +604,32 @@ TraceSports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 
 央视音乐,#genre#
 
+CCTV9,http://218.17.33.178:53290/tsfile/live/1009_1.m3u8$深圳信
+CCTV9,http://116.76.254.170:44330/tsfile/live/0009_1.m3u8$深圳天威
+CCTV10,http://218.17.33.178:53290/tsfile/live/1010_1.m3u8$深圳信
+CCTV10,http://116.76.254.170:44330/tsfile/live/0010_1.m3u8$深圳天威
+CCTV2,http://218.17.33.178:53290/tsfile/live/1002_1.m3u8$深圳信
+CCTV2,http://116.76.254.170:44330/tsfile/live/0002_1.m3u8$深圳天威
+CCTV3,http://218.17.33.178:53290/tsfile/live/1003_1.m3u8$深圳信
+CCTV3,http://116.76.254.170:44330/tsfile/live/0003_1.m3u8$深圳天威
+CCTV6,http://218.17.33.178:53290/tsfile/live/1006_1.m3u8$深圳信
+CCTV6,http://116.76.254.170:44330/tsfile/live/0006_1.m3u8$深圳天威
+CCTV7,http://218.17.33.178:53290/tsfile/live/1007_1.m3u8$深圳信
+CCTV7,http://116.76.254.170:44330/tsfile/live/0007_1.m3u8$深圳天威
+CCTV8,http://218.17.33.178:53290/tsfile/live/1008_1.m3u8$深圳信
+CCTV8,http://116.76.254.170:44330/tsfile/live/0008_1.m3u8$深圳天威
+CCTV11,http://218.17.33.178:53290/tsfile/live/1011_1.m3u8$深圳信
+CCTV11,http://116.76.254.170:44330/tsfile/live/0011_1.m3u8$深圳天威
+CCTV12,http://218.17.33.178:53290/tsfile/live/1012_1.m3u8$深圳信
+CCTV12,http://116.76.254.170:44330/tsfile/live/0012_1.m3u8$深圳天威
+CCTV14,http://218.17.33.178:53290/tsfile/live/1014_1.m3u8$深圳信
+CCTV14,http://116.76.254.170:44330/tsfile/live/0014_1.m3u8$深圳天威
+CCTV15,http://218.17.33.178:53290/tsfile/live/1015_1.m3u8$深圳信
+CCTV15,http://116.76.254.170:44330/tsfile/live/0015_1.m3u8$深圳天威
+CCTV17,http://218.17.33.178:53290/tsfile/live/1016_1.m3u8$深圳信
+CCTV1,http://218.17.33.178:53290/tsfile/live/1001_1.m3u8$深圳信
+CCTV1,http://116.76.254.170:44330/tsfile/live/0001_1.m3u8$深圳天威
+
 CCTV9,http://27.41.245.32:801/hls/9/index.m3u8$汕头联
 CCTV10,http://27.41.245.32:801/hls/10/index.m3u8$汕头联
 CCTV2,http://27.41.245.32:801/hls/2/index.m3u8$汕头联
@@ -576,19 +643,6 @@ CCTV14,http://27.41.245.32:801/hls/14/index.m3u8$汕头联
 CCTV15,http://27.41.245.32:801/hls/15/index.m3u8$汕头联
 CCTV17,http://27.41.245.32:801/hls/16/index.m3u8$汕头联
 CCTV1,http://27.41.245.32:801/hls/1/index.m3u8$汕头联
-
-CCTV9,http://111.221.137.155:44330/tsfile/live/0009_1.m3u8$深圳天威
-CCTV10,http://111.221.137.155:44330/tsfile/live/0010_1.m3u8$深圳天威
-CCTV2,http://111.221.137.155:44330/tsfile/live/0002_1.m3u8$深圳天威
-CCTV3,http://111.221.137.155:44330/tsfile/live/0003_1.m3u8$深圳天威
-CCTV6,http://111.221.137.155:44330/tsfile/live/0006_1.m3u8$深圳天威
-CCTV7,http://111.221.137.155:44330/tsfile/live/0007_1.m3u8$深圳天威
-CCTV8,http://111.221.137.155:44330/tsfile/live/0008_1.m3u8$深圳天威
-CCTV11,http://111.221.137.155:44330/tsfile/live/0011_1.m3u8$深圳天威
-CCTV12,http://111.221.137.155:44330/tsfile/live/0012_1.m3u8$深圳天威
-CCTV14,http://111.221.137.155:44330/tsfile/live/0014_1.m3u8$深圳天威
-CCTV15,http://111.221.137.155:44330/tsfile/live/0015_1.m3u8$深圳天威
-CCTV1,http://111.221.137.155:44330/tsfile/live/0001_1.m3u8$深圳天威
 
 CCTV9,http://vip1.xinketongxun.fun:8082/tsfile/live/0009_1.m3u8$钦州联
 CCTV10,http://vip1.xinketongxun.fun:8082/tsfile/live/0010_1.m3u8$钦州联
@@ -604,6 +658,13 @@ CCTV14,http://vip1.xinketongxun.fun:8082/tsfile/live/0014_1.m3u8$钦州联
 CCTV15,http://vip1.xinketongxun.fun:8082/tsfile/live/0015_1.m3u8$钦州联
 CCTV17,http://vip1.xinketongxun.fun:8082/tsfile/live/1039_1.m3u8$钦州联
 CCTV4K,http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8$钦州联
+
+CCTV4K,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub$Cogent
+CCTV8K,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub$Cogent
+风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub$Cogent
+文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub$Cogent
+女性时尚,http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub$Cogent
+电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub$Cogent
 
 风云音乐,http://58.32.18.53:4022/udp/233.18.204.185:5140$上海信
 文化精品,http://58.32.18.53:4022/udp/233.18.204.186:5140$上海信
@@ -704,27 +765,27 @@ CCTV17,http://m.061899.xyz/mg/cctv17$mg
 重庆卫视,http://vip1.xinketongxun.fun:8082/tsfile/live/0142_1.m3u8$钦州联
 黑龙江卫视,http://vip1.xinketongxun.fun:8082/tsfile/live/0143_1.m3u8$钦州联
 
-北京卫视,http://111.221.137.155:44330/tsfile/live/0138_1.m3u8$深圳天威
-广东卫视,http://111.221.137.155:44330/tsfile/live/0125_1.m3u8$深圳天威
-深圳卫视,http://111.221.137.155:44330/tsfile/live/1013_1.m3u8$深圳天威
-湖北卫视,http://111.221.137.155:44330/tsfile/live/0132_1.m3u8$深圳天威
-湖南卫视,http://111.221.137.155:44330/tsfile/live/0122_1.m3u8$深圳天威
-江西卫视,http://111.221.137.155:44330/tsfile/live/1019_1.m3u8$深圳天威
-山东卫视,http://111.221.137.155:44330/tsfile/live/0121_2.m3u8$深圳天威
-云南卫视,http://111.221.137.155:44330/tsfile/live/0116_1.m3u8$深圳天威
-天津卫视,http://111.221.137.155:44330/tsfile/live/0132_2.m3u8$深圳天威
-辽宁卫视,http://111.221.137.155:44330/tsfile/live/0121_1.m3u8$深圳天威
-吉林卫视,http://111.221.137.155:44330/tsfile/live/0017_1.m3u8$深圳天威
-黑龙江卫视,http://111.221.137.155:44330/tsfile/live/0143_1.m3u8$深圳天威
-浙江卫视,http://111.221.137.155:44330/tsfile/live/0131_1.m3u8$深圳天威
-安徽卫视,http://111.221.137.155:44330/tsfile/live/0120_1.m3u8$深圳天威
-东方卫视,http://111.221.137.155:44330/tsfile/live/0107_1.m3u8$深圳天威
-四川卫视,http://111.221.137.155:44330/tsfile/live/1017_1.m3u8$深圳天威
-海南卫视,http://111.221.137.155:44330/tsfile/live/1016_1.m3u8$深圳天威
-重庆卫视,http://111.221.137.155:44330/tsfile/live/0142_1.m3u8$深圳天威
-江苏卫视,http://111.221.137.155:44330/tsfile/live/0135_1.m3u8$深圳天威
-河南卫视,http://111.221.137.155:44330/tsfile/live/0123_1.m3u8$深圳天威
-陕西卫视,http://111.221.137.155:44330/tsfile/live/0114_1.m3u8$深圳天威
+北京卫视,http://116.76.254.170:44330/tsfile/live/0122_1.m3u8$深圳天威
+广东卫视,http://116.76.254.170:44330/tsfile/live/0125_1.m3u8$深圳天威
+广东卫视,http://116.76.254.170:44330/tsfile/live/0125_2.m3u8$深圳天威
+深圳卫视,http://116.76.254.170:44330/tsfile/live/1013_1.m3u8$深圳天威
+湖北卫视,http://116.76.254.170:44330/tsfile/live/0132_1.m3u8$深圳天威
+湖南卫视,http://116.76.254.170:44330/tsfile/live/0128_1.m3u8$深圳天威
+江西卫视,http://116.76.254.170:44330/tsfile/live/0138_1.m3u8$深圳天威
+山东卫视,http://116.76.254.170:44330/tsfile/live/0131_1.m3u8$深圳天威
+天津卫视,http://116.76.254.170:44330/tsfile/live/0135_1.m3u8$深圳天威
+辽宁卫视,http://116.76.254.170:44330/tsfile/live/0121_1.m3u8$深圳天威
+吉林卫视,http://116.76.254.170:44330/tsfile/live/0116_2.m3u8$深圳天威
+黑龙江卫视,http://116.76.254.170:44330/tsfile/live/0143_1.m3u8$深圳天威
+浙江卫视,http://116.76.254.170:44330/tsfile/live/0124_1.m3u8$深圳天威
+安徽卫视,http://116.76.254.170:44330/tsfile/live/0130_1.m3u8$深圳天威
+东方卫视,http://116.76.254.170:44330/tsfile/live/0107_1.m3u8$深圳天威
+河北卫视,http://116.76.254.170:44330/tsfile/live/0117_1.m3u8$深圳天威
+海南卫视,http://116.76.254.170:44330/tsfile/live/1004_1.m3u8$深圳天威
+重庆卫视,http://116.76.254.170:44330/tsfile/live/0142_1.m3u8$深圳天威
+江苏卫视,http://116.76.254.170:44330/tsfile/live/0127_1.m3u8$深圳天威
+河南卫视,http://116.76.254.170:44330/tsfile/live/0139_1.m3u8$深圳天威
+陕西卫视,http://116.76.254.170:44330/tsfile/live/0136_1.m3u8$深圳天威
 
 北京新闻,http://m.061899.xyz/mg/bjxw$mg
 上海新闻,http://m.061899.xyz/mg/shxw$mg
@@ -857,6 +918,9 @@ ZooMoo,https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playli
 
 财经综合,#genre#
 
+兵器科技,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub$38
+点掌财经,https://volcanopull.aniu.tv/live/aniu2/index.m3u8$vol
+
 兵器科技,http://58.32.18.53:4022/udp/233.18.204.178:5140$上海信
 财富天下,http://58.32.18.53:4022/udp/233.18.204.231:5140$上海信
 第一财经,http://58.32.18.53:4022/udp/233.18.204.59:5140$上海信
@@ -956,11 +1020,20 @@ CHC影迷电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8$梅州移
 第一剧场,http://183.237.95.108:9901/tsfile/live/1066_1.m3u8$梅州移
 风云剧场,http://183.237.95.108:9901/tsfile/live/1070_1.m3u8$梅州移
 
+爱奇艺,http://iptv.4666888.xyz/iptv2A.php?id=21$香港
+东森电影,http://iptv.4666888.xyz/iptv2A.php?id=48$香港
+美亚电影,http://iptv.4666888.xyz/iptv2A.php?id=30$香港
+龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45$香港
+怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub$Cogent
+风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub$Cogent
+第一剧场,http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub$Cogent
+
 美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya$php
 天映频道,http://php.jdshipin.com/smt.php?id=Celestial$php
 天映经典,http://php.jdshipin.com/smt.php?id=Celestial2$php
 爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi$php
 
+重温经典,http://116.76.254.170:44330/tsfile/live/1006_1.m3u8$深圳天威
 重温经典,http://27.41.245.32:801/hls/904/index.m3u8$汕头联
 重温经典,http://111.221.137.234:44330/tsfile/live/0143_1.m3u8$深圳天威
 重温经典,http://111.221.137.155:44330/tsfile/live/1003_1.m3u8$深圳天威
@@ -971,7 +1044,7 @@ CHC影迷电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8$梅州移
 1905电影,http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905
 搜狐剧场,https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
 
-星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
+星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8#http://116.76.254.170:44330/tsfile/live/1016_1.m3u8$深圳天威
 星空卫视,http://111.221.137.155:44330/tsfile/live/0139_1.m3u8$深圳天威#http://111.221.137.234:44330/tsfile/live/0112_2.m3u8$深圳天威
 
 战争大片,https://bscdncmnet.inter.71edge.com/tslive/l1/c53_lb_549_300_t10/nyNwfh1_ucKhYKBD_TC9H1cpPSW_kASRIHpzOyCbAlSQKCoa7yX04RS-69HeMU8vCtcLuBJr7PGxskrxih6fuqCnWcqae7adNI637bzmiWKfT_5A6rzyfSZ0MGGLVBTtyXGJSL_WfsYMsulW2MG8itaUpLb_fvhCXnp17W6sSRRqLz0TAntuHJX6Y_vRC2F5yK9Obu3pf-GYMV6g9nu9HxQQtP3HHX0Mv6VU0Jt4MbYOz49rR_krhRY1JjgFrM36_XgKxzRdQ9Z3pV96146JaeZMoAEJa9thzHYsP180Ex4pnwDC-hKCjxCHkeys7slENFpiSFYXlRqpkcxXAM9_Uw/1a38f2e9c9e4c3cce8152b1a430323419/c53_lb_549_300_t10.m3u8?key=0baa5db205ac0d2966049d19ebdc0a20d&dis_t=1752408382&uuid=6f1d53dc-6873a13e-458&qdpv=3&qd_bid=1&qd_sft=0&pv=0.1&cpt=0
@@ -1007,6 +1080,7 @@ CHC影迷电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8$梅州移
 尬舞姐姐,https://live.ottiptv.cc/douyu/323876$live
 表妹影院,https://live.ottiptv.cc/douyu/5423$live
 小栗子,https://live.ottiptv.cc/douyu/7254536$live
+粤语电影,https://live.ottiptv.cc/douyu/1226741$live
 
 犯罪片,http://222.186.39.21:35466/douyu/747764$222
 漫威科幻,http://222.186.39.21:35466/douyu/6140589$222
@@ -1032,6 +1106,7 @@ CHC影迷电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8$梅州移
 尬舞姐姐,http://222.186.39.21:35466/douyu/323876$222
 表妹影院,http://222.186.39.21:35466/douyu/5423$222
 小栗子,http://222.186.39.21:35466/douyu/7254536$222
+粤语电影,http://222.186.39.21:35466/douyu/1226741$222
 
 //http://www.douzhicloud.site:35455/douyu/
 犯罪片,http://www.douzhicloud.site:35455/douyu/747764$douzhi
@@ -1058,6 +1133,7 @@ CHC影迷电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8$梅州移
 尬舞姐姐,http://www.douzhicloud.site:35455/douyu/323876$douzhi
 表妹影院,http://www.douzhicloud.site:35455/douyu/5423$douzhi
 小栗子,http://www.douzhicloud.site:35455/douyu/7254536$douzhi
+粤语电影,hhttp://www.douzhicloud.site:35455/douyu/1226741$douzhi
 南波柠檬,http://www.douzhicloud.site:35455/douyu/3379942$douzhi
 过往1908,http://www.douzhicloud.site:35455/douyu/8721095$douzhi
 周星驰3,http://www.douzhicloud.site:35455/douyu/3990812$douzhi
@@ -1170,6 +1246,7 @@ CHC影迷电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8$梅州移
 尬舞姐姐,http://php.404003.xyz/live/douyuyqk.php?id=323876$php
 表妹影院,http://php.404003.xyz/live/douyuyqk.php?id=5423$php
 小栗子,http://php.404003.xyz/live/douyuyqk.php?id=7254536$php
+粤语电影,http://php.404003.xyz/live/douyuyqk.php?id=1226741$php
 
 //已淘汰
 犯罪片,http://php.404003.xyz/live/douyuyqk.php?id=747764
@@ -2276,6 +2353,7 @@ CGTN纪录,http://m.061899.xyz/mg/cgtnjl$mg
 CGTN纪录,https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 CGTN纪录,http://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 
+世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub$Cogent
 世界地理,http://111.61.236.247:9081/hls/62/index.m3u8$廊坊移
 
 金鹰纪实,http://58.32.18.53:4022/udp/233.18.204.104:5140$上海信
@@ -2367,12 +2445,10 @@ CEC健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8$官方源
 大湾区卫视,http://hmfs.f3322.net:3388/hls/13/index.m3u8$茂名信
 广东影视,http://hmfs.f3322.net:3388/hls/14/index.m3u8$茂名信
 
-广东新闻,http://111.221.137.155:44330/tsfile/live/1001_1.m3u8$深圳天威
-广东民生,http://111.221.137.155:44330/tsfile/live/0127_1.m3u8$深圳天威
-大湾区卫视,http://111.221.137.155:44330/tsfile/live/1002_1.m3u8$深圳天威
-深圳生活,http://111.221.137.155:44330/tsfile/live/1011_1.m3u8$深圳天威
-深圳都市,http://111.221.137.155:44330/tsfile/live/1014_1.m3u8$深圳天威
-深圳电视剧,http://111.221.137.155:44330/tsfile/live/1015_1.m3u8$深圳天威
+广东新闻,http://116.76.254.170:44330/tsfile/live/1002_1.m3u8$深圳天威
+广东民生,http://116.76.254.170:44330/tsfile/live/1001_1.m3u8$深圳天威
+深圳都市,http://116.76.254.170:44330/tsfile/live/1014_1.m3u8$深圳天威
+深圳电视剧,http://116.76.254.170:44330/tsfile/live/1015_1.m3u8$深圳天威
 
 南国都市,http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8#https://tencentplaywebsite.gztv.com/live/nanguodushi.m3u8?txSecret=6332a877c5f4cd0bee7b40bbed1983f8&txTime=192a274ca1d#https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=7a9302751803950aa7bee6994f477b11&txTime=19182c0a3f6#http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4&replay=1&days=7#http://php.jdshipin.com:8880/gztv.php?id=shenghuo#https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=babbcbacdbcf13a3311a264e4dd66b8d&txTime=191b60b41a7&replay=1&days=7
 
@@ -2436,6 +2512,8 @@ NINETTUNOUNIVERSITYTV,http://stream6-rai-it.akamaized.net/live/uninettuno/playli
 宋小宝小品,http://www.douzhicloud.site:35455/douyu/9817729$douzhi
 相声小品,http://www.douzhicloud.site:35455/douyu/9273031$douzhi
 贾玲小品,http://www.douzhicloud.site:35455/douyu/10419541$douzhi
+相声小品,http://www.douzhicloud.site:35455/douyu/9286868$douzhi
+经典小品,http://www.douzhicloud.site:35455/douyu/9067836$douzhi
 
 本山小品,http://php.404003.xyz/live/douyuyqk.php?id=9817716$php
 吐槽大会,http://php.404003.xyz/live/douyuyqk.php?id=9236042$php
@@ -2443,6 +2521,8 @@ NINETTUNOUNIVERSITYTV,http://stream6-rai-it.akamaized.net/live/uninettuno/playli
 宋小宝小品,http://php.404003.xyz/live/douyuyqk.php?id=9817729$php
 相声小品,http://php.404003.xyz/live/douyuyqk.php?id=9273031$php
 贾玲小品,http://php.404003.xyz/live/douyuyqk.php?id=10419541$php
+相声小品,hhttp://php.404003.xyz/live/douyuyqk.php?id=9286868$php
+经典小品,http://php.404003.xyz/live/douyuyqk.php?id=9067836$php
 
 本山快乐营2,http://www.douzhicloud.site:35455/yy/1382736718
 宋小宝金星百乐门,http://www.douzhicloud.site:35455/yy/1382736912
