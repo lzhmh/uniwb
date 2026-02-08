@@ -136,7 +136,10 @@ CCTV5,http://111.9.163.109:55555/tsfile/live/0005_1.m3u8$南充移
 CCTV5,http://223.112.114.228:50080/newlive/live/hls/5/live.m3u8$苏州移
 CCTV5+,http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8$苏州移
 CCTV16,http://116.76.254.170:44330/tsfile/live/1012_1.m3u8$深圳天威
-CCTV16,http://74.91.26.218:82/live/cctv16hd.m3u8$咪咕
+
+CCTV5,http://74.91.26.218:82/live/cctv5hd.m3u8$74
+CCTV5+,http://74.91.26.218:82/live/cctv5p.m3u8$74
+CCTV16,http://74.91.26.218:82/live/cctv16hd.m3u8$74
 
 CCTV5,http://27.41.245.32:801/hls/5/index.m3u8$汕头联
 CCTV5,http://111.221.137.155:44330/tsfile/live/0005_1.m3u8$深圳天威
@@ -400,15 +403,15 @@ CETV4,http://m.061899.xyz/mg/cetv4$mg
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581$rtm
 新唐人,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8#
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$chunk#http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8$chunk#http://38.64.72.148/hls/modn/list/4005/playlist.m3u8$chunk
+镜新闻,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8$v1
 
-中天新闻,https://stream1.freetv.fun/1b67bc523c86ffa05707cd3f9471cfe1ced1c17d0537471788e00679a1d6cde3.m3u8$Str
-TVBS新闻,http://rihou.cc:555/tv/[FY]tvbS新闻$rihou
+中天新闻,https://stream1.freetv.fun/1b67bc523c86ffa05707cd3f9471cfe1ced1c17d0537471788e00679a1d6cde3.m3u8$Strrihou
 TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43$香港
+TVBS新闻,http://rihou.cc:555/tv/[FY]tvbS新闻$rihou
 非凡新闻,http://iptv.4666888.xyz/iptv2A.php?id=44$香港
 中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8$74
 华视新闻,http://74.91.26.218:82/live/ctsnews.m3u8$74
 台视新闻,http://74.91.26.218:82/live/ttvnews.m3u8$74
-镜新闻,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8$v1
 
 中天新闻,http://cnlive.org/channel/41d8a09d/index.m3u8$cnlive
 TVBSHD,http://cnlive.org/channel/154f9d73/index.m3u8$cnlive
@@ -421,7 +424,6 @@ TVBS新闻,http://cnlive.org/channel/n69ccce92/index.m3u8$cnlive
 TVBSHD,http://free.cnlive.club/channel/154f9d73/index.m3u8?q=1752629214236$free
 TVBS新闻,http://free.cnlive.club/channel/n69ccce92/index.m3u8?q=1752629214236$free
 东森新闻,http://free.cnlive.club/channel/n88aa83/index.m3u8?q=1760217407316$free
-
 
 中天新闻,http://nmk.ioapk.com:5050/4gtv-4gtv009/index.m3u8?proxy=true$nmk
 TVBSHD,http://nmk.ioapk.com:5050/4gtv-4gtv073/index.m3u8?proxy=true$nmk
