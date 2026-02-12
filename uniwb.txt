@@ -10,6 +10,9 @@
 凤凰资讯,http://m.061899.xyz/mg/fhzx$mg
 凤凰香港,http://m.061899.xyz/mg/fhhk$mg
 
+凤凰资讯,http://120.76.248.139/live/bfgd/4200000484.m3u8$北广
+凤凰中文,http://120.76.248.139/live/bfgd/4200000201.m3u8$北广
+
 凤凰中文,http://zmgd.zyrnet.com:8888/hls/110/index.m3u8$中牟移
 凤凰资讯,http://zmgd.zyrnet.com:8888/hls/109/index.m3u8$中牟移
 
@@ -57,6 +60,9 @@ CCTV4,http://124.228.160.14:9901/tsfile/live/0004_1.m3u8$衡阳信
 CCTV4,http://shuangyashan.coccc.online:65000/tsfile/live/1036_1.m3u8$双鸭山信
 CCTV13,http://124.228.160.14:9901/tsfile/live/0013_1.m3u8$衡阳信
 CCTV13,http://shuangyashan.coccc.online:65000/tsfile/live/1023_1.m3u8$双鸭山信
+
+CCTV4,http://120.76.248.139/live/bfgd/4200000063.m3u8$北广
+CCTV13,http://120.76.248.139/live/bfgd/4200000067.m3u8$北广
 
 CCTV4,http://hmfs.f3322.net:3388/hls/30/index.m3u8$茂名信
 CCTV13,http://hmfs.f3322.net:3388/hls/8/index.m3u8$茂名信
@@ -125,6 +131,10 @@ CCTV16,http://74.91.26.218:82/live/cctv16hd.m3u8$74
 
 CCTV5,http://27.41.245.32:801/hls/5/index.m3u8$汕头联
 
+CCTV5,http://120.76.248.139/live/bfgd/4200000064.m3u8$北广
+CCTV5+,http://120.76.248.139/live/bfgd/4200000246.m3u8$北广
+CCTV16,http://120.76.248.139/live/bfgd/4200000396.m3u8$北广4K
+
 CCTV5,http://58.32.18.53:4022/udp/233.18.204.71:5140$上海信
 CCTV5+,http://58.32.18.53:4022/udp/233.18.204.67:5140$上海信
 CCTV16,http://58.32.18.53:4022/udp/233.18.204.82:5140$上海信
@@ -179,7 +189,7 @@ CCTV16,http://58.32.18.53:4022/udp/233.18.204.114:5140$上海信
 
 ///先锋乒羽http://vip1.xinketongxun.fun:8082/tsfile/live/1013_1.m3u8$钦州联#http://219.146.65.78:59902/tsfile/live/0140_1.m3u8$青岛信#http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-1.m3u8$温州移#http://nn.7x9d.cn/地方台8563/湖南2.php?id=329#http://171.125.90.120:6001/rtp/226.0.2.121:8880$山西联#http://113.195.172.192:808/hls/101/index.m3u8$宜春联#http://113.195.172.192:808/hls/239/index.m3u8$宜春联
 
-爱尔达3,rtmp://59.124.75.138/sat/md021$59
+ELTA体育,rtmp://59.124.75.138/sat/md021$59
 
 ///爱羽客http://111.162.204.18:8686/udp/225.1.2.1:5002$天津联#http://118.180.142.189:65535/udp/239.255.29.31:8231$甘肃信
 
@@ -197,7 +207,6 @@ CCTV16,http://58.32.18.53:4022/udp/233.18.204.114:5140$上海信
 
 深圳体育,http://120.233.73.4:19901/tsfile/live/1036_1.m3u8$深移动#http://183.236.43.98:4013/udp/239.77.1.140:5146$广东信#http://183.236.43.98:4013/udp/239.77.1.128:5146$广东信#http://59.35.185.47:8188/udp/239.77.1.140:5146$广东信#http://59.35.185.47:8188/udp/239.77.1.128:5146$广东信
 
-北京体育,http://49.232.181.26:6000/udp/225.1.8.23:8002$北京信#
 
 睛彩篮球,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
 睛彩篮球,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
@@ -210,6 +219,9 @@ CCTV16,http://58.32.18.53:4022/udp/233.18.204.114:5140$上海信
 风云足球,http://111.61.236.247:9081/hls/58/index.m3u8$廊坊移
 风云足球,http://183.237.95.108:9901/tsfile/live/1067_1.m3u8$梅州移
 风云足球,http://hmfs.f3322.net:3388/hls/9/index.m3u8$茂名信
+
+风云足球,http://120.76.248.139/live/bfgd/4200000225.m3u8$北广
+辽宁体育,http://120.76.248.139/live/bfgd/4200000611.m3u8$北广
 
 爱体育,http://hmfs.f3322.net:3388/hls/10/index.m3u8$茂名信
 爱体育,http://183.237.95.108:9901/tsfile/live/1078_1.m3u8$梅州移
@@ -335,7 +347,7 @@ CETV4,http://m.061899.xyz/mg/cetv4$mg
 龙崎掼蛋,http://live.iill.top/huya.php?id=28092048$iill
 掼蛋实战讲解,http://live.iill.top/huya.php?id=28092049$iill
 
-天元围棋,http://120.76.248.139/live/bfgd/4200000633.m3u8$阿里云
+天元围棋,http://120.76.248.139/live/bfgd/4200000633.m3u8$北广
 
 斯诺克,https://isus.cc/php/huya.php?id=880214$isus
 
@@ -596,6 +608,22 @@ CCTV15,http://27.41.245.32:801/hls/15/index.m3u8$汕头联
 CCTV17,http://27.41.245.32:801/hls/16/index.m3u8$汕头联
 CCTV1,http://27.41.245.32:801/hls/1/index.m3u8$汕头联
 
+CCTV9,http://120.76.248.139/live/bfgd/4200000128.m3u8$北广
+CCTV10,http://120.76.248.139/live/bfgd/4200000129.m3u8$北广
+CCTV2,http://120.76.248.139/live/bfgd/4200000061.m3u8$北广
+CCTV3,http://120.76.248.139/live/bfgd/4200000062.m3u8$北广
+CCTV6,http://120.76.248.139/live/bfgd/4200000065.m3u8$北广
+CCTV7,http://120.76.248.139/live/bfgd/4200000127.m3u8$北广
+CCTV8,http://120.76.248.139/live/bfgd/4200000066.m3u8$北广
+CCTV11,http://120.76.248.139/live/bfgd/4200000130.m3u8$北广
+CCTV12,http://120.76.248.139/live/bfgd/4200000131.m3u8$北广
+CCTV14,http://120.76.248.139/live/bfgd/4200000132.m3u8$北广
+CCTV15,http://120.76.248.139/live/bfgd/4200000133.m3u8$北广
+CCTV17,http://120.76.248.139/live/bfgd/4200000204.m3u8$北广
+CCTV1,http://120.76.248.139/live/bfgd/4200000488.m3u8$北广
+女性时尚,http://120.76.248.139/live/bfgd/4200000176.m3u8$北广
+电视指南,http://120.76.248.139/live/bfgd/4200000164.m3u8$北广
+
 CCTV9,http://vip1.xinketongxun.fun:8082/tsfile/live/0009_1.m3u8$钦州联
 CCTV10,http://vip1.xinketongxun.fun:8082/tsfile/live/0010_1.m3u8$钦州联
 CCTV1,http://vip1.xinketongxun.fun:8082/tsfile/live/0001_1.m3u8$钦州联
@@ -785,6 +813,9 @@ ZooMoo,https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playli
 金鹰卡通,http://shuangyashan.coccc.online:65000/tsfile/live/1034_1.m3u8$双鸭山信
 金鹰卡通,http://124.228.160.14:9901/tsfile/live/0011_1.m3u8$衡阳信
 
+北京少儿,http://120.76.248.139/live/bfgd/4200000106.m3u8$北广
+金鹰卡通,http://120.76.248.139/live/bfgd/4200000350.m3u8$北广
+
 北京少儿,http://m.061899.xyz/mg/bjkk$mg
 动画集合,http://m.061899.xyz/mg/dhdjh$mg
 优漫卡通,http://m.061899.xyz/mg/ymkt$mg
@@ -957,6 +988,10 @@ CHC家庭影院,http://36.135.118.195:85/tsfile/live/1021_1.m3u8?key=txiptv&play
 //女神影院https://pull.kktv8.com/livekktv/99350550.flv
 //金马影院https://pull.kktv8.com/livekktv/128600025.flv
 //午夜影院https://pull.kktv8.com/livekktv/99592190.flv
+
+怀旧剧场,http://120.76.248.139/live/bfgd/4200000224.m3u8$北广
+老故事,http://120.76.248.139/live/bfgd/4200000166.m3u8$北广
+重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8$北广#http://120.76.248.139/live/bfgd/4200000636.m3u8$北广
 
 风云剧场,http://hmfs.f3322.net:3388/hls/20/index.m3u8$茂名信
 第一剧场,http://hmfs.f3322.net:3388/hls/21/index.m3u8$茂名信
@@ -2299,6 +2334,20 @@ CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 CGTN纪录,http://m.061899.xyz/mg/cgtnjl$mg
 CGTN纪录,https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 CGTN纪录,http://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+
+世界地理,http://120.76.248.139/live/bfgd/4200000177.m3u8$北广
+发现之旅,http://120.76.248.139/live/bfgd/4200000151.m3u8$北广
+北京纪实科教,http://120.76.248.139/live/bfgd/4200000113.m3u8$北广
+CETV1,http://120.76.248.139/live/bfgd/4200000135.m3u8$北广
+CETV2,http://120.76.248.139/live/bfgd/4200000492.m3u8$北广
+山东教育,http://120.76.248.139/live/bfgd/4200000112.m3u8$北广
+国学频道,http://120.76.248.139/live/bfgd/4200000169.m3u8$北广
+书画频道,http://120.76.248.139/live/bfgd/4200000180.m3u8$北广
+茶频道,http://120.76.248.139/live/bfgd/4200000181.m3u8$北广
+重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8$北广
+中华特产,http://120.76.248.139/live/bfgd/4200000158.m3u8$北广
+环球旅游,http://120.76.248.139/live/bfgd/4200000147.m3u8$北广
+快乐垂钓,http://120.76.248.139/live/bfgd/4200000228.m3u8$北广
 
 世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub$Cogent
 世界地理,http://111.61.236.247:9081/hls/62/index.m3u8$廊坊移
