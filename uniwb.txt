@@ -3,18 +3,20 @@
 
 凤凰中文,http://27.41.245.32:801/hls/205/index.m3u8$汕头联
 凤凰中文,http://111.221.137.234:44330/tsfile/live/0141_2.m3u8$深圳天威
-
-凤凰中文,http://183.237.95.108:9901/tsfile/live/1103_1.m3u8$梅州移
-
 凤凰中文,http://m.061899.xyz/mg/fhzw$mg
 凤凰资讯,http://m.061899.xyz/mg/fhzx$mg
 凤凰香港,http://m.061899.xyz/mg/fhhk$mg
 
-凤凰资讯,http://120.76.248.139/live/bfgd/4200000484.m3u8$北广
-凤凰中文,http://120.76.248.139/live/bfgd/4200000201.m3u8$北广
+凤凰中文,http://183.237.95.108:9901/tsfile/live/1103_1.m3u8$梅州移
 
 凤凰中文,http://zmgd.zyrnet.com:8888/hls/110/index.m3u8$中牟移
 凤凰资讯,http://zmgd.zyrnet.com:8888/hls/109/index.m3u8$中牟移
+
+凤凰香港,http://139.196.228.200:5678/公众号搞机大师/fhx.php?id=hk
+凤凰香港,http://grandprix2023.asuscomm.com:8892/bysid/85.m3u8$grand#http://nz171l122.bb60246.ctm.net:8892/bysid/85.m3u8$nz1
+
+凤凰资讯,http://120.76.248.139/live/bfgd/4200000484.m3u8$北广
+凤凰中文,http://120.76.248.139/live/bfgd/4200000201.m3u8$北广
 
 凤凰中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8$福州联
 凤凰资讯,http://218.104.239.114:9901/tsfile/live/1012_1.m3u8$福州联
@@ -36,7 +38,6 @@
 凤凰中文,http://bxtv.3a.ink/api.php?id=fhzw$bxtv
 凤凰资讯,http://bxtv.3a.ink/api.php?id=fhzx$bxtv
 
-凤凰香港,http://grandprix2023.asuscomm.com:8892/bysid/85.m3u8$grand#http://nz171l122.bb60246.ctm.net:8892/bysid/85.m3u8$nz1
 凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
 ///凤凰中文http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8$0701凤凰资讯http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8$0701凤凰香港http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8$0701
 
@@ -83,18 +84,19 @@ CCTV13,http://m.061899.xyz/mg/cctv13$mg
 翡翠台,http://116.76.254.170:44330/tsfile/live/1008_1.m3u8$深圳天威
 明珠台,http://116.76.254.170:44330/tsfile/live/1009_1.m3u8$深圳天威
 
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-翡翠台,http://222.128.55.152:9080/live/gdfc.m3u8
+翡翠台,http://222.128.55.152:9080/live/gdfc.m3u8$222
 翡翠台,http://183.237.95.108:9901/tsfile/live/1076_1.m3u8$梅州移
 明珠台,http://183.237.95.108:9901/tsfile/live/1009_1.m3u8$梅州移
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+
 翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=28$香港
 翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=34$香港
 明珠台,http://iptv.4666888.xyz/iptv2A.php?id=29$香港
 RHK31,http://iptv.4666888.xyz/iptv2A.php?id=23$香港
 澳视澳门,http://iptv.4666888.xyz/iptv2A.php?id=41$香港
 
-
 明珠台,http://nz171l122.bb60246.ctm.net:8892/bysid/2.m3u8
+翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 
 环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8$官网
 亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8$官网#https://pull-hsbj.vzan.com/v/slowlive_821481626725612419.flv
@@ -116,6 +118,10 @@ CCTV+2,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist
 
 体育频道,#genre#
 
+CCTV5,http://111.221.137.234:44330/tsfile/live/0005_1.m3u8$深圳天威
+CCTV5+,http://111.221.137.234:44330/tsfile/live/0125_1.m3u8$深圳天威
+CCTV16,http://111.221.137.234:44330/tsfile/live/1012_1.m3u8$深圳天威
+
 CCTV5,http://116.76.254.170:44330/tsfile/live/0005_1.m3u8$深圳天威
 CCTV5,http://223.112.114.228:50080/newlive/live/hls/5/live.m3u8$苏州移
 CCTV5+,http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8$苏州移
@@ -135,9 +141,6 @@ CCTV5,http://58.32.18.53:4022/udp/233.18.204.71:5140$上海信
 CCTV5+,http://58.32.18.53:4022/udp/233.18.204.67:5140$上海信
 CCTV16,http://58.32.18.53:4022/udp/233.18.204.82:5140$上海信
 CCTV16,http://58.32.18.53:4022/udp/233.18.204.215:5140$上海信4K
-CCTV5,http://111.221.137.234:44330/tsfile/live/0005_1.m3u8$深圳天威
-CCTV5+,http://111.221.137.234:44330/tsfile/live/0125_1.m3u8$深圳天威
-CCTV16,http://111.221.137.234:44330/tsfile/live/1012_1.m3u8$深圳天威
 
 CCTV5,http://hmfs.f3322.net:3388/hls/4/index.m3u8$茂名信
 CCTV5+,http://hmfs.f3322.net:3388/hls/5/index.m3u8$茂名信
@@ -393,8 +396,9 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$chunk#http:
 
 中天新闻,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts$ts
 中天新闻,https://stream1.freetv.fun/1b67bc523c86ffa05707cd3f9471cfe1ced1c17d0537471788e00679a1d6cde3.m3u8$Strrihou
-TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43$香港
 TVBS新闻,http://rihou.cc:555/tv/[FY]tvbS新闻$rihou
+
+TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43$香港
 非凡新闻,http://iptv.4666888.xyz/iptv2A.php?id=44$香港
 中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8$74
 华视新闻,http://74.91.26.218:82/live/ctsnews.m3u8$74
