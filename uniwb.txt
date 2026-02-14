@@ -2,6 +2,8 @@
 新闻HU15,#genre#
 
 凤凰中文,http://27.41.245.32:801/hls/205/index.m3u8$汕头联
+凤凰资讯,http://183.234.238.18:8926/live1128.m3u8$阳江移
+
 凤凰中文,http://111.221.137.234:44330/tsfile/live/0141_2.m3u8$深圳天威
 凤凰中文,http://m.061899.xyz/mg/fhzw$mg
 凤凰资讯,http://m.061899.xyz/mg/fhzx$mg
@@ -46,7 +48,6 @@
 
 凤凰中文,http://zmgd.zyrnet.com:8888/hls/67/index.m3u8$中牟移
 凤凰资讯,http://zmgd.zyrnet.com:8888/hls/66/index.m3u8$中牟移
-凤凰资讯,http://183.234.238.18:8926/live1128.m3u8$阳江移
 凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27$香港
 
 CCTV4,http://116.76.254.170:44330/tsfile/live/0004_1.m3u8$深圳天威
@@ -293,20 +294,6 @@ CETV4,http://m.061899.xyz/mg/cetv4$mg
 围棋素材,http://php.404003.xyz/live/douyuyqk.php?id=6399350$php
 围棋泳往,http://php.404003.xyz/live/douyuyqk.php?id=692988$php
 
-八卦大师,http://www.douzhicloud.site:35455/douyu/851040$douzhi
-日月轮回,http://www.douzhicloud.site:35455/douyu/2293920$douzhi
-帽子象棋,http://www.douzhicloud.site:35455/douyu/4487219$douzhi
-笑笑象棋,http://www.douzhicloud.site:35455/douyu/9969$douzhi
-大神象棋,http://www.douzhicloud.site:35455/douyu/1227260$douzhi
-九拙讲棋,http://www.douzhicloud.site:35455/douyu/4369877$douzhi
-熊山雷疯,http://www.douzhicloud.site:35455/douyu/291514$douzhi
-小鹤求败,http://www.douzhicloud.site:35455/douyu/3830820$douzhi
-旭宝斗地主,http://www.douzhicloud.site:35455/douyu/9804176$douzhi
-欢乐斗地主,http://www.douzhicloud.site:35455/douyu/8324074$douzhi
-斗地主冠军赛,http://www.douzhicloud.site:35455/douyu/488743$douzhi
-围棋素材,http://www.douzhicloud.site:35455/douyu/6399350$douzhi
-围棋泳往,http://www.douzhicloud.site:35455/douyu/692988$douzhi
-
 八卦大师,https://live.ottiptv.cc/douyu/851040$live
 日月轮回,https://live.ottiptv.cc/douyu/2293920$live
 帽子象棋,https://live.ottiptv.cc/douyu/4487219$live
@@ -322,11 +309,12 @@ CETV4,http://m.061899.xyz/mg/cetv4$mg
 围棋泳往,https://live.ottiptv.cc/douyu/692988$live
 
 //已淘汰
-八卦大师,http://lxajh.top/tv/douyu.php?id=851040$lxajh
-八卦大师,http://zzy789.xyz/douyu1.php?id=851040$zzy
-八卦大师,https://www.goodiptv.club/douyu/851040$good
-八卦大师,http://tv123.top:35455/douyu/851040$tv123
-八卦大师,http://129.150.54.232:10001/douyu/851040
+八卦大师,http://www.douzhicloud.site:35455/douyu/851040$douzhix
+八卦大师,http://lxajh.top/tv/douyu.php?id=851040$lxajhx
+八卦大师,http://zzy789.xyz/douyu1.php?id=851040$zzyx
+八卦大师,https://www.goodiptv.club/douyu/851040$goodx
+八卦大师,http://tv123.top:35455/douyu/851040$tv123x
+八卦大师,http://129.150.54.232:10001/douyu/851040x
 
 戴长胜掼蛋,https://isus.cc/php/huya.php?id=28092053$isus
 石头掼蛋,https://isus.cc/php/huya.php?id=28092051$isus
