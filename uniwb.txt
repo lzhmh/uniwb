@@ -53,17 +53,17 @@
 凤凰资讯,http://zmgd.zyrnet.com:8888/hls/109/index.m3u8$中牟移
 凤凰中文,http://27.41.245.32:801/hls/205/index.m3u8$汕头联
 
+CCTV4,http://116.76.254.170:44330/tsfile/live/0004_1.m3u8$深圳天威
+CCTV13,http://116.76.254.170:44330/tsfile/live/0013_1.m3u8$深圳天威
+
+CCTV4,http://106.115.27.151:9901/tsfile/live/faacts/1003_1.m3u8$邯郸信
+CCTV13,http://106.115.27.151:9901/tsfile/live/1037_1.m3u8$邯郸信
+
 CCTV4,http://182.207.218.34:999/tsfile/live/0004_1.m3u8$阜新信
 CCTV13,http://182.207.218.34:999/tsfile/live/0013_1.m3u8$阜新信
 
 CCTV4,http://125.43.240.161:9901/tsfile/live/1004_1.m3u8$焦作联
 CCTV13,http://125.43.240.161:9901/tsfile/live/1016_1.m3u8$焦作联
-
-CCTV4,http://106.115.27.151:9901/tsfile/live/faacts/1003_1.m3u8$邯郸信
-CCTV13,http://106.115.27.151:9901/tsfile/live/1037_1.m3u8$邯郸信
-
-CCTV4,http://116.76.254.170:44330/tsfile/live/0004_1.m3u8$深圳天威
-CCTV13,http://116.76.254.170:44330/tsfile/live/0013_1.m3u8$深圳天威
 
 CCTV4,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv4$cdn6
 CCTV13,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv13$cdn6
@@ -115,6 +115,13 @@ CCTV13,http://27.41.245.32:801/hls/13/index.m3u8$汕头联
 明珠台,http://nz171l122.bb60246.ctm.net:8892/bysid/2.m3u8
 翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 
+澳视澳门,http://iptv.4666888.xyz/iptv2A.php?id=41
+澳视澳门,http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
+澳视资讯,http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8
+澳视综艺,http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8
+澳视体育,http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8
+澳视卫星,http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8
+
 环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8$官网
 亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8$官网#https://pull-hsbj.vzan.com/v/slowlive_821481626725612419.flv
 亚洲卫视,https://fenghuang.tv12.xyz/173.m3u8
@@ -135,12 +142,12 @@ CCTV+2,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist
 
 体育频道,#genre#
 
-CCTV5,http://182.207.218.34:999/tsfile/live/0005_1.m3u8$阜新信
-CCTV5+,http://182.207.218.34:999/tsfile/live/0016_1.m3u8$阜新信
-
 CCTV5,http://111.221.137.234:44330/tsfile/live/0005_1.m3u8$深圳天威
 CCTV5+,http://111.221.137.234:44330/tsfile/live/0125_1.m3u8$深圳天威
 CCTV16,http://111.221.137.234:44330/tsfile/live/1012_1.m3u8$深圳天威
+
+CCTV5,http://182.207.218.34:999/tsfile/live/0005_1.m3u8$阜新信
+CCTV5+,http://182.207.218.34:999/tsfile/live/0016_1.m3u8$阜新信
 
 CCTV5,http://125.43.240.161:9901/tsfile/live/1010_1.m3u8$焦作联
 CCTV5,http://106.115.27.151:9901/tsfile/live/1004_1.m3u8$邯郸信
@@ -392,6 +399,8 @@ CETV4,http://m.061899.xyz/mg/cetv4$mg
 凤凰资讯,http://zmgd.zyrnet.com:8888/hls/109/index.m3u8$中牟移
 
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$chunk#http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8$chunk#http://38.64.72.148/hls/modn/list/4005/playlist.m3u8$chunk
+东森美洲,http://38.64.72.148/hls/modn/list/2016/chunklist0.m3u8$chunk
+
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581$rtm
 新唐人,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8#
 镜新闻,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8$v1
@@ -958,14 +967,14 @@ CHC影迷电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8$梅州移
 四大名著,https://lvbdcdncmn.inter.71edge.com/tslive/l1/c52_lb_568_300_t10/JuZaYFfgAtgzeXENAS1zAE098-EGizvi9nPyECctaYL6rieOqt7Q1KcZ4FGU4o3UUwpf5CbV_nUsDbQg6NsUgbaKgmctqIUwA_QC1rbrgBQxdxXRLPaFs_72-dTZ9RfNKlNk-q4ijiT_NDcjcHKt9xDb1Eqjc_SZlsuONXiTyrN7Pf0NpHYoo8TtkhTnxhUA1rZTDlGr_OhabLQs7kUhuQmWsru0TSRbLz5HGJh_c3Dyx5K_G39iq69d-esVm-DuOSYw2HZW5BZdIPhr87zSBI2nAkwdKUaqY00Hzz-AXgJ6-Cx--ZL-3uMHEMgiE9SUmFSErHMOhGX8s8ogQkI3lg/11e4badc79479921d33b383ae671d68fc/c52_lb_568_300_t10.m3u8?key=0baa5db205ac0d296684015f97ee400bf&dis_t=1752408227&uuid=6f1d53dc-6873a0a3-45b&qdpv=3&qd_bid=1&qd_sft=0&pv=0.1&cpt=0
 喜剧大赛,https://alicoccdncmnet-hd.inter.71edge.com/tslive/l1/c51_lb_728_300_t10/S2SosBg_68g057-zBj7nmfrgs91iP37_pf6vxKx85ogguLIU3CU8SW_Y7H-1PHvyi99Ii2JFYijxYOei6iZner8QzyvFSNdDHH4HKjClgQKWGTbBdcHKOCHdsU3b1N-BrKiw3S7j3SCX6dyCTs7rcy64zcIPximAOEVgehMq3yBKfCmtJcbxGNJTLBalpWxFnS9TqEPfTjxnpz6YXBKxsqktgAuvSZh0YMwgtqXXpGW4Acf6eDoCMetaXupxvOjeXiYwJ8PWE2EHCz8E5RUSVIkgzqdr0H_UCDMLBgDOxh9Fx5wQklSuDVjds1N736MIdknpyHFEh4FV_aYUv-nsSA/1dd9185f7c7a34c902ab9b23bf6e849c8/c51_lb_728_300_t10.m3u8?key=0baa5db205ac0d2962788b935d5dc8a5c&dis_t=1752408293&random=1&rand_hash=0&uuid=6f1d53dc-6873a0e5-454&qdpv=3&qd_bid=1&qd_sft=0&pv=0.1&cpt=0
 
-NewTV传奇剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c54_fast_1052_720P_t10/c54_fast_1052_720P_t10.m3u8?d
-NewTV古装剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_947_1080P_t10/c58_fast_947_1080P_t10.m3u8?d
-NewTV军旅剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c54_fast_700_1080P_t10/c54_fast_700_1080P_t10.m3u8?d
-NewTV家庭剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_999_1080P_t10/c59_fast_999_1080P_t10.m3u8?d
-NewTV泰语剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_949_1080P_t10/c58_fast_949_1080P_t10.m3u8?d
-NewTV搞笑剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_953_1080P_t10/c58_fast_953_1080P_t10.m3u8?d
-NewTV大家剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_975_1080P_t10/c58_fast_975_1080P_t10.m3u8?d
-NewTV爱情剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_967_1080P_t10/c59_fast_967_1080P_t10.m3u8?d
+传奇剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c54_fast_1052_720P_t10/c54_fast_1052_720P_t10.m3u8?d
+古装剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_947_1080P_t10/c58_fast_947_1080P_t10.m3u8?d
+军旅剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c54_fast_700_1080P_t10/c54_fast_700_1080P_t10.m3u8?d
+家庭剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_999_1080P_t10/c59_fast_999_1080P_t10.m3u8?d
+泰语剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_949_1080P_t10/c58_fast_949_1080P_t10.m3u8?d
+搞笑剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_953_1080P_t10/c58_fast_953_1080P_t10.m3u8?d
+大家剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_975_1080P_t10/c58_fast_975_1080P_t10.m3u8?d
+爱情剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_967_1080P_t10/c59_fast_967_1080P_t10.m3u8?d
 
 怀旧剧场,http://120.76.248.139/live/bfgd/4200000224.m3u8$北广
 老故事,http://120.76.248.139/live/bfgd/4200000166.m3u8$北广
