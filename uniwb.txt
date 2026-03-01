@@ -379,7 +379,6 @@ CETV4,http://m.061899.xyz/mg/cetv4$mg
 凤凰中文,http://zmgd.zyrnet.com:8888/hls/110/index.m3u8$中牟移
 凤凰资讯,http://zmgd.zyrnet.com:8888/hls/109/index.m3u8$中牟移
 
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$chunk#http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8$chunk#http://38.64.72.148/hls/modn/list/4005/playlist.m3u8$chunk
 东森美洲,http://38.64.72.148/hls/modn/list/2016/chunklist0.m3u8$chunk
 
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581$rtm
@@ -390,6 +389,16 @@ TVBS新闻,http://rihou.cc:555/tv/[FY]tvbS新闻$rihou
 
 TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43$香港
 非凡新闻,http://iptv.4666888.xyz/iptv2A.php?id=44$香港
+
+台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8$chunk#http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8$chunk#http://38.64.72.148/hls/modn/list/4013/playlist.m3u8$chunk#http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8$chunk#http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8$chunk
+民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8$chunk#http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8$chunk#http://38.64.72.148/hls/modn/list/4012/playlist.m3u8$chunk#http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8$chunk#http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8$chunk
+
+ETRV中国,http://38.64.72.148/hls/modn/list/2003/chunklist0.m3u8$chunk
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8$chunk#http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8$chunk#http://38.64.72.148/hls/modn/list/4005/playlist.m3u8$chunk#http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8$chunk#http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$chunk#http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8$chunk
+东森AMER,http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8$chunk#http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8$chunk#http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8$chunk
+东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8$chunk
+超视34.5,http://38.64.72.148/hls/modn/list/2013/chunklist0.m3u8$chunk
+
 中天新闻,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts$ts
 
 中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8$74
