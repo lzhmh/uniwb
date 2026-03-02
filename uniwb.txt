@@ -304,19 +304,19 @@ CETV4,http://m.061899.xyz/mg/cetv4$mg
 围棋素材,http://php.404003.xyz/live/douyuyqk.php?id=6399350$php
 围棋泳往,http://php.404003.xyz/live/douyuyqk.php?id=692988$php
 
-八卦大师,https://live.ottiptv.cc/douyu/851040$live
-日月轮回,https://live.ottiptv.cc/douyu/2293920$live
-帽子象棋,https://live.ottiptv.cc/douyu/4487219$live
-笑笑象棋,https://live.ottiptv.cc/douyu/9969$live
-大神象棋,https://live.ottiptv.cc/douyu/1227260$live
-九拙讲棋,https://live.ottiptv.cc/douyu/4369877$live
-熊山雷疯,https://live.ottiptv.cc/douyu/291514$live
-小鹤求败,https://live.ottiptv.cc/douyu/3830820$live
-旭宝斗地主,https://live.ottiptv.cc/douyu/9804176$live
-欢乐斗地主,https://live.ottiptv.cc/douyu/8324074$live
-斗地主冠军赛,https://live.ottiptv.cc/douyu/488743$live
-围棋素材,https://live.ottiptv.cc/douyu/6399350$live
-围棋泳往,https://live.ottiptv.cc/douyu/692988$live
+八卦大师,https://live.ottiptv.cc/douyu/851040$cc
+日月轮回,https://live.ottiptv.cc/douyu/2293920$cc
+帽子象棋,https://live.ottiptv.cc/douyu/4487219$cc
+笑笑象棋,https://live.ottiptv.cc/douyu/9969$cc
+大神象棋,https://live.ottiptv.cc/douyu/1227260$cc
+九拙讲棋,https://live.ottiptv.cc/douyu/4369877$cc
+熊山雷疯,https://live.ottiptv.cc/douyu/291514$cc
+小鹤求败,https://live.ottiptv.cc/douyu/3830820$cc
+旭宝斗地主,https://live.ottiptv.cc/douyu/9804176$cc
+欢乐斗地主,https://live.ottiptv.cc/douyu/8324074$cc
+斗地主冠军赛,https://live.ottiptv.cc/douyu/488743$cc
+围棋素材,https://live.ottiptv.cc/douyu/6399350$cc
+围棋泳往,https://live.ottiptv.cc/douyu/692988$cc
 
 //已淘汰
 八卦大师,http://www.douzhicloud.site:35455/douyu/851040$douzhix
@@ -328,17 +328,17 @@ CETV4,http://m.061899.xyz/mg/cetv4$mg
 
 安徽体育,http://112.132.10.54:9901/tsfile/live/1009_1.m3u8$阜阳联
 
+戴长胜掼蛋,https://live.ottiptv.cc/huya/28092053$cc
+石头掼蛋,https://live.ottiptv.cc/huya/28092051$cc
+赵老师掼蛋,https://live.ottiptv.cc/huya/28092052$cc
+龙崎掼蛋,https://live.ottiptv.cc/huya/28092048$cc
+掼蛋实战讲解,https://live.ottiptv.cc/huya/28092049$cc
+
 戴长胜掼蛋,https://www.goodiptv.club/huya/28092053$good
 石头掼蛋,https://www.goodiptv.club/huya/28092051$good
 赵老师掼蛋,https://www.goodiptv.club/huya/28092052$good
 龙崎掼蛋,https://www.goodiptv.club/huya/28092048$good
 掼蛋实战讲解,https://www.goodiptv.club/huya/28092049$good
-
-戴长胜掼蛋,https://live.laobaitv.net/huya/28092053$live
-石头掼蛋,https://live.laobaitv.net/huya/28092051$live
-赵老师掼蛋,https://live.laobaitv.net/huya/28092052$live
-龙崎掼蛋,https://live.laobaitv.net/huya/28092048$live
-掼蛋实战讲解,https://live.laobaitv.net/huya/28092049$live
 
 戴长胜掼蛋,http://live.iill.top/huya.php?id=28092053$iill
 石头掼蛋,http://live.iill.top/huya.php?id=28092051$iill
@@ -381,25 +381,25 @@ CETV4,http://m.061899.xyz/mg/cetv4$mg
 
 东森美洲,http://38.64.72.148/hls/modn/list/2016/chunklist0.m3u8$chunk
 
-非凡新闻,rtmp://f13h.mine.nu/sat/tv581$rtm
-新唐人,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8#
-镜新闻,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8$v1
+中天新闻,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts$ts
 
 TVBS新闻,http://rihou.cc:555/tv/[FY]tvbS新闻$rihou
 
 TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43$香港
 非凡新闻,http://iptv.4666888.xyz/iptv2A.php?id=44$香港
 
-台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8$chunk#http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8$chunk#http://38.64.72.148/hls/modn/list/4013/playlist.m3u8$chunk#http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8$chunk#http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8$chunk
+非凡新闻,rtmp://f13h.mine.nu/sat/tv581$rtm
+新唐人,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8#
+镜新闻,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8$v1
+
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8$chunk#http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8$chunk#http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8$chunk#http://38.64.72.148/hls/modn/list/4013/playlist.m3u8$chunk#http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8$chunk
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8$chunk#http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8$chunk#http://38.64.72.148/hls/modn/list/4012/playlist.m3u8$chunk#http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8$chunk#http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8$chunk
 
 ETRV中国,http://38.64.72.148/hls/modn/list/2003/chunklist0.m3u8$chunk
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8$chunk#http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8$chunk#http://38.64.72.148/hls/modn/list/4005/playlist.m3u8$chunk#http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8$chunk#http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$chunk#http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8$chunk
-东森AMER,http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8$chunk#http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8$chunk#http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8$chunk
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$chunk#http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8$chunk#http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8$chunk#http://38.64.72.148/hls/modn/list/4005/playlist.m3u8$chunk#http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8$chunk#http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8$chunk
+东森AMER,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8$chunk#http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8$chunk#http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8$chunk#
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8$chunk
-超视34.5,http://38.64.72.148/hls/modn/list/2013/chunklist0.m3u8$chunk
-
-中天新闻,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts$ts
+东森超视,http://38.64.72.148/hls/modn/list/2013/chunklist0.m3u8$chunk
 
 中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8$74
 华视新闻,http://74.91.26.218:82/live/ctsnews.m3u8$74
@@ -508,6 +508,27 @@ NOW体育7,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stre
 
 体育专场,#genre#
 
+羽毛球专场,https://live.ottiptv.cc/huya/30806115$cc
+乒乓球专场,https://live.ottiptv.cc/huya/23505696$cc
+格斗专场,https://live.ottiptv.cc/huya/20072796$cc
+柔道专场,https://live.ottiptv.cc/huya/20072837$cc
+WWE专场,https://live.ottiptv.cc/huya/30021023$cc
+斯诺克专场,https://live.ottiptv.cc/huya/880214$cc
+篮球专场,https://live.ottiptv.cc/huya/27949551$cc
+赛车专场,https://live.ottiptv.cc/huya/18152482$cc
+摔跤专场,https://live.ottiptv.cc/huya/20072812$cc
+拳击专场,https://live.ottiptv.cc/huya/18152380$cc
+摩托专场,https://live.ottiptv.cc/huya/19197407$cc
+健美专场,https://live.ottiptv.cc/huya/26106704$cc
+健身专场,https://live.ottiptv.cc/huya/24354754$cc
+越野专场,https://live.ottiptv.cc/huya/30020978$cc
+Big3专场,https://live.ottiptv.cc/huya/30847442$cc
+飞盘专场,https://live.ottiptv.cc/huya/30689549$cc
+飞镖专场,https://live.ottiptv.cc/huya/30631766$cc
+瑜伽专场,https://live.ottiptv.cc/huya/20753449$cc
+棒球专场,https://live.ottiptv.cc/huya/20072763$cc
+扇耳光专场,https://live.ottiptv.cc/huya/30631765$cc
+
 羽毛球专场,https://www.goodiptv.club/huya/30806115$good
 乒乓球专场,https://www.goodiptv.club/huya/23505696$good
 格斗专场,https://www.goodiptv.club/huya/20072796$good
@@ -554,10 +575,10 @@ Big3专场,http://live.iill.top/huya.php?id=30847442$iill
 摩托挑战,https://yylunbo.ottiptv.cc/yy/1354946983#http://jiaojirentv.top/2020/yy.php?id=1354946983
 
 体育人物,http://222.186.39.21:35466/douyu/8434598
-体育人物,http://php.404003.xyz/live/douyuyqk.php?id=8434598
+体育人物,hhttps://live.ottiptv.cc/douyu/8434598
 
 斗鱼体育,http://222.186.39.21:35466/douyu/9170147
-斗鱼体育,http://php.404003.xyz/live/douyuyqk.php?id=9170147
+斗鱼体育,hhttps://live.ottiptv.cc/douyu/9170147
 
 央视音乐,#genre#
 
@@ -877,6 +898,7 @@ ZooMoo,https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playli
 家庭理财,http://58.32.18.53:4022/udp/233.18.204.157:5140$上海信
 法治天地,http://58.32.18.53:4022/udp/233.18.204.49:5140$上海信
 
+中国通史,https://live.ottiptv.cc/huya/20985822$cc
 中国通史,https://www.goodiptv.club/huya/20985822$good
 
 宇宙碎片记,http://222.186.39.21:35466/douyu/9412981$222
@@ -1080,31 +1102,31 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8$北广
 动漫Zei,http://222.186.39.21:35466/douyu/1174353$222
 疯狂小潴潴,http://222.186.39.21:35466/douyu/5522351$222
 
-犯罪片,https://live.ottiptv.cc/douyu/747764$live
-漫威科幻,https://live.ottiptv.cc/douyu/6140589$live
-苹果影院,https://live.ottiptv.cc/douyu/2793084$live
-桃花影院,https://live.ottiptv.cc/douyu/7305938$live
-邦德影院,https://live.ottiptv.cc/douyu/9292499$live
-粤语电影,https://live.ottiptv.cc/douyu/6566671$live
-4K影院,https://live.ottiptv.cc/douyu/9249162$live
-科幻动作灾难,https://live.ottiptv.cc/douyu/248753$live
-平安夜快乐,https://live.ottiptv.cc/douyu/6863367$live
-看经典,https://live.ottiptv.cc/douyu/7314294$live
-林正英1,https://live.ottiptv.cc/douyu/218859$live
-译制国语,https://live.ottiptv.cc/douyu/2436390$live
-小黛兮影,https://live.ottiptv.cc/douyu/11553944$live
-林正英2,https://live.ottiptv.cc/douyu/7356023$live
-宇哥经典,https://live.ottiptv.cc/douyu/413573$live
-高分影厅,https://live.ottiptv.cc/douyu/2535105$live
-花卷陪看,https://live.ottiptv.cc/douyu/52787$live
-喜剧电影,https://live.ottiptv.cc/douyu/9292492$live
-佳佳越狱,https://live.ottiptv.cc/douyu/7575350$live
-经典港剧,https://live.ottiptv.cc/douyu/9548850$live
-胡八一,https://live.ottiptv.cc/douyu/7701735$live
-尬舞姐姐,https://live.ottiptv.cc/douyu/323876$live
-表妹影院,https://live.ottiptv.cc/douyu/5423$live
-小栗子,https://live.ottiptv.cc/douyu/7254536$live
-粤语电影,https://live.ottiptv.cc/douyu/1226741$live
+犯罪片,https://live.ottiptv.cc/douyu/747764$cc
+漫威科幻,https://live.ottiptv.cc/douyu/6140589$cc
+苹果影院,https://live.ottiptv.cc/douyu/2793084$cc
+桃花影院,https://live.ottiptv.cc/douyu/7305938$cc
+邦德影院,https://live.ottiptv.cc/douyu/9292499$cc
+粤语电影,https://live.ottiptv.cc/douyu/6566671$cc
+4K影院,https://live.ottiptv.cc/douyu/9249162$cc
+科幻动作灾难,https://live.ottiptv.cc/douyu/248753$cc
+平安夜快乐,https://live.ottiptv.cc/douyu/6863367$cc
+看经典,https://live.ottiptv.cc/douyu/7314294$cc
+林正英1,https://live.ottiptv.cc/douyu/218859$cc
+译制国语,https://live.ottiptv.cc/douyu/2436390$cc
+小黛兮影,https://live.ottiptv.cc/douyu/11553944$cc
+林正英2,https://live.ottiptv.cc/douyu/7356023$cc
+宇哥经典,https://live.ottiptv.cc/douyu/413573$cc
+高分影厅,https://live.ottiptv.cc/douyu/2535105$cc
+花卷陪看,https://live.ottiptv.cc/douyu/52787$cc
+喜剧电影,https://live.ottiptv.cc/douyu/9292492$cc
+佳佳越狱,https://live.ottiptv.cc/douyu/7575350$cc
+经典港剧,https://live.ottiptv.cc/douyu/9548850$cc
+胡八一,https://live.ottiptv.cc/douyu/7701735$cc
+尬舞姐姐,https://live.ottiptv.cc/douyu/323876$cc
+表妹影院,https://live.ottiptv.cc/douyu/5423$cc
+小栗子,https://live.ottiptv.cc/douyu/7254536$cc
+粤语电影,https://live.ottiptv.cc/douyu/1226741$cc
 
 犯罪片,http://php.404003.xyz/live/douyuyqk.php?id=747764$php
 漫威科幻,http://php.404003.xyz/live/douyuyqk.php?id=6140589$php
@@ -1139,6 +1161,42 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8$北广
 译制国语,http://lxajh.top/tv/douyu.php?id=2436390
 
 虎牙轮播,#genre#
+
+美国战争,https://live.ottiptv.cc/huya/11602047$cc
+功夫片,https://live.ottiptv.cc/huya/11352941$cc
+经典港片,https://live.ottiptv.cc/huya/11352965$cc
+杰森史塔森,https://live.ottiptv.cc/huya/21059588$cc
+枪战大片,https://live.ottiptv.cc/huya/21059579$cc
+成龙电影,https://live.ottiptv.cc/huya/11342386$cc
+王晶电影,https://live.ottiptv.cc/huya/11602058$cc
+武侠片场,https://live.ottiptv.cc/huya/11342427$cc
+玄幻系列,https://live.ottiptv.cc/huya/11342414$cc
+周润发电影,https://live.ottiptv.cc/huya/11342387$cc
+搞笑系列,https://live.ottiptv.cc/huya/11342423$cc
+战争片,https://live.ottiptv.cc/huya/21059574$cc
+李连杰电影,https://live.ottiptv.cc/huya/11342390$cc
+周星驰电影,https://live.ottiptv.cc/huya/11336587$cc
+黑帮系列,https://live.ottiptv.cc/huya/11336719$cc
+喜剧系列,https://live.ottiptv.cc/huya/11352877$cc
+林正英电影,https://live.ottiptv.cc/huya/11342421$cc
+动作大片,https://live.ottiptv.cc/huya/11602077$cc
+洪金宝,https://live.ottiptv.cc/huya/11279251$cc
+谍战大片,https://live.ottiptv.cc/huya/21059585$cc
+怪兽系列,https://live.ottiptv.cc/huya/21059554$cc
+谍战片,https://live.ottiptv.cc/huya/21059587$cc
+海盗片,https://live.ottiptv.cc/huya/21059595$cc
+战争电影,https://live.ottiptv.cc/huya/21059592$cc
+变形记,https://live.ottiptv.cc/huya/11352966$cc
+笑傲江湖,https://live.ottiptv.cc/huya/11352937$cc
+速度激情,https://live.ottiptv.cc/huya/21059556$cc
+欧美黑白,https://live.ottiptv.cc/huya/11352880$cc
+警匪片,https://live.ottiptv.cc/huya/11352886$cc
+智商罪犯,https://live.ottiptv.cc/huya/11352962$cc
+巨石强森,https://live.ottiptv.cc/huya/21059581$cc
+救援电影,https://live.ottiptv.cc/huya/21059594$cc
+看救援,https://live.ottiptv.cc/huya/21059586$cc
+赛车片,https://live.ottiptv.cc/huya/11279247$cc
+灾难片,https://live.ottiptv.cc/huya/11602075$cc
 
 //https://www.goodiptv.club/huya/
 美国战争,https://www.goodiptv.club/huya/11602047$good
@@ -2369,14 +2427,14 @@ NINETTUNOUNIVERSITYTV,http://stream6-rai-it.akamaized.net/live/uninettuno/playli
 相声小品,http://222.186.39.21:35466/douyu/9286868$222
 经典小品,http://222.186.39.21:35466/douyu/9067836$222
 
-本山小品,http://php.404003.xyz/live/douyuyqk.php?id=9817716$php
-吐槽大会,http://php.404003.xyz/live/douyuyqk.php?id=9236042$php
-辽宁小品,http://php.404003.xyz/live/douyuyqk.php?id=9322175$php
-宋小宝小品,http://php.404003.xyz/live/douyuyqk.php?id=9817729$php
-相声小品,http://php.404003.xyz/live/douyuyqk.php?id=9273031$php
-贾玲小品,http://php.404003.xyz/live/douyuyqk.php?id=10419541$php
-相声小品,hhttp://php.404003.xyz/live/douyuyqk.php?id=9286868$php
-经典小品,http://php.404003.xyz/live/douyuyqk.php?id=9067836$php
+本山小品,hhttps://live.ottiptv.cc/douyu/9817716$cc
+吐槽大会,hhttps://live.ottiptv.cc/douyu/9236042$cc
+辽宁小品,hhttps://live.ottiptv.cc/douyu/9322175$cc
+宋小宝小品,hhttps://live.ottiptv.cc/douyu/9817729$cc
+相声小品,hhttps://live.ottiptv.cc/douyu/9273031$cc
+贾玲小品,hhttps://live.ottiptv.cc/douyu/10419541$cc
+相声小品,hhhttps://live.ottiptv.cc/douyu/9286868$cc
+经典小品,hhttps://live.ottiptv.cc/douyu/9067836$cc
 
 本山快乐营2,http://www.douzhicloud.site:35455/yy/1382736718
 宋小宝金星百乐门,http://www.douzhicloud.site:35455/yy/1382736912
