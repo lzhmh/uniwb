@@ -44,6 +44,12 @@
 CCTV4,http://yjj888.f3322.net:9901/tsfile/live/0004_1.m3u8$安阳联
 CCTV13,http://yjj888.f3322.net:9901/tsfile/live/0013_2.m3u8$安阳联
 
+CCTV4,http://223.75.149.129:9906/tsfile/live/0004_1.m3u8$神农移
+CCTV13,http://223.75.149.129:9906/tsfile/live/0013_1.m3u8$神农移
+
+CCTV4,http://39.165.39.49:19901/tsfile/live/1004_1.m3u8$平顶移
+CCTV13,http://39.165.39.49:19901/tsfile/live/1084_1.m3u8$平顶移
+
 CCTV4,http://116.76.254.170:44330/tsfile/live/0004_1.m3u8$天威16
 CCTV13,http://116.76.254.170:44330/tsfile/live/0013_1.m3u8$天威16
 
@@ -127,8 +133,15 @@ CCTV+2,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist
 
 体育频道,#genre#
 
+CCTV5,http://218.13.138.139:59901/tsfile/live/0005_1.m3u8$佛山信
+CCTV5+,http://218.13.138.139:59901/tsfile/live/0016_1.m3u8$佛山信
+CCTV16,http://218.13.138.139:59901/tsfile/live/1000_1.m3u8$佛山信
+
 CCTV5,http://yjj888.f3322.net:9901/tsfile/live/1004_1.m3u8$安阳联
 CCTV5+,http://yjj888.f3322.net:9901/tsfile/live/0005_1.m3u8$安阳联
+
+CCTV5,http://39.165.39.49:19901/tsfile/live/1005_1.m3u8$平顶移
+CCTV5+,http://39.165.39.49:19901/tsfile/live/1089_1.m3u8$平顶移
 
 CCTV5,http://116.76.254.170:44330/tsfile/live/0005_1.m3u8$天威16
 CCTV5+,http://116.76.254.170:44330/tsfile/live/0125_1.m3u8$天威16#
@@ -219,6 +232,7 @@ ELTA体育,rtmp://59.124.75.138/sat/md021$59
 
 ///爱羽客http://111.162.204.18:8686/udp/225.1.2.1:5002$天津联#http://118.180.142.189:65535/udp/239.255.29.31:8231$甘肃信
 
+广东体育,http://218.13.138.139:59901/tsfile/live/1003_1.m3u8$佛山信
 广东体育,http://116.76.254.170:44330/tsfile/live/1000_1.m3u8$天威16#http://111.221.137.234:44330/tsfile/live/0124_1.m3u8$天威11#http://120.233.73.4:19901/tsfile/live/1040_1.m3u8$深移动#http://go.bkpcp.top/mg/gdty$go#http://m.061899.xyz/mg/gdty$mg#http://hmfs.f3322.net:3388/hls/6/index.m3u8$茂名信
 广东体育,http://120.238.94.82:9901/tsfile/live/1012_1.m3u8$梅州移#http://yahao.myqnapcloud.com:4022/rtp/239.77.0.168:5146$广东信
 
@@ -598,6 +612,20 @@ Big3专场,http://live.iill.top/huya.php?id=30847442$iill
 斗鱼体育,hhttps://live.ottiptv.cc/douyu/9170147
 
 央视音乐,#genre#
+
+CCTV9,http://218.13.138.139:59901/tsfile/live/0009_1.m3u8$佛山信
+CCTV10,http://218.13.138.139:59901/tsfile/live/0010_1.m3u8$佛山信
+CCTV2,http://218.13.138.139:59901/tsfile/live/0002_1.m3u8$佛山信
+CCTV3,http://218.13.138.139:59901/tsfile/live/0003_1.m3u8$佛山信
+CCTV6,http://218.13.138.139:59901/tsfile/live/0006_1.m3u8$佛山信
+CCTV7,http://218.13.138.139:59901/tsfile/live/0007_1.m3u8$佛山信
+CCTV8,http://218.13.138.139:59901/tsfile/live/0008_1.m3u8$佛山信
+CCTV11,http://218.13.138.139:59901/tsfile/live/0011_1.m3u8$佛山信
+CCTV12,http://218.13.138.139:59901/tsfile/live/0012_1.m3u8$佛山信
+CCTV14,http://218.13.138.139:59901/tsfile/live/0014_1.m3u8$佛山信
+CCTV15,http://218.13.138.139:59901/tsfile/live/0015_1.m3u8$佛山信
+CCTV17,http://218.13.138.139:59901/tsfile/live/0019_1.m3u8$佛山信
+CCTV1,http://218.13.138.139:59901/tsfile/live/0001_1.m3u8$佛山信
 
 CCTV9,http://yjj888.f3322.net:9901/tsfile/live/0009_1.m3u8$安阳联
 CCTV10,http://yjj888.f3322.net:9901/tsfile/live/0010_3.m3u8$安阳联
@@ -1130,6 +1158,8 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8$北广
 狄仁杰1-4,http://222.186.39.21:35466/douyu/6027991$222
 宋江,http://222.186.39.21:35466/douyu/9487003$222
 动漫Zei,http://222.186.39.21:35466/douyu/1174353$222
+港剧经典,http://222.186.39.21:35466/douyu/6091425$222
+铁甲影院,http://222.186.39.21:35466/douyu/1274132$222
 疯狂小潴潴,http://222.186.39.21:35466/douyu/5522351$222
 
 犯罪片,https://live.ottiptv.cc/douyu/747764$cc
@@ -2486,7 +2516,6 @@ CETV3,http://38.75.136.137:98/gslb/dsdqpub/cetv3.m3u8?auth=testpub$gslb
 文物宝库,http://1.94.31.214/php/hntv.php?id=wwbk$hntv
 
 乐游频道,http://111.8.242.102:9999/tsfile/live/1048_1.m3u8$怀化移
-CETV1,http://111.8.242.102:9999/tsfile/live/1079_1.m3u8$怀化移
 山东教育,http://111.8.242.102:9999/tsfile/live/1029_1.m3u8$怀化移
 书画频道,http://111.8.242.102:9999/tsfile/live/1044_1.m3u8$怀化移
 茶频道,http://111.8.242.102:9999/tsfile/live/1074_1.m3u8$怀化移
@@ -2496,6 +2525,13 @@ CETV1,http://111.8.242.102:9999/tsfile/live/1079_1.m3u8$怀化移
 国学频道,http://yjj888.f3322.net:9901/tsfile/live/1030_1.m3u8$安阳联
 国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=202168a869cde2c97c19bc738d057b26&wsTime=1758556819
 国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=f4ba482a205ea40f8b3ebc6d1de3f6fc&wsTime=1758945610
+
+乐游,http://39.165.39.49:19901/tsfile/live/1126_1.m3u8$平顶移
+文物宝库,http://39.165.39.49:19901/tsfile/live/1119_1.m3u8$平顶移
+快乐垂钓,http://39.165.39.49:19901/tsfile/live/1115_1.m3u8$平顶移
+
+cetv1,http://39.165.39.49:19901/tsfile/live/1090_1.m3u8$平顶移
+
 fashionBOX,http://80.94.54.42/fashiontv/stream/playlist.m3u8#http://lb.streaming.sk/fashiontv/stream/playlist.m3u8#http://91.247.68.229:8000/play/Fashion/index.m3u8
 
 北京纪实科教,http://m.061899.xyz/mg/bjjs$mg#http://1.180.2.93:9901/tsfile/live/1061_1.m3u8$呼信
