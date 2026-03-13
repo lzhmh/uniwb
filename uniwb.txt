@@ -15,9 +15,10 @@
 凤凰中文,http://zmgd.zyrnet.com:8888/hls/110/index.m3u8$中牟移
 凤凰资讯,http://zmgd.zyrnet.com:8888/hls/109/index.m3u8$中牟移
 
-凤凰中文,http://111.221.137.234:44330/tsfile/live/0141_2.m3u8$天威11
+凤凰中文,http://218.15.183.23:9901/tsfile/live/23037_1.m3u8$梅州信
+凤凰中文,http://223.95.198.3:8000/hls/20/index.m3u8$宁波移
 
-凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27$iptv
+凤凰中文,http://111.221.137.234:44330/tsfile/live/0141_2.m3u8$天威11
 
 凤凰中文,http://218.206.193.218:8888/hls/67/index.m3u8$郑州移
 凤凰资讯,http://218.206.193.218:8888/hls/66/index.m3u8$郑州移
@@ -36,10 +37,6 @@
 凤凰中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8$福州联
 凤凰资讯,http://218.104.239.114:9901/tsfile/live/1012_1.m3u8$福州联
 
-凤凰资讯,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd$smt#
-凤凰中文,https://cdn9.163189.xyz/smt3.2.1.php?id=phoenixtv_hd$smt#
-凤凰香港,https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn$smt#https://cdn9.163189.xyz/smt3.2.1.php?id=hkphoenix_twn$smt#
-
 凤凰中文,http://t.061899.xyz/tl/js/js.php?id=fhwszwt$0618
 凤凰资讯,http://t.061899.xyz/tl/js/js.php?id=fhwszxt$0618
 凤凰香港,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt$0618
@@ -48,23 +45,14 @@
 凤凰资讯,http://j.s.bkpcp.top/js/fhzx$js
 凤凰香港,http://j.s.bkpcp.top/js/fhxg$js
 
-凤凰中文,http://bxtv.3a.ink/api.php?id=fhzw$bxtv
-凤凰资讯,http://bxtv.3a.ink/api.php?id=fhzx$bxtv
-
-凤凰中文,http://218.15.183.23:9901/tsfile/live/23037_1.m3u8$梅州信
-凤凰中文,http://223.95.198.3:8000/hls/20/index.m3u8$宁波移
-
-凤凰资讯,http://120.76.248.139/live/bfgd/4200000484.m3u8$北广
-凤凰中文,http://120.76.248.139/live/bfgd/4200000201.m3u8$北广
-
-CCTV4,http://39.104.69.92:3566/631780421$呼云
-CCTV13,http://39.104.69.92:3566/608807423$呼云
-
 CCTV4,http://218.17.33.178:53290/tsfile/live/1004_1.m3u8$深圳信
 CCTV13,http://218.17.33.178:53290/tsfile/live/1013_1.m3u8$深圳信
 
 CCTV4,http://yjj888.f3322.net:9901/tsfile/live/0004_1.m3u8$安阳联
 CCTV13,http://yjj888.f3322.net:9901/tsfile/live/0013_2.m3u8$安阳联
+
+CCTV4,http://39.104.69.92:3566/631780421$呼云
+CCTV13,http://39.104.69.92:3566/608807423$呼云
 
 CCTV4,http://223.95.198.3:8000/hls/4/index.m3u8$宁波移
 CCTV13,http://223.95.198.3:8000/hls/13/index.m3u8$宁波移
@@ -422,8 +410,17 @@ CETV4,http://m.061899.xyz/mg/cetv4$mg
 凤凰资讯,http://m.061899.xyz/mg/fhzx$mg
 凤凰香港,http://m.061899.xyz/mg/fhhk$mg
 
+凤凰资讯,http://120.76.248.139/live/bfgd/4200000484.m3u8$北广
+凤凰中文,http://120.76.248.139/live/bfgd/4200000201.m3u8$北广
+
+凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27$iptv
+
+中天新闻,http://165.154.226.214:50007/of-4gtv-4gtv009/index.m3u8$165#http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8$220
+寰宇新闻,http://165.154.226.214:50007/of-litv-longturn14/index.m3u8$165#http://220.135.64.124:5050/of-litv-longturn14/index.m3u8$220
+
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$chunk#http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8$chunk#http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8$chunk#http://38.64.72.148/hls/modn/list/4005/playlist.m3u8$chunk#http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8$chunk#http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8$chunk
+
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581$rtm
-新唐人,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8#
 镜新闻,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8$v1
 
 TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43$香港
@@ -432,20 +429,17 @@ TVBS新闻,http://rihou.cc:555/tv/[FY]tvbS新闻$rihou
 
 东森美洲,http://38.64.72.148/hls/modn/list/2016/chunklist0.m3u8$chunk
 
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$chunk#http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8$chunk#http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8$chunk#http://38.64.72.148/hls/modn/list/4005/playlist.m3u8$chunk#http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8$chunk#http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8$chunk
-
 中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8$74
 华视新闻,http://74.91.26.218:82/live/ctsnews.m3u8$74
 台视新闻,http://74.91.26.218:82/live/ttvnews.m3u8$74
 
-中天新闻,http://165.154.226.214:50007/of-4gtv-4gtv009/index.m3u8$220#http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8$220
-寰宇新闻,http://165.154.226.214:50007/of-litv-longturn14/index.m3u8$220#http://220.135.64.124:5050/of-litv-longturn14/index.m3u8$220
 中视新闻,http://220.135.64.124:5050/of-4gtv-4gtv074/index.m3u8$220
-寰宇台湾,http://165.154.226.214:50007/of-4gtv-4gtv156/index.m3u8$220#http://220.135.64.124:5050/of-4gtv-4gtv156/index.m3u8$220
-寰宇财经,http://165.154.226.214:50007/of-4gtv-4gtv158/index.m3u8$220#http://220.135.64.124:5050/of-4gtv-4gtv158/index.m3u8$220
+寰宇台湾,http://165.154.226.214:50007/of-4gtv-4gtv156/index.m3u8$165#http://220.135.64.124:5050/of-4gtv-4gtv156/index.m3u8$220
+寰宇财经,http://165.154.226.214:50007/of-4gtv-4gtv158/index.m3u8$165#http://220.135.64.124:5050/of-4gtv-4gtv158/index.m3u8$220
 华视新闻,http://220.135.64.124:5050/of-4gtv-4gtv052/index.m3u8$220
 今日新闻,http://220.135.64.124:5050/nnews-zh/index.m3u8$220
 中天新闻,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts$ts
+新唐人,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8#
 
 民视新闻,http://74.91.26.218:82/live/ftvnews.m3u8$74
 华视教体,http://74.91.26.218:82/live/ctsjy.m3u8$74
