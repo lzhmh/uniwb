@@ -126,7 +126,7 @@ HOY78,http://pull-vivek.speedws.com/live/aaahoy78.flv$pull
 
 WionNews,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 
-TRTWorld,https://tv-trtworld.medya.trt.com.tr/master.m3u8
+TRTWorld,https://tv-trtworld.medya.trt.com.tr/master.m3u8#https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8#https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
 
 CNN新闻,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8#https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8#https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8#https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8#https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
 
@@ -412,6 +412,8 @@ ELTA体育,rtmp://59.124.75.138/sat/md021$59
 
 中天新闻,http://165.154.226.214:50007/of-4gtv-4gtv009/index.m3u8$165#http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8$220
 寰宇新闻,http://165.154.226.214:50007/of-litv-longturn14/index.m3u8$165#http://220.135.64.124:5050/of-litv-longturn14/index.m3u8$220
+寰宇台湾,http://165.154.226.214:50007/of-4gtv-4gtv156/index.m3u8$165#http://220.135.64.124:5050/of-4gtv-4gtv156/index.m3u8$220
+寰宇财经,http://165.154.226.214:50007/of-4gtv-4gtv158/index.m3u8$165#http://220.135.64.124:5050/of-4gtv-4gtv158/index.m3u8$220
 
 东森美洲,http://38.64.72.148/hls/modn/list/2016/chunklist0.m3u8$chunk
 
@@ -422,16 +424,14 @@ TVBS新闻,http://rihou.cc:555/tv/[FY]tvbS新闻$rihou
 
 新唐人,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8#
 
-中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8$74
 华视新闻,http://74.91.26.218:82/live/ctsnews.m3u8$74
+中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8$74
 台视新闻,http://74.91.26.218:82/live/ttvnews.m3u8$74
 
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$chunk#http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8$chunk#http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8$chunk#http://38.64.72.148/hls/modn/list/4005/playlist.m3u8$chunk#http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8$chunk#http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8$chunk
 
 中视新闻,http://220.135.64.124:5050/of-4gtv-4gtv074/index.m3u8$220
-寰宇台湾,http://165.154.226.214:50007/of-4gtv-4gtv156/index.m3u8$165#http://220.135.64.124:5050/of-4gtv-4gtv156/index.m3u8$220
-寰宇财经,http://165.154.226.214:50007/of-4gtv-4gtv158/index.m3u8$165#http://220.135.64.124:5050/of-4gtv-4gtv158/index.m3u8$220
-华视新闻,http://220.135.64.124:5050/of-4gtv-4gtv052/index.m3u8$220
+华视新闻,http://165.154.226.214:50007/of-4gtv-4gtv052/index.m3u8$165#http://220.135.64.124:5050/of-4gtv-4gtv052/index.m3u8$220
 今日新闻,http://220.135.64.124:5050/nnews-zh/index.m3u8$220
 中天新闻,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts$ts
 
@@ -468,14 +468,14 @@ TVB Plus,http://74.91.26.218:82/live/j2.m3u8$74
 ETRV中国,http://38.64.72.148/hls/modn/list/2003/chunklist0.m3u8$chunk
 
 东森新闻,http://rihou.cc:555/tv/[Us]东森新闻$rihou
+东森财经,http://rihou.cc:555/tv/[Us]东森财经$rihou
+台视财经,http://rihou.cc:555/tv/[mn]台视财经$rihou
 中视新闻,http://rihou.cc:555/tv/[mn]中视新闻$rihou
 华视新闻,http://rihou.cc:555/tv/[mn]华视新闻$rihou
 台视新闻,http://rihou.cc:555/tv/[mn]台视新闻$rihou
 民视新闻,http://rihou.cc:555/tv/[mn]民视新闻$rihou
 镜新闻,http://rihou.cc:555/tv/[Hk]闽镜新闻$rihou
 民视台湾,http://rihou.cc:555/tv/[mn]民视南闽$rihou
-东森财经,http://rihou.cc:555/tv/[Us]东森财经$rihou
-台视财经,http://rihou.cc:555/tv/[mn]台视财经$rihou
 
 民视新闻,http://211.72.174.95:8117/0.ts$中華
 
@@ -484,8 +484,13 @@ ETRV中国,http://38.64.72.148/hls/modn/list/2003/chunklist0.m3u8$chunk
 华视,http://211.72.174.95:8114/0.ts$中華
 公视,http://211.72.174.95:8116/0.ts$中華
 民视,http://211.72.174.95:8115/0.ts$中華
-
 中视,http://165.154.226.214:50007/of-4gtv-4gtv040/index.m3u8$of
+
+大新闻大爆卦,http://165.154.226.214:50007/ofiii201/index.m3u8?proxy=true$165
+少康战情室,http://165.154.226.214:50007/ofiii207/index.m3u8?proxy=true$165
+寰宇全视界,http://165.154.226.214:50007/ofiii204/index.m3u8?proxy=true$165
+国际大小事,http://165.154.226.214:50007/ofiii55/index.m3u8?proxy=true$165
+非凡大探索,http://165.154.226.214:50007/ofiii234/index.m3u8?proxy=true$165
 
 咪视直播,#genre#
 
@@ -920,7 +925,7 @@ CCTV17,http://m.061899.xyz/mg/cctv17$mg
 浙江卫视,https://play-qukan.cztv.com/live/1758879019692345.m3u8$4k
 河北卫视,http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8$索
 吉林卫视,http://live-master.jlntv.cn/jlwshd/sd/live.m3u8$索
-陕西卫视,http://gxlive.snrtv.com/sxws-SD.m3u8$索
+陕西卫视,http://gxlive.snrtv.com/sxws-SD.m3u8$索#http://stream.snrtv.com/sxbc-star-gwHKQ9.m3u8$索2
 内蒙古卫视,http://play1-qk.nmtv.cn/3208526general.m3u8$索
 延边卫视,http://srs.iyb983.cn/video/CYS/index.m3u8$索
 三沙卫视,https://srs.ssws.tv/video/sstv-10/index.m3u8$索
@@ -970,8 +975,12 @@ ZooMoo,https://zoomoo-samsungau.amagi.tv:443/playlist1080p.m3u8
 ZooMoo,https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 ZooMoo,https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 
+BBCKid,https://dmr1h4skdal9h.cloudfront.net/playlist.m3u8
+
 梦工场动漫,http://iptv.4666888.xyz/iptv2A.php?id=40$iptv
 Duck卡通,http://iptv.4666888.xyz/iptv2A.php?id=39$iptv
+
+金鹰卡通,http://phonehwei.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZyYXV0aF9lbmFibGU9b2ZmJmNkbmV4X2lkPWh3X3Bob25lJmNocz0mZGVmPTEmcz1kNjFhZmQxOTBiZjljYzAxMWIyMzI3M2RmMzU1MTVlZSZ1aWQ9JnV1aWQ9ZGVkODI5YjQwMmQwNDQyYzRmZjUxOTBlN2Q2NWNhMDctNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc3Mzc1NTgxMQ,,/JYKTMPP360.m3u8$mgtv
 
 金鹰卡通,http://yjj888.f3322.net:9901/tsfile/live/1024_1.m3u8$安阳联
 嘉佳卡通,http://yjj888.f3322.net:9901/tsfile/live/1026_1.m3u8$安阳联
@@ -1166,6 +1175,7 @@ CHC影迷电影,http://m.061899.xyz/mg/ymdy$mg#
 周润发影院,http://107.150.60.122/live/lbzrf.m3u8$堪萨斯
 周星驰影院,http://107.150.60.122/live/lbzxc.m3u8$堪萨斯
 林正英影院,http://107.150.60.122/live/lblzy.m3u8$堪萨斯
+老故事,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lgs$密苏里
 
 战争大片,https://bscdncmnet.inter.71edge.com/tslive/l1/c53_lb_549_300_t10/nyNwfh1_ucKhYKBD_TC9H1cpPSW_kASRIHpzOyCbAlSQKCoa7yX04RS-69HeMU8vCtcLuBJr7PGxskrxih6fuqCnWcqae7adNI637bzmiWKfT_5A6rzyfSZ0MGGLVBTtyXGJSL_WfsYMsulW2MG8itaUpLb_fvhCXnp17W6sSRRqLz0TAntuHJX6Y_vRC2F5yK9Obu3pf-GYMV6g9nu9HxQQtP3HHX0Mv6VU0Jt4MbYOz49rR_krhRY1JjgFrM36_XgKxzRdQ9Z3pV96146JaeZMoAEJa9thzHYsP180Ex4pnwDC-hKCjxCHkeys7slENFpiSFYXlRqpkcxXAM9_Uw/1a38f2e9c9e4c3cce8152b1a430323419/c53_lb_549_300_t10.m3u8?key=0baa5db205ac0d2966049d19ebdc0a20d&dis_t=1752408382&uuid=6f1d53dc-6873a13e-458&qdpv=3&qd_bid=1&qd_sft=0&pv=0.1&cpt=0
 春节档期,https://lvbdcdncmn.inter.71edge.com/tslive/l1/c51_lb_1018_300_t10/FVCO_jz_IvuxsWIbLCEvdstzbdQ5JLXxRlDL_J0vn0ZfgVYlA8ZxkNsXDoN4tEEtdVVarW6sgCF_YG8SB_oH0KY1zskp9-1iKJVEaWYyfIcsLVb4uKAdavgO_OSZkELLKJjUkk8t-S2ZKMnCiMEnykukS-GLvkY3RPIYLqhh_sgtY8UdWfdJc3EC9bm2mWz6FtFwc60bdNNWJi8gc-IP6buv-YaAeEN1nX9gHHHlH-fHifCyKKz5ppVfKts6RkTExgx82j5eLn6Mhz1s-bWGltEsWZfVmO_fakc0UlGwpKI9Sib9yjNKUMrfspPL8C80AuU4zeRqbSgkzjAcoovjnw/19eafbac982c8ac667d9bbc7c395db940/c51_lb_1018_300_t10.m3u8?key=0baa5db205ac0d296d2a304d3de433222&dis_t=1752408161&uuid=6f1d53dc-6873a061-45a&qdpv=3&qd_bid=1&qd_sft=0&pv=0.1&cpt=0
@@ -2415,8 +2425,10 @@ CGTN纪录,http://news.cgtn.com/resource/live/document/cgtn-doc.m3u8$news
 CGTN纪录,https://0472.org/hls/cgtnd.m3u8
 
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8$61
-WildEarth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8$wild#https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist1080p.m3u8
-Earth_famelack,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist1080p.m3u8
+
+WildEarth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8$wild#https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
+
+BBCEarth,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist1080p.m3u8#https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 
 History,https://amg00841-amg00841c7-rakuten-uk-2820.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00841-aeemeafast-historyhuntersrakuten-rakutenuk/cb423e4f7b7b6fdccb993e6cd3f011a0d10e688b5534d23f3aaa76da089e5500d9e0a0dce855ef7844f8468035552a124d19af09df7c1fc7d56acf086a7a137f8ad0b47fc0896349f2845a4d7fe1014715e10b16d73b502499a13120b1109935451fe1026b161588be02f26f42b6d848d4227c94acd965277d445f815d4d86f108f2bdb84240db6bbfb21a58e07b12f88346cdca1ca580ca5b8c578277f745cec7f38cce46d381967ea856e464440021259dcd2ac5cd5be58d9c383f9d227974213f9ecb1255d35efc25766fba92feb16ceb16cac916956123be13ea37ee52a44adac4237c2cdac095d0505531e4e5566435a9e6a1f09b7f53ef2393a6985eb6873db6945a67b0f5eba1eec384c56b5eebe21893a42a86b5263e30c992449c9288248eda9067933fc3cbf89972170033444ab154ac9e62cc3a9d569c8e4271121d1fedad5ccad08d05707a19d2c91ef5030bb5debc86dd2532de2f4e09bf2e8a0d4524e71c5851c961b99635678c662d803636f41175a34aeeb721f0e88ab15275e590970caf2fdcb40cd3e40be6386f0e4ce0a46c7a414b3281ba32436037930bb4a1bf8b1d3e09e2f3c2e9d31369574b707c38cbb3b73ecbf48f43743bc850346f671f118276bf44d6035b0f3dc618c7d667518101246dabe70854546899dfa2c3e0f2cf57be6bdcdff75b796bb90222a7be8d0869bb78de63b9f27f79018987c8936451/60/960x540_3043040/index.m3u8
 
@@ -2495,7 +2507,6 @@ CETV2,http://111.56.90.5/000000000000/1000000005000266004/1.m3u8$呼移
 飞碟之谜01,https:/hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/f0a47e155d32450daa1d36a04fd7d262/2000.m3u8
 飞碟之谜02,https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d2454bbb542d4613a9db478dab2addfd/2000.m3u8
 
-老故事,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lgs$密苏里
 世界地理,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sjdl$密苏里
 发现之旅,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fxzl$密苏里
 CETV1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1$密苏里
@@ -2516,6 +2527,8 @@ CETV2,http://120.76.248.139/live/bfgd/4200000492.m3u8$北广
 中华特产,http://120.76.248.139/live/bfgd/4200000158.m3u8$北广
 环球旅游,http://120.76.248.139/live/bfgd/4200000147.m3u8$北广
 快乐垂钓,http://120.76.248.139/live/bfgd/4200000228.m3u8$北广
+
+WorldWar,https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8
 
 地市频道,#genre#
 
