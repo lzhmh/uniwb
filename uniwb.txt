@@ -192,10 +192,6 @@ CCTV5,http://111.221.137.234:44330/tsfile/live/0005_1.m3u8$天威11
 CCTV5+,http://111.221.137.234:44330/tsfile/live/0125_1.m3u8$天威11
 CCTV16,http://111.221.137.234:44330/tsfile/live/1012_1.m3u8$天威11
 
-CCTV5,http://218.13.138.139:59901/tsfile/live/0005_1.m3u8$佛山信
-CCTV5+,http://218.13.138.139:59901/tsfile/live/0016_1.m3u8$佛山信
-CCTV16,http://218.13.138.139:59901/tsfile/live/1000_1.m3u8$佛山信
-
 CCTV5,http://hmfs.f3322.net:3388/hls/4/index.m3u8$茂名信
 CCTV5+,http://hmfs.f3322.net:3388/hls/5/index.m3u8$茂名信
 CCTV16,http://hmfs.f3322.net:3388/hls/36/index.m3u8$茂名信
@@ -236,6 +232,10 @@ CCTV5+,http://113.241.133.223:9901/tsfile/live/0016_1.m3u8$湘西信
 CCTV5,http://rihou.cc:555/tv/[mg]CCTV-05$rihou
 CCTV5+,http://rihou.cc:555/tv/[mg]CCTV-5p$rihou
 CCTV16,http://rihou.cc:555/tv/[mg]CCTV-16$rihou
+
+CCTV5,http://218.13.138.139:59901/tsfile/live/0005_1.m3u8$佛山信
+CCTV5+,http://218.13.138.139:59901/tsfile/live/0016_1.m3u8$佛山信
+CCTV16,http://218.13.138.139:59901/tsfile/live/1000_1.m3u8$佛山信
 
 CCTV5,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5hd$密苏里
 CCTV5+,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5p$密苏里
