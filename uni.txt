@@ -72,18 +72,18 @@
 CCTV4,http://zh.sqitv.com:888/hls/4/index.m3u8$商丘信
 CCTV13,http://zh.sqitv.com:888/hls/13/index.m3u8$商丘信
 
-CCTV4,http://47.105.93.105:7002/631780421$青岛里
-CCTV13,http://47.105.93.105:7002/608807423$青岛里
-
-CCTV4,http://218.17.33.178:53290/tsfile/live/1004_1.m3u8$深圳信
-CCTV13,http://218.17.33.178:53290/tsfile/live/1013_1.m3u8$深圳信
-
 CCTV4,http://58.17.89.7:8081/hls/4/index.m3u8$鹰潭联
 CCTV13,http://58.17.89.7:8081/hls/13/index.m3u8$鹰潭联
 
 CCTV4,http://60.13.52.236:65500/newlive/live/hls/4/live.m3u8$兰州联
 CCTV13,http://60.13.52.236:65500/newlive/live/hls/13/live.m3u8$兰州联
 CCTV13,http://60.13.52.236:65500/newlive/live/hls/16/live.m3u8$兰州联
+
+CCTV4,http://47.105.93.105:7002/631780421$青岛里
+CCTV13,http://47.105.93.105:7002/608807423$青岛里
+
+CCTV4,http://218.17.33.178:53290/tsfile/live/1004_1.m3u8$深圳信
+CCTV13,http://218.17.33.178:53290/tsfile/live/1013_1.m3u8$深圳信
 
 CCTV4,http://fuxin.yunjifei.top:999/tsfile/live/0004_1.m3u8$阜新信
 CCTV13,http://fuxin.yunjifei.top:999/tsfile/live/0013_1.m3u8$阜新信
