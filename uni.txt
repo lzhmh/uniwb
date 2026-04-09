@@ -69,6 +69,9 @@
 
 凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27$iptv#http://61.184.46.85:85/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0$荆州信
 
+CCTV4,http://218.17.33.178:53290/tsfile/live/1004_1.m3u8$深圳信
+CCTV13,http://218.17.33.178:53290/tsfile/live/1013_1.m3u8$深圳信
+
 CCTV4,http://zh.sqitv.com:888/hls/4/index.m3u8$商丘信
 CCTV13,http://zh.sqitv.com:888/hls/13/index.m3u8$商丘信
 
@@ -81,9 +84,6 @@ CCTV13,http://60.13.52.236:65500/newlive/live/hls/16/live.m3u8$兰州联
 
 CCTV4,http://47.105.93.105:7002/631780421$青岛里
 CCTV13,http://47.105.93.105:7002/608807423$青岛里
-
-CCTV4,http://218.17.33.178:53290/tsfile/live/1004_1.m3u8$深圳信
-CCTV13,http://218.17.33.178:53290/tsfile/live/1013_1.m3u8$深圳信
 
 CCTV4,http://fuxin.yunjifei.top:999/tsfile/live/0004_1.m3u8$阜新信
 CCTV13,http://fuxin.yunjifei.top:999/tsfile/live/0013_1.m3u8$阜新信
@@ -179,13 +179,12 @@ CCTV+2,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist
 
 体育频道,#genre#
 
+CCTV5,http://218.17.33.178:53290/tsfile/live/1017_1.m3u8$深圳信
+CCTV5+,http://218.17.33.178:53290/tsfile/live/1005_1.m3u8$深圳信
+
 CCTV5,http://116.76.254.170:44330/tsfile/live/0005_1.m3u8$天威16
 CCTV5+,http://116.76.254.170:44330/tsfile/live/0125_1.m3u8$天威16
 CCTV16,http://116.76.254.170:44330/tsfile/live/1012_1.m3u8$天威16
-
-CCTV5,http://218.13.138.139:59901/tsfile/live/0005_1.m3u8$佛山信
-CCTV5+,http://218.13.138.139:59901/tsfile/live/0016_1.m3u8$佛山信
-CCTV16,http://218.13.138.139:59901/tsfile/live/1000_1.m3u8$佛山信
 
 CCTV5,http://111.56.90.5/000000000000/5000000004000008885/index.m3u8$呼移
 CCTV5+,http://111.56.90.5/000000000000/5000000011000031127/index.m3u8$呼移
@@ -204,9 +203,6 @@ CCTV5+,http://47.105.93.105:7002/641886773$青岛里
 
 CCTV5,http://223.95.198.3:8000/hls/5/index.m3u8$宁波移
 CCTV16,http://223.95.198.3:8000/hls/16/index.m3u8$宁波移
-
-CCTV5,http://218.17.33.178:53290/tsfile/live/1017_1.m3u8$深圳信
-CCTV5+,http://218.17.33.178:53290/tsfile/live/1005_1.m3u8$深圳信
 
 CCTV5,http://61.143.15.139:59901//tsfile/live/1001_1.m3u8$江门信
 CCTV5+,http://61.143.15.139:59901//tsfile/live/0016_1.m3u8$江门信
@@ -257,6 +253,10 @@ CCTV16,http://j.s.bkpcp.top/jj/cctv16$美国
 CCTV5,http://rihou.cc:555/tv/[mg]CCTV-05$rihou
 CCTV5+,http://rihou.cc:555/tv/[mg]CCTV-5p$rihou
 CCTV16,http://rihou.cc:555/tv/[mg]CCTV-16$rihou
+
+CCTV5,http://218.13.138.139:59901/tsfile/live/0005_1.m3u8$佛山信
+CCTV5+,http://218.13.138.139:59901/tsfile/live/0016_1.m3u8$佛山信
+CCTV16,http://218.13.138.139:59901/tsfile/live/1000_1.m3u8$佛山信
 
 CCTV5,http://111.221.137.234:44330/tsfile/live/0005_1.m3u8$天威11
 CCTV5+,http://111.221.137.234:44330/tsfile/live/0125_1.m3u8$天威11
@@ -314,6 +314,7 @@ ELTA体育,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqp
 武术世界,https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=3a25b2152ee83fa2f06c21c21c83455f&wsTime=1770530381
 武术世界,http://m.061899.xyz/mg/dds$mg
 武术世界,http://t.061899.xyz/tl/dq.php?id=dds$t
+武术世界,https://tv1288.xyz/hntv.php?id=wspd$xyz
 
 青岛体育,http://120.224.84.170:8085/hls/3/index.m3u8$青岛移
 天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub$gslb
@@ -746,6 +747,20 @@ Big3专场,http://live.iill.top/huya.php?id=30847442$iill
 
 央视音乐,#genre#
 
+CCTV9,http://218.17.33.178:53290/tsfile/live/1009_1.m3u8$深圳信
+CCTV10,http://218.17.33.178:53290/tsfile/live/1010_1.m3u8$深圳信
+CCTV2,http://218.17.33.178:53290/tsfile/live/1002_1.m3u8$深圳信
+CCTV3,http://218.17.33.178:53290/tsfile/live/1003_1.m3u8$深圳信
+CCTV6,http://218.17.33.178:53290/tsfile/live/1006_1.m3u8$深圳信
+CCTV7,http://218.17.33.178:53290/tsfile/live/1007_1.m3u8$深圳信
+CCTV8,http://218.17.33.178:53290/tsfile/live/1008_1.m3u8$深圳信
+CCTV11,http://218.17.33.178:53290/tsfile/live/1011_1.m3u8$深圳信
+CCTV12,http://218.17.33.178:53290/tsfile/live/1012_1.m3u8$深圳信
+CCTV14,http://218.17.33.178:53290/tsfile/live/1014_1.m3u8$深圳信
+CCTV15,http://218.17.33.178:53290/tsfile/live/1015_1.m3u8$深圳信
+CCTV17,http://218.17.33.178:53290/tsfile/live/1016_1.m3u8$深圳信
+CCTV1,http://218.17.33.178:53290/tsfile/live/1001_1.m3u8$深圳信
+
 CCTV9,http://zh.sqitv.com:888/hls/9/index.m3u8$商丘信
 CCTV10,http://zh.sqitv.com:888/hls/10/index.m3u8$商丘信
 CCTV2,http://zh.sqitv.com:888/hls/2/index.m3u8$商丘信
@@ -773,20 +788,6 @@ CCTV14,http://47.105.93.105:7002/624878440$青岛里
 CCTV15,http://47.105.93.105:7002/673168223$青岛里
 CCTV17,http://47.105.93.105:7002/673168256$青岛里
 CCTV1,http://47.105.93.105:7002/608807420$青岛里
-
-CCTV9,http://218.17.33.178:53290/tsfile/live/1009_1.m3u8$深圳信
-CCTV10,http://218.17.33.178:53290/tsfile/live/1010_1.m3u8$深圳信
-CCTV2,http://218.17.33.178:53290/tsfile/live/1002_1.m3u8$深圳信
-CCTV3,http://218.17.33.178:53290/tsfile/live/1003_1.m3u8$深圳信
-CCTV6,http://218.17.33.178:53290/tsfile/live/1006_1.m3u8$深圳信
-CCTV7,http://218.17.33.178:53290/tsfile/live/1007_1.m3u8$深圳信
-CCTV8,http://218.17.33.178:53290/tsfile/live/1008_1.m3u8$深圳信
-CCTV11,http://218.17.33.178:53290/tsfile/live/1011_1.m3u8$深圳信
-CCTV12,http://218.17.33.178:53290/tsfile/live/1012_1.m3u8$深圳信
-CCTV14,http://218.17.33.178:53290/tsfile/live/1014_1.m3u8$深圳信
-CCTV15,http://218.17.33.178:53290/tsfile/live/1015_1.m3u8$深圳信
-CCTV17,http://218.17.33.178:53290/tsfile/live/1016_1.m3u8$深圳信
-CCTV1,http://218.17.33.178:53290/tsfile/live/1001_1.m3u8$深圳信
 
 CCTV9,http://116.76.254.170:44330/tsfile/live/0009_1.m3u8$天威16
 CCTV10,http://116.76.254.170:44330/tsfile/live/0010_1.m3u8$天威16
@@ -1120,6 +1121,8 @@ MOMO亲子,http://iptv.4666888.xyz/iptv2A.php?id=49$iptv
 宠物小精灵,http://cdn.jdshipin.com:8880/huya.php?id=23749096
 四驱兄弟,http://cdn.jdshipin.com:8880/huya.php?id=11352922
 樱桃小丸子剧,http://cdn.jdshipin.com:8880/huya.php?id=11342394
+大头儿子小头爸爸,https://isus.cc/php/huya.php?id=20969114$cc
+哪吒传奇,https://isus.cc/php/huya.php?id=26355782$cc
 
 名侦探柯南,https://goodiptv.club/douyu/6484910
 料理小当家集,https://goodiptv.club/douyu/8231658
@@ -1332,7 +1335,9 @@ CHC影迷电影,http://47.105.93.105:7002/952383261$青岛里
 //https://goodiptv.club/douyu/
 犯罪片,https://goodiptv.club/douyu/747764$club
 漫威科幻,https://goodiptv.club/douyu/6140589$club
-苹果影院,https://goodiptv.club/douyu/2793084$club
+苹果影院,https://goodiptv.club/douyu/2793084$clubclub
+特辑影院,https://goodiptv.club/douyu/3637778$club
+怡寳影院,https://goodiptv.club/douyu/434971$club
 桃花影院,https://goodiptv.club/douyu/7305938$club
 邦德影院,https://goodiptv.club/douyu/9292499$club
 粤语电影,https://goodiptv.club/douyu/6566671$club
@@ -1360,8 +1365,7 @@ CHC影迷电影,http://47.105.93.105:7002/952383261$青岛里
 周星驰3,https://goodiptv.club/douyu/3990812$club
 刘德华,https://goodiptv.club/douyu/2516864$club
 刘德华1,https://goodiptv.club/douyu/8985415$club
-神乐影院,https://goodiptv.club/douyu/85894$club
-特辑影院,https://goodiptv.club/douyu/3637778$club
+神乐影院,https://goodiptv.club/douyu/85894$
 周末电影院,https://goodiptv.club/douyu/3637726$club
 周末经典,https://goodiptv.club/douyu/3637765$club
 欧美恐怖,https://goodiptv.club/douyu/96577$club
@@ -1383,15 +1387,17 @@ CHC影迷电影,http://47.105.93.105:7002/952383261$青岛里
 贝爷2,https://goodiptv.club/douyu/252802$club
 贝爷3,https://goodiptv.club/douyu/36337$club
 贝爷4,https://goodiptv.club/douyu/925724$club
+
 甜牛奶,https://goodiptv.club/douyu/7494871$club
 兔兔陪看,https://goodiptv.club/douyu/1504768$club
 斗小饼Q,https://goodiptv.club/douyu/1735337$club
 软糖,https://goodiptv.club/douyu/7842226$club
 晚晚Vi,https://goodiptv.club/douyu/8861179$club
 小丑女,https://goodiptv.club/douyu/8603174$club
+
 动漫剧场,https://goodiptv.club/douyu/206858$club
 西游记,https://goodiptv.club/douyu/9518204$club
-隋唐寅义,https://goodiptv.club/douyu/7552568$club
+隋唐演义,https://goodiptv.club/douyu/7552568$club
 龙门镖局,https://goodiptv.club/douyu/9650860$club
 亮剑,https://goodiptv.club/douyu/7925840$club
 老友记,https://goodiptv.club/douyu/8814650$club
@@ -1408,7 +1414,6 @@ CHC影迷电影,http://47.105.93.105:7002/952383261$青岛里
 爱情公寓,https://goodiptv.club/douyu/4105989$club
 杨光的生活,https://goodiptv.club/douyu/6899895$club
 法证先锋2Y,https://goodiptv.club/douyu/9019945$club
-怡寳影院,https://goodiptv.club/douyu/434971$club
 橙幕港剧,https://goodiptv.club/douyu/4549169$club
 新三国,https://goodiptv.club/douyu/276200$club
 神探狄仁杰,https://goodiptv.club/douyu/674441$club
@@ -1445,32 +1450,6 @@ CHC影迷电影,http://47.105.93.105:7002/952383261$青岛里
 铁甲影院,https://goodiptv.club/douyu/1274132$club
 疯狂小潴潴,https://goodiptv.club/douyu/5522351$club
 
-犯罪片,https://live.iill.top/douyu/747764$iill
-漫威科幻,https://live.iill.top/douyu/6140589$iill
-苹果影院,https://live.iill.top/douyu/2793084$iill
-桃花影院,https://live.iill.top/douyu/7305938$iill
-邦德影院,https://live.iill.top/douyu/9292499$iill
-粤语电影,https://live.iill.top/douyu/6566671$iill
-4K影院,https://live.iill.top/douyu/9249162$iill
-科幻动作灾难,https://live.iill.top/douyu/248753$iill
-平安夜快乐,https://live.iill.top/douyu/6863367$iill
-看经典,https://live.iill.top/douyu/7314294$iill
-林正英1,https://live.iill.top/douyu/218859$iill
-译制国语,https://live.iill.top/douyu/2436390$iill
-小黛兮影,https://live.iill.top/douyu/11553944$iill
-林正英2,https://live.iill.top/douyu/7356023$iill
-宇哥经典,https://live.iill.top/douyu/413573$iill
-高分影厅,https://live.iill.top/douyu/2535105$iill
-花卷陪看,https://live.iill.top/douyu/52787$iill
-喜剧电影,https://live.iill.top/douyu/9292492$iill
-佳佳越狱,https://live.iill.top/douyu/7575350$iill
-经典港剧,https://live.iill.top/douyu/9548850$iill
-胡八一,https://live.iill.top/douyu/7701735$iill
-尬舞姐姐,https://live.iill.top/douyu/323876$iill
-表妹影院,https://live.iill.top/douyu/5423$iill
-小栗子,https://live.iill.top/douyu/7254536$iill
-粤语电影,https://live.iill.top/douyu/1226741$iill
-
 犯罪片,http://php.404003.xyz/live/douyuyqk.php?id=747764$php
 漫威科幻,http://php.404003.xyz/live/douyuyqk.php?id=6140589$php
 苹果影院,http://php.404003.xyz/live/douyuyqk.php?id=2793084$php
@@ -1496,6 +1475,32 @@ CHC影迷电影,http://47.105.93.105:7002/952383261$青岛里
 表妹影院,http://php.404003.xyz/live/douyuyqk.php?id=5423$php
 小栗子,http://php.404003.xyz/live/douyuyqk.php?id=7254536$php
 粤语电影,http://php.404003.xyz/live/douyuyqk.php?id=1226741$php
+
+犯罪片,https://live.iill.top/douyu/747764$iill
+漫威科幻,https://live.iill.top/douyu/6140589$iill
+苹果影院,https://live.iill.top/douyu/2793084$iill
+桃花影院,https://live.iill.top/douyu/7305938$iill
+邦德影院,https://live.iill.top/douyu/9292499$iill
+粤语电影,https://live.iill.top/douyu/6566671$iill
+4K影院,https://live.iill.top/douyu/9249162$iill
+科幻动作灾难,https://live.iill.top/douyu/248753$iill
+平安夜快乐,https://live.iill.top/douyu/6863367$iill
+看经典,https://live.iill.top/douyu/7314294$iill
+林正英1,https://live.iill.top/douyu/218859$iill
+译制国语,https://live.iill.top/douyu/2436390$iill
+小黛兮影,https://live.iill.top/douyu/11553944$iill
+林正英2,https://live.iill.top/douyu/7356023$iill
+宇哥经典,https://live.iill.top/douyu/413573$iill
+高分影厅,https://live.iill.top/douyu/2535105$iill
+花卷陪看,https://live.iill.top/douyu/52787$iill
+喜剧电影,https://live.iill.top/douyu/9292492$iill
+佳佳越狱,https://live.iill.top/douyu/7575350$iill
+经典港剧,https://live.iill.top/douyu/9548850$iill
+胡八一,https://live.iill.top/douyu/7701735$iill
+尬舞姐姐,https://live.iill.top/douyu/323876$iill
+表妹影院,https://live.iill.top/douyu/5423$iill
+小栗子,https://live.iill.top/douyu/7254536$iill
+粤语电影,https://live.iill.top/douyu/1226741$iill
 
 虎牙轮播,#genre#
 
@@ -1595,6 +1600,91 @@ CHC影迷电影,http://47.105.93.105:7002/952383261$青岛里
 日本电影,https://live.ottiptv.cc/huya/23652317$cc
 冯小刚,https://live.ottiptv.cc/huya/11352906$cc
 搞笑僵尸片,https://live.ottiptv.cc/huya/11352963$cc
+
+古天乐专场,https://isus.cc/php/huya.php?id=29982675$cc
+梁家辉专场,https://isus.cc/php/huya.php?id=11342429$cc
+王宝强专场,https://isus.cc/php/huya.php?id=30080251$cc
+郭富城专场,https://isus.cc/php/huya.php?id=20985865$cc
+吴镇宇专场,https://isus.cc/php/huya.php?id=23865096$cc
+灾难片系列,https://isus.cc/php/huya.php?id=23728647$cc
+丧尸片系列,https://isus.cc/php/huya.php?id=24314160$cc
+怪兽片系列,https://isus.cc/php/huya.php?id=29982674$cc
+战争片系列,https://isus.cc/php/huya.php?id=21059618$cc
+硬汉片系列,https://isus.cc/php/huya.php?id=23864973$cc
+竞速片系列,https://isus.cc/php/huya.php?id=29982635$cc
+爱情片系列,https://isus.cc/php/huya.php?id=29982639$cc
+犯罪片系列,https://isus.cc/php/huya.php?id=30080165$cc
+奇幻片系列,https://isus.cc/php/huya.php?id=26355847$cc
+冒险片系列,https://isus.cc/php/huya.php?id=21059566$cc
+穿越片系列,https://isus.cc/php/huya.php?id=29465892$cc
+悬疑片系列,https://isus.cc/php/huya.php?id=21059530$cc
+英雄片系列,https://isus.cc/php/huya.php?id=11601980$cc
+武侠片系列,https://isus.cc/php/huya.php?id=29982611$cc
+复仇片系列,https://isus.cc/php/huya.php?id=29982645$cc
+星球片系列,https://isus.cc/php/huya.php?id=30080234$cc
+警匪片系列,https://isus.cc/php/huya.php?id=30041512$cc
+谍战片系列,https://isus.cc/php/huya.php?id=26355810$cc
+恐怖片系列,https://isus.cc/php/huya.php?id=24884334$cc
+惊悚片系列,https://isus.cc/php/huya.php?id=26355802$cc
+僵尸片系列,https://isus.cc/php/huya.php?id=11352917$cc
+音乐片系列,https://isus.cc/php/huya.php?id=23860057$cc
+杀手片系列,https://isus.cc/php/huya.php?id=23728689$cc
+体育片系列,https://isus.cc/php/huya.php?id=23864480$cc
+西部片系列,https://isus.cc/php/huya.php?id=30080177$cc
+香港片系列,https://isus.cc/php/huya.php?id=29982660$cc
+印度片系列,https://isus.cc/php/huya.php?id=26355799$cc
+高分片系列,https://isus.cc/php/huya.php?id=23902225$cc
+短片系列,https://isus.cc/php/huya.php?id=17098448$cc
+探案剧专区,https://isus.cc/php/huya.php?id=20969144$cc
+都市剧专区,https://isus.cc/php/huya.php?id=29982666$cc
+刑侦剧专区,https://isus.cc/php/huya.php?id=20969130$cc
+怀旧剧专区,https://isus.cc/php/huya.php?id=30080241$cc
+抗战剧专区,https://isus.cc/php/huya.php?id=30080238$cc
+韩国剧专区,https://isus.cc/php/huya.php?id=23863787$cc
+校园剧专区,https://isus.cc/php/huya.php?id=30080228$cc
+谍战剧专区,https://isus.cc/php/huya.php?id=30080225$cc
+古装剧专区,https://isus.cc/php/huya.php?id=24314158$cc
+乡村剧专区,https://isus.cc/php/huya.php?id=30080255$cc
+爱情剧专区,https://isus.cc/php/huya.php?id=29982671$cc
+搞笑剧专区,https://isus.cc/php/huya.php?id=21059634$cc
+武侠剧专区,https://isus.cc/php/huya.php?id=20985816$cc
+穿越剧专区,https://isus.cc/php/huya.php?id=26355857$cc
+名侦探柯南,https://isus.cc/php/huya.php?id=30080236$cc
+火影忍者,https://isus.cc/php/huya.php?id=29465866$cc
+海贼王,https://isus.cc/php/huya.php?id=29982634$cc
+神奇宝贝,https://isus.cc/php/huya.php?id=21241784$cc
+数码宝贝,https://isus.cc/php/huya.php?id=29941782$cc
+宫崎骏,https://isus.cc/php/huya.php?id=21059614$cc
+钢之炼金术师,https://isus.cc/php/huya.php?id=20985859$cc
+黑子的篮球,https://isus.cc/php/huya.php?id=30080253$cc
+瑞克与莫蒂,https://isus.cc/php/huya.php?id=29982655$cc
+星辰变,https://isus.cc/php/huya.php?id=24514506$cc
+成龙历险记,https://isus.cc/php/huya.php?id=11352946$cc
+七龙珠,https://isus.cc/php/huya.php?id=11601966$cc
+全职高手,https://isus.cc/php/huya.php?id=21059628$cc
+全职猎人,https://isus.cc/php/huya.php?id=30080254$cc
+头文字D,https://isus.cc/php/huya.php?id=11352889$cc
+网球王子,https://isus.cc/php/huya.php?id=11352882$cc
+玩具总动员,https://isus.cc/php/huya.php?id=30080256$cc
+通灵王,https://isus.cc/php/huya.php?id=20969112$cc
+游戏王,https://isus.cc/php/huya.php?id=20985856$cc
+男子高中生的日常,https://isus.cc/php/huya.php?id=20985858$cc
+元气少女缘结神,https://isus.cc/php/huya.php?id=11352967$cc
+全职法师,https://isus.cc/php/huya.php?id=26355772$cc
+尸兄,https://isus.cc/php/huya.php?id=26355846$cc
+龙族,https://isus.cc/php/huya.php?id=23865086$cc
+间谍过家家,https://isus.cc/php/huya.php?id=30080149$cc
+罗小黑战记,https://isus.cc/php/huya.php?id=24314159$cc
+圣斗士星矢,https://isus.cc/php/huya.php?id=10396612$cc
+葫芦兄弟,https://isus.cc/php/huya.php?id=20985834$cc
+咒术回战,https://isus.cc/php/huya.php?id=21059561$cc
+超自然武装当哒当,https://isus.cc/php/huya.php?id=20985850$cc
+新世纪福音战士,https://isus.cc/php/huya.php?id=20985862$cc
+足球小将,https://isus.cc/php/huya.php?id=25725150$cc
+轻羽飞扬,https://isus.cc/php/huya.php?id=30805998$cc
+虫师,https://isus.cc/php/huya.php?id=21241791$cc
+魔神英雄传,https://isus.cc/php/huya.php?id=21241839$cc
+国产动漫系列,https://isus.cc/php/huya.php?id=11352869$cc
 极限挑战],https://live.ottiptv.cc/huya/11352914$cc
 金庸武侠,https://live.ottiptv.cc/huya/11342435$cc
 金庸电影,https://live.ottiptv.cc/huya/11352897$cc
@@ -1680,7 +1770,6 @@ CHC影迷电影,http://47.105.93.105:7002/952383261$青岛里
 旋风十一人,https://live.ottiptv.cc/huya/11342400$cc
 犬夜叉,https://live.ottiptv.cc/huya/11352893$cc
 新神雕侠侣古天乐,https://live.ottiptv.cc/huya/11352878$cc
-我们结婚吧,https://live.ottiptv.cc/huya/11342394$cc
 极品家丁,https://live.ottiptv.cc/huya/11352884$cc
 血色浪漫,https://live.ottiptv.cc/huya/11602055$cc
 聊斋志异,https://live.ottiptv.cc/huya/11602054$cc
@@ -1903,6 +1992,10 @@ TVB经典—九江十二坊,http://php.404003.xyz/live/yylunbo.php?id=1382735566
 港剧动作,http://php.404003.xyz/live/yylunbo.php?id=1382736809$php
 成龙系列,http://php.404003.xyz/live/yylunbo.php?id=1354888751$php
 天龙八部,http://php.404003.xyz/live/yylunbo.php?id=1382736855$php
+欧美配音电影！！！,http://php.404003.xyz/live/yylunbo.php?id=1354693629$php
+高分经典动作片,http://php.404003.xyz/live/yylunbo.php?id=1382749944$php
+新木乃伊,http://php.404003.xyz/live/yylunbo.php?id=1354936169$php
+呆萌飞行员,http://php.404003.xyz/live/yylunbo.php?id=1354930968$php
 苦乐村官,http://php.404003.xyz/live/yylunbo.php?id=1382736864$php
 战火中的故事,http://php.404003.xyz/live/yylunbo.php?id=1382735625$php
 憨豆先生,http://php.404003.xyz/live/yylunbo.php?id=1354930189$php
@@ -2575,6 +2668,34 @@ X战警系列电影,http://php.404003.xyz/live/yylunbo.php?id=1382736893$php
 少林寺传奇,http://php.404003.xyz/live/yylunbo.php?id=1356338181$php
 经典影视,http://php.404003.xyz/live/yylunbo.php?id=1356364732$php
 筱威回来了,http://php.404003.xyz/live/yylunbo.php?id=37347905$php
+闯关东,http://php.404003.xyz/live/yylunbo.php?id=1383546866$php
+经典雪豹24h,http://php.404003.xyz/live/yylunbo.php?id=1459010966$php
+伪装者,http://php.404003.xyz/live/yylunbo.php?id=1382851593$php
+24h唐朝诡实录1234,http://php.404003.xyz/live/yylunbo.php?id=1353913646$php
+好先生,http://php.404003.xyz/live/yylunbo.php?id=79382500$php
+五号特工组和平ff,http://php.404003.xyz/live/yylunbo.php?id=1414967772$php
+1930年代经典电影,http://php.404003.xyz/live/yylunbo.php?id=1356363815$php
+鬼片恐怖私家影院,http://php.404003.xyz/live/yylunbo.php?id=1354209316$php
+经典港片电影,http://php.404003.xyz/live/yylunbo.php?id=1461889059$php
+知否知否应是绿肥红瘦,http://php.404003.xyz/live/yylunbo.php?id=21881901$php
+快来呀好剧在等你,http://php.404003.xyz/live/yylunbo.php?id=1331686180$php
+安安电视剧,http://php.404003.xyz/live/yylunbo.php?id=1414817779$php
+经典抗战剧,http://php.404003.xyz/live/yylunbo.php?id=1354555195$php
+进来 陪你看电视,http://php.404003.xyz/live/yylunbo.php?id=1353518742$php
+动漫《火影疾风传》,http://php.404003.xyz/live/yylunbo.php?id=1459675153$php
+灌篮高手,http://php.404003.xyz/live/yylunbo.php?id=1382735626$php
+密子君,http://php.404003.xyz/live/yylunbo.php?id=1382736717$php
+经典动漫,http://php.404003.xyz/live/yylunbo.php?id=67857780$php
+欢迎光临,http://php.404003.xyz/live/yylunbo.php?id=1355532933$php
+名不虚传-韩剧,http://php.404003.xyz/live/yylunbo.php?id=1382749904$php
+时代剧，黄土高天,http://php.404003.xyz/live/yylunbo.php?id=1414864180$php
+小甜甜    闯关东,http://php.404003.xyz/live/yylunbo.php?id=1354689861$php
+小爽东北菇凉，求守护,http://php.404003.xyz/live/yylunbo.php?id=1382609850$php
+天龙八部,http://php.404003.xyz/live/yylunbo.php?id=1355067965$php
+揭秘！经典传奇背后的未解之谜,http://php.404003.xyz/live/yylunbo.php?id=1382736912$php
+为妈妈点赞,http://php.404003.xyz/live/yylunbo.php?id=1382745098$php
+爱情拯救计划,http://php.404003.xyz/live/yylunbo.php?id=1354936238$php
+燃燃影视,http://php.404003.xyz/live/yylunbo.php?id=50298248$php
 
 // https://live.metshop.top/yy/
 
@@ -2679,6 +2800,7 @@ CETV2,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cetv2$cdn6
 文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=c73fa7f1a30e79c64b9b91e0b462cc76&wsTime=1771351141$dxtx
 文物宝库,http://zh.sqitv.com:888/hls/36/index.m3u8$商丘信
 CETV1,http://zh.sqitv.com:888/hls/18/index.m3u8$商丘信
+文物宝库,https://tv1288.xyz/hntv.php?id=wwbk$xyz
 
 国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=202168a869cde2c97c19bc738d057b26&wsTime=1758556819#http://38.75.136.137:98/gslb/dsdqpub/gxpd.m3u8?auth=testpub$gslb
 国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=f4ba482a205ea40f8b3ebc6d1de3f6fc&wsTime=1758945610
@@ -2773,6 +2895,21 @@ WorldWar,https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8
 
 移动戏曲,https://dxtx.hntv.tv/live/ydxq.m3u8?txSecret=caad41b421fdab7fa0dfbaf96f59f9f0&txTime=7B2E515F&wsSecret=22c7743616983370c506332d5d034851&wsTime=1764835229
 
+河南都市,https://tv1288.xyz/hntv.php?id=hnds$xyz
+河南民生,https://tv1288.xyz/hntv.php?id=hnms$xyz
+河南法治,https://tv1288.xyz/hntv.php?id=hmfz$xyz
+河南电视剧,https://tv1288.xyz/hntv.php?id=hndsj$xyz
+河南新闻,https://tv1288.xyz/hntv.php?id=hnxw$xyz
+河南公共,https://tv1288.xyz/hntv.php?id=hngg$xyz
+河南乡村,https://tv1288.xyz/hntv.php?id=hnxc$xyz
+梨园频道,https://tv1288.xyz/hntv.php?id=hnly$xyz
+河南曲艺,https://tv1288.xyz/hntv.php?id=jczy$xyz
+象视界,https://tv1288.xyz/hntv.php?id=xsj$xyz
+郑州新闻综合,https://tv1288.xyz/hntv.php?id=zz1$xyz
+开封新闻综合,https://tv1288.xyz/hntv.php?id=kf1$xyz
+洛阳新闻综合,https://tv1288.xyz/hntv.php?id=ly1$xyz
+商丘新闻综合,https://tv1288.xyz/hntv.php?id=sq1$xyz
+
 小品汇,#genre#
 
 本山小品,https://goodiptv.club/douyu/9817716$club
@@ -2793,6 +2930,7 @@ WorldWar,https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8
 相声小品,https://live.iill.top/douyu/9286868$iill
 经典小品,https://live.iill.top/douyu/9067836$iill
 
+赵本山《蓝光版》,https://live.ottiptv.cc/yy/32160832$cc
 本山快乐营2,https://live.ottiptv.cc/yy/1382736718$cc
 赵本山《超清版》,https://live.ottiptv.cc/yy/1382683959$cc
 宋小宝小品合集,https://live.ottiptv.cc/yy/1354931577$cc
@@ -2810,6 +2948,7 @@ WorldWar,https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8
 相声搜,https://live.ottiptv.cc/yy/34025318$cc
 怀旧小品,https://live.ottiptv.cc/yy/1382736821$cc
 
+赵本山《蓝光版》,http://php.404003.xyz/live/yylunbo.php?id=32160832$php
 本山快乐营2,http://php.404003.xyz/live/yylunbo.php?id=1382736718$php
 赵本山《超清版》,http://php.404003.xyz/live/yylunbo.php?id=1382683959$php
 宋小宝小品合集,http://php.404003.xyz/live/yylunbo.php?id=1354931577$php
