@@ -1,5 +1,5 @@
 ﻿//粤联频道数据收集自网络上的分享260215开通IPV6
-新闻HU27,#genre#
+新闻HU28,#genre#
 
 凤凰中文,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8$北海联
 凤凰资讯,http://221.7.175.154:8445/tsfile/live/1021_1.m3u8$北海联
@@ -71,8 +71,8 @@ CCTV13,http://218.17.33.178:53290/tsfile/live/1013_1.m3u8$深圳信
 CCTV4,http://zh.sqitv.com:888/hls/4/index.m3u8$商丘信
 CCTV13,http://zh.sqitv.com:888/hls/13/index.m3u8$商丘信
 
-cctv4,rtmp://39.108.129.193:1935/cv4/3wqo_cv4$深阿里
-cctv13,rtmp://39.108.129.193:1935/cv13/qa9s_cv13$深阿里
+CCTV4,rtmp://39.108.129.193:1935/cv4/3wqo_cv4$深阿里
+CCTV13,rtmp://39.108.129.193:1935/cv13/qa9s_cv13$深阿里
 
 CCTV4,http://2g545s5578.qicp.vip:59901/tsfile/live/0004_1.m3u8$安阳联
 CCTV13,http://2g545s5578.qicp.vip:59901/tsfile/live/0013_1.m3u8$安阳联
@@ -210,7 +210,7 @@ CCTV5+,http://zh.sqitv.com:888/hls/19/index.m3u8$商丘信
 CCTV5,http://221.7.175.154:8445/tsfile/live/0113_1.m3u8$北海联
 CCTV5+,http://221.7.175.154:8445/tsfile/live/1018_1.m3u8$北海联
 
-cctv5,rtmp://39.108.129.193:1935/cv5/6mio_cv5$深阿里
+CCTV5,rtmp://39.108.129.193:1935/cv5/6mio_cv5$深阿里
 CCTV5+,http://120.224.84.170:8085/hls/5/index.m3u8$青岛移
 CCTV5+,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV5p$广州腾讯
 
@@ -290,7 +290,8 @@ ELTA体育,rtmp://59.124.75.138/sat/md021$59
 ELTA体育,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGDzvtprdJ6tAUgb7EAU2W8YOtYVEn4M7QUdT11B4KbGtXw9imIqvoqgheBVeoCxs1-b11wz9zErMHJ3FTnmnS-c648kOOE78TQJdIMYgnjOnKAnlmJU5ld1y6fBl5OjJ5fR8i41BxZF-P8Rap_NUzkRWe8MTghNEpZZMMzzcqFl5Fe4W4-XtMqrdtQrWyMl90sr57B1clqiESydxNB3Ck0g.m3u8?u=1757123819
 ELTA体育,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU1qBEChmkVSZV2aaPRHlakdgDZYTd1TO17f1P5z1fhiat3_-0ZLkDmL_tm5VqfvlwYflnMRf6IMKUgWfzBvelfrb4GedBcHyXMidxDfbodbANXYhzG4eE296vdiGRXnbPAc1cTkGMtlGhA1KKcjE2KtNrUt4FDZ10KUAC-H7ZCUfiwTSNlI7MnP71NYfHszNjp1J1az5RpXgtkFrE1-HAXz_LN21JCg4GUNOTEkYx8xo.m3u8?u=1756878715
 
-///爱羽客http://111.162.204.18:8686/udp/225.1.2.1:5002$天津联#http://118.180.142.189:65535/udp/239.255.29.31:8231$甘肃信
+爱羽客,http://60.4.30.55:8077/udp/239.253.93.202:6380$河北联
+爱羽客,http://www.liyajun.top:7088/udp/239.253.93.202:6380$河北联
 
 广东体育,http://218.13.138.139:59901/tsfile/live/1003_1.m3u8$佛山信
 广东体育,http://116.76.254.170:44330/tsfile/live/1000_1.m3u8$天威16#http://111.221.137.234:44330/tsfile/live/0124_1.m3u8$天威11#http://go.bkpcp.top/mg/gdty$go#http://m.061899.xyz/mg/gdty$mg#http://hmfs.f3322.net:3388/hls/6/index.m3u8$茂名信
@@ -314,7 +315,6 @@ ELTA体育,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqp
 高尔夫网球,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub$gslb
 
 风云足球,http://hmfs.f3322.net:3388/hls/9/index.m3u8$茂名信
-风云足球,http://111.61.236.247:9081/hls/58/index.m3u8$廊坊移
 央视台球,http://115.44.140.170:18180/TV00000000000000000086@HHZT$天威hh
 
 劲爆体育,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jbty$cdn6#http://m.061899.xyz/mg/jbty$mg#http://go.bkpcp.top/mg/jbty$go
@@ -351,8 +351,22 @@ ELTA体育,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqp
 
 百事乒羽1,http://sss918.synology.me:8000/udp/233.50.200.246:5140$浙江联
 百事乒羽1,http://sss918.synology.me:8000/udp/233.50.201.204:5140$浙江联
+百事乒羽1,http://www.negative.top:50000/udp/233.50.200.246:5140$浙江联
+百事乒羽1,http://www.negative.top:50000/udp/233.50.201.204:5140$浙江联
+百事乒羽1,http://123.157.31.182:7912/udp/233.50.200.246:5140$浙江联
+百事乒羽1,http://123.157.31.182:7912/udp/233.50.201.204:5140$浙江联
+百事乒羽1,http://hs.hejd.net:7088/udp/233.50.200.246:5140$浙江联
+百事乒羽1,http://hs.hejd.net:7088/udp/233.50.201.204:5140$浙江联
+百事乒羽1,http://eversouthhangzhou.7766.org:8188/udp/233.50.200.246:5140$浙江联
+百事乒羽1,http://eversouthhangzhou.7766.org:8188/udp/233.50.201.204:5140$浙江联
+百事乒羽1,http://e1.woc.iiiya.cn:18888/udp/239.61.5.12:1025$福建信
+百事乒羽1,http://www.liangcl.top:8686/udp/233.50.200.246:5140$浙江联
+百事乒羽1,http://www.liangcl.top:8686/udp/233.50.201.204:5140$浙江联
+百事乒羽1,http://hook.msen.site:8000/udp/235.254.196.234:1208$重庆信
 百事乒羽1,http://www.745612.xyz:7788/udp/235.254.196.234:1208$重庆信
 百事乒羽2,http://www.745612.xyz:7788/udp/235.254.196.235:1212$重庆信
+百事乒羽2,http://hook.msen.site:8000/udp/235.254.196.235:1212$重庆信
+百事乒羽2,http://e1.woc.iiiya.cn:18888/udp/239.61.5.13:1025$福建信
 
 棋牌娱乐,#genre#
 
@@ -409,6 +423,7 @@ ELTA体育,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqp
 
 天元围棋,http://38.75.136.137:98/gslb/dsdqpub/gztywq.m3u8?auth=testpub$gslb#http://yahao.myqnapcloud.com:4022/udp/239.253.43.98:5146$广东信
 天元围棋,http://120.76.248.139/live/bfgd/4200000633.m3u8$北广
+天元围棋,http://60.4.30.55:8077/udp/239.253.93.211:6389$河北联#http://www.liyajun.top:7088/udp/239.253.93.211:6389$河北联
 
 安徽体育,http://112.132.10.54:9901/tsfile/live/1009_1.m3u8$阜阳联#http://112.27.145.212:9902/tsfile/live/1522_1.m3u8$阜阳移#
 
@@ -476,6 +491,10 @@ TVBS新闻,http://rihou.cc:555/tv/[FY]tvbS新闻$rify
 中天新闻,http://119.91.7.169:2026/TW.php?id=中天新闻台$119
 寰宇新闻,http://119.91.7.169:2026/TW.php?id=寰宇新闻台$119
 
+中天新闻,https://test.946985.filegear-sg.me/proxy/2160580991ac55a7$test
+中天新闻,https://pixman.passwdwork.cc.cd/proxy/e02b3975691e34b3.m3u8$pix
+中天新闻,http://46.38.157.60:53874/proxy/e02b3975691e34b3.m3u8$46
+
 凤凰资讯,http://80tv.eu.org:8711/live.m3u8?c=43$80
 TVBSHD,http://80tv.eu.org:8711/live.m3u8?c=2$80
 中天新闻,http://80tv.eu.org:8711/live.m3u8?c=5$80
@@ -484,7 +503,6 @@ TVBSHD,http://80tv.eu.org:8711/live.m3u8?c=2$80
 东森新闻,http://80tv.eu.org:8711/live.m3u8?c=16$80
 东森新闻,http://80tv.eu.org:8711/live.m3u8?c=15$80
 中天新闻+,http://80tv.eu.org:8711/live.m3u8?c=6$80
-TVBSHD,http://80tv.eu.org:8711/live.m3u8?c=2$80
 TVBS新闻,http://80tv.eu.org:8711/live.m3u8?c=4$80
 TVBSNEWS,http://80tv.eu.org:8711/live.m3u8?c=3$80
 寰宇LIVE,http://80tv.eu.org:8711/live.m3u8?c=9$80
@@ -784,18 +802,18 @@ CCTV15,http://zh.sqitv.com:888/hls/15/index.m3u8$商丘信
 CCTV17,http://zh.sqitv.com:888/hls/17/index.m3u8$商丘信
 CCTV1,http://zh.sqitv.com:888/hls/35/index.m3u8$商丘信#http://zh.sqitv.com:888/hls/39/index.m3u8$商丘信#http://zh.sqitv.com:888/hls/42/index.m3u8$商丘信#http://zh.sqitv.com:888/hls/75/index.m3u8$商丘信#http://zh.sqitv.com:888/hls/1/index.m3u8$商丘信
 
-cctv9,rtmp://39.108.129.193:1935/cv9/jr0g_cv9$深阿里
-cctv10,rtmp://39.108.129.193:1935/cv10/3fy8_cv10$深阿里
-cctv2,rtmp://39.108.129.193:1935/cv2/mx6o_cv2$深阿里
-cctv3,rtmp://39.108.129.193:1935/cv3/yxz4_cv3$深阿里
-cctv6,rtmp://39.108.129.193:1935/cv6/re68_cv6$深阿里
-cctv7,rtmp://39.108.129.193:1935/cv7/n6v4_cv7$深阿里
-cctv8,rtmp://39.108.129.193:1935/cv8/rreo_cv8$深阿里
-cctv11,rtmp://39.108.129.193:1935/cv11/gjnk_cv11$深阿里
-cctv12,rtmp://39.108.129.193:1935/cv12/m8w0_cv12$深阿里
-cctv14,rtmp://39.108.129.193:1935/cv14/16rk_cv14$深阿里
-cctv15,rtmp://39.108.129.193:1935/cv15/zvk0_cv15$深阿里
-cctv1,rtmp://39.108.129.193:1935/cctv1/1sao$深阿里
+CCTV9,rtmp://39.108.129.193:1935/cv9/jr0g_cv9$深阿里
+CCTV10,rtmp://39.108.129.193:1935/cv10/3fy8_cv10$深阿里
+CCTV2,rtmp://39.108.129.193:1935/cv2/mx6o_cv2$深阿里
+CCTV3,rtmp://39.108.129.193:1935/cv3/yxz4_cv3$深阿里
+CCTV6,rtmp://39.108.129.193:1935/cv6/re68_cv6$深阿里
+CCTV7,rtmp://39.108.129.193:1935/cv7/n6v4_cv7$深阿里
+CCTV8,rtmp://39.108.129.193:1935/cv8/rreo_cv8$深阿里
+CCTV11,rtmp://39.108.129.193:1935/cv11/gjnk_cv11$深阿里
+CCTV12,rtmp://39.108.129.193:1935/cv12/m8w0_cv12$深阿里
+CCTV14,rtmp://39.108.129.193:1935/cv14/16rk_cv14$深阿里
+CCTV15,rtmp://39.108.129.193:1935/cv15/zvk0_cv15$深阿里
+CCTV1,rtmp://39.108.129.193:1935/cctv1/1sao$深阿里
 
 CCTV9,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV9$广州腾讯
 CCTV10,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV10$广州腾讯
@@ -2967,7 +2985,6 @@ CETV4,http://107.150.60.122/live/cetv4.m3u8$堪萨斯
 CETV4,http://m.061899.xyz/mg/cetv4$mg
 
 世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub$gslb
-世界地理,http://111.61.236.247:9081/hls/62/index.m3u8$廊坊移
 
 CGTN纪录,http://47.105.93.105:7002/609006487$青岛里
 发现之旅,http://47.105.93.105:7002/624878970$青岛里
