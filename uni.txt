@@ -461,8 +461,8 @@ ELTA体育,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqp
 八卦大师,https://live.ottiptv.cc/douyu/851040$cc
 八卦大师,http://222.186.39.21:35466/douyu/851040$222
 
-联通电信_1204,#genre#
-
+联通电信,#genre#
+///_1204
 凤凰中文,http://223.95.198.3:8000/hls/20/index.m3u8$宁波移
 凤凰资讯,http://183.236.161.115:8960/live1171.m3u8$阳江移
 
