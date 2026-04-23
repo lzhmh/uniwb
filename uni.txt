@@ -74,9 +74,6 @@ CCTV13,http://47.119.24.76:59093/608807423$深阿里
 CCTV4,http://116.76.254.170:44330/tsfile/live/0004_1.m3u8$天威16
 CCTV13,http://116.76.254.170:44330/tsfile/live/0013_1.m3u8$天威16
 
-CCTV4,http://115.29.208.41:33339/sx-jz-dx.php?id=0004$杭阿里
-CCTV13,http://115.29.208.41:33339/sx-jz-dx.php?id=1030$杭阿里
-
 CCTV4,rtmp://39.108.129.193:1935/cv4/3wqo_cv4$深阿里
 CCTV13,rtmp://39.108.129.193:1935/cv13/qa9s_cv13$深阿里
 
@@ -116,6 +113,9 @@ CCTV13,http://b.sohu.blog:8888/newlive/live/hls/13/live.m3u8$绵阳信
 
 CCTV4,http://hmfs.f3322.net:3388/hls/30/index.m3u8$茂名信
 CCTV13,http://hmfs.f3322.net:3388/hls/8/index.m3u8$茂名信
+
+CCTV4,http://115.29.208.41:33339/sx-jz-dx.php?id=0004$杭阿里
+CCTV13,http://115.29.208.41:33339/sx-jz-dx.php?id=1030$杭阿里
 
 CCTV4,http://go.bkpcp.top/mg/cctv4$go
 CCTV13,http://go.bkpcp.top/mg/cctv13$go
@@ -463,6 +463,8 @@ ELTA体育,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqp
 
 联通电信,#genre#
 ///_1204
+都业华直播,https://live.iill.top/douyin/992023778128$live
+
 凤凰中文,http://223.95.198.3:8000/hls/20/index.m3u8$宁波移
 凤凰资讯,http://183.236.161.115:8960/live1171.m3u8$阳江移
 
@@ -484,12 +486,13 @@ ELTA体育,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqp
 CCTV4,http://116.76.254.170:44330/tsfile/live/0004_1.m3u8$天威16
 CCTV13,http://116.76.254.170:44330/tsfile/live/0013_1.m3u8$天威16
 
-CCTV4,http://115.29.208.41:33339/sx-jz-dx.php?id=0004$杭阿里
-CCTV13,http://115.29.208.41:33339/sx-jz-dx.php?id=1030$杭阿里
+CCTV4,rtmp://39.108.129.193:1935/cv4/3wqo_cv4$深阿里
+CCTV13,rtmp://39.108.129.193:1935/cv13/qa9s_cv13$深阿里
 
-都业华直播,https://live.iill.top/douyin/992023778128$live
+CCTV4,http://58.17.89.7:8081/hls/4/index.m3u8$鹰潭联
+CCTV13,http://58.17.89.7:8081/hls/13/index.m3u8$鹰潭联
 
-镜新聞,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/f4d56046-82ba-474e-8499-ab2353dc7a9b/1.m3u8#https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8#https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/81c30c93-82df-49c9-975c-61a17204cbba/1.m3u8
+镜新闻,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/f4d56046-82ba-474e-8499-ab2353dc7a9b/1.m3u8#https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8#https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/81c30c93-82df-49c9-975c-61a17204cbba/1.m3u8
 
 新唐人,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8#
 
