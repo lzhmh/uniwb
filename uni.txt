@@ -1183,6 +1183,8 @@ HBOPremuim,https://s.vdo.ai/vhs/1.m3u8$s
 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
+TraceSports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+
 皇马RMTV,https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
 TraceSports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
