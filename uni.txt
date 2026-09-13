@@ -1,12 +1,13 @@
 ﻿粤联频道数据收集自网络上的分享260417开通IPV6
-新闻HU39,#genre#
+新闻HU40,#genre#
 
 凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8$bo
 凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8$bo
 凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8$bo
 
-凤凰中文,http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv$曼谷腾讯
-凤凰资讯,http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.flv$曼谷腾讯
+凤凰中文,http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv$腾讯
+凤凰资讯,http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.flv$腾讯
+凤凰香港,http://43.152.224.209/qctv.fengshows.cn/live/0701phk72.flv$腾讯
 
 凤凰资讯,http://183.236.161.115:8960/live1171.m3u8$阳江移
 凤凰中文,http://120.238.84.45:9901/tsfile/live/1007_1.m3u8$梅州移
@@ -54,6 +55,9 @@ CCTV13,http://58.17.89.7:8081/hls/14/index.m3u8$鹰潭联
 CCTV4,http://124.90.45.52:9901/tsfile/live/0004_1.m3u8$杭州联
 CCTV13,http://124.90.45.52:9901/tsfile/live/0013_1.m3u8$杭州联
 
+CCTV4,http://45.192.97.170:8880/play/4.m3u8$洛杉矶
+CCTV13,http://45.192.97.170:8880/play/14.m3u8$洛杉矶
+
 CCTV4,http://111.230.72.38:1234/631780421$穗腾讯
 CCTV13,http://111.230.72.38:1234/608807423$穗腾讯
 
@@ -93,7 +97,7 @@ CCTV13,http://m.061899.xyz/mg/cctv13$mg
 
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8$web#https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
 
-翡翠台,http://120.238.84.45:9901/tsfile/live/1103_1.m3u8$梅州移
+翡翠台,http://120.238.84.45:9901/tsfile/live/1103_1.m3u8$梅州移#http://play.wenxiang.cn/live/e240363d284b6f41fcb7136eef507ef6.flv$play
 明珠台,http://120.238.84.45:9901/tsfile/live/1000_1.m3u8$梅州移
 
 翡翠台,http://183.239.108.37:1698/hls/92/index.m3u8$汕头移
@@ -159,7 +163,8 @@ CCTV16,http://221.221.137.78:8888/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&
 
 CCTV5,https://live.chinacert.cftest5.cn/cnmg/live/641886683$洛阳移
 CCTV5+,https://live.chinacert.cftest5.cn/cnmg/live/641886773$洛阳移
-
+CCTV5,http://45.192.97.170:8880/play/5.m3u8$洛杉矶
+CCTV5,http://45.192.97.170:8880/play/6.m3u8$洛杉矶
 CCTV5,http://111.230.72.38:1234/641886683$穗腾讯
 CCTV5+,http://111.230.72.38:1234/641886773$穗腾讯
 
@@ -229,7 +234,7 @@ CCTV16,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub$gslb
 央视台球,http://107.150.60.122/live/ystq.m3u8$堪萨斯
 高尔夫网球,http://107.150.60.122/live/gefwq.m3u8$堪萨斯
 
-江苏体育,http://47.119.24.76:59093/626064707$深阿里
+江苏体育,http://120.48.113.49:6006/626064707$京百度
 
 浙江体育,http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8$宁波移#
 
@@ -308,31 +313,38 @@ CCTV16,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub$gslb
 ///end
 联通电信,#genre#
 ///_1204
-
-
 中天新闻,http://111.0.115.129:8081/live/000ztxw.m3u8$111
 中天新闻,http://iactive-clink.com:8081/live/111ztxw.m3u8$ia
 中天新闻,http://173.208.234.146/live/ctinews.m3u8$173
 中天新闻,http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8$220
 寰宇新闻,http://220.135.64.124:5050/of-litv-longturn14/index.m3u8$220
+
+中天新闻,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8$d2
+东森新闻,https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8$d2
+
 寰宇台湾,http://220.135.64.124:5050/of-4gtv-4gtv156/index.m3u8$220
 寰宇财经,http://220.135.64.124:5050/of-4gtv-4gtv158/index.m3u8$220
 中视新闻,http://220.135.64.124:5050/of-4gtv-4gtv074/index.m3u8$220
 华视新闻,http://220.135.64.124:5050/of-4gtv-4gtv052/index.m3u8$220
 
-东森新闻,https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8$d2
 TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8$d2
 三立新闻,https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8$d2
-中天新闻,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8$d2
 中视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8$d2
 华视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ctsnewsqt/playlist.m3u8$d2
 
 中天新闻,http://safe.shanghairta.com:8081/live/000ztxw.m3u8$safe
 
-凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8$bobo
-凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8$bobo
-凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8$bobo
+凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8$bo
+凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8$bo
+凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8$bo
+
+凤凰中文,http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv$腾讯
+凤凰资讯,http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.flv$腾讯
+凤凰香港,http://43.152.224.209/qctv.fengshows.cn/live/0701phk72.flv$腾讯
+
 凤凰资讯,http://183.236.161.115:8960/live1171.m3u8$阳江移
+凤凰中文,http://120.238.84.45:9901/tsfile/live/1007_1.m3u8$梅州移
+
 CCTV4,http://116.76.254.170:44330/tsfile/live/0004_1.m3u8$天威16
 CCTV13,http://116.76.254.170:44330/tsfile/live/0013_1.m3u8$天威16
 
@@ -362,27 +374,21 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8$洛杉矶
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8$洛杉矶
 中视新闻,http://45.192.97.170:8880/play/1316.m3u8$洛杉矶
 
-中天新闻,http://rihou.cc:555/tv/中天新闻$ri
-寰宇新闻,http://rihou.cc:555/tv/寰宇新闻$ri
-东森新闻,http://rihou.cc:555/tv/东森新闻$ri
-新唐人,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8$官网
-新唐人,https://livedata.cloudokyo.cloud/hls/424e5248-02c2-47f3-9435-28877812d25c/hls_480p/video.m3u8$官网
-新唐人,http://rihou.cc:555/tv/NTD$ri
-民视新闻,http://rihou.cc:555/tv/民视新闻$ri
-新唐人,http://80tv.eu.org:8711/live.m3u8?c=25$80tv
-民视第一,http://74.91.26.218:82/live/ftvdy.m3u8
-民视台湾,http://74.91.26.218:82/live/ftvtw.m3u8
-民视,http://74.91.26.218:82/live/ftv.m3u8
-台视,http://74.91.26.218:82/live/ttv.m3u8
-中视,http://74.91.26.218:82/live/ctv.m3u8
-中视经典,http://74.91.26.218:82/live/ctvjd.m3u8
-华视,http://74.91.26.218:82/live/cts.m3u8
-华视新闻,http://74.91.26.218:82/live/ctsnews.m3u8
-台视新闻,http://74.91.26.218:82/live/ttvnews.m3u8
-中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
-公视,http://74.91.26.218:82/live/pts.m3u8
-台视财经,http://74.91.26.218:82/live/ttvcj.m3u8
-华视教育,http://74.91.26.218:82/live/ctsjy.m3u8
+新唐人,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8$官网#https://livedata.cloudokyo.cloud/hls/424e5248-02c2-47f3-9435-28877812d25c/hls_480p/video.m3u8$官网
+
+民视第一,http://74.91.26.218:82/live/ftvdy.m3u8$74
+民视台湾,http://74.91.26.218:82/live/ftvtw.m3u8$74
+民视,http://74.91.26.218:82/live/ftv.m3u8$74
+台视,http://74.91.26.218:82/live/ttv.m3u8$74
+中视,http://74.91.26.218:82/live/ctv.m3u8$74
+中视经典,http://74.91.26.218:82/live/ctvjd.m3u8$74
+华视,http://74.91.26.218:82/live/cts.m3u8$74
+华视新闻,http://74.91.26.218:82/live/ctsnews.m3u8$74
+台视新闻,http://74.91.26.218:82/live/ttvnews.m3u8$74
+中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8$74
+公视,http://74.91.26.218:82/live/pts.m3u8$74
+台视财经,http://74.91.26.218:82/live/ttvcj.m3u8$74
+华视教育,http://74.91.26.218:82/live/ctsjy.m3u8$74
 
 民视新闻,http://211.72.174.95:8117/0.ts$中华
 台视,http://211.72.174.95:8112/0.ts$中华
@@ -559,19 +565,19 @@ CCTV15,http://58.17.89.7:8081/hls/16/index.m3u8$鹰潭联
 CCTV17,http://58.17.89.7:8081/hls/18/index.m3u8$鹰潭联
 CCTV1,http://58.17.89.7:8081/hls/1/index.m3u8$鹰潭联
 
-CCTV9,http://47.119.24.76:59093/673168140$深阿里
-CCTV10,http://47.119.24.76:59093/624878405$深阿里
-CCTV2,http://47.119.24.76:59093/631780532$深阿里
-CCTV3,http://47.119.24.76:59093/624878271$深阿里
-CCTV6,http://47.119.24.76:59093/624878396$深阿里
-CCTV7,http://47.119.24.76:59093/673168121$深阿里
-CCTV8,http://47.119.24.76:59093/624878356$深阿里
-CCTV11,http://47.119.24.76:59093/667987558$深阿里
-CCTV12,http://47.119.24.76:59093/673168185$深阿里
-CCTV14,http://47.119.24.76:59093/624878440$深阿里
-CCTV15,http://47.119.24.76:59093/673168223$深阿里
-CCTV17,http://47.119.24.76:59093/673168256$深阿里
-CCTV1,http://47.119.24.76:59093/608807420$深阿里
+CCTV9,http://120.48.113.49:6006/673168140$京百度
+CCTV10,http://120.48.113.49:6006/624878405$京百度
+CCTV2,http://120.48.113.49:6006/631780532$京百度
+CCTV3,http://120.48.113.49:6006/624878271$京百度
+CCTV6,http://120.48.113.49:6006/624878396$京百度
+CCTV7,http://120.48.113.49:6006/673168121$京百度
+CCTV8,http://120.48.113.49:6006/624878356$京百度
+CCTV11,http://120.48.113.49:6006/667987558$京百度
+CCTV12,http://120.48.113.49:6006/673168185$京百度
+CCTV14,http://120.48.113.49:6006/624878440$京百度
+CCTV15,http://120.48.113.49:6006/673168223$京百度
+CCTV17,http://120.48.113.49:6006/673168256$京百度
+CCTV1,http://120.48.113.49:6006/608807420$京百度
 
 CCTV9,http://116.76.254.170:44330/tsfile/live/0009_1.m3u8$天威16
 CCTV10,http://116.76.254.170:44330/tsfile/live/0010_1.m3u8$天威16
@@ -642,28 +648,28 @@ CCTV17,http://m.061899.xyz/mg/cctv17$mg
 ///end
 省级频道,#genre#
 
-北京卫视,http://47.119.24.76:59093/630287636$深阿里
-广东卫视,http://47.119.24.76:59093/608831231$深阿里
-东南卫视,http://47.119.24.76:59093/849116810$深阿里
-湖北卫视,http://47.119.24.76:59093/947472496$深阿里
-辽宁卫视,http://47.119.24.76:59093/630291707$深阿里
-东方卫视,http://47.119.24.76:59093/651632648$深阿里
-河北卫视,http://47.119.24.76:59093/962042070$深阿里
-海南卫视,http://47.119.24.76:59093/947472502$深阿里#http://47.119.24.76:59093/962045223$深阿里#http://47.119.24.76:59093/962045226$深阿里#http://47.119.24.76:59093/962067523$深阿里
-重庆卫视,http://47.119.24.76:59093/738910914$深阿里
-江苏卫视,http://47.119.24.76:59093/623899368$深阿里
-河南卫视,http://47.119.24.76:59093/790187291$深阿里
-吉林卫视,http://47.119.24.76:59093/947472500$深阿里
-青海卫视,http://47.119.24.76:59093/947472506$深阿里
-江西卫视,http://47.119.24.76:59093/783847495$深阿里
-陕西卫视,http://47.119.24.76:59093/738910838$深阿里
-宁夏卫视,http://47.119.24.76:59093/738910535$深阿里
-宁夏经济,http://47.119.24.76:59093/962067520$深阿里
-三沙卫视,http://47.119.24.76:59093/961023778$深阿里
-大湾区卫视,http://47.119.24.76:59093/608917627$深阿里
-兵团卫视,http://47.119.24.76:59093/956923145$深阿里
-农林卫视,http://47.119.24.76:59093/956904896$深阿里
-上海新闻,http://47.119.24.76:59093/651632657$深阿里
+北京卫视,http://120.48.113.49:6006/630287636$京百度
+广东卫视,http://120.48.113.49:6006/608831231$京百度
+东南卫视,http://120.48.113.49:6006/849116810$京百度
+湖北卫视,http://120.48.113.49:6006/947472496$京百度
+辽宁卫视,http://120.48.113.49:6006/630291707$京百度
+东方卫视,http://120.48.113.49:6006/651632648$京百度
+河北卫视,http://120.48.113.49:6006/962042070$京百度
+海南卫视,http://120.48.113.49:6006/947472502$京百度#http://120.48.113.49:6006/962045223$京百度#http://120.48.113.49:6006/962045226$京百度#http://120.48.113.49:6006/962067523$京百度
+重庆卫视,http://120.48.113.49:6006/738910914$京百度
+江苏卫视,http://120.48.113.49:6006/623899368$京百度
+河南卫视,http://120.48.113.49:6006/790187291$京百度
+吉林卫视,http://120.48.113.49:6006/947472500$京百度
+青海卫视,http://120.48.113.49:6006/947472506$京百度
+江西卫视,http://120.48.113.49:6006/783847495$京百度
+陕西卫视,http://120.48.113.49:6006/738910838$京百度
+宁夏卫视,http://120.48.113.49:6006/738910535$京百度
+宁夏经济,http://120.48.113.49:6006/962067520$京百度
+三沙卫视,http://120.48.113.49:6006/961023778$京百度
+大湾区卫视,http://120.48.113.49:6006/608917627$京百度
+兵团卫视,http://120.48.113.49:6006/956923145$京百度
+农林卫视,http://120.48.113.49:6006/956904896$京百度
+上海新闻,http://120.48.113.49:6006/651632657$京百度
 
 北京卫视,http://60.10.139.113:8801/hls/20/index.m3u8$廊坊联
 广东卫视,http://60.10.139.113:8801/hls/26/index.m3u8$廊坊联
@@ -858,10 +864,12 @@ ZooMoo,https://zoomoo-samsungau.amagi.tv:443/playlist1080p.m3u8
 ZooMoo,https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 ZooMoo,https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 
-嘉佳卡通,http://47.119.24.76:59093/614952364$深阿里
-优漫卡通,http://47.119.24.76:59093/626064703$深阿里
-新动漫,http://47.119.24.76:59093/961930269$深阿里
-中学生,http://47.119.24.76:59093/708869532$深阿里
+金鹰卡通,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/JYKTMPP360.m3u8#http://8.138.7.223/tv/mgtv.php?id=287$mg
+
+嘉佳卡通,http://120.48.113.49:6006/614952364$京百度
+优漫卡通,http://120.48.113.49:6006/626064703$京百度
+新动漫,http://120.48.113.49:6006/961930269$京百度
+中学生,http://120.48.113.49:6006/708869532$京百度
 
 北京酷少,http://60.10.139.113:8801/hls/61/index.m3u8$廊坊联
 河北少儿,http://60.10.139.113:8801/hls/43/index.m3u8$廊坊联
@@ -875,7 +883,6 @@ CETV早教,http://60.10.139.113:8801/hls/83/index.m3u8$廊坊联
 北京酷少,http://221.7.175.154:8445/tsfile/live/1015_1.m3u8$北海联
 金鹰卡通,http://221.7.175.154:8445/tsfile/live/1016_1.m3u8$北海联
 
-金鹰卡通,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/JYKTMPP360.m3u8#http://8.138.7.223/tv/mgtv.php?id=287$mg
 北京酷少,http://107.150.60.122/live/btvkk.m3u8$堪萨斯
 
 金鹰卡通,http://124.228.160.14:9901/tsfile/live/0011_1.m3u8$衡阳信
@@ -959,8 +966,8 @@ CETV早教,http://60.10.139.113:8801/hls/83/index.m3u8$廊坊联
 兵器科技,http://60.10.139.113:8801/hls/72/index.m3u8$廊坊联
 兵器科技,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub$gslb#https://live.264788.xyz/channel/bingqikeji?streamid=530cb4e58bbc48b7fc26f5e0a2e47966&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
-财富天下,http://47.119.24.76:59093/956923159$深阿里
-第一财经,http://47.119.24.76:59093/608780988$深阿里
+财富天下,http://120.48.113.49:6006/956923159$京百度
+第一财经,http://120.48.113.49:6006/608780988$京百度
 
 中国通史,http://8.155.43.98:35455/huya/20985822$8#http://39.153.130.167:35455/huya/20985822$39#https://live.ottiptv.cc/huya/20985822$cc
 中国通史,https://isus.cc/php/huya.php?id=20985822$php
@@ -1136,14 +1143,14 @@ CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub$gsl
 CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub$gslb
 CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub$gslb
 老故事,http://38.75.136.137:98/gslb/dsdqpub/lgs.m3u8?auth=testpub$gslb
-CHC影迷电影,http://47.119.24.76:59093/952383261$深阿里
-CHC影迷电影,http://47.119.24.76:59093/952383261$深阿里
-老故事,http://47.119.24.76:59093/884121956$深阿里
-经典动画,http://47.119.24.76:59093/629942219$深阿里
-抗战经典,http://47.119.24.76:59093/617432318$深阿里
-新片放映厅,http://47.119.24.76:59093/619495952$深阿里
-经典香港,http://47.119.24.76:59093/625703337$深阿里
-最强综艺趴,http://47.119.24.76:59093/629942228$深阿里
+CHC影迷电影,http://120.48.113.49:6006/952383261$京百度
+CHC影迷电影,http://120.48.113.49:6006/952383261$京百度
+老故事,http://120.48.113.49:6006/884121956$京百度
+经典动画,http://120.48.113.49:6006/629942219$京百度
+抗战经典,http://120.48.113.49:6006/617432318$京百度
+新片放映厅,http://120.48.113.49:6006/619495952$京百度
+经典香港,http://120.48.113.49:6006/625703337$京百度
+最强综艺趴,http://120.48.113.49:6006/629942228$京百度
 
 怀旧剧场,http://60.10.139.113:8801/hls/67/index.m3u8$廊坊联
 风云剧场,http://60.10.139.113:8801/hls/66/index.m3u8$廊坊联
@@ -2690,15 +2697,14 @@ CGTN纪录,http://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 CGTN纪录,http://news.cgtn.com/resource/live/document/cgtn-doc.m3u8$news
 CGTN纪录,https://0472.org/hls/cgtnd.m3u8
 
-发现之旅,http://47.119.24.76:59093/624878970$深阿里
-CETV1,http://47.119.24.76:59093/923287154$深阿里
-CETV2,http://47.119.24.76:59093/923287211$深阿里
-CETV4,http://47.119.24.76:59093/923287339$深阿里
-中华特产,http://47.119.24.76:59093/959986618$深阿里
-环球旅游,http://47.119.24.76:59093/958475356$深阿里
-四海钓鱼,http://47.119.24.76:59093/637444975$深阿里
-山东教育,http://47.119.24.76:59093/609154353$深阿里
-中国天气,http://47.119.24.76:59093/959986621$深阿里
+发现之旅,http://120.48.113.49:6006/624878970$京百度
+CETV1,http://120.48.113.49:6006/923287154$京百度
+CETV2,http://120.48.113.49:6006/923287211$京百度
+CETV4,http://120.48.113.49:6006/923287339$京百度
+中华特产,http://120.48.113.49:6006/959986618$京百度
+环球旅游,http://120.48.113.49:6006/958475356$京百度
+四海钓鱼,http://120.48.113.49:6006/637444975$京百度
+山东教育,http://120.48.113.49:6006/609154353$京百度
 
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8$61#
 ANIMALPLANET,http://41.205.93.154/ANIMALPLANET/tracks-v1a1/mono.m3u8
