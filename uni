@@ -65,11 +65,11 @@
 {"key":"奇异果","name":"♑奇异果","type":0,"api":"https://iqiyizyapi.com/api.php/provide/vod/at/xml/","searchable":0,"quickSearch":0,"filterable":0,"playerType":2},
 {"key":"最大","name":"♑最大","type":0,"api":"https://api.zuidapi.com/api.php/provide/vod/at/xml/","searchable":0,"quickSearch":0,"filterable":0,"playerType":2},
 
+{"key":"csp_Ikanbot","name": "👾Ikanbot","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://ikanbot.com/","jar": "https://gitee.com/hnkfmh/jsjar/raw/master/XYQ.jar"},
+
 {"key":"索尼资源","name":"🎀索尼┃采集","type":1,"api":"https://suoniapi.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","动画片","国产剧","欧美剧","韩剧","日剧","港剧","台剧","泰剧","海外剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
 {"key":"量子资源","name":"🎀量子┃采集","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
 {"key":"非凡资源","name":"🎀非凡┃采集","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
-
-{"key":"csp_Ikanbot","name": "👾Ikanbot","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://www.ikanbot.com/","jar": "https://gitee.com/hnkfmh/jsjar/raw/master/XYQ.jar"},
 {"key":"csp_CandyMuj_haokongbu","name":"💖好恐怖","type":3,"api":"csp_CandyMuj_haokongbu","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/hnkfmh/jsjar/raw/master/candymuj.jar"},
 {"key":"火狐资源","name":"火狐","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/","categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","灾难片","犯罪片","悬疑片","惊悚片","奇幻片","冒险片","武侠片","其它片","国产剧","港台剧","日韩剧","欧美剧","香港剧","台湾剧","美国剧","韩国剧","日本剧","泰国剧","港澳剧","日剧","韩剧","泰剧","海外剧","马泰剧","中漫","日漫","动漫","纪录片","动画片","动漫片","国产动漫","港台动漫","日本动漫","海外动漫","日韩动漫","欧美动漫","动漫电影","国内综艺","港台综艺","大陆综艺","日韩综艺","欧美综艺","海外综艺","电影解说"],"searchable":1,"quickSearch":1},
 {"key":"贱贱","name":"贱贱┃p2p","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"},
