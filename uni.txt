@@ -49,17 +49,16 @@
 凤凰资讯,http://j.s.bkpcp.top/js/fhzx$js
 凤凰香港,http://j.s.bkpcp.top/js/fhxg$js
 
-CCTV4,http://58.17.89.7:8081/hls/4/index.m3u8$鹰潭联
-CCTV13,http://58.17.89.7:8081/hls/14/index.m3u8$鹰潭联
+CCTV4,http://fn.gcl.de5.net:5908/gsh950428/631780421$fn
+CCTV13,http://fn.gcl.de5.net:5908/gsh950428/608807423$fn
 
-CCTV4,http://124.90.45.52:9901/tsfile/live/0004_1.m3u8$杭州联
-CCTV13,http://124.90.45.52:9901/tsfile/live/0013_1.m3u8$杭州联
+CCTV4,http://2280.eu.org:1234/631780421$郑联
+CCTV13,http://2280.eu.org:1234/608807423$郑联
 
-CCTV4,http://45.192.97.170:8880/play/4.m3u8$洛杉矶
-CCTV13,http://45.192.97.170:8880/play/14.m3u8$洛杉矶
+CCTV4,http://39.164.138.145:9003/hls/4/index.m3u8$郑州移
+CCTV13,http://39.164.138.145:9003/hls/13/index.m3u8$郑州移
 
-CCTV4,http://111.230.72.38:1234/631780421$穗腾讯
-CCTV13,http://111.230.72.38:1234/608807423$穗腾讯
+CCTV4,http://111.228.4.117:6789/migu720p.php?id=631780421$京东云#http://180.137.128.193:1234/631780421$百色信#http://120.4.118.150:1234/631780421$唐山联#http://119.233.255.62:1234/631780421$厦广电#http://124.221.146.169:7001/631780421$沪腾讯#http://27.11.209.151:3000/631780421$重庆联#http://122.227.204.50:1905/631780421$宁波信#http://42.94.210.135:7788/631780421$兰州信#http://221.1.226.60:7788/631780421$枣庄联#http://mg.cttv.vip/631780421$mg#http://112.26.106.165:7788/631780421$阜阳移#http://124.162.68.25:1234/631780421$重庆联#http://113.98.11.46:3000/631780421$东莞信#http://222.213.105.65:7788/631780421$德阳信#http://120.48.113.49:6006/631780421$京百度#http://111.230.72.38:1234/631780421$穗腾讯#http://w.yyjn.top:3000/631780421$台州信#http://106.52.119.159:1234/631780421$广腾云
 
 CCTV4,http://116.76.254.170:44330/tsfile/live/0004_1.m3u8$天威16
 CCTV13,http://116.76.254.170:44330/tsfile/live/0013_1.m3u8$天威16
@@ -70,14 +69,20 @@ CCTV13,http://221.221.137.78:8888/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&
 CCTV4,http://111.8.224.6:9999/tsfile/live/1007_1.m3u8$怀化移
 CCTV13,http://111.8.224.6:9999/tsfile/live/1045_1.m3u8$怀化移
 
-CCTV4,http://39.164.138.145:9003/hls/4/index.m3u8$郑州移
-CCTV13,http://39.164.138.145:9003/hls/13/index.m3u8$郑州移
-
 CCTV4,http://118.122.144.115:8888/newlive/live/hls/4/live.m3u8$绵阳信
 CCTV13,http://118.122.144.115:8888/newlive/live/hls/13/live.m3u8$绵阳信
 
 CCTV4,http://218.206.193.218:8888/hls/4/index.m3u8$中牟移s
 CCTV13,http://218.206.193.218:8888/hls/13/index.m3u8$中牟移s
+
+CCTV4,http://58.17.89.7:8081/hls/4/index.m3u8$鹰潭联
+CCTV13,http://58.17.89.7:8081/hls/14/index.m3u8$鹰潭联
+
+CCTV4,http://124.90.45.52:9901/tsfile/live/0004_1.m3u8$杭州联
+CCTV13,http://124.90.45.52:9901/tsfile/live/0013_1.m3u8$杭州联
+
+CCTV4,http://45.192.97.170:8880/play/4.m3u8$洛杉矶
+CCTV13,http://45.192.97.170:8880/play/14.m3u8$洛杉矶
 
 CCTV4,http://2g545s5578.qicp.vip:59901/tsfile/live/0004_1.m3u8$安阳联
 CCTV13,http://2g545s5578.qicp.vip:59901/tsfile/live/0013_1.m3u8$安阳联
@@ -150,8 +155,11 @@ CCTV+2,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist
 
 体育频道,#genre#
 
-CCTV5,http://58.17.89.7:8081/hls/5/index.m3u8$鹰潭联
-CCTV5+,http://58.17.89.7:8081/hls/6/index.m3u8$鹰潭联
+CCTV5,http://fn.gcl.de5.net:5908/gsh950428/641886683$fn
+CCTV5+,http://fn.gcl.de5.net:5908/gsh950428/641886773$fn
+
+CCTV5,https://live.chinacert.cftest5.cn/cnmg/live/641886683$洛阳移
+CCTV5+,https://live.chinacert.cftest5.cn/cnmg/live/641886773$洛阳移
 CCTV16,http://221.7.49.226:50085/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$天水联
 
 CCTV5,http://221.7.175.154:8445/tsfile/live/0113_1.m3u8$北海联
@@ -161,12 +169,13 @@ CCTV5,http://221.221.137.78:8888/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&a
 CCTV5+,http://221.221.137.78:8888/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$北京联
 CCTV16,http://221.221.137.78:8888/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$北京联
 
-CCTV5,https://live.chinacert.cftest5.cn/cnmg/live/641886683$洛阳移
-CCTV5+,https://live.chinacert.cftest5.cn/cnmg/live/641886773$洛阳移
+CCTV5,http://120.48.113.49:6006/641886683$京百度
+CCTV5+,http://120.48.113.49:6006/641886773$京百度
+
 CCTV5,http://45.192.97.170:8880/play/5.m3u8$洛杉矶
 CCTV5,http://45.192.97.170:8880/play/6.m3u8$洛杉矶
-CCTV5,http://111.230.72.38:1234/641886683$穗腾讯
-CCTV5+,http://111.230.72.38:1234/641886773$穗腾讯
+CCTV5,http://58.17.89.7:8081/hls/5/index.m3u8$鹰潭联
+CCTV5+,http://58.17.89.7:8081/hls/6/index.m3u8$鹰潭联
 
 CCTV5,http://121.57.88.206:898/hls/5/index.m3u8$额信
 CCTV5+,http://121.57.88.206:898/hls/18/index.m3u8$额信
@@ -641,10 +650,6 @@ CCTV14,http://m.061899.xyz/mg/cctv14$mg
 CCTV15,http://m.061899.xyz/mg/cctv15$mg
 CCTV17,http://m.061899.xyz/mg/cctv17$mg
 
-风云音乐,http://60.10.139.113:8801/hls/68/index.m3u8$廊坊联
-文化精品,http://60.10.139.113:8801/hls/80/index.m3u8$廊坊联
-女性时尚,http://60.10.139.113:8801/hls/79/index.m3u8$廊坊联
-电视指南,http://60.10.139.113:8801/hls/64/index.m3u8$廊坊联
 ///end
 省级频道,#genre#
 
@@ -671,66 +676,7 @@ CCTV17,http://m.061899.xyz/mg/cctv17$mg
 农林卫视,http://120.48.113.49:6006/956904896$京百度
 上海新闻,http://120.48.113.49:6006/651632657$京百度
 
-北京卫视,http://60.10.139.113:8801/hls/20/index.m3u8$廊坊联
-广东卫视,http://60.10.139.113:8801/hls/26/index.m3u8$廊坊联
-深圳卫视,http://60.10.139.113:8801/hls/24/index.m3u8$廊坊联
-东南卫视,http://60.10.139.113:8801/hls/21/index.m3u8$廊坊联
-湖北卫视,http://60.10.139.113:8801/hls/29/index.m3u8$廊坊联
-湖南卫视,http://60.10.139.113:8801/hls/17/index.m3u8$廊坊联
-云南卫视,http://60.10.139.113:8801/hls/51/index.m3u8$廊坊联
-天津卫视,http://60.10.139.113:8801/hls/23/index.m3u8$廊坊联
-辽宁卫视,http://60.10.139.113:8801/hls/28/index.m3u8$廊坊联
-浙江卫视,http://60.10.139.113:8801/hls/18/index.m3u8$廊坊联
-安徽卫视,http://60.10.139.113:8801/hls/99/index.m3u8$廊坊联
-东方卫视,http://60.10.139.113:8801/hls/22/index.m3u8$廊坊联
-河北卫视,http://60.10.139.113:8801/hls/16/index.m3u8$廊坊联
-四川卫视,http://60.10.139.113:8801/hls/30/index.m3u8$廊坊联
-重庆卫视,http://60.10.139.113:8801/hls/31/index.m3u8$廊坊联
-江苏卫视,http://60.10.139.113:8801/hls/19/index.m3u8$廊坊联
-河南卫视,http://60.10.139.113:8801/hls/32/index.m3u8$廊坊联
-吉林卫视,http://60.10.139.113:8801/hls/38/index.m3u8$廊坊联
-黑龙江卫视,http://60.10.139.113:8801/hls/27/index.m3u8$廊坊联
-青海卫视,http://60.10.139.113:8801/hls/56/index.m3u8$廊坊联
-江西卫视,http://60.10.139.113:8801/hls/37/index.m3u8$廊坊联
-山东卫视,http://60.10.139.113:8801/hls/25/index.m3u8$廊坊联
-广西卫视,http://60.10.139.113:8801/hls/52/index.m3u8$廊坊联
-贵州卫视,http://60.10.139.113:8801/hls/36/index.m3u8$廊坊联
-山西卫视,http://60.10.139.113:8801/hls/54/index.m3u8$廊坊联
-宁夏卫视,http://60.10.139.113:8801/hls/57/index.m3u8$廊坊联
-新疆卫视,http://60.10.139.113:8801/hls/59/index.m3u8$廊坊联
-西藏卫视,http://60.10.139.113:8801/hls/58/index.m3u8$廊坊联
-
-北京卫视,http://60.13.52.236:65500/newlive/live/hls/22/live.m3u8$兰州联
-广东卫视,http://60.13.52.236:65500/newlive/live/hls/23/live.m3u8$兰州联
-深圳卫视,http://60.13.52.236:65500/newlive/live/hls/24/live.m3u8$兰州联
-东南卫视,http://60.13.52.236:65500/newlive/live/hls/35/live.m3u8$兰州联
-湖北卫视,http://60.13.52.236:65500/newlive/live/hls/26/live.m3u8$兰州联
-湖南卫视,http://60.13.52.236:65500/newlive/live/hls/19/live.m3u8$兰州联
-云南卫视,http://60.13.52.236:65500/newlive/live/hls/43/live.m3u8$兰州联
-天津卫视,http://60.13.52.236:65500/newlive/live/hls/28/live.m3u8$兰州联
-辽宁卫视,http://60.13.52.236:65500/newlive/live/hls/29/live.m3u8$兰州联
-辽宁卫视,http://60.13.52.236:65500/newlive/live/hls/40/live.m3u8$兰州联
-浙江卫视,http://60.13.52.236:65500/newlive/live/hls/21/live.m3u8$兰州联
-安徽卫视,http://60.13.52.236:65500/newlive/live/hls/33/live.m3u8$兰州联
-东方卫视,http://60.13.52.236:65500/newlive/live/hls/18/live.m3u8$兰州联
-河北卫视,http://60.13.52.236:65500/newlive/live/hls/34/live.m3u8$兰州联
-四川卫视,http://60.13.52.236:65500/newlive/live/hls/36/live.m3u8$兰州联
-重庆卫视,http://60.13.52.236:65500/newlive/live/hls/37/live.m3u8$兰州联
-江苏卫视,http://60.13.52.236:65500/newlive/live/hls/20/live.m3u8$兰州联
-河南卫视,http://60.13.52.236:65500/newlive/live/hls/39/live.m3u8$兰州联
-吉林卫视,http://60.13.52.236:65500/newlive/live/hls/41/live.m3u8$兰州联
-黑龙江卫视,http://60.13.52.236:65500/newlive/live/hls/25/live.m3u8$兰州联
-青海卫视,http://60.13.52.236:65500/newlive/live/hls/44/live.m3u8$兰州联
-江西卫视,http://60.13.52.236:65500/newlive/live/hls/30/live.m3u8$兰州联
-江西卫视,http://60.13.52.236:65500/newlive/live/hls/48/live.m3u8$兰州联
-山东卫视,http://60.13.52.236:65500/newlive/live/hls/27/live.m3u8$兰州联
-广西卫视,http://60.13.52.236:65500/newlive/live/hls/42/live.m3u8$兰州联
-贵州卫视,http://60.13.52.236:65500/newlive/live/hls/31/live.m3u8$兰州联
-甘肃卫视,http://60.13.52.236:65500/newlive/live/hls/17/live.m3u8$兰州联
-山西卫视,http://60.13.52.236:65500/newlive/live/hls/47/live.m3u8$兰州联
-陕西卫视,http://60.13.52.236:65500/newlive/live/hls/38/live.m3u8$兰州联
-宁夏卫视,http://60.13.52.236:65500/newlive/live/hls/46/live.m3u8$兰州联
-西藏卫视,http://60.13.52.236:65500/newlive/live/hls/45/live.m3u8$兰州联
+上海新闻,http://fn.gcl.de5.net:5908/gsh950428/651632657$fn
 
 北京卫视,http://116.76.254.170:44330/tsfile/live/0122_1.m3u8$天威16
 广东卫视,http://116.76.254.170:44330/tsfile/live/0125_2.m3u8$天威16
@@ -871,11 +817,6 @@ ZooMoo,https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playli
 新动漫,http://120.48.113.49:6006/961930269$京百度
 中学生,http://120.48.113.49:6006/708869532$京百度
 
-北京酷少,http://60.10.139.113:8801/hls/61/index.m3u8$廊坊联
-河北少儿,http://60.10.139.113:8801/hls/43/index.m3u8$廊坊联
-金鹰卡通,http://60.10.139.113:8801/hls/62/index.m3u8$廊坊联
-CETV早教,http://60.10.139.113:8801/hls/83/index.m3u8$廊坊联
-
 北京酷少,http://2g545s5578.qicp.vip:59901/tsfile/live/1020_1.m3u8$安阳联
 金鹰卡通,http://2g545s5578.qicp.vip:59901/tsfile/live/1019_1.m3u8$安阳联
 嘉佳卡通,http://2g545s5578.qicp.vip:59901/tsfile/live/1021_1.m3u8$安阳联
@@ -963,8 +904,10 @@ CETV早教,http://60.10.139.113:8801/hls/83/index.m3u8$廊坊联
 ///end
 财经综合,#genre#
 
-兵器科技,http://60.10.139.113:8801/hls/72/index.m3u8$廊坊联
 兵器科技,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub$gslb#https://live.264788.xyz/channel/bingqikeji?streamid=530cb4e58bbc48b7fc26f5e0a2e47966&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+
+财富天下,http://fn.gcl.de5.net:5908/gsh950428/956923159$fn
+第一财经,http://fn.gcl.de5.net:5908/gsh950428/608780988$fn
 
 财富天下,http://120.48.113.49:6006/956923159$京百度
 第一财经,http://120.48.113.49:6006/608780988$京百度
@@ -1151,11 +1094,6 @@ CHC影迷电影,http://120.48.113.49:6006/952383261$京百度
 新片放映厅,http://120.48.113.49:6006/619495952$京百度
 经典香港,http://120.48.113.49:6006/625703337$京百度
 最强综艺趴,http://120.48.113.49:6006/629942228$京百度
-
-怀旧剧场,http://60.10.139.113:8801/hls/67/index.m3u8$廊坊联
-风云剧场,http://60.10.139.113:8801/hls/66/index.m3u8$廊坊联
-第一剧场,http://60.10.139.113:8801/hls/65/index.m3u8$廊坊联
-老故事,http://60.10.139.113:8801/hls/74/index.m3u8$廊坊联
 
 凤凰电影,http://221.7.175.154:8445/tsfile/live/1022_1.m3u8$北海联
 
@@ -2726,16 +2664,6 @@ wildtv,https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476/variant
 The design network,https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlistR240p.m3u8
 
 FOOD_NETWORK,http://23.237.104.106:8080/USA_FOOD_NETWORK/tracks-v1a1/mono.m3u8
-
-金鹰纪实,http://60.10.139.113:8801/hls/33/index.m3u8$廊坊联
-世界地理,http://60.10.139.113:8801/hls/73/index.m3u8$廊坊联
-CETV2,http://60.10.139.113:8801/hls/91/index.m3u8$廊坊联
-CETV4,http://60.10.139.113:8801/hls/92/index.m3u8$廊坊联
-山东教育,http://60.10.139.113:8801/hls/63/index.m3u8$廊坊联
-国学频道,http://60.10.139.113:8801/hls/77/index.m3u8$廊坊联
-文物宝库,http://60.10.139.113:8801/hls/76/index.m3u8$廊坊联
-汽摩频道,http://60.10.139.113:8801/hls/90/index.m3u8$廊坊联
-环球奇观,http://60.10.139.113:8801/hls/75/index.m3u8$廊坊联
 
 吉林纪录,http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/da805d8d77a24db8aaa62328eb6d874e/index.m3u8
 
