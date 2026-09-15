@@ -318,22 +318,12 @@ CCTV16,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub$gslb
 中天新闻,http://iactive-clink.com:8081/live/111ztxw.m3u8$ia
 中天新闻,http://173.208.234.146/live/ctinews.m3u8$173
 
-中天新闻,http://jennas.cc:5055/of-4gtv-4gtv009/index.m3u8$jennas
-寰宇新闻,http://jennas.cc:5055/of-litv-longturn14/index.m3u8$jennas
+中天新闻,http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8$220
+寰宇新闻,http://220.135.64.124:5050/of-litv-longturn14/index.m3u8$220#http://nmk.ioapk.com:5050/of-litv-longturn14/index.m3u8$nmk
 
 中天新闻,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8$d2
 东森新闻,https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8$d2
 
-寰宇台湾,http://jennas.cc:5055/of-4gtv-4gtv156/index.m3u8$jennas
-寰宇财经,http://jennas.cc:5055/of-4gtv-4gtv158/index.m3u8$jennas
-中视新闻,http://jennas.cc:5055/of-4gtv-4gtv074/index.m3u8$jennas
-华视新闻,http://jennas.cc:5055/of-4gtv-4gtv052/index.m3u8$jennas
-三立iNEWS,http://jennas.cc:5055/iNEWS/index.m3u8$jennas
-國會频道1,http://jennas.cc:5055/of-4gtv-4gtv084/index.m3u8$jennas
-國會频道2,http://jennas.cc:5055/of-4gtv-4gtv085/index.m3u8$jennas
-
-中天新闻,http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8$220
-寰宇新闻,http://220.135.64.124:5050/of-litv-longturn14/index.m3u8$220#http://nmk.ioapk.com:5050/of-litv-longturn14/index.m3u8$nmk
 寰宇台湾,http://220.135.64.124:5050/of-4gtv-4gtv156/index.m3u8$220
 寰宇财经,http://220.135.64.124:5050/of-4gtv-4gtv158/index.m3u8$220
 中视新闻,http://220.135.64.124:5050/of-4gtv-4gtv074/index.m3u8$220
@@ -408,6 +398,16 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8$洛杉矶
 华视,http://211.72.174.95:8114/0.ts$中华
 公视,http://211.72.174.95:8116/0.ts$中华
 民视,http://211.72.174.95:8115/0.ts$中华
+
+中天新闻,http://jennas.cc:5055/of-4gtv-4gtv009/index.m3u8$jennas
+寰宇新闻,http://jennas.cc:5055/of-litv-longturn14/index.m3u8$jennas
+寰宇台湾,http://jennas.cc:5055/of-4gtv-4gtv156/index.m3u8$jennas
+寰宇财经,http://jennas.cc:5055/of-4gtv-4gtv158/index.m3u8$jennas
+中视新闻,http://jennas.cc:5055/of-4gtv-4gtv074/index.m3u8$jennas
+华视新闻,http://jennas.cc:5055/of-4gtv-4gtv052/index.m3u8$jennas
+三立iNEWS,http://jennas.cc:5055/iNEWS/index.m3u8$jennas
+國會频道1,http://jennas.cc:5055/of-4gtv-4gtv084/index.m3u8$jennas
+國會频道2,http://jennas.cc:5055/of-4gtv-4gtv085/index.m3u8$jennas
 
 股道直播,https://iptv.catvod.com/douyin/75636502992$iptv
 都业华直播,https://iptv.catvod.com//douyin/992023778128$iptv
