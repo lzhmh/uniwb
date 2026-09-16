@@ -12,6 +12,20 @@
 凤凰资讯,http://183.236.161.115:8960/live1171.m3u8$阳江移
 凤凰中文,http://120.238.84.45:9901/tsfile/live/1007_1.m3u8$梅州移
 
+凤凰中文,http://173.208.234.146/live/fhzw.m3u8$密苏里
+凤凰资讯,http://173.208.234.146/live/fhzx.m3u8$密苏里
+凤凰香港,http://173.208.234.146/live/fhxg.m3u8$密苏里
+
+凤凰中文,http://xiangz.qzz.io:8031/php/fhx.php?id=fhzx$xi
+凤凰资讯,http://xiangz.qzz.io:8031/php/fhx.php?id=fhzw$xi
+凤凰香港,http://xiangz.qzz.io:8031/php/fhx.php?id=fhhk$xi
+
+凤凰中文,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34629$31
+凤凰中文,http://31.43.191.125:8080/vip7201770826573/415c945b71e8/34629$31
+凤凰资讯,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34641$31
+
+凤凰资讯,http://jiekou.dpdns.org/xiang/php/fhx.php?id=fhzw$ji
+
 凤凰中文,http://61.178.227.57:9901/tsfile/live/1013_1.m3u8$兰州信
 凤凰资讯,http://61.178.227.57:9901/tsfile/live/1014_1.m3u8$兰州信
 凤凰香港,http://61.178.227.57:9901/tsfile/live/1012_1.m3u8$兰州信
@@ -159,6 +173,10 @@ CCTV16,http://221.7.49.226:50085/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&a
 CCTV5,http://221.7.175.154:8445/tsfile/live/0113_1.m3u8$北海联
 CCTV5+,http://221.7.175.154:8445/tsfile/live/1018_1.m3u8$北海联
 
+CCTV5,http://173.208.234.146/live/cctv5.m3u8$密苏里
+CCTV5+,http://173.208.234.146/live/cctv5p.m3u8$密苏里
+CCTV16,http://173.208.234.146/live/cctv16.m3u8$密苏里
+
 CCTV5,http://221.221.137.78:8888/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$北京联
 CCTV5+,http://221.221.137.78:8888/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$北京联
 CCTV16,http://221.221.137.78:8888/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$北京联
@@ -210,6 +228,7 @@ CCTV5+,http://112.46.105.20:8009/hls/81/index.m3u8$咸阳移
 CCTV5,http://112.46.105.20:8009/hls/503/index.m3u8$咸阳移
 CCTV16,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub$gslb
 
+广东体育,http://173.208.234.146/live/gdty.m3u8$密苏里
 广东体育,http://116.76.254.170:44330/tsfile/live/1000_1.m3u8$天威16
 广东体育,http://www.yahao.host:4022/udp/239.77.0.112:5146$粤信
 广东体育,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8$佛山信
@@ -318,6 +337,7 @@ CCTV16,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub$gslb
 中天新闻,http://iactive-clink.com:8081/live/111ztxw.m3u8$ia
 中天新闻,http://173.208.234.146/live/ctinews.m3u8$173
 
+中天亚洲,http://tv.cloudcdn.me:80/live.ts?uid=4280&deviceMac=00:1A:79:17:C1:7F&channelId=133119
 中天新闻,http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8$220
 寰宇新闻,http://220.135.64.124:5050/of-litv-longturn14/index.m3u8$220#http://nmk.ioapk.com:5050/of-litv-longturn14/index.m3u8$nmk
 
@@ -335,6 +355,11 @@ TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8$d
 华视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ctsnewsqt/playlist.m3u8$d2
 
 中天新闻,http://safe.shanghairta.com:8081/live/000ztxw.m3u8$safe
+
+中天新闻,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34817
+中天新闻,http://31.43.191.125:8080/vip7201770826573/415c945b71e8/34817
+寰宇新闻,http://31.43.191.125:8080/vip7201770826573/415c945b71e8/34870
+东森新闻,http://31.43.191.125:8080/vip7201770826573/415c945b71e8/34905
 
 凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8$bo
 凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8$bo
