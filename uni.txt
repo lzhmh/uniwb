@@ -63,6 +63,9 @@
 凤凰资讯,http://j.s.bkpcp.top/js/fhzx$js
 凤凰香港,http://j.s.bkpcp.top/js/fhxg$js
 
+CCTV4,http://219.147.245.238:25480/newlive/live/hls/4/live.m3u8$绥化信
+CCTV13,http://219.147.245.238:25480/newlive/live/hls/14/live.m3u8$绥化信
+
 CCTV4,http://2280.eu.org:1234/631780421$郑联
 CCTV13,http://2280.eu.org:1234/608807423$郑联
 
@@ -118,6 +121,8 @@ CCTV13,http://m.061899.xyz/mg/cctv13$mg
 翡翠台,http://116.76.254.170:44330/tsfile/live/1008_1.m3u8$天威16
 明珠台,http://116.76.254.170:44330/tsfile/live/1009_1.m3u8$天威16
 
+NOW新闻,http://psyl11.dyndns.tv:35451/live/axdynowtream/fSlawNmh15/23.ts
+
 环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8$官网
 每日经济,http://swiftplay.hxkjmedia.com/tv/spbW.m3u8$官网#https://swiftplay.hxkjmedia.com/tv/spbW.m3u8$官网
 
@@ -162,6 +167,10 @@ CCTV+2,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist
 ///end1
 
 体育频道,#genre#
+
+CCTV5,http://219.147.245.238:25480/newlive/live/hls/5/live.m3u8$绥化信
+CCTV5+,http://219.147.245.238:25480/newlive/live/hls/6/live.m3u8$绥化信
+CCTV16,http://219.147.245.238:25480/newlive/live/hls/107/live.m3u8$绥化信
 
 CCTV5,http://2280.eu.org:1234/641886683$郑联
 CCTV5+,http://2280.eu.org:1234/641886773$郑联
@@ -343,6 +352,10 @@ CCTV16,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub$gslb
 
 中天新闻,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8$d2
 东森新闻,https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8$d2
+
+TVBS,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34915
+TVBS,http://31.43.191.125:8080/vip7201770826573/415c945b71e8/34915
+镜新闻,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34876
 
 寰宇台湾,http://220.135.64.124:5050/of-4gtv-4gtv156/index.m3u8$220
 寰宇财经,http://220.135.64.124:5050/of-4gtv-4gtv158/index.m3u8$220
