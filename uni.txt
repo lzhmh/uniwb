@@ -50,10 +50,9 @@
 CCTV4,http://219.147.245.238:25480/newlive/live/hls/4/live.m3u8$绥化信
 CCTV13,http://219.147.245.238:25480/newlive/live/hls/14/live.m3u8$绥化信
 
-CCTV4,http://103.236.77.86:29824/631780421$西安信
+CCTV4,http://27.11.209.151:3000/631780421$重庆联#http://112.26.106.165:7788/631780421$阜阳移#http://113.98.11.46:3000/631780421$东莞信
+CCTV4,http://111.228.4.117:6789/migu720p.php?id=631780421$京东云#http://103.236.77.86:29824/631780421$西安信#http://122.227.204.50:1905/631780421$宁波信#http://222.213.105.65:7788/631780421$德阳信#http://w.yyjn.top:3000/631780421$台州信#http://106.52.119.159:1234/631780421$广腾云
 CCTV13,http://103.236.77.86:29824/608807423$西安信
-
-CCTV4,http://111.228.4.117:6789/migu720p.php?id=631780421$京东云#http://120.4.118.150:1234/631780421$唐山联#http://27.11.209.151:3000/631780421$重庆联#http://122.227.204.50:1905/631780421$宁波信#http://112.26.106.165:7788/631780421$阜阳移#http://113.98.11.46:3000/631780421$东莞信#http://222.213.105.65:7788/631780421$德阳信#http://w.yyjn.top:3000/631780421$台州信#http://106.52.119.159:1234/631780421$广腾云
 
 CCTV4,http://116.76.254.170:44330/tsfile/live/0004_1.m3u8$天威16
 CCTV13,http://116.76.254.170:44330/tsfile/live/0013_1.m3u8$天威16
@@ -146,15 +145,16 @@ CCTV5,http://219.147.245.238:25480/newlive/live/hls/5/live.m3u8$绥化信
 CCTV5+,http://219.147.245.238:25480/newlive/live/hls/6/live.m3u8$绥化信
 CCTV16,http://219.147.245.238:25480/newlive/live/hls/107/live.m3u8$绥化信
 
-CCTV5,http://103.236.77.86:29824/641886683$西安信
-CCTV5+,http://103.236.77.86:29824/641886773$西安信
+///CCTV5,http://27.11.209.151:3000/641886683$西安信
+CCTV5+,http://27.11.209.151:3000/641886773$西安信
 
 CCTV5,http://221.221.137.78:8888/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$北京联
 CCTV5+,http://221.221.137.78:8888/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$北京联
 CCTV16,http://221.221.137.78:8888/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$北京联
 
-CCTV5,http://103.236.77.86:29824/641886683$西安信
-CCTV5+,http://103.236.77.86:29824/641886773$西安信
+CCTV5,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5$cdn6
+CCTV5+,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5p$cdn6
+CCTV16,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv16$cdn6
 
 CCTV5,http://121.57.88.206:898/hls/5/index.m3u8$额信
 CCTV5+,http://121.57.88.206:898/hls/18/index.m3u8$额信
@@ -163,14 +163,6 @@ CCTV5,http://116.76.254.170:44330/tsfile/live/0005_1.m3u8$天威16
 CCTV5+,http://116.76.254.170:44330/tsfile/live/0125_1.m3u8$天威16
 CCTV16,http://116.76.254.170:44330/tsfile/live/1012_1.m3u8$天威16
 
-CCTV5,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5$cdn6
-CCTV5+,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5p$cdn6
-CCTV16,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv16$cdn6
-
-CCTV16,http://k.061899.xyz/m.php?id=cctv16$k
-CCTV5+,http://j.s.bkpcp.top/jj/cctv5p$美国
-CCTV5,http://j.s.bkpcp.top/jj/cctv5$美国
-CCTV16,http://j.s.bkpcp.top/jj/cctv16$美国
 CCTV5,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5hd$密苏里
 CCTV5+,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5p$密苏里
 CCTV16,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv16hd$密苏里
@@ -186,12 +178,16 @@ CCTV5+,http://118.122.144.115:8888/newlive/live/hls/16/live.m3u8$绵阳信
 CCTV5+,http://112.46.105.20:8009/hls/81/index.m3u8$咸阳移
 CCTV5,http://112.46.105.20:8009/hls/503/index.m3u8$咸阳移
 CCTV16,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub$gslb
+CCTV16,http://k.061899.xyz/m.php?id=cctv16$k
+CCTV5+,http://j.s.bkpcp.top/jj/cctv5p$美国
+CCTV5,http://j.s.bkpcp.top/jj/cctv5$美国
+CCTV16,http://j.s.bkpcp.top/jj/cctv16$美国
 
 CCTV5,http://173.208.234.146/live/cctv5.m3u8$密苏里
 CCTV5+,http://173.208.234.146/live/cctv5p.m3u8$密苏里
 CCTV16,http://173.208.234.146/live/cctv16.m3u8$密苏里
 
-广东体育,http://14.157.24.38:2345/udp/239.77.0.112:5146$粤信#http://183.51.190.156:6633/udp/239.77.0.112:5146$粤信#http://183.51.190.123:6633/udp/239.77.0.112:5146$粤信#http://hongzhijiaoyu.net:8188/udp/239.77.0.112:5146$粤信#http://www.yahao.host:4022/udp/239.77.0.112:5146$粤信
+广东体育,http://www.yahao.host:4022/udp/239.77.0.112:5146$粤信#http://14.157.24.38:2345/udp/239.77.0.112:5146$粤信#http://183.51.190.156:6633/udp/239.77.0.112:5146$粤信#http://183.51.190.123:6633/udp/239.77.0.112:5146$粤信#http://hongzhijiaoyu.net:8188/udp/239.77.0.112:5146$粤信#
 广东体育,http://173.208.234.146/live/gdty.m3u8$密苏里
 广东体育,http://116.76.254.170:44330/tsfile/live/1000_1.m3u8$天威16
 广东体育,http://www.yahao.host:4022/udp/239.77.0.112:5146$粤信
