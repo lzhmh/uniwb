@@ -1,5 +1,5 @@
 ﻿粤联频道数据收集自网络上的分享260922开通IPV6
-新闻HU41,#genre#
+新闻HU42,#genre#
 
 凤凰中文,http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv$腾讯
 凤凰资讯,http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.flv$腾讯
@@ -203,14 +203,14 @@ CCTV5,http://yaofuming.top:8188/rtp/239.94.2.30:5140$川信
 CCTV5+,http://yaofuming.top:8188/rtp/239.94.2.162:5140$川信
 
 广东体育,http://hmfs.f3322.net:3388/hls/6/index.m3u8$茂名信
+广东体育,http://120.87.19.109:80/PLTV/88888973/224/3221225721/10000100000000060000000000334146_0.smil/01.m3u8?fmt=ts2hls,244,01.m3u8&accountinfo=UoQbCSdhOfs+Fhzpjb+WON1faRQ9pU15SBx6EULzJM/q63EjPL5/UXSVfEKzDq3xJx/1lwI5iQC4uuQk2HHHwQWZ1F4+6A1eDkDeh5XZlpvpn23wIF+ldb6dnBPa8zHj,END&tenantId=8601$中山联
 广东体育,http://www.yahao.host:4022/udp/239.77.0.112:5146$粤信#http://14.157.24.38:2345/udp/239.77.0.112:5146$粤信#http://183.51.190.156:6633/udp/239.77.0.112:5146$粤信#http://183.51.190.123:6633/udp/239.77.0.112:5146$粤信#http://hongzhijiaoyu.net:8188/udp/239.77.0.112:5146$粤信#
 广东体育,http://173.208.234.146/live/gdty.m3u8$密苏里
 广东体育,http://116.76.254.170:44330/tsfile/live/1000_1.m3u8$天威16
 广东体育,http://www.yahao.host:4022/udp/239.77.0.112:5146$粤信
 广东体育,http://183.236.43.98:4013/udp/239.77.0.112:5146$粤信
 
-纬来体育,rtmp://f13h.mine.nu/sat/tv721$f13#
-纬来体育,http://60.248.77.83/sat/tv721.flv$60
+纬来体育,rtmp://f13h.mine.nu/sat/tv721$f13#http://60.248.77.83/sat/tv721.flv$60
 
 风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub$gslb
 央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub$gslb
@@ -308,6 +308,7 @@ CCTV5+,http://yaofuming.top:8188/rtp/239.94.2.162:5140$川信
 ///_1204
 中天新闻,http://111.0.115.129:8081/live/000ztxw.m3u8$111
 中天新闻,http://iactive-clink.com:8081/live/111ztxw.m3u8$ia
+中天新闻,http://xiangxiws.vip:6777/qlw.php?key=qq%E7%BE%A4746405779&id=ztxw
 中天新闻,http://173.208.234.146/live/ctinews.m3u8$173
 
 中天新闻,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8$d2
