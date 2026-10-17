@@ -15,7 +15,6 @@
 凤凰中文,http://xiangz.qzz.io:8031/php/fhx.php?id=fhzw$香港fhx
 凤凰资讯,http://xiangz.qzz.io:8031/php/fhx.php?id=fhzx$香港fhx
 凤凰香港,http://xiangz.qzz.io:8031/php/fhx.php?id=fhhk$香港fhx
-凤凰中文,http://156.238.224.170:7001/fhx.php?id=cn$洛杉矶
 
 凤凰中文,http://156.238.224.170:7001/fhx.php?id=cn$洛杉矶
 凤凰资讯,http://183.236.161.115:8960/live1171.m3u8$阳江移
@@ -58,6 +57,15 @@
 
 CCTV4,http://39.150.102.131:19901/tsfile/live/0004_1.m3u8$驻马移
 CCTV13,http://39.150.102.131:19901/tsfile/live/0013_1.m3u8$驻马移
+
+CCTV4,http://123.138.216.44:9901/tsfile/live/1004_1.m3u8$西安联
+CCTV13,http://123.138.216.44:9901/tsfile/live/1013_1.m3u8$西安联
+
+CCTV4,http://119.62.24.75:50085/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0$昆明联
+CCTV13,http://119.62.24.75:50085/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0$昆明联
+
+CCTV4,http://111.59.24.227:8181/tsfile/live/0004_1.m3u8$贵港移
+CCTV13,http://111.59.24.227:8181/tsfile/live/1016_1.m3u8$贵港移
 
 CCTV4,http://2g545s5578.qicp.vip:59901/tsfile/live/0004_1.m3u8$安阳联
 CCTV13,http://2g545s5578.qicp.vip:59901/tsfile/live/0013_1.m3u8$安阳联
@@ -248,14 +256,13 @@ CCTV16,http://192.187.124.34:81/live/cctv164k.m3u8$堪萨斯
 广东体育,http://183.239.248.218:8181/tsfile/live/1041_1.m3u8$湛江移
 广东体育,http://183.239.248.218:8181/tsfile/live/1088_1.m3u8$湛江移
 广东体育,http://173.208.234.146/live/gdty.m3u8$密苏里
-广东体育,http://vpn.jk960.cn:8686/udp/239.77.0.112:5146$粤信#http://14.157.24.38:2345/udp/239.77.0.112:5146$粤信#http://121.10.7.16:4000/udp/239.77.0.112:5146$粤信#http://61.145.188.90:50055/udp/239.77.0.112:5146$粤信#http://61.145.188.90:60033/udp/239.77.0.112:5146$粤信#http://907698324.xyz:7088/udp/239.77.0.112:5146$粤信#http://home.szjim.top:4000/udp/239.77.0.112:5146$粤信#http://183.236.43.98:4111/udp/239.77.0.112:5146$粤信#http://ymz.stkeyu.top:8303/udp/239.77.0.112:5146$粤信#http://121.10.7.16:4000/udp/239.77.0.112:5146$粤信
+广东体育,http://vpn.jk960.cn:8686/udp/239.77.0.112:5146$粤信#http://14.157.24.38:2345/udp/239.77.0.112:5146$粤信#http://121.10.7.16:4000/udp/239.77.0.112:5146$粤信#http://61.145.188.90:50055/udp/239.77.0.112:5146$粤信#http://61.145.188.90:60033/udp/239.77.0.112:5146$粤信#http://907698324.xyz:7088/udp/239.77.0.112:5146$粤信#http://home.szjim.top:4000/udp/239.77.0.112:5146$粤信#http://183.236.43.98:4111/udp/239.77.0.112:5146$粤信#http://ymz.stkeyu.top:8303/udp/239.77.0.112:5146$粤信#http://denghao.net:4022/udp/239.77.0.112:5146$粤信#http://iptv.xxika.net:8188/udp/239.77.0.112:5146$粤信#http://lsa.familyds.com:8188/udp/239.77.0.112:5146$粤信#http://www.yahao.host:4022/udp/239.77.0.112:5146$粤信#http://lbyjlt.vv5678.cn:8880/udp/239.77.0.112:5146$粤信#http://www.3344.uk:8888/udp/239.77.0.112:5146$粤信#http://yanshifen.top:8889/udp/239.77.0.112:5146$粤信#http://plex.cyruslee.top:8888/udp/239.77.0.112:5146$粤信#http://jellyfin.cyruslee.top:8888/udp/239.77.0.112:5146$粤信#http://ikuai.cyruslee.top:8888/udp/239.77.0.112:5146$粤信
 广东体育,http://111.59.139.82:11888/tsfile/live/1213_1.m3u8$玉林移
 
 爱羽客,http://60.30.67.45:8834/udp/225.1.2.1:5002$津联
 
 纬来体育,rtmp://f13h.mine.nu/sat/tv721$f13#http://xsmt.ccwu.cc/xsmt/smt.php?id=2051xsmt#http://60.248.77.83/sat/tv721.flv$60
 
-高尔夫网球,http://192.151.150.154/live/gefwq.m3u8$192
 风云足球,http://107.150.60.122/live/fyzq.m3u8$堪萨斯
 央视台球,http://107.150.60.122/live/ystq.m3u8$堪萨斯
 高尔夫网球,http://107.150.60.122/live/gefwq.m3u8$堪萨斯
@@ -281,6 +288,7 @@ CCTV16,http://192.187.124.34:81/live/cctv164k.m3u8$堪萨斯
 睛彩篮球,http://vpn.jk960.cn:8686/udp/239.77.1.21:5146$粤信
 睛彩广场舞,http://vpn.jk960.cn:8686/udp/239.77.1.23:5146$粤信
 
+高尔夫网球,http://192.151.150.154/live/gefwq.m3u8$192
 
 睛彩青少,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=yu&mode=1$无锡移
 睛彩竞技,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=yu&mode=1$无锡移
@@ -362,7 +370,8 @@ CCTV16,http://192.187.124.34:81/live/cctv164k.m3u8$堪萨斯
 围棋素材,http://shorturl.jxpan.vip:880/r/baoshi_aio/douyu/6399350$short
 围棋泳往,http://shorturl.jxpan.vip:880/r/baoshi_aio/douyu/692988$short
 
-天元围棋,http://61.145.188.90:50055/udp/239.253.43.98:5146$粤信#http://61.145.188.90:60033/udp/239.253.43.98:5146$粤信#http://121.10.7.16:4000/udp/239.253.43.98:5146$粤信#http://home.szjim.top:4000/udp/239.253.43.98:5146$粤信#http://lbyjlt.vv5678.cn:8880/udp/239.253.43.98:5146$粤信#http://vpn.jk960.cn:8686/udp/239.253.43.98:5146$粤信
+天元围棋,http://61.145.188.90:50055/udp/239.253.43.98:5146$粤信#http://61.145.188.90:60033/udp/239.253.43.98:5146$粤信#http://121.10.7.16:4000/udp/239.253.43.98:5146$粤信#http://home.szjim.top:4000/udp/239.253.43.98:5146$粤信#http://vpn.jk960.cn:8686/udp/239.253.43.98:5146$粤信
+天元围棋,http://denghao.net:4022/udp/239.253.43.98:5146$粤信#http://iptv.xxika.net:8188/udp/239.253.43.98:5146$粤信#http://lsa.familyds.com:8188/udp/239.253.43.98:5146$粤信#http://www.yahao.host:4022/udp/239.253.43.98:5146$粤信#http://lbyjlt.vv5678.cn:8880/udp/239.253.43.98:5146$粤信#http://www.3344.uk:8888/udp/239.253.43.98:5146$粤信#http://yanshifen.top:8889/udp/239.253.43.98:5146$粤信#http://plex.cyruslee.top:8888/udp/239.253.43.98:5146$粤信#http://jellyfin.cyruslee.top:8888/udp/239.253.43.98:5146$粤信#http://ikuai.cyruslee.top:8888/udp/239.253.43.98:5146$粤信
 
 戴长胜掼蛋,http://8.155.43.98:35455/huya/28092053$8
 石头掼蛋,http://8.155.43.98:35455/huya/28092051$8
@@ -401,6 +410,10 @@ CCTV16,http://192.187.124.34:81/live/cctv164k.m3u8$堪萨斯
 寰宇新闻,http://128.14.206.166/pull-f5.flive.douyincdn.com/live/hyxw.flv$阿什本#http://xsmt.ccwu.cc/xsmt/smt.php?id=2501$xsmt
 TVBSHD,http://xsmt.ccwu.cc/xsmt/smt.php?id=735$xsmt
 
+寰宇新闻,http://zby.lskk.top/cdnlive.php?mode=play&id=74dff16b9a15e132f3f6f1e492798fdc&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
+东森新闻,http://zby.lskk.top/cdnlive.php?mode=play&id=4a80586d55204ad1d9a0e7a0b8066fac&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
+TVBS新闻,http://zby.lskk.top/cdnlive.php?mode=play&id=f3818c484ecc5469690bbd713c31465d&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
+
 中天新闻,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8$d2
 东森新闻,https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8$d2
 TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8$d2
@@ -430,6 +443,15 @@ TVBSHD,http://31.43.191.125:8080/vip7201770826573/415c945b71e8/34915$31
 中天新闻,http://31.43.191.125:8080/vip7201770826573/415c945b71e8/34817$31
 寰宇新闻,http://31.43.191.125:8080/vip7201770826573/415c945b71e8/34870$31
 东森新闻,http://31.43.191.125:8080/vip7201770826573/415c945b71e8/34905$31
+中天新闻,http://31.43.191.125:8080/restream/restream/34817$31
+中天新闻,http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/34817$31
+中天新闻,http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/34817$31
+TVBS亚洲,http://31.43.191.125:8080/restream/restream/34561$31
+寰宇新闻,http://31.43.191.125:8080/restream/restream/34870$31
+东森新闻,http://31.43.191.125:8080/restream/restream/34905$31
+
+中天新闻,http://xiangxiws.vip:6777/qlw.php?key=qq%E7%BE%A4746405779&id=ztxw$xiang
+中天新闻,http://xiangxiws.vip:6777/qlw.php?key=qq群746405779&id=ztxw$xiang
 
 东森财经,http://111.59.139.82:11888/tsfile/live/1205_1.m3u8$玉林移
 东森洋片,http://111.59.139.82:11888/tsfile/live/1217_1.m3u8$玉林移
@@ -1042,6 +1064,10 @@ SkyTennis+,http://iptv.4666888.xyz/iptv2A.php?id=62$iptv
 
 ///end
 电影频道,#genre#
+
+CHC家庭影院,http://111.59.139.82:11888/tsfile/live/1058_1.m3u8$玉林移
+CHC动作电影,http://111.59.139.82:11888/tsfile/live/1059_1.m3u8$玉林移
+CHC影迷电影,http://111.59.139.82:11888/tsfile/live/1060_1.m3u8$玉林移
 
 CHC家庭影院,http://183.239.248.218:8181/tsfile/live/1101_1.m3u8$湛江移
 CHC动作电影,http://183.239.248.218:8181/tsfile/live/1102_1.m3u8$湛江移
@@ -2704,6 +2730,9 @@ CGTN纪录,https://0472.org/hls/cgtnd.m3u8
 
 金鹰纪实,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/JYJSMPP360.m3u8#http://36.35.109.8:8000/hls/27/index.m3u8$宣城移
 
+世界地理,http://123.138.216.44:9901/tsfile/live/1033_1.m3u8$西安联
+世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub$gslb#
+
 求索纪录,http://192.187.124.34:81/live/qsjl.m3u8$堪萨斯
 求索动物,http://192.187.124.34:81/live/qsdw.m3u8$堪萨斯
 求索海淘,http://192.187.124.34:81/live/qskx.m3u8$堪萨斯
@@ -2753,8 +2782,6 @@ CETV3,http://38.75.136.137:98/gslb/dsdqpub/cetv3.m3u8?auth=testpub$gslb
 CETV4,http://38.75.136.137:98/gslb/dsdqpub/cetv4.m3u8?auth=testpub$gslb
 
 CETV4,http://107.150.60.122/live/cetv4.m3u8$堪萨斯
-
-世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub$gslb#
 
 看东方,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8$bp
 魔都眼,http://123.207.224.130:123/shanghai/kankan.php
