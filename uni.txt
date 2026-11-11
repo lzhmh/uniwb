@@ -250,6 +250,9 @@ CCTV16,http://112.27.5.218:9901/tsfile/live/faacts/1001_1.m3u8$宣城移
 
 武术世界,http://123.207.224.130:123/henan/henan.php?id=wspd$沪腾讯#https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=04a76aba5d72fab2f0f5576dd5d27d0a&wsTime=1792926221$dxtx
 
+辽宁体育,http://fuxin.yunjifei.top:999/tsfile/live/1003_1.m3u8$阜新信#http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lnty$密苏里
+
+安徽体育,http://112.27.145.212:9902/tsfile/live/1522_1.m3u8$阜阳移#
 辽宁体育,http://101.wifi98.com:9001/udp/232.0.0.164:1234$辽联
 西安体育,http://gxlive.snrtv.com/sx7-SD.m3u8
 
@@ -324,6 +327,7 @@ CCTV16,http://112.27.5.218:9901/tsfile/live/faacts/1001_1.m3u8$宣城移
 围棋素材,http://shorturl.jxpan.vip:880/r/baoshi_aio/douyu/6399350$short
 围棋泳往,http://shorturl.jxpan.vip:880/r/baoshi_aio/douyu/692988$short
 
+天元围棋,http://120.76.248.139/live/bfgd/4200000633.m3u8$北广
 天元围棋,http://vpn.jk960.cn:8686/udp/239.253.43.98:5146$粤联
 天元围棋,http://61.145.188.90:50055/udp/239.253.43.98:5146$粤信#http://121.10.7.16:4000/udp/239.253.43.98:5146$粤信#http://home.szjim.top:4000/udp/239.253.43.98:5146$粤信#http://14.157.24.38:2345/udp/239.253.43.98:5146$粤信
 天元围棋,http://denghao.net:4022/udp/239.253.43.98:5146$粤信#http://iptv.xxika.net:8188/udp/239.253.43.98:5146$粤信#http://lsa.familyds.com:8188/udp/239.253.43.98:5146$粤信#http://www.yahao.host:4022/udp/239.253.43.98:5146$粤信#http://lbyjlt.vv5678.cn:8880/udp/239.253.43.98:5146$粤信#http://www.3344.uk:8888/udp/239.253.43.98:5146$粤信#http://plex.cyruslee.top:8888/udp/239.253.43.98:5146$粤信#http://jellyfin.cyruslee.top:8888/udp/239.253.43.98:5146$粤信#http://ikuai.cyruslee.top:8888/udp/239.253.43.98:5146$粤信
